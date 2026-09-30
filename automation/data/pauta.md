@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-09-30T23:19:36.659Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-09-30T23:33:43.323Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Bitwise launches first US spot NEAR ETF after token’s recent surge
 
@@ -24,6 +24,11 @@ Gerada em 2026-09-30T23:19:36.659Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [The Block] Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says — https://theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362 (2026-09-30T21:53:05.000Z)
+
+## Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity — https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity (2026-09-30T23:20:59.000Z)
 
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
@@ -149,8 +154,3 @@ Gerada em 2026-09-30T23:19:36.659Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
 - [The Block] Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote — https://theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223 (2026-09-30T12:00:00.000Z)
-
-## The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 34
-- [CoinDesk] The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’ — https://coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis (2026-09-30T11:00:00.000Z)

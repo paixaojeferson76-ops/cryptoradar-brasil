@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:19:36.659Z",
+  "updatedAt": "2026-09-30T23:33:43.323Z",
   "stories": [
     {
       "id": "bitwise-launches-first-us-spot-near-etf-after-token-s-recent-surge",
@@ -158,6 +158,37 @@
           "url": "https://theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
           "date": "2026-09-30T21:53:05.000Z",
           "summary": "Bitwise’s Matt Hougan says Clarity’s defeat left crypto with fewer restrictions and faster SEC action."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "gemini-4-is-here-and-google-s-flagship-tops-all-other-ai-models-on",
+      "headline": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-09-30T23:20:59.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+          "date": "2026-09-30T23:20:59.000Z",
+          "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off."
         }
       ],
       "validation": {
@@ -2107,6 +2138,39 @@
       "status": "pendente"
     },
     {
+      "id": "mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-sob-custodia-apos",
+      "headline": "MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-09-30T21:07:33.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações",
+          "url": "https://livecoins.com.br/mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-sob-custodia-apos-dois-anos-de-operacoes",
+          "date": "2026-09-30T21:07:33.000Z",
+          "summary": "O Ministério Público de São Paulo (MPSP) revelou a guarda de R$ 47 milhões em criptomoedas e, Paulo Sérgio de Oliveira e Costa, Procurador-Geral de Justiça, confirmou este saldo na terça-feira (22). A informação, contudo, só veio a público no Diário Oficial do órgão nesta quarta-feira (30). Tais valores derivam de diversas ações policiais realizadas […] Fonte: MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "uk-brings-crypto-under-full-fca-oversight-for-the-first-time",
       "headline": "UK Brings Crypto Under Full FCA Oversight for the First Time",
       "category": "regulacao",
@@ -2343,6 +2407,209 @@
       "status": "pendente"
     },
     {
+      "id": "binance-research-ve-sinais-de-reversao-no-bitcoin-mas-alerta-para",
+      "headline": "Binance Research vê sinais de reversão no Bitcoin, mas alerta para pressão dos juros americanos",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-09-30T20:34:19.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Binance Research vê sinais de reversão no Bitcoin, mas alerta para pressão dos juros americanos",
+          "url": "https://livecoins.com.br/binance-research-ve-sinais-de-reversao-no-bitcoin-mas-alerta-para-pressao-dos-juros-americanos",
+          "date": "2026-09-30T20:34:19.000Z",
+          "summary": "A recuperação do Bitcoin entrou em uma fase decisiva: depois de superar US$ 86 mil, o ativo recuou para a faixa entre US$ 83 mil e US$ 84 mil justamente quando a alta dos rendimentos dos títulos do Tesouro americano voltou a pressionar o ativo. Para a Binance Research, braço de pesquisa da maior plataforma […] Fonte: Binance Research vê sinais de reversão no Bitcoin, mas alerta para pressão dos juros americanos Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "autocustodia-e-coaf-o-que-muda-com-a-resolucao-bcb-588",
+      "headline": "Autocustódia e COAF: o que muda com a Resolução BCB 588",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Banco Central",
+        "Brasil"
+      ],
+      "firstSeen": "2026-09-30T20:30:00.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Autocustódia e COAF: o que muda com a Resolução BCB 588",
+          "url": "https://livecoins.com.br/autocustodia-e-coaf-o-que-muda-com-a-resolucao-bcb-588",
+          "date": "2026-09-30T20:30:00.000Z",
+          "summary": "Comunicação automática não é sinônimo de operação suspeita. A regulamentação brasileira de ativos virtuais entrou em uma nova etapa. As Resoluções BCB 588 e 589, publicadas em 23 de setembro de 2026, adicionam novas camadas de controle sobre autocustódia, comunicação ao COAF, custódia, ativos mantidos no exterior, reservas, staking e operações envolvendo prestadores de serviços […] Fonte: Autocustódia e COAF: o que muda com a Resolução BCB 588 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "michael-saylor-defende-que-empresas-de-tesouraria-de-bitcoin-podem",
+      "headline": "Michael Saylor defende que empresas de tesouraria de Bitcoin podem fortalecer umas às outras",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-09-30T19:21:45.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Michael Saylor defende que empresas de tesouraria de Bitcoin podem fortalecer umas às outras",
+          "url": "https://livecoins.com.br/michael-saylor-defende-que-empresas-de-tesouraria-de-bitcoin-podem-fortalecer-umas-as-outras",
+          "date": "2026-09-30T19:21:45.000Z",
+          "summary": "Embora Strategy e Strive possam ser vistas como concorrentes, já que possuem estratégias de negócio bem parecidas, Michael Saylor acredita que elas podem beneficiar uma à outra. Em longo texto publicado em suas redes sociais, o bilionário afirma que deseja que tanto a Strive quanto outra empresa de tesouraria de Bitcoin bem administrada tenham sucesso […] Fonte: Michael Saylor defende que empresas de tesouraria de Bitcoin podem fortalecer umas às outras Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-foi-vitima-de-seu-proprio-sucesso-mas-pode-chegar-a-us-10",
+      "headline": "Ethereum foi vítima de seu próprio sucesso, mas pode chegar a US$ 10.000 até o fim do ano, diz Arthur Hayes",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "firstSeen": "2026-09-30T18:08:15.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Ethereum foi vítima de seu próprio sucesso, mas pode chegar a US$ 10.000 até o fim do ano, diz Arthur Hayes",
+          "url": "https://livecoins.com.br/ethereum-foi-vitima-de-seu-proprio-sucesso-mas-pode-chegar-a-us-10-000-ate-o-fim-do-ano-diz-arthur-hayes",
+          "date": "2026-09-30T18:08:15.000Z",
+          "summary": "Arthur Hayes, fundador da BitMex, acredita que o Ethereum pode chegar a US$ 10.000 até o final do ano. Participando de uma conversa com a CoinDesk, o bilionário também explicou seu ponto de vista sobre o motivo da criptomoeda estar com um desempenho abaixo do esperado. Em suma, Hayes aponta que outros projetos, como Solana, […] Fonte: Ethereum foi vítima de seu próprio sucesso, mas pode chegar a US$ 10.000 até o fim do ano, diz Arthur Hayes Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "ex-agente-da-nca-e-condenado-a-devolver-bitcoins-roubados-durante",
+      "headline": "Ex-agente da NCA é condenado a devolver bitcoins roubados durante investigação",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-09-30T17:27:25.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Ex-agente da NCA é condenado a devolver bitcoins roubados durante investigação",
+          "url": "https://livecoins.com.br/ex-agente-da-nca-e-condenado-a-devolver-bitcoins-roubados-durante-investigacao",
+          "date": "2026-09-30T17:27:25.000Z",
+          "summary": "O Crown Prosecution Service (CPS), Ministério Público britânico, anunciou nesta quarta-feira (30) que um ex-agente da National Crime Agency (NCA) foi condenado a devolver mais de 1,8 milhão de libras esterlinas (R$ 12,4 milhões) após roubar bitcoins apreendidos durante uma investigação. Somado a isso, Paul Chowles (44) também foi condenado a cinco anos e seis […] Fonte: Ex-agente da NCA é condenado a devolver bitcoins roubados durante investigação Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "vice-xerife-americano-e-condenado-a-prisao-por-participar-de-esquema",
+      "headline": "Vice-xerife americano é condenado à prisão por participar de esquema de extorsão contra investidores de criptomoedas",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-09-30T16:50:39.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Vice-xerife americano é condenado à prisão por participar de esquema de extorsão contra investidores de criptomoedas",
+          "url": "https://livecoins.com.br/vice-xerife-americano-e-condenado-a-prisao-por-participar-de-esquema-de-extorsao-contra-investidores-de-criptomoedas",
+          "date": "2026-09-30T16:50:39.000Z",
+          "summary": "A justiça americana anunciou na segunda-feira (28) a condenação de Eric Chase Saavedra (42) a 1 ano e 9 meses de prisão. Ex-vice-xerife do Condado de Los Angeles (LASD), Saavedra participou de um esquema para extorquir investidores de criptomoedas. O caso está ligado a Adam Iza, também conhecido como “O Poderoso Chefão”, acusado pelo FBI […] Fonte: Vice-xerife americano é condenado à prisão por participar de esquema de extorsão contra investidores de criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "tax-on-bitcoin-gains-dutch-government-to-introduce-capital-gains-tax",
       "headline": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
       "category": "regulacao",
@@ -2465,6 +2732,110 @@
           "url": "https://portaldobitcoin.uol.com.br/mcdonalds-usa-ia-para-calcular-quanto-clientes-estao-dispostos-a-pagar-por-um-big-mac",
           "date": "2026-09-30T14:02:00.000Z",
           "summary": "McDonald’s usa IA para analisar consumo e sugerir preços considerados ideais para cada restaurante, incluindo o valor do Big Mac O post McDonald’s usa IA para calcular quanto clientes estão dispostos a pagar por um Big Mac apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "rnp-abre-selecao-para-bolsas-em-blockchain-e-computacao-quantica-com",
+      "headline": "RNP abre seleção para bolsas em blockchain e computação quântica com valores de até R$ 8.450,00 por mês",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-09-30T15:39:59.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "RNP abre seleção para bolsas em blockchain e computação quântica com valores de até R$ 8.450,00 por mês",
+          "url": "https://livecoins.com.br/rnp-abre-selecao-para-bolsas-em-blockchain-e-computacao-quantica-com-valores-de-ate-r-8-45000-por-mes",
+          "date": "2026-09-30T15:39:59.000Z",
+          "summary": "A Rede Nacional de Ensino e Pesquisa (RNP) lançou uma chamada pública voltada à seleção de bolsistas, e a iniciativa integra o programa institucional do Conselho Nacional de Desenvolvimento Científico e Tecnológico (PCI/CNPq). O edital oferta vinte e três vagas voltadas a projetos estratégicos de inovação. Profissionais de diversas áreas participam das atividades na modalidade […] Fonte: RNP abre seleção para bolsas em blockchain e computação quântica com valores de até R$ 8.450,00 por mês Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "ripple-fecha-parceria-com-csd-br-para-tokenizar-cotas-de-fundos-do",
+      "headline": "Ripple fecha parceria com CSD BR para tokenizar cotas de fundos do BTG Pactual na XRP",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "tokenização",
+        "XRP",
+        "Brasil"
+      ],
+      "firstSeen": "2026-09-30T15:17:01.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Ripple fecha parceria com CSD BR para tokenizar cotas de fundos do BTG Pactual na XRP",
+          "url": "https://livecoins.com.br/ripple-fecha-parceria-com-csd-br-para-tokenizar-cotas-de-fundos-do-btg-pactual-na-xrp",
+          "date": "2026-09-30T15:17:01.000Z",
+          "summary": "A Ripple anunciou nesta terça-feira (29) uma parceria com a CSD BR, empresa brasileira autorizada pelo Bacen, CVM e SUSEP, para tokenizar cotas do fundo do BTG Pactual na XRP. O texto cita que, na primeira fase, a XRP será utilizada como uma camada adicional de registro e auditoria de ativos financeiros. Em outras palavras, […] Fonte: Ripple fecha parceria com CSD BR para tokenizar cotas de fundos do BTG Pactual na XRP Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-se-prepara-para-fechar-3-trimestre-de-2026-em-alta-de-43",
+      "headline": "Bitcoin se prepara para fechar 3º trimestre de 2026 em alta de 43%",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-09-30T14:34:00.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin se prepara para fechar 3º trimestre de 2026 em alta de 43%",
+          "url": "https://livecoins.com.br/bitcoin-se-prepara-para-fechar-3o-trimestre-de-2026-em-alta-de-43",
+          "date": "2026-09-30T14:34:00.000Z",
+          "summary": "Negociado acima dos US$ 85.000 nesta quarta-feira (30), o Bitcoin se prepara para fechar o mês em alta de 6,6%. No trimestre, os ganhos chegam a 43%, o melhor desempenho trimestral desde o 4º trimestre de 2024, que foi impulsionado pela vitória de Trump nas eleições americanas. A valorização acompanha o fluxo dos ETFs que, […] Fonte: Bitcoin se prepara para fechar 3º trimestre de 2026 em alta de 43% Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -3141,1358 +3512,6 @@
       },
       "score": 12,
       "status": "pendente"
-    },
-    {
-      "id": "crypto-long-e-short-what-will-the-ai-agents-run-on",
-      "headline": "Crypto Long & Short: What will the AI agents run on?",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T14:56:07.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto Long & Short: What will the AI agents run on?",
-          "url": "https://coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-          "date": "2026-09-30T14:56:07.000Z",
-          "summary": ""
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitget-hackers-move-4-million-into-zcash-s-private-pool-making-funds",
-      "headline": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-30T11:04:09.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-          "url": "https://coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-          "date": "2026-09-30T11:04:09.000Z",
-          "summary": "Three transfers pushed about 15% of the stolen ZEC into Ironwood, where payments hide their senders, recipients and amounts."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-google-and-meta-pledge-independent-ai-safety-audits-under",
-      "headline": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-30T10:43:43.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-          "url": "https://coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-          "date": "2026-09-30T10:43:43.000Z",
-          "summary": "Six companies signed a safety pact covering hacking and biological threats, with no penalties or deadline for putting the checks in place."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "metaplanet-directors-push-back-against-shareholder-fury-over-a",
-      "headline": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T10:28:24.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
-          "url": "https://coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
-          "date": "2026-09-30T10:28:24.000Z",
-          "summary": "Independent directors cite management’s financial risk and restructuring role, but leave questions about Gerovich’s exercised shares and MMXX Ventures unanswered."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-seeks-30-billion-in-funding-at-whopping-1-4-trillion-valuation",
-      "headline": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T08:50:22.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "url": "https://coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
-          "date": "2026-09-30T08:50:22.000Z",
-          "summary": "The ChatGPT maker is pursuing fresh funding after delaying its public listing, while expanding its AI tools despite mounting safety concerns."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "robinhood-unveils-an-ai-that-trades-your-money-24-7-and-you-carry-all",
-      "headline": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T05:59:31.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
-          "url": "https://coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-          "date": "2026-09-30T05:59:31.000Z",
-          "summary": "Robinhood users could soon get an AI agent that trades on their behalf, even at 2 a.m. But if a trade goes wrong, users' bear the risk, not Robinhood."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "xrp-ledger-starts-carrying-fund-records-from-brazil-operator",
-      "headline": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "category": "altcoins",
-      "tags": [
-        "regulação",
-        "XRP",
-        "Brasil"
-      ],
-      "firstSeen": "2026-09-30T05:22:51.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-          "url": "https://coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-          "date": "2026-09-30T05:22:51.000Z",
-          "summary": "The regulated operator is mirroring ownership of selected investment funds on XRPL while keeping its existing database as the official record."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "democrats-killed-the-clarity-act",
-      "headline": "Democrats killed the Clarity Act",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-29T14:08:18.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Democrats killed the Clarity Act",
-          "url": "https://coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
-          "date": "2026-09-29T14:08:18.000Z",
-          "summary": "Democrats should remember the people they represent and do what's best for them, not what's best for their political calculus, consultants, and special interests, writes Sen. Tim Scott (R-S.C.)."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "brazil-s-petrobras-uses-cardano-to-track-sustainable-aviation-fuel",
-      "headline": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-      "category": "altcoins",
-      "tags": [
-        "Brasil"
-      ],
-      "firstSeen": "2026-09-30T17:17:54.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-          "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel",
-          "date": "2026-09-30T17:17:54.000Z",
-          "summary": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitget-gradually-back-to-usual-as-protection-fund-reaches-309m",
-      "headline": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T16:28:30.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-          "url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach",
-          "date": "2026-09-30T16:28:30.000Z",
-          "summary": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 “absorbed the financial impact of the incident“ that resulted in $388 million in user losses."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "slowmist-traces-bitget-hack-activity-to-aug-31-zero-day-exploit",
-      "headline": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-30T10:05:39.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
-          "url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation",
-          "date": "2026-09-30T10:05:39.000Z",
-          "summary": "SlowMist identified malicious activity weeks before the Bitget theft, involving a zero-day vulnerability, two security products and a custom withdrawal tool."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters",
-      "headline": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T05:45:55.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
-          "url": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters",
-          "date": "2026-09-30T05:45:55.000Z",
-          "summary": "The prediction market was valued at $22 billion in a $1 billion funding round just four months ago, after doubling its valuation from December."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai",
-      "headline": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T00:28:38.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-          "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai",
-          "date": "2026-09-30T00:28:38.000Z",
-          "summary": "The voluntary accord puts much of the responsibility for managing frontier AI risks on developers."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-valuation-could-hit-1-4t-in-new-funding-round-report",
-      "headline": "OpenAI valuation could hit $1.4T in new funding round: Report",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-29T19:55:49.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-          "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation",
-          "date": "2026-09-29T19:55:49.000Z",
-          "summary": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto",
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitget-ceo-not-very-optimistic-on-recovering-funds-from-388m-breach",
-      "headline": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-      "category": "regulacao",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-29T16:18:06.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-          "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach",
-          "date": "2026-09-29T16:18:06.000Z",
-          "summary": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ecb-puts-ai-agent-payments-on-the-digital-euro-drawing-board",
-      "headline": "ECB puts AI agent payments on the digital euro drawing board",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-29T12:00:45.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "ECB puts AI agent payments on the digital euro drawing board",
-          "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro",
-          "date": "2026-09-29T12:00:45.000Z",
-          "summary": "The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "dogecoin-is-getting-apps-as-dogeos-opens-its-public-testnet",
-      "headline": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-      "category": "altcoins",
-      "tags": [],
-      "firstSeen": "2026-09-30T21:46:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-          "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
-          "date": "2026-09-30T21:46:03.000Z",
-          "summary": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "fbi-tells-its-employees-to-assume-hackers-have-their-personal-data",
-      "headline": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-30T21:16:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-          "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
-          "date": "2026-09-30T21:16:04.000Z",
-          "summary": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitget-hacker-turns-to-zcash-privacy-pool-after-near-rejects-50m-in",
-      "headline": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-30T19:46:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-          "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
-          "date": "2026-09-30T19:46:04.000Z",
-          "summary": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "us-government-s-new-ai-chatbot-has-a-weird-minecraft-secret",
-      "headline": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T19:16:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-          "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-          "date": "2026-09-30T19:16:02.000Z",
-          "summary": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and",
-      "headline": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-09-30T16:06:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-          "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-          "date": "2026-09-30T16:06:03.000Z",
-          "summary": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin detail."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon",
-      "headline": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T11:46:16.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-          "url": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
-          "date": "2026-09-30T11:46:16.000Z",
-          "summary": "The former congressman says he made $823 on the trades, had no inside information, and had checked the platform's rules first."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "mcdonald-s-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big",
-      "headline": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-09-30T11:06:59.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
-          "url": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
-          "date": "2026-09-30T11:06:59.000Z",
-          "summary": "Machine-learning models set an 'optimal price' per item per restaurant, and have widened the gap between branches two miles apart."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "us-senator-blumenthal-calls-tether-s-usdt-a-superhighway-for-iranian",
-      "headline": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-      "category": "altcoins",
-      "tags": [
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-09-30T10:32:01.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-          "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
-          "date": "2026-09-30T10:32:01.000Z",
-          "summary": "The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "anthropic-lost-42-billion-last-year-it-wants-to-go-public-at-2",
-      "headline": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-29T20:06:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-          "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-          "date": "2026-09-29T20:06:03.000Z",
-          "summary": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "someone-finally-jailbroke-the-ps5-just-after-sony-said-players-don-t",
-      "headline": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-29T19:31:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-          "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-          "date": "2026-09-29T19:31:04.000Z",
-          "summary": "Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don't own their digital games."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-gave-ai-agents-their-own-computers-at-devday-2026-here-s",
-      "headline": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-29T18:55:22.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-          "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-          "date": "2026-09-29T18:55:22.000Z",
-          "summary": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announcement, explained for people who don't speak AI."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bbc-director-general-deems-ai-generated-doctor-who-episode-pretty-good",
-      "headline": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-29T17:31:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-          "url": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
-          "date": "2026-09-29T17:31:04.000Z",
-          "summary": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc",
-      "headline": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-      "category": "regulacao",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-09-29T09:38:57.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-          "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
-          "date": "2026-09-29T09:38:57.000Z",
-          "summary": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-halts-model-training-as-rogue-agents-target-us-government-sites",
-      "headline": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-28T21:46:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-          "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
-          "date": "2026-09-28T21:46:03.000Z",
-          "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "after-ai-agent-hacked-its-government-australia-calls-altman-and",
-      "headline": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-28T19:36:21.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-          "url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
-          "date": "2026-09-28T19:36:21.000Z",
-          "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nvidia-built-a-kill-switch-for-ai-agents-because-they-keep-getting-out",
-      "headline": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-      "category": "regulacao",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-28T18:46:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-          "url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
-          "date": "2026-09-28T18:46:03.000Z",
-          "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "months-after-the-292m-kelp-hack-chainlink-lets-institutions-add-their",
-      "headline": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-28T17:51:14.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-          "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
-          "date": "2026-09-28T17:51:14.000Z",
-          "summary": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "base-launches-cobalt-upgrade-with-conditional-transactions-and-new",
-      "headline": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-09-30T19:00:00.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
-          "url": "https://theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
-          "date": "2026-09-30T19:00:00.000Z",
-          "summary": "Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "dogeos-launches-testnet-to-bring-evm-smart-contracts-to-dogecoin",
-      "headline": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-      "category": "altcoins",
-      "tags": [],
-      "firstSeen": "2026-09-30T18:23:57.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-          "url": "https://theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
-          "date": "2026-09-30T18:23:57.000Z",
-          "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "white-house-weighs-new-cftc-event-contract-rules-in-growing",
-      "headline": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T17:54:45.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
-          "url": "https://theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
-          "date": "2026-09-30T17:54:45.000Z",
-          "summary": "The White House is weighing two proposed rules from the CFTC tied to prediction markets as the agency seeks to assert its jurisdiction."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "kalshi-to-end-liquidity-incentive-program-amid-wash-trading",
-      "headline": "Kalshi to end liquidity incentive program amid wash trading allegations",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-09-30T07:21:08.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kalshi to end liquidity incentive program amid wash trading allegations",
-          "url": "https://theblock.co/news/business/2026-09-30-kalshi-ends-trader-incentive-program-417247",
-          "date": "2026-09-30T07:21:08.000Z",
-          "summary": "Its monthly volume reached $52.98 billion in September as of Sept. 29, marking an all-time high, even as September data remains incomplete."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "robinhood-to-launch-perps-weekend-stock-trading-for-us-users",
-      "headline": "Robinhood to launch perps, weekend stock trading for US users",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-09-30T02:58:24.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Robinhood to launch perps, weekend stock trading for US users",
-          "url": "https://theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242",
-          "date": "2026-09-30T02:58:24.000Z",
-          "summary": "The trading platform also introduced Robinhood Agents, which allows users to build their own AI agents within the app."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ondo-perps-ceo-sees-huge-opportunity-for-perps-in-us-market-under",
-      "headline": "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model",
-      "category": "mercado",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-09-29T10:58:57.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model",
-          "url": "https://theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125",
-          "date": "2026-09-29T10:58:57.000Z",
-          "summary": "The CEO's comment comes at a time when U.S. regulators and several firms are testing how perpetual futures could enter domestic markets."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "coinbase-receives-dco-approval-from-cftc-completing-full-derivatives",
-      "headline": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-29T02:02:36.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
-          "url": "https://theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
-          "date": "2026-09-29T02:02:36.000Z",
-          "summary": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }
