@@ -1,0 +1,336 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SourceList from '../../components/SourceList.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Advertisement from '../../components/Advertisement.astro';
+import { CATEGORIES, SITE } from '../../config/site';
+import { getPublished, related, articleHref, tagSlug, type Article } from '../../lib/articles';
+import { formatLongDate, formatTime, readingTime, TYPE_LABEL } from '../../lib/format';
+import { articleLd, breadcrumbLd } from '../../lib/seo';
+import { absolute, link } from '../../lib/url';
+
+export const getStaticPaths = (async () => {
+  const all = await getPublished();
+  return all.map((a) => ({ params: { slug: a.id }, props: { article: a, all } }));
+}) satisfies GetStaticPaths;
+
+const { article, all } = Astro.props as { article: Article; all: Article[] };
+const { data } = article;
+const { Content } = await render(article);
+const author = await getEntry(data.author);
+const cat = CATEGORIES[data.category];
+const path = articleHref(article);
+const cover = data.image ?? `/capas/${article.id}.svg`;
+const ogImage = data.image && !data.image.endsWith('.svg') ? data.image : `/og/${article.id}.png`;
+const minutes = readingTime(article.body);
+const rel = related(article, all, 3);
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: cat.name, path: `/${cat.id}` },
+  { name: data.title, path },
+];
+const url = absolute(path, Astro.site);
+const shareText = encodeURIComponent(`${data.title} ${url}`);
+const authorName = author?.data.name ?? 'Redação CryptoRadar';
+const authorPath = `/autor/${data.author.id}`;
+---
+
+<BaseLayout
+  title={data.seoTitle ?? data.title}
+  description={data.seoDescription ?? data.description}
+  path={path}
+  image={ogImage}
+  imageAlt={data.imageAlt ?? data.title}
+  ogType="article"
+  article={{ published: data.pubDate, modified: data.updatedDate, section: cat.name, tags: data.tags }}
+  jsonLd={[
+    articleLd(
+      {
+        title: data.title,
+        description: data.description,
+        path,
+        image: ogImage,
+        pubDate: data.pubDate,
+        updatedDate: data.updatedDate,
+        authorName,
+        authorPath,
+        section: cat.name,
+        tags: data.tags,
+        type: data.type,
+        sources: data.sources,
+      },
+      Astro.site,
+    ),
+    breadcrumbLd(crumbs, Astro.site),
+  ]}
+>
+  <div class="wrap">
+    <div data-pagefind-ignore><Breadcrumbs items={crumbs} /></div>
+    <article class="layout">
+      <header class="head">
+        <p class="kicker">
+          <a class="cat" href={link(`/${cat.id}`)} style={`--h:${cat.hue}`} data-pagefind-filter="categoria">{cat.name}</a>
+          <span class="type">{TYPE_LABEL[data.type]}</span>
+        </p>
+        <h1 data-pagefind-meta="title">{data.title}</h1>
+        <p class="dek">{data.description}</p>
+        <div class="byline">
+          <p>
+            Por <a href={link(authorPath)} rel="author">{authorName}</a>
+          </p>
+          <p class="meta">
+            <span>
+              Publicado em <time datetime={data.pubDate.toISOString()}>{formatLongDate(data.pubDate)}, às {formatTime(data.pubDate)}</time>
+            </span>
+            {
+              data.updatedDate && (
+                <span>
+                  Atualizado em <time datetime={data.updatedDate.toISOString()}>{formatLongDate(data.updatedDate)}</time>
+                </span>
+              )
+            }
+            <span>{minutes} min de leitura</span>
+          </p>
+        </div>
+      </header>
+
+      <figure class="cover">
+        <img
+          src={link(cover)}
+          alt={data.imageAlt ?? ''}
+          width="1200"
+          height="630"
+          fetchpriority="high"
+          decoding="async"
+          data-pagefind-meta="image[src]"
+        />
+        {data.imageCredit && <figcaption>{data.imageCredit}</figcaption>}
+      </figure>
+
+      <div class="main">
+        {
+          data.generatedBy && (
+            <p class="callout ai-note" data-pagefind-ignore>
+              Texto redigido com apoio de inteligência artificial a partir das fontes listadas no fim da página
+              {data.reviewed ? ' e revisado pela redação.' : '.'} Confira sempre a fonte original.
+            </p>
+          )
+        }
+        <div class="prose">
+          <Content />
+        </div>
+
+        <Advertisement placement="article" />
+
+        <SourceList sources={data.sources} />
+
+        {
+          data.tags.length > 0 && (
+            <div class="tags" data-pagefind-ignore>
+              <h2 class="visually-hidden">Assuntos</h2>
+              <ul>
+                {data.tags.map((t) => (
+                  <li>
+                    <a href={link(`/busca?q=${encodeURIComponent(t)}`)} data-tag={tagSlug(t)}>
+                      {t}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+
+        <div class="share" data-pagefind-ignore>
+          <h2>Compartilhe</h2>
+          <ul>
+            <li><a href={`https://wa.me/?text=${shareText}`} target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
+            <li><a href={`https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(data.title)}`} target="_blank" rel="noopener noreferrer">Telegram</a></li>
+            <li><a href={`https://x.com/intent/post?text=${shareText}`} target="_blank" rel="noopener noreferrer">X</a></li>
+            <li><a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`} target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          </ul>
+        </div>
+
+        <p class="disclaimer" data-pagefind-ignore>
+          Este conteúdo é informativo e não constitui recomendação de investimento. O {SITE.name} não negocia nem
+          custodia criptoativos.
+        </p>
+      </div>
+
+      <aside class="aside" data-pagefind-ignore>
+        <Advertisement placement="sidebar" />
+      </aside>
+    </article>
+
+    {
+      rel.length > 0 && (
+        <section class="related" aria-labelledby="relacionadas" data-pagefind-ignore>
+          <div class="section-head">
+            <h2 id="relacionadas">Leia também</h2>
+            <a href={link(`/${cat.id}`)}>Mais em {cat.name}</a>
+          </div>
+          <div class="rel-grid">
+            {rel.map((a) => (
+              <ArticleCard article={a} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+  </div>
+</BaseLayout>
+
+<style>
+  .layout {
+    display: grid;
+    gap: 0 3rem;
+  }
+
+  .head {
+    max-width: 50rem;
+  }
+
+  .kicker {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 0.8rem;
+  }
+
+  .type {
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+
+  h1 {
+    font-size: var(--step-4);
+    line-height: 1.04;
+    letter-spacing: -0.03em;
+    font-weight: 800;
+    font-stretch: 92%;
+    margin-bottom: 0.45em;
+  }
+
+  .dek {
+    font-family: var(--font-read);
+    font-size: 1.2rem;
+    line-height: 1.55;
+    color: var(--ink-2);
+    max-width: 60ch;
+  }
+
+  .byline {
+    border-top: 1px solid var(--line);
+    padding-top: 0.8rem;
+    margin-top: 1.4rem;
+  }
+
+  .byline p {
+    margin: 0 0 0.2rem;
+  }
+
+  .byline a {
+    font-weight: 650;
+    color: var(--ink);
+  }
+
+  .cover {
+    margin: 1.8rem 0 2rem;
+  }
+
+  .cover img {
+    width: 100%;
+    border-radius: var(--radius-l);
+    aspect-ratio: 1200 / 630;
+    object-fit: cover;
+    background: var(--line);
+  }
+
+  figcaption {
+    font-size: var(--step--1);
+    color: var(--ink-3);
+    margin-top: 0.4rem;
+  }
+
+  .ai-note {
+    max-width: 68ch;
+    margin-bottom: 1.8rem;
+  }
+
+  .tags ul,
+  .share ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0;
+    margin: 0;
+  }
+
+  .tags {
+    margin-top: 2rem;
+  }
+
+  .tags a,
+  .share a {
+    display: inline-block;
+    padding: 0.4rem 0.85rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    background: var(--surface);
+    min-height: 36px;
+  }
+
+  .share {
+    margin-top: 2rem;
+  }
+
+  .share h2 {
+    font-size: 1rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .disclaimer {
+    margin-top: 2rem;
+    font-size: 0.88rem;
+    color: var(--ink-3);
+    max-width: 68ch;
+  }
+
+  .rel-grid {
+    display: grid;
+    gap: 1.75rem 1.5rem;
+  }
+
+  @media (min-width: 720px) {
+    .rel-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1080px) {
+    .layout {
+      grid-template-columns: minmax(0, 1fr) 300px;
+    }
+
+    .head,
+    .cover {
+      grid-column: 1 / -1;
+    }
+
+    .cover img {
+      max-height: 520px;
+    }
+
+    .aside {
+      position: sticky;
+      top: 1.5rem;
+      align-self: start;
+    }
+  }
+</style>

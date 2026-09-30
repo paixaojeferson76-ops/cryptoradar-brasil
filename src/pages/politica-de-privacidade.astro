@@ -1,0 +1,74 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../config/site';
+import { link } from '../lib/url';
+---
+
+<PageLayout
+  title="Política de Privacidade"
+  description="Como o CryptoRadar Brasil trata dados pessoais, cookies, Google Analytics e Google AdSense, conforme a LGPD."
+  path="/politica-de-privacidade"
+  updated="30 de setembro de 2026"
+>
+  <p>
+    Esta política explica quais dados são tratados quando você visita o {SITE.name}, para quê e quais são os seus
+    direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, LGPD).
+  </p>
+
+  <h2>Dados que não coletamos</h2>
+  <p>O site não tem cadastro, login, comentários nem formulários que armazenem dados. Não vendemos dados pessoais.</p>
+
+  <h2>Dados tratados automaticamente</h2>
+  <ul>
+    <li>
+      <strong>Hospedagem:</strong> o provedor que hospeda o site registra dados técnicos de acesso (como endereço IP,
+      navegador e horário) para segurança e funcionamento.
+    </li>
+    <li>
+      <strong>Cotações:</strong> o bloco de mercado consulta a API pública da CoinGecko diretamente do seu navegador, o
+      que envia a ela dados técnicos da requisição (como o endereço IP).
+    </li>
+    <li>
+      <strong>Google Analytics</strong> (quando ativado): mede audiência de forma agregada (páginas vistas, origem do
+      acesso, tipo de dispositivo). Só usa cookies de medição se você aceitar no aviso de cookies.
+    </li>
+    <li>
+      <strong>Google AdSense</strong> (quando ativado): exibe anúncios. Fornecedores terceiros, incluindo o Google, usam
+      cookies para veicular anúncios com base em visitas anteriores a este e a outros sites. Sem o seu consentimento, os
+      anúncios exibidos não são personalizados.
+    </li>
+  </ul>
+
+  <h2>Anúncios do Google</h2>
+  <p>
+    O uso de cookies de publicidade permite ao Google e a seus parceiros exibir anúncios com base nas suas visitas. Você
+    pode desativar a publicidade personalizada nas
+    <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer">configurações de anúncios do Google</a>
+    e saber mais em
+    <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer"
+      >Como o Google usa informações de sites que usam seus serviços</a
+    >.
+  </p>
+
+  <h2>Bases legais</h2>
+  <p>
+    Dados técnicos de acesso são tratados por legítimo interesse (segurança e funcionamento do site). Cookies de
+    medição e de publicidade personalizada dependem do seu consentimento, que pode ser retirado a qualquer momento.
+  </p>
+
+  <h2>Seus direitos</h2>
+  <p>
+    Você pode pedir confirmação de tratamento, acesso, correção, eliminação e informações sobre compartilhamento dos
+    seus dados (art. 18 da LGPD). Faça o pedido pela página de <a href={link('/contato')}>contato</a>. Também é possível
+    reclamar à Autoridade Nacional de Proteção de Dados (ANPD).
+  </p>
+
+  <h2>Como mudar sua escolha de cookies</h2>
+  <p>
+    Veja a <a href={link('/politica-de-cookies')}>Política de Cookies</a>. Para refazer a escolha, limpe os dados deste
+    site no seu navegador: o aviso aparecerá de novo.
+  </p>
+
+  <h2>Alterações</h2>
+  <p>Esta política pode ser atualizada. A data da última alteração fica no topo da página.</p>
+</PageLayout>

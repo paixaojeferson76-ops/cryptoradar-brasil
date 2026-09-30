@@ -1,0 +1,9 @@
+---
+import NewsIndex from '../../components/NewsIndex.astro';
+import { getPublished } from '../../lib/articles';
+import { pageCount, pageSlice } from '../../lib/paging';
+
+const all = await getPublished();
+---
+
+<NewsIndex articles={pageSlice(all, 1)} page={1} total={pageCount(all.length)} />

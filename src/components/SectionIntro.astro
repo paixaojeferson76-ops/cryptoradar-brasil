@@ -1,0 +1,52 @@
+---
+import Breadcrumbs from './Breadcrumbs.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  crumbs: { name: string; path: string }[];
+  hue?: number;
+  count?: number;
+}
+const { title, description, crumbs, hue, count } = Astro.props;
+---
+
+<Breadcrumbs items={crumbs} />
+<header class="intro" style={hue !== undefined ? `--h:${hue}` : undefined} class:list={{ tinted: hue !== undefined }}>
+  <h1>{title}</h1>
+  <p>{description}</p>
+  {count !== undefined && <p class="count">{count} {count === 1 ? 'publicação' : 'publicações'}</p>}
+</header>
+
+<style>
+  .intro {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid var(--ink);
+  }
+
+  .tinted {
+    border-bottom-color: hsl(var(--h) 80% 50%);
+  }
+
+  h1 {
+    font-size: var(--step-4);
+    letter-spacing: -0.03em;
+    font-weight: 800;
+    font-stretch: 92%;
+    margin-bottom: 0.3em;
+  }
+
+  p {
+    color: var(--ink-2);
+    font-size: 1.08rem;
+    max-width: 60ch;
+    margin: 0;
+  }
+
+  .count {
+    margin-top: 0.6rem;
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+</style>

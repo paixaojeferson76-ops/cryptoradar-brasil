@@ -1,0 +1,155 @@
+---
+import market from '../data/market.json';
+import { formatTime, formatDate } from '../lib/format';
+
+const brl = new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 2 });
+const updated = new Date(market.updatedAt);
+const pct = (n: number) => `${n > 0 ? '+' : ''}${n.toFixed(2).replace('.', ',')}%`;
+---
+
+<section class="strip" aria-label="Cotações em reais">
+  <div class="wrap inner">
+    <ul class="coins" data-market>
+      {
+        market.coins.map((c) => (
+          <li data-coin={c.id}>
+            <span class="sym">{c.symbol}</span>
+            <span class="price" data-price>
+              {brl.format(c.brl)}
+            </span>
+            <span class={`chg ${c.change24h >= 0 ? 'up' : 'down'}`} data-change>
+              {pct(c.change24h)}
+            </span>
+          </li>
+        ))
+      }
+      {
+        market.fees && (
+          <li class="fee" title="Taxa sugerida para confirmação em cerca de 30 minutos (mempool.space)">
+            <span class="sym">Taxa BTC</span>
+            <span class="price">{market.fees.halfHour} sat/vB</span>
+          </li>
+        )
+      }
+    </ul>
+    <p class="stamp">
+      <span data-stamp>Atualizado em {formatDate(updated)}, {formatTime(updated)}</span>. Variação em 24h. Dados: CoinGecko.
+    </p>
+  </div>
+</section>
+
+<script>
+  // Atualiza as cotações ao vivo (API pública da CoinGecko). Se falhar, o
+  // retrato gerado no build continua visível.
+  const list = document.querySelector<HTMLElement>('[data-market]');
+  const stamp = document.querySelector<HTMLElement>('[data-stamp]');
+  if (list && 'fetch' in window) {
+    const ids = [...list.querySelectorAll<HTMLElement>('[data-coin]')].map((el) => el.dataset.coin).join(',');
+    const brl = new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 2 });
+    const run = () =>
+      fetch(
+        `https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=brl&include_24hr_change=true`,
+        { signal: AbortSignal.timeout(8000) },
+      )
+        .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+        .then((data: Record<string, { brl: number; brl_24h_change: number }>) => {
+          for (const el of list.querySelectorAll<HTMLElement>('[data-coin]')) {
+            const d = data[el.dataset.coin!];
+            if (!d) continue;
+            el.querySelector('[data-price]')!.textContent = brl.format(d.brl);
+            const chg = el.querySelector<HTMLElement>('[data-change]')!;
+            const v = d.brl_24h_change ?? 0;
+            chg.textContent = `${v > 0 ? '+' : ''}${v.toFixed(2).replace('.', ',')}%`;
+            chg.className = `chg ${v >= 0 ? 'up' : 'down'}`;
+          }
+          if (stamp) {
+            const t = new Intl.DateTimeFormat('pt-BR', { hour: '2-digit', minute: '2-digit' }).format(new Date());
+            stamp.textContent = `Ao vivo, ${t.replace(':', 'h')}`;
+          }
+        })
+        .catch(() => {});
+    const idle = (window as any).requestIdleCallback ?? ((cb: () => void) => setTimeout(cb, 1200));
+    idle(run);
+  }
+</script>
+
+<style>
+  .strip {
+    background: var(--ink);
+    color: #e8ecf7;
+    font-size: 0.88rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .strip {
+      background: #080d1d;
+      border-bottom: 1px solid var(--line);
+    }
+  }
+
+  .inner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    min-height: 40px;
+  }
+
+  .coins {
+    list-style: none;
+    display: flex;
+    gap: 1.4rem;
+    margin: 0;
+    padding: 0.55rem 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+    flex: 1;
+    min-width: 0;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .coins::-webkit-scrollbar {
+    display: none;
+  }
+
+  li {
+    display: flex;
+    gap: 0.45rem;
+    white-space: nowrap;
+    align-items: baseline;
+  }
+
+  .sym {
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .price {
+    color: #c9d0e4;
+  }
+
+  .chg.up {
+    color: #5fe0a8;
+  }
+
+  .chg.down {
+    color: #ff8f97;
+  }
+
+  .fee .price {
+    color: #ffc83d;
+  }
+
+  .stamp {
+    display: none;
+    margin: 0;
+    color: #98a2c0;
+    font-size: 0.78rem;
+    white-space: nowrap;
+  }
+
+  @media (min-width: 1100px) {
+    .stamp {
+      display: block;
+    }
+  }
+</style>

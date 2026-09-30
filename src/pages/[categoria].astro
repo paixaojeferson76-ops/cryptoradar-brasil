@@ -1,0 +1,33 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionIntro from '../components/SectionIntro.astro';
+import ArticleList from '../components/ArticleList.astro';
+import { CATEGORIES, CATEGORY_IDS, type CategoryId } from '../config/site';
+import { getPublished, inCategory } from '../lib/articles';
+import { breadcrumbLd } from '../lib/seo';
+
+export const getStaticPaths = (() =>
+  CATEGORY_IDS.map((id) => ({ params: { categoria: id } }))) satisfies GetStaticPaths;
+
+const id = Astro.params.categoria as CategoryId;
+const cat = CATEGORIES[id];
+const list = inCategory(await getPublished(), id);
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: cat.name, path: `/${id}` },
+];
+---
+
+<BaseLayout
+  title={`${cat.name}: notícias e guias`}
+  description={cat.description}
+  path={`/${id}`}
+  noindex={list.length === 0}
+  jsonLd={[breadcrumbLd(crumbs, Astro.site)]}
+>
+  <div class="wrap">
+    <SectionIntro title={cat.name} description={cat.description} crumbs={crumbs} hue={cat.hue} count={list.length} />
+    <ArticleList articles={list} />
+  </div>
+</BaseLayout>

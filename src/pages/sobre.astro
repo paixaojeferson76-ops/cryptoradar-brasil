@@ -1,0 +1,57 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../config/site';
+import { link } from '../lib/url';
+---
+
+<PageLayout
+  title="Sobre o CryptoRadar Brasil"
+  description="Quem somos, como produzimos o conteúdo, uso de inteligência artificial, política de fontes e de correções do CryptoRadar Brasil."
+  path="/sobre"
+  updated="30 de setembro de 2026"
+>
+  <p>
+    O <strong>{SITE.name}</strong> é um portal independente, em português, sobre Bitcoin, criptomoedas e blockchain.
+    Nosso objetivo é explicar o que acontece nesse mercado de forma clara, com as fontes sempre à vista, para que você
+    possa conferir tudo por conta própria.
+  </p>
+
+  <h2>O que publicamos</h2>
+  <ul>
+    <li><strong>Notícias:</strong> fatos recentes, sempre com links para as fontes consultadas.</li>
+    <li><strong>Guias:</strong> explicações permanentes sobre conceitos como blockchain, carteiras, taxas e halving.</li>
+    <li><strong>Análises:</strong> contexto e interpretação, identificados como tal e separados dos fatos.</li>
+  </ul>
+
+  <h2>Como produzimos o conteúdo</h2>
+  <p>
+    Acompanhamos veículos especializados, comunicados oficiais de órgãos reguladores (como Banco Central do Brasil,
+    CVM e SEC) e publicações dos próprios projetos. Esses canais servem para <em>descobrir</em> acontecimentos; o texto
+    publicado aqui é sempre original. Não reproduzimos artigos de terceiros.
+  </p>
+  <p>
+    Parte dos textos é redigida com apoio de ferramentas de inteligência artificial. Quando isso acontece, a página
+    informa. Em todos os casos seguimos as mesmas regras: só publicamos o que pode ser verificado nas fontes indicadas,
+    separamos fato de opinião e não publicamos rumores.
+  </p>
+
+  <h2>Fontes e correções</h2>
+  <p>
+    Toda notícia termina com a seção <strong>Fontes</strong>. Se você encontrar um erro, escreva pela página de
+    <a href={link('/contato')}>contato</a> informando o endereço da página e o trecho. Corrigimos o texto e registramos
+    a data de atualização.
+  </p>
+
+  <h2>Independência e anúncios</h2>
+  <p>
+    O site pode exibir anúncios do Google AdSense, escolhidos automaticamente pelo Google e identificados como
+    publicidade. Anunciantes não influenciam o conteúdo editorial. Não aceitamos pagamento para publicar notícias sobre
+    projetos, tokens ou corretoras.
+  </p>
+
+  <h2>Aviso importante</h2>
+  <p>
+    Nada neste site é recomendação de compra ou venda. Criptoativos têm alta volatilidade e riscos, inclusive de perda
+    total. Antes de investir, entenda o produto e, se necessário, consulte um profissional certificado.
+  </p>
+</PageLayout>

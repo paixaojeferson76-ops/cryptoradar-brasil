@@ -1,0 +1,41 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { ENV, SITE } from '../config/site';
+
+const email = ENV.contactEmail;
+---
+
+<PageLayout
+  title="Contato"
+  description="Fale com a redação do CryptoRadar Brasil: correções, sugestões de pauta e assuntos institucionais."
+  path="/contato"
+>
+  <p>Fale com a redação para enviar correções, sugestões de pauta, dúvidas sobre privacidade ou assuntos institucionais.</p>
+  {
+    email ? (
+      <p>
+        E-mail: <a href={`mailto:${email}`}>{email}</a>
+      </p>
+    ) : (
+      <p>
+        Envie sua mensagem abrindo um chamado na página do projeto no GitHub:
+        <a href={`${SITE.repo}/issues/new`} target="_blank" rel="noopener noreferrer">
+          abrir um chamado
+        </a>
+        .
+      </p>
+    )
+  }
+  <h2>Correções</h2>
+  <p>Informe o endereço da página, o trecho com problema e, se possível, uma fonte que mostre a informação correta.</p>
+  <h2>Pautas e comunicados</h2>
+  <p>
+    Recebemos comunicados, mas não publicamos conteúdo pago nem garantimos cobertura. Toda sugestão passa pelos mesmos
+    critérios de verificação.
+  </p>
+  <h2>Privacidade</h2>
+  <p>
+    Pedidos relacionados à Lei Geral de Proteção de Dados (LGPD) podem ser enviados pelo mesmo canal. Veja a Política
+    de Privacidade para saber quais dados são tratados.
+  </p>
+</PageLayout>

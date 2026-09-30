@@ -1,0 +1,42 @@
+---
+import { link } from '../lib/url';
+
+interface Props {
+  current: number;
+  total: number;
+}
+const { current, total } = Astro.props;
+const href = (n: number) => link(n === 1 ? '/noticias' : `/noticias/pagina/${n}`);
+---
+
+{
+  total > 1 && (
+    <nav class="pager" aria-label="Paginação">
+      {current > 1 && (
+        <a class="btn btn-ghost" rel="prev" href={href(current - 1)}>
+          Página anterior
+        </a>
+      )}
+      <span>
+        Página {current} de {total}
+      </span>
+      {current < total && (
+        <a class="btn btn-ghost" rel="next" href={href(current + 1)}>
+          Próxima página
+        </a>
+      )}
+    </nav>
+  )
+}
+
+<style>
+  .pager {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    color: var(--ink-2);
+  }
+</style>

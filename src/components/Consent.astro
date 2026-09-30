@@ -1,0 +1,79 @@
+---
+import { link } from '../lib/url';
+---
+
+<!-- Aviso de cookies (LGPD). Só é incluído quando Analytics ou AdSense estão configurados. -->
+<div class="consent" data-consent hidden role="region" aria-label="Aviso de cookies">
+  <p>
+    Usamos cookies para medir audiência e exibir anúncios. Você pode aceitar ou recusar; o site funciona nos dois
+    casos. <a href={link('/politica-de-cookies')}>Saiba mais</a>.
+  </p>
+  <div class="actions">
+    <button type="button" class="btn btn-ghost" data-choice="denied">Recusar</button>
+    <button type="button" class="btn" data-choice="granted">Aceitar</button>
+  </div>
+</div>
+
+<script>
+  const box = document.querySelector<HTMLElement>('[data-consent]');
+  let saved: string | null = null;
+  try {
+    saved = localStorage.getItem('cr-consent');
+  } catch {
+    /* armazenamento bloqueado */
+  }
+  if (box && !saved) box.hidden = false;
+  box?.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-choice]');
+    if (!btn) return;
+    const choice = btn.dataset.choice as 'granted' | 'denied';
+    try {
+      localStorage.setItem('cr-consent', choice);
+    } catch {
+      /* ignora */
+    }
+    const w = window as any;
+    if (typeof w.gtag === 'function') {
+      w.gtag('consent', 'update', {
+        ad_storage: choice,
+        ad_user_data: choice,
+        ad_personalization: choice,
+        analytics_storage: choice,
+      });
+    }
+    box.hidden = true;
+  });
+</script>
+
+<style>
+  .consent {
+    position: fixed;
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    z-index: 50;
+    max-width: 640px;
+    margin-inline: auto;
+    background: var(--surface);
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-l);
+    padding: 1rem 1.1rem;
+    box-shadow: 0 20px 40px -20px rgb(19 28 56 / 0.5);
+    font-size: 0.93rem;
+  }
+
+  .consent[hidden] {
+    display: none;
+  }
+
+  .actions {
+    display: flex;
+    gap: 0.6rem;
+    justify-content: flex-end;
+  }
+
+  p {
+    margin-bottom: 0.8rem;
+  }
+</style>

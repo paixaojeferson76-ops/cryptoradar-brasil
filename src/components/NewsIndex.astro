@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionIntro from './SectionIntro.astro';
+import ArticleList from './ArticleList.astro';
+import Pagination from './Pagination.astro';
+import type { Article } from '../lib/articles';
+import { breadcrumbLd } from '../lib/seo';
+
+interface Props {
+  articles: Article[];
+  page: number;
+  total: number;
+}
+const { articles, page, total } = Astro.props;
+const path = page === 1 ? '/noticias' : `/noticias/pagina/${page}`;
+const description =
+  'Todas as publicações do CryptoRadar Brasil: notícias com fontes, guias e análises sobre Bitcoin, Ethereum, DeFi, regulação e mercado.';
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Notícias', path: '/noticias' },
+];
+---
+
+<BaseLayout
+  title={page === 1 ? 'Notícias sobre Bitcoin e criptomoedas' : `Notícias, página ${page}`}
+  description={description}
+  path={path}
+  jsonLd={[breadcrumbLd(crumbs, Astro.site)]}
+>
+  <div class="wrap">
+    <SectionIntro title="Notícias" description={description} crumbs={crumbs} />
+    <ArticleList articles={articles} leadFirst={page === 1} />
+    <Pagination current={page} total={total} />
+  </div>
+</BaseLayout>

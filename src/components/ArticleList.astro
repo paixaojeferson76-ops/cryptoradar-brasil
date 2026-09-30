@@ -1,0 +1,89 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import Advertisement from './Advertisement.astro';
+import type { Article } from '../lib/articles';
+
+interface Props {
+  articles: Article[];
+  /** Destaca o primeiro item em formato grande. */
+  leadFirst?: boolean;
+}
+const { articles, leadFirst = true } = Astro.props;
+const [first, ...rest] = articles;
+---
+
+{
+  articles.length === 0 ? (
+    <p class="empty">
+      Ainda não há publicações nesta seção. Enquanto isso, veja os guias ou as últimas notícias no menu.
+    </p>
+  ) : (
+    <>
+      {leadFirst && first && (
+        <div class="first">
+          <ArticleCard article={first} variant="lead" headingLevel={2} eager />
+        </div>
+      )}
+      <div class="grid">
+        {(leadFirst ? rest : articles).map((a, i) => (
+          <>
+            <ArticleCard article={a} headingLevel={2} eager={!leadFirst && i < 2} />
+            {i === 5 && <Advertisement placement="sidebar" class="span" />}
+          </>
+        ))}
+      </div>
+    </>
+  )
+}
+
+<style>
+  .first {
+    margin-bottom: 2.5rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .first :global(.lead) {
+    display: grid;
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 900px) {
+    .first :global(.lead) {
+      grid-template-columns: 1.2fr 1fr;
+      align-items: center;
+    }
+
+    .first :global(.lead .title) {
+      font-size: var(--step-3);
+    }
+  }
+
+  .grid {
+    display: grid;
+    gap: 2rem 1.5rem;
+  }
+
+  .grid :global(.span) {
+    grid-column: 1 / -1;
+  }
+
+  @media (min-width: 640px) {
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 980px) {
+    .grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .empty {
+    padding: 2rem;
+    border: 1px dashed var(--line);
+    border-radius: var(--radius-m);
+    color: var(--ink-2);
+  }
+</style>

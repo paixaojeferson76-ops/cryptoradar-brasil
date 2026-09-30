@@ -1,0 +1,69 @@
+{
+  "updatedAt": "2026-09-30T23:02:18.034Z",
+  "coins": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "brl": 433835,
+      "usd": 83661,
+      "change24h": -0.29,
+      "marketCapBrl": 8714927539032.283
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "brl": 13933.03,
+      "usd": 2686.84,
+      "change24h": -0.15,
+      "marketCapBrl": 1700590739972.9087
+    },
+    {
+      "id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
+      "brl": 612.78,
+      "usd": 118.17,
+      "change24h": -1.15,
+      "marketCapBrl": 360208930064.7874
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "brl": 7.72,
+      "usd": 1.49,
+      "change24h": -0.72,
+      "marketCapBrl": 487170703401.4439
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
+      "brl": 3988.34,
+      "usd": 769.11,
+      "change24h": 1.03,
+      "marketCapBrl": 530943618906.92944
+    },
+    {
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "brl": 1.29,
+      "usd": 0.247842,
+      "change24h": 0.94,
+      "marketCapBrl": 48227511716.43278
+    }
+  ],
+  "fees": {
+    "fastest": 2,
+    "halfHour": 1,
+    "hour": 1,
+    "economy": 1
+  },
+  "fearGreed": {
+    "value": 71,
+    "label": "Greed"
+  }
+}

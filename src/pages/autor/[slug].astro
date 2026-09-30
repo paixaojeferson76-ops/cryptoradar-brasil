@@ -1,0 +1,45 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SectionIntro from '../../components/SectionIntro.astro';
+import ArticleList from '../../components/ArticleList.astro';
+import { getPublished } from '../../lib/articles';
+import { breadcrumbLd } from '../../lib/seo';
+import { absolute } from '../../lib/url';
+
+export const getStaticPaths = (async () => {
+  const authors = await getCollection('authors');
+  return authors.map((a) => ({ params: { slug: a.id }, props: { author: a } }));
+}) satisfies GetStaticPaths;
+
+const { author } = Astro.props;
+const list = (await getPublished()).filter((a) => a.data.author.id === author.id);
+const path = `/autor/${author.id}`;
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: author.data.name, path },
+];
+const profile = {
+  '@type': 'ProfilePage',
+  url: absolute(path, Astro.site),
+  mainEntity: {
+    '@type': 'Organization',
+    name: author.data.name,
+    description: author.data.bio,
+    url: absolute(path, Astro.site),
+  },
+};
+---
+
+<BaseLayout
+  title={author.data.name}
+  description={author.data.bio.slice(0, 155)}
+  path={path}
+  jsonLd={[breadcrumbLd(crumbs, Astro.site), profile]}
+>
+  <div class="wrap">
+    <SectionIntro title={author.data.name} description={author.data.bio} crumbs={crumbs} count={list.length} />
+    <ArticleList articles={list} leadFirst={false} />
+  </div>
+</BaseLayout>

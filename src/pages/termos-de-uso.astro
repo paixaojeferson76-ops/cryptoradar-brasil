@@ -1,0 +1,49 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../config/site';
+import { link } from '../lib/url';
+---
+
+<PageLayout
+  title="Termos de Uso"
+  description="Condições de uso do CryptoRadar Brasil: caráter informativo, ausência de recomendação de investimento, direitos autorais e links externos."
+  path="/termos-de-uso"
+  updated="30 de setembro de 2026"
+>
+  <p>Ao acessar o {SITE.name}, você concorda com estes termos.</p>
+
+  <h2>Caráter informativo</h2>
+  <p>
+    O conteúdo tem finalidade informativa e educacional. Não é recomendação de investimento, oferta de valores
+    mobiliários nem consultoria financeira, jurídica ou tributária. Decisões de investimento são de responsabilidade de
+    quem as toma.
+  </p>
+
+  <h2>Riscos</h2>
+  <p>
+    Criptoativos são voláteis, podem perder todo o valor e estão sujeitos a golpes, falhas técnicas e mudanças
+    regulatórias. Cotações exibidas no site vêm de fontes de terceiros, podem ter atraso e não servem de referência para
+    negociação.
+  </p>
+
+  <h2>Precisão</h2>
+  <p>
+    Buscamos exatidão e indicamos as fontes de cada informação, mas erros podem acontecer. Se encontrar um, avise pela
+    página de <a href={link('/contato')}>contato</a>.
+  </p>
+
+  <h2>Direitos autorais</h2>
+  <p>
+    Os textos e as ilustrações originais do site pertencem ao {SITE.name}. Você pode citar trechos curtos com link para
+    a página de origem. Reprodução integral depende de autorização. Marcas citadas pertencem a seus titulares.
+  </p>
+
+  <h2>Links externos</h2>
+  <p>
+    Indicamos sites de terceiros como fontes. Não controlamos esses sites e não respondemos pelo conteúdo ou pelas
+    práticas de privacidade deles.
+  </p>
+
+  <h2>Alterações</h2>
+  <p>Estes termos podem mudar. A versão vigente é sempre a publicada nesta página.</p>
+</PageLayout>

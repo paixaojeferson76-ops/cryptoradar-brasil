@@ -1,0 +1,44 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { breadcrumbLd } from '../lib/seo';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  updated?: string;
+}
+const { title, description, path, updated } = Astro.props;
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: title, path },
+];
+---
+
+<BaseLayout title={title} description={description} path={path} market={false} jsonLd={[breadcrumbLd(crumbs, Astro.site)]}>
+  <div class="wrap">
+    <Breadcrumbs items={crumbs} />
+    <h1>{title}</h1>
+    {updated && <p class="updated">Última atualização: {updated}</p>}
+    <div class="prose">
+      <slot />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  h1 {
+    font-size: var(--step-4);
+    letter-spacing: -0.03em;
+    font-weight: 800;
+    font-stretch: 92%;
+    max-width: 20ch;
+  }
+
+  .updated {
+    color: var(--ink-3);
+    font-size: var(--step--1);
+    margin-bottom: 2rem;
+  }
+</style>

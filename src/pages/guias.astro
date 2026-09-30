@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionIntro from '../components/SectionIntro.astro';
+import ArticleList from '../components/ArticleList.astro';
+import { getPublished } from '../lib/articles';
+import { breadcrumbLd } from '../lib/seo';
+
+const list = (await getPublished()).filter((a) => a.data.type === 'guia');
+const description =
+  'Guias em português para entender Bitcoin, Ethereum, blockchain, carteiras e segurança, do básico ao intermediário.';
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Guias', path: '/guias' },
+];
+---
+
+<BaseLayout title="Guias de Bitcoin e criptomoedas" description={description} path="/guias" jsonLd={[breadcrumbLd(crumbs, Astro.site)]}>
+  <div class="wrap">
+    <SectionIntro title="Guias" description={description} crumbs={crumbs} count={list.length} />
+    <ArticleList articles={list} leadFirst={false} />
+  </div>
+</BaseLayout>

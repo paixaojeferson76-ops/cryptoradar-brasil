@@ -1,0 +1,176 @@
+---
+import market from '../data/market.json';
+import { formatDate, formatTime } from '../lib/format';
+import { link } from '../lib/url';
+
+const brl = new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 2 });
+const usd = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 2 });
+const pct = (n: number) => `${n > 0 ? '+' : ''}${n.toFixed(2).replace('.', ',')}%`;
+const updated = new Date(market.updatedAt);
+const fg = market.fearGreed;
+const fgLabel: Record<string, string> = {
+  'Extreme Fear': 'medo extremo',
+  Fear: 'medo',
+  Neutral: 'neutro',
+  Greed: 'ganância',
+  'Extreme Greed': 'ganância extrema',
+};
+---
+
+<section class="panel" aria-labelledby="mercado-agora">
+  <h2 id="mercado-agora">Mercado agora</h2>
+  <table>
+    <caption class="visually-hidden">Preço das principais criptomoedas e variação em 24 horas</caption>
+    <thead>
+      <tr><th scope="col">Moeda</th><th scope="col">Preço</th><th scope="col">24h</th></tr>
+    </thead>
+    <tbody>
+      {
+        market.coins.map((c) => (
+          <tr>
+            <th scope="row">
+              {c.name} <span>{c.symbol}</span>
+            </th>
+            <td>
+              {brl.format(c.brl)}
+              <small>{usd.format(c.usd)}</small>
+            </td>
+            <td class={c.change24h >= 0 ? 'up' : 'down'}>{pct(c.change24h)}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+  <dl>
+    {
+      market.fees && (
+        <div>
+          <dt>Taxa da rede Bitcoin</dt>
+          <dd>
+            {market.fees.halfHour} sat/vB <small>(confirmação em ~30 min)</small>
+          </dd>
+        </div>
+      )
+    }
+    {
+      fg && (
+        <div>
+          <dt>Índice de medo e ganância</dt>
+          <dd>
+            {fg.value}/100 <small>({fgLabel[fg.label] ?? fg.label})</small>
+          </dd>
+        </div>
+      )
+    }
+  </dl>
+  <p class="foot">
+    Retrato de {formatDate(updated)}, {formatTime(updated)}. Fontes: CoinGecko, mempool.space e alternative.me.
+    <a href={link('/noticias/como-ler-o-mercado-cripto')}>Como ler esses números</a>
+  </p>
+</section>
+
+<style>
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-l);
+    padding: 1.2rem 1.25rem 1rem;
+  }
+
+  h2 {
+    font-size: var(--step-1);
+    margin-bottom: 0.6rem;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.93rem;
+  }
+
+  thead th {
+    font-size: 0.78rem;
+    color: var(--ink-3);
+    font-weight: 600;
+    text-align: right;
+    padding-bottom: 0.3rem;
+  }
+
+  thead th:first-child {
+    text-align: left;
+  }
+
+  tbody th {
+    text-align: left;
+    font-weight: 650;
+  }
+
+  tbody th span {
+    color: var(--ink-3);
+    font-weight: 500;
+    font-size: 0.82rem;
+  }
+
+  td,
+  tbody th {
+    padding: 0.5rem 0;
+    border-top: 1px solid var(--line);
+    vertical-align: top;
+  }
+
+  td {
+    text-align: right;
+    padding-left: 0.6rem;
+  }
+
+  td small {
+    display: block;
+    color: var(--ink-3);
+    font-size: 0.78rem;
+  }
+
+  .up {
+    color: var(--up);
+    font-weight: 600;
+  }
+
+  .down {
+    color: var(--down);
+    font-weight: 600;
+  }
+
+  dl {
+    margin: 0.8rem 0 0;
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  dt {
+    font-size: 0.8rem;
+    color: var(--ink-3);
+  }
+
+  dd {
+    margin: 0;
+    font-weight: 650;
+  }
+
+  dd small {
+    font-weight: 450;
+    color: var(--ink-2);
+  }
+
+  .foot {
+    font-size: 0.78rem;
+    color: var(--ink-3);
+    margin: 0.9rem 0 0;
+  }
+
+  .foot a {
+    display: block;
+    margin-top: 0.3rem;
+    color: var(--brand);
+    font-weight: 600;
+  }
+</style>

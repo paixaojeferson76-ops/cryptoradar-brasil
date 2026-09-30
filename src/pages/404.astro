@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getPublished } from '../lib/articles';
+import { link } from '../lib/url';
+
+const latest = (await getPublished()).slice(0, 3);
+---
+
+<BaseLayout title="Página não encontrada" description="O endereço acessado não existe no CryptoRadar Brasil." path="/404" noindex>
+  <div class="wrap nf">
+    <h1>Não encontramos esta página</h1>
+    <p>O endereço pode ter mudado ou sido digitado errado. Tente a busca ou volte para a página inicial.</p>
+    <p class="actions">
+      <a class="btn" href={link('/')}>Ir para a página inicial</a>
+      <a class="btn btn-ghost" href={link('/busca')}>Buscar no site</a>
+    </p>
+    <div class="grid">{latest.map((a) => <ArticleCard article={a} />)}</div>
+  </div>
+</BaseLayout>
+
+<style>
+  .nf {
+    padding-top: 3rem;
+  }
+
+  h1 {
+    font-size: var(--step-4);
+    font-weight: 800;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 1.5rem 0 3rem;
+  }
+
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 720px) {
+    .grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+</style>

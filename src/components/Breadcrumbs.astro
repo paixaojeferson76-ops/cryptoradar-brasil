@@ -1,0 +1,54 @@
+---
+import { link } from '../lib/url';
+
+interface Props {
+  items: { name: string; path: string }[];
+}
+const { items } = Astro.props;
+---
+
+<nav class="crumbs" aria-label="Você está em">
+  <ol>
+    {
+      items.map((it, i) =>
+        i < items.length - 1 ? (
+          <li>
+            <a href={link(it.path)}>{it.name}</a>
+          </li>
+        ) : (
+          <li aria-current="page">{it.name}</li>
+        ),
+      )
+    }
+  </ol>
+</nav>
+
+<style>
+  .crumbs ol {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem 0.5rem;
+    margin: 1.5rem 0 1rem;
+    padding: 0;
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+
+  li:not(:last-child)::after {
+    content: '/';
+    margin-left: 0.5rem;
+    color: var(--line);
+  }
+
+  li[aria-current] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 32ch;
+  }
+
+  a {
+    color: var(--ink-2);
+  }
+</style>

@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { link } from '../lib/url';
+
+const crumbs = [
+  { name: 'Início', path: '/' },
+  { name: 'Busca', path: '/busca' },
+];
+---
+
+<BaseLayout
+  title="Buscar"
+  description="Busque notícias, guias e análises sobre Bitcoin e criptomoedas no CryptoRadar Brasil."
+  path="/busca"
+  noindex
+>
+  <link rel="stylesheet" href={link('/pagefind/pagefind-ui.css')} />
+  <div class="wrap">
+    <Breadcrumbs items={crumbs} />
+    <h1>Buscar no CryptoRadar</h1>
+    <div id="busca" data-bundle={link('/pagefind/')}></div>
+    <noscript><p>A busca precisa de JavaScript. Você também pode navegar pelas categorias no menu.</p></noscript>
+    <p class="fallback" hidden data-fallback>
+      A busca fica disponível depois do build de produção (<code>npm run build</code>). Navegue pelas categorias no menu.
+    </p>
+  </div>
+</BaseLayout>
+
+<script>
+  const el = document.getElementById('busca')!;
+  const bundle = el.dataset.bundle!;
+  const script = document.createElement('script');
+  script.src = `${bundle}pagefind-ui.js`;
+  script.onload = () => {
+    const ui = new (window as any).PagefindUI({
+      element: '#busca',
+      bundlePath: bundle,
+      showImages: true,
+      showSubResults: false,
+      resetStyles: false,
+      autofocus: true,
+    });
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) ui.triggerSearch(q);
+  };
+  script.onerror = () => {
+    document.querySelector<HTMLElement>('[data-fallback]')!.hidden = false;
+  };
+  document.head.appendChild(script);
+</script>
+
+<style>
+  h1 {
+    font-size: var(--step-3);
+    margin-bottom: 1.2rem;
+  }
+
+  #busca {
+    --pagefind-ui-primary: var(--brand);
+    --pagefind-ui-text: var(--ink);
+    --pagefind-ui-background: var(--surface);
+    --pagefind-ui-border: var(--line);
+    --pagefind-ui-tag: var(--brand-wash);
+    --pagefind-ui-border-radius: 10px;
+    --pagefind-ui-font: var(--font-display);
+    max-width: 52rem;
+    min-height: 50vh;
+  }
+</style>

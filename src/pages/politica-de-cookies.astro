@@ -1,0 +1,51 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { link } from '../lib/url';
+---
+
+<PageLayout
+  title="Política de Cookies"
+  description="Quais cookies o CryptoRadar Brasil usa, para que servem e como aceitar, recusar ou apagar."
+  path="/politica-de-cookies"
+  updated="30 de setembro de 2026"
+>
+  <p>
+    Cookies são pequenos arquivos que um site guarda no seu navegador. Aqui explicamos quais podem ser usados neste site
+    e como controlar cada um.
+  </p>
+
+  <table>
+    <thead>
+      <tr><th>Tipo</th><th>Para que serve</th><th>Precisa de consentimento?</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Preferência de cookies (armazenamento local <code>cr-consent</code>)</td>
+        <td>Lembrar se você aceitou ou recusou o aviso.</td>
+        <td>Não: é necessário para respeitar sua escolha.</td>
+      </tr>
+      <tr>
+        <td>Google Analytics (<code>_ga</code>, <code>_ga_*</code>)</td>
+        <td>Medir audiência de forma agregada.</td>
+        <td>Sim. Só são gravados se você aceitar.</td>
+      </tr>
+      <tr>
+        <td>Google AdSense e parceiros</td>
+        <td>Exibir anúncios, limitar repetições e medir desempenho; personalizar anúncios, se você aceitar.</td>
+        <td>Sim, para anúncios personalizados.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>
+    O aviso de cookies só aparece quando Analytics ou anúncios estão ativos no site. Se você recusar, o site continua
+    funcionando normalmente.
+  </p>
+
+  <h2>Como apagar ou bloquear</h2>
+  <p>
+    Todos os navegadores permitem apagar e bloquear cookies nas configurações de privacidade. Apagar os dados deste site
+    também faz o aviso de cookies aparecer de novo, para que você refaça a escolha.
+  </p>
+  <p>Mais detalhes na <a href={link('/politica-de-privacidade')}>Política de Privacidade</a>.</p>
+</PageLayout>

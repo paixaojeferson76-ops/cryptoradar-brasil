@@ -1,0 +1,159 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import MarketStrip from '../components/MarketStrip.astro';
+import Consent from '../components/Consent.astro';
+import { SITE, ENV } from '../config/site';
+import { absolute, link } from '../lib/url';
+import { organizationLd, websiteLd, graph } from '../lib/seo';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Caminho da página (sem base) — usado no canonical. */
+  path: string;
+  image?: string;
+  imageAlt?: string;
+  ogType?: 'website' | 'article';
+  noindex?: boolean;
+  jsonLd?: object[];
+  article?: { published: Date; modified?: Date; section: string; tags: string[] };
+  /** Mostra a faixa de cotações abaixo do cabeçalho. */
+  market?: boolean;
+}
+
+const {
+  title,
+  description,
+  path,
+  image = '/og/default.png',
+  imageAlt = SITE.name,
+  ogType = 'website',
+  noindex = false,
+  jsonLd = [],
+  article,
+  market = true,
+} = Astro.props;
+
+const site = Astro.site;
+const canonical = absolute(path, site);
+const fullTitle = path === '/' ? `${SITE.name}: ${SITE.tagline}` : `${title} | ${SITE.name}`;
+const ogImage = absolute(image, site);
+const ld = graph(organizationLd(site), websiteLd(site), ...jsonLd);
+const adsense = ENV.adsenseClient;
+const ga = ENV.gaId;
+const tracking = Boolean(adsense || ga);
+---
+
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="theme-color" content="#131c38" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" href={link('/favicon.svg')} type="image/svg+xml" />
+    <link rel="icon" href={link('/favicon-32.png')} sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href={link('/apple-touch-icon.png')} />
+    <link rel="manifest" href={link('/site.webmanifest')} />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE.name} (RSS)`} href={link('/rss.xml')} />
+    <link rel="sitemap" href={link('/sitemap-index.xml')} />
+
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:locale" content={SITE.locale} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={imageAlt} />
+    {
+      article && (
+        <>
+          <meta property="article:published_time" content={article.published.toISOString()} />
+          <meta property="article:modified_time" content={(article.modified ?? article.published).toISOString()} />
+          <meta property="article:section" content={article.section} />
+          {article.tags.map((t) => <meta property="article:tag" content={t} />)}
+        </>
+      )
+    }
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content={imageAlt} />
+
+    {ENV.googleVerification && <meta name="google-site-verification" content={ENV.googleVerification} />}
+
+    <script type="application/ld+json" set:html={JSON.stringify(ld).replace(/</g, '\\u003c')} />
+
+    {
+      tracking && (
+        <script is:inline>
+          window.dataLayer = window.dataLayer || [];
+          // O snippet oficial do Google exige o objeto `arguments` (não use rest params).
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag('consent', 'default', {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            wait_for_update: 500,
+          });
+          try {
+            if (localStorage.getItem('cr-consent') === 'granted') {
+              gtag('consent', 'update', {
+                ad_storage: 'granted',
+                ad_user_data: 'granted',
+                ad_personalization: 'granted',
+                analytics_storage: 'granted',
+              });
+            }
+          } catch {
+            /* armazenamento bloqueado */
+          }
+        </script>
+      )
+    }
+    {
+      ga && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga}`} />
+          <script is:inline define:vars={{ ga }}>
+            gtag('js', new Date());
+            gtag('config', ga, { anonymize_ip: true });
+          </script>
+        </>
+      )
+    }
+    {
+      adsense && (
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsense}`}
+          crossorigin="anonymous"
+        />
+      )
+    }
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    <Header />
+    {market && <MarketStrip />}
+    <main id="conteudo" data-pagefind-body={ogType === 'article' ? '' : undefined}>
+      <slot />
+    </main>
+    <Footer />
+    {tracking && <Consent />}
+  </body>
+</html>
