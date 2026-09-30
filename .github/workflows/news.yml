@@ -64,7 +64,7 @@ jobs:
             git commit -m "noticias: rascunhos para revisão ($(echo $REVIEW | wc -w))"
             git push origin "$BRANCH"
             BODY=$(jq -r '"Notícias geradas automaticamente a partir das fontes abaixo. **Revise cada texto contra as fontes antes do merge** (o merge publica).\n\n" + ([.review[] | "- **\(.title)** — confiança \(.confidence) — fontes: \(.sources | join(", "))"] | join("\n"))' automation/data/last-run.json)
-            gh pr create --base main --head "$BRANCH" --title "Notícias para revisão — $(date -u +%d/%m %H:%M) UTC" --body "$BODY"
+            gh pr create --base main --head "$BRANCH" --title "Notícias para revisão — $(date -u '+%d/%m %H:%M') UTC" --body "$BODY"
             git switch main
           fi
 
