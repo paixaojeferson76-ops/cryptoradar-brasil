@@ -1,0 +1,61 @@
+name: Deploy (GitHub Pages)
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # A cada 6 horas: atualiza o retrato do mercado e republica.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  SITE_URL: ${{ vars.SITE_URL }}
+  PUBLIC_GA_ID: ${{ vars.PUBLIC_GA_ID }}
+  PUBLIC_ADSENSE_CLIENT: ${{ vars.PUBLIC_ADSENSE_CLIENT }}
+  PUBLIC_ADSENSE_SLOT_HOME: ${{ vars.PUBLIC_ADSENSE_SLOT_HOME }}
+  PUBLIC_ADSENSE_SLOT_ARTICLE: ${{ vars.PUBLIC_ADSENSE_SLOT_ARTICLE }}
+  PUBLIC_ADSENSE_SLOT_SIDEBAR: ${{ vars.PUBLIC_ADSENSE_SLOT_SIDEBAR }}
+  PUBLIC_GOOGLE_SITE_VERIFICATION: ${{ vars.PUBLIC_GOOGLE_SITE_VERIFICATION }}
+  PUBLIC_CONTACT_EMAIL: ${{ vars.PUBLIC_CONTACT_EMAIL }}
+  CRYPTO_API_KEY: ${{ secrets.CRYPTO_API_KEY }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Atualizar retrato do mercado
+        run: npm run market:update
+        continue-on-error: true
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build
+      - run: npm run verify
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

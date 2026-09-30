@@ -1,0 +1,77 @@
+name: Notícias automáticas
+
+# FONTE → COLETA → VALIDAÇÃO → GERAÇÃO (IA) → REVISÃO (Pull Request) → PUBLICAÇÃO (merge)
+on:
+  schedule:
+    - cron: '41 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Quantas notícias gerar'
+        default: '3'
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    env:
+      AI_API_KEY: ${{ secrets.AI_API_KEY }}
+      AI_PROVIDER: ${{ vars.AI_PROVIDER }}
+      AI_MODEL: ${{ vars.AI_MODEL }}
+      AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+      AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
+      REVIEW_VIA_PR: 'true'
+      NEWS_LIMIT: ${{ github.event.inputs.limit || '3' }}
+      SITE_URL: ${{ vars.SITE_URL }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Coletar, deduplicar e validar pautas
+        run: npm run news:fetch
+
+      - name: Gerar notícias com IA
+        run: npm run news:generate
+
+      - name: Conferir se o site compila com os novos textos
+        run: npm run build && npm run verify
+
+      - name: Publicar automáticas, abrir PR das demais e salvar a fila
+        run: |
+          set -euo pipefail
+          git config user.name "cryptoradar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          REVIEW=$(jq -r '.review[]?.slug' automation/data/last-run.json)
+          AUTO=$(jq -r '.auto[]?.slug' automation/data/last-run.json)
+
+          if [ -n "$REVIEW" ]; then
+            BRANCH="noticias/$(date -u +%Y%m%d-%H%M)"
+            git switch -c "$BRANCH"
+            for s in $REVIEW; do git add "src/content/articles/$s.md"; done
+            git commit -m "noticias: rascunhos para revisão ($(echo $REVIEW | wc -w))"
+            git push origin "$BRANCH"
+            BODY=$(jq -r '"Notícias geradas automaticamente a partir das fontes abaixo. **Revise cada texto contra as fontes antes do merge** (o merge publica).\n\n" + ([.review[] | "- **\(.title)** — confiança \(.confidence) — fontes: \(.sources | join(", "))"] | join("\n"))' automation/data/last-run.json)
+            gh pr create --base main --head "$BRANCH" --title "Notícias para revisão — $(date -u +%d/%m %H:%M) UTC" --body "$BODY"
+            git switch main
+          fi
+
+          for s in $AUTO; do git add "src/content/articles/$s.md"; done
+          git add automation/data/queue.json automation/data/seen.json automation/data/pauta.md automation/data/last-run.json
+          if ! git diff --cached --quiet; then
+            git commit -m "automação: fila de pautas${AUTO:+ e notícias automáticas}"
+            git push origin main
+          fi
+          if [ -n "$AUTO" ]; then gh workflow run deploy.yml --ref main; fi
