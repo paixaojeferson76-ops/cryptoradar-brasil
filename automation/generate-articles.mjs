@@ -23,6 +23,7 @@ import { fileURLToPath } from 'node:url';
 import { loadEnv } from './lib/env.mjs';
 import { aiAvailable, aiConfig, generateJson } from './lib/ai.mjs';
 import { SYSTEM_PROMPT, buildUserPrompt, checkGenerated, toMarkdown, uniqueSlug } from './lib/article.mjs';
+import { fetchArticleText } from './lib/extract.mjs';
 import { ARTICLES_DIR, DATA_DIR, readJson, writeJson, listExistingArticles } from './lib/store.mjs';
 
 loadEnv();
@@ -60,6 +61,8 @@ async function main() {
   for (const story of candidates) {
     process.stdout.write(`→ ${story.headline}\n`);
     try {
+      // Apuração: texto das páginas das fontes (não é publicado; usado pela IA e pela checagem anti-cópia).
+      await Promise.all(story.items.map(async (i) => { i.fullText = await fetchArticleText(i.url); }));
       const { data, model } = await generateJson(SYSTEM_PROMPT, buildUserPrompt(story, existing), cfg);
       if (data.skip) {
         story.status = 'pulada';
@@ -84,6 +87,7 @@ async function main() {
       const file = join(ARTICLES_DIR, `${slug}.md`);
       await writeFile(file, toMarkdown(data, story, { draft, reviewed, model }));
       existing.push({ slug, title: data.title, sourceUrls: story.items.map((i) => i.url) });
+      story.items.forEach((i) => delete i.fullText);
       story.status = 'gerada';
       story.slug = slug;
       (auto ? report.auto : report.review).push({ slug, title: data.title, confidence: story.validation.confidence, sources: story.publishers });

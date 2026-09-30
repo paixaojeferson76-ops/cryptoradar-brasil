@@ -36,8 +36,8 @@ Arquivo `automation/config/sources.json`. Os feeds servem **só para descobrir**
 
 Para cada pauta pendente com confiança mínima `media` (ajuste com `--min alta`):
 
-1. Envia à IA **apenas** título, resumo, data e URL de cada fonte, a lista de artigos do site (para links internos) e regras rígidas: só fatos das fontes, atribuição ("segundo a SEC"), nada de cópia, nada de previsão ou recomendação, e responder `skip` se as fontes forem insuficientes.
-2. **Checagem automática** da resposta: tamanhos de título/resumo/SEO, corpo com 220+ palavras, nenhuma sequência de 12+ palavras copiada das fontes, nenhum link interno inexistente ou link externo fora das fontes, nenhuma linguagem de recomendação.
+1. Baixa os parágrafos de cada fonte como material de apuração (nada disso é publicado) e envia à IA, junto com título, resumo, data e URL, a lista de artigos do site (para links internos) e regras rígidas: só fatos das fontes, atribuição ("segundo a SEC"), nada de cópia, nada de previsão ou recomendação, e responder `skip` se as fontes forem insuficientes.
+2. **Checagem automática** da resposta: tamanhos de título/resumo/SEO, corpo com 220+ palavras, nenhuma sequência de 12+ palavras copiada do texto das fontes, nenhum link interno inexistente ou link externo fora das fontes, nenhuma linguagem de recomendação.
 3. Gera slug único, SEO title/description, categoria, tags, links internos e a seção **Fontes** (com data de consulta).
 4. Grava `src/content/articles/<slug>.md` com `generatedBy` (o site exibe o aviso de texto feito com IA).
 
@@ -80,3 +80,7 @@ npm run preview                    # rascunhos (draft: true) não aparecem
 - A IA pode errar. A revisão existe para isso: confira números, nomes e datas nas fontes.
 - Feeds às vezes mudam de endereço. Se um sumir, o log mostra `✗ Nome: HTTP 404`; atualize `sources.json`.
 - GitHub Actions é gratuito para repositórios públicos. Cron pode atrasar alguns minutos em horários de pico.
+
+## Resiliência da IA
+
+Se o Gemini responder "alta demanda" (503) ou limite (429), o gerador espera e tenta de novo até 3 vezes e, se continuar, passa para o próximo modelo Flash disponível. Uma pauta que falhar volta na execução seguinte.

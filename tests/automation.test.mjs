@@ -26,6 +26,7 @@ describe('texto', () => {
   });
   it('remove HTML e entidades', () => {
     expect(stripHtml('<p>Olá&nbsp;<b>mundo</b> &amp; cia</p>')).toBe('Olá mundo & cia');
+    expect(stripHtml('Bitwise&#x27;s &#8217;')).toBe("Bitwise's '");
   });
   it('normaliza URL removendo utm, www e barra final', () => {
     expect(normalizeUrl('https://www.site.com/x/?utm_source=a&id=2#top')).toBe('https://site.com/x/?id=2');
@@ -147,5 +148,13 @@ describe('artigo gerado', () => {
   });
   it('gera slug único', () => {
     expect(uniqueSlug('Título X', new Set(['titulo-x']))).toBe('titulo-x-2');
+  });
+});
+
+describe('escolha do modelo Gemini', async () => {
+  const { rankGeminiModels } = await import('../automation/lib/ai.mjs');
+  it('prefere o Flash estável mais novo e ignora lite/preview/imagem', () => {
+    const names = ['gemini-2.5-flash', 'gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-3.5-flash-lite', 'gemini-3-flash-preview', 'gemini-omni-1.1-flash', 'gemini-3.1-flash-image', 'gemini-flash-latest'];
+    expect(rankGeminiModels(names)).toEqual(['gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-flash-latest']);
   });
 });

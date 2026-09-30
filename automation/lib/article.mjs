@@ -12,7 +12,8 @@ Escreva uma NOTÍCIA ORIGINAL a partir das informações das fontes fornecidas. 
 6. Público brasileiro: explique siglas e termos técnicos na primeira menção; converta horários para Brasília quando houver horário exato.
 7. Tom jornalístico, frases claras, voz ativa. Sem sensacionalismo, sem emojis.
 8. Corpo em Markdown com 300 a 600 palavras: 1º parágrafo responde o quê, quem, quando; depois 2 a 4 seções com "## Subtítulo". Não repita o título no corpo. Não inclua seção de fontes (o site gera).
-9. Inclua de 1 a 3 links internos, SOMENTE da lista de artigos fornecida, no formato [texto](/noticias/slug), onde fizer sentido.
+9. Não afirme relação de causa e efeito que as fontes não afirmem, não use adjetivos que as fontes não usem e não termine com conclusão, opinião ou frase de efeito: encerre com um fato ou com o próximo passo informado pelas fontes.
+10. Inclua de 1 a 3 links internos, SOMENTE da lista de artigos fornecida, no formato [texto](/noticias/slug), onde fizer sentido.
 Responda APENAS com JSON no formato:
 {"title": "até 110 caracteres", "description": "resumo de 120 a 240 caracteres", "seoTitle": "até 65 caracteres", "seoDescription": "120 a 155 caracteres", "category": "uma de: ${CATEGORIES.join(', ')}", "tags": ["3 a 6 tags em português"], "body": "markdown"}`;
 
@@ -20,7 +21,7 @@ export function buildUserPrompt(story, existing) {
   const sources = story.items
     .map(
       (i, n) =>
-        `FONTE ${n + 1} — ${i.publisher} (${i.type === 'official' ? 'fonte oficial' : 'veículo'}), publicada em ${i.date}\nTítulo: ${i.title}\nURL: ${i.url}\nResumo: ${i.summary || '(sem resumo no feed)'}`,
+        `FONTE ${n + 1} — ${i.publisher} (${i.type === 'official' ? 'fonte oficial' : 'veículo'}), publicada em ${i.date}\nTítulo: ${i.title}\nURL: ${i.url}\nResumo: ${i.summary || '(sem resumo no feed)'}${i.fullText ? `\nTrechos da página (material de apuração, NÃO copie):\n${i.fullText}` : ''}`,
     )
     .join('\n\n');
   const internal = existing
@@ -48,7 +49,7 @@ export function checkGenerated(g, story, existingSlugs = new Set()) {
     const words = g.body.split(/\s+/).length;
     if (words < 220) problems.push(`corpo curto (${words} palavras)`);
     if (FORBIDDEN.test(g.body) || FORBIDDEN.test(g.title)) problems.push('linguagem de recomendação/promessa');
-    const sourceText = story.items.map((i) => `${i.title} ${i.summary}`).join(' ');
+    const sourceText = story.items.map((i) => `${i.title} ${i.summary} ${i.fullText ?? ''}`).join(' ');
     const copied = longestCopiedRun(g.body, sourceText);
     if (copied >= 12) problems.push(`trecho copiado da fonte (${copied} palavras seguidas)`);
     // Links: só internos existentes ou URLs das próprias fontes.

@@ -7,7 +7,7 @@ Nenhuma chave é obrigatória para o site funcionar. Elas ativam recursos extras
 | `SITE_URL` | Variable | já configurada | Endereço público (muda ao usar domínio próprio) |
 | `AI_API_KEY` | **Secret** | não | Gerar notícias automaticamente |
 | `AI_PROVIDER` | Variable | não | `gemini` (padrão) ou `openai-compatible` |
-| `AI_MODEL` | Variable | não | Vazio = escolhe o modelo "flash" mais novo do Gemini |
+| `AI_MODEL` | Variable | não | Vazio = tenta os Gemini Flash estáveis do mais novo ao mais antigo (recomendado; alguns modelos antigos, como o 2.5, não estão disponíveis para contas novas) |
 | `AI_BASE_URL` | Variable | só p/ `openai-compatible` | Ex.: `https://api.groq.com/openai/v1` |
 | `AUTO_PUBLISH` | Variable | não | `true` publica sozinho pautas de confiança alta. Padrão: revisão por PR |
 | `CRYPTO_API_KEY` | **Secret** | não | Chave Demo da CoinGecko (só se o limite público não bastar) |
@@ -25,7 +25,7 @@ O Google AI Studio tem nível gratuito com limite diário de requisições, sufi
 
 1. Acesse https://aistudio.google.com/apikey e entre com sua conta Google.
 2. Aceite os termos e clique em **Create API key** (pode criar em um projeto novo).
-3. Copie a chave (começa com `AIza`).
+3. Copie a chave (começa com `AIza` ou, nas chaves mais novas, `AQ.`).
 4. Guarde no GitHub: `gh secret set AI_API_KEY --repo paixaojeferson76-ops/cryptoradar-brasil` e cole quando pedir.
 5. Teste: **Actions → Notícias automáticas → Run workflow**.
 

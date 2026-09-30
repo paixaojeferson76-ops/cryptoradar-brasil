@@ -25,7 +25,8 @@ export function stripHtml(s = '') {
     .replace(/&#0?39;|&rsquo;|&#8217;/g, "'")
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
     .replace(/\s+/g, ' ')
     .trim();
 }
