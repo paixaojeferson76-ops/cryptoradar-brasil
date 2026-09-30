@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-09-30T23:33:43.323Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-09-30T23:47:04.715Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Bitwise launches first US spot NEAR ETF after token’s recent surge
 

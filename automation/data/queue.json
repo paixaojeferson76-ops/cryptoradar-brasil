@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:33:43.323Z",
+  "updatedAt": "2026-09-30T23:47:04.715Z",
   "stories": [
     {
       "id": "bitwise-launches-first-us-spot-near-etf-after-token-s-recent-surge",
@@ -56,7 +56,8 @@
         "reasons": []
       },
       "score": 79,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "bitwise-lanca-nos-estados-unidos-o-primeiro-etf-a-vista-de-near-com-rendimentos"
     },
     {
       "id": "fca-opens-crypto-authorization-window-ahead-of-2027-uk-regime",
@@ -99,7 +100,8 @@
         "reasons": []
       },
       "score": 70,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "fca-abre-prazo-de-autorizacao-para-empresas-cripto-antes-de-novo-regime-no"
     },
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
