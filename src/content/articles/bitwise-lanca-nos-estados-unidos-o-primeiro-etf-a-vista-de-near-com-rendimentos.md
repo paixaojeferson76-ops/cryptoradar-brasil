@@ -37,7 +37,7 @@ O *staking* consiste no bloqueio de unidades do ativo para auxiliar na validaç�
 
 A NEAR é uma rede de primeira camada (*layer-1*) lançada em 2020 que reposicionou seu desenvolvimento para inteligência artificial (IA) em 2024. A tecnologia conta com o protocolo NEAR Intents, voltado para transações entre diferentes redes (*cross-chain*), que atingiu um volume acumulado superior a US$ 32 bilhões, frente a menos de US$ 1 bilhão registrado há um ano, de acordo com a Bitwise.
 
-O diretor de investimentos da gestora, Matt Hougan, afirmou que a arquitetura do NEAR Intents visa facilitar a operação de agentes autônomos de IA ao abstrair a complexidade de transferências entre blockchains. A tese coincide com um estudo divulgado recentemente pela BlackRock, que apontou agentes de IA como potenciais catalisadores estruturais para a demanda por criptoativos, [altcoins](/noticias/o-que-sao-altcoins) e infraestrutura de pagamentos programáveis.
+O diretor de investimentos da gestora, Matt Hougan, afirmou que a arquitetura do NEAR Intents visa facilitar a operação de agentes autônomos de IA ao abstrair a complexidade de transferências entre blockchains. Na semana anterior, segundo o Cointelegraph, a BlackRock publicou um estudo afirmando que agentes de IA podem aumentar a demanda por [stablecoins](/noticias/o-que-sao-stablecoins), criptomoedas e ativos tokenizados à medida que transações entre máquinas se tornem mais comuns.
 
 ## Histórico e desempenho do ativo
 
