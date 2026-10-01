@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-01T00:59:33.309Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-01T06:59:16.985Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
 
@@ -21,6 +21,11 @@ Gerada em 2026-10-01T00:59:33.309Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
 - [Cointelegraph] MetaMask exits Ethereum validators as it investigates security incident — https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident (2026-10-01T00:15:55.000Z)
+
+## Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule — https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi (2026-10-01T06:05:51.000Z)
 
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
@@ -52,6 +57,21 @@ Gerada em 2026-10-01T00:59:33.309Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [The Block] CFTC secures over $30 million judgment against defendants in Fundsz fraud case — https://theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365 (2026-09-30T20:37:08.000Z)
 
+## Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [CoinDesk] Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps — https://coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps (2026-10-01T04:58:52.000Z)
+
+## Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall — https://coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall (2026-10-01T04:15:20.000Z)
+
+## Crypto hacks top $768M in September, worst month of 2026
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Crypto hacks top $768M in September, worst month of 2026 — https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield (2026-10-01T04:44:33.000Z)
+
 ## Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
@@ -76,6 +96,11 @@ Gerada em 2026-10-01T00:59:33.309Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
 - [Decrypt] Introducing The Information Exchange on Solana, Powered by Decrypt and MYR — https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr (2026-09-30T16:36:10.000Z)
+
+## CFTC seeks to define event contracts as swaps amid prediction market fight
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
+- [Cointelegraph] CFTC seeks to define event contracts as swaps amid prediction market fight — https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight (2026-10-01T01:07:46.000Z)
 
 ## Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'
 
@@ -126,28 +151,3 @@ Gerada em 2026-10-01T00:59:33.309Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 35
 - [Cointelegraph] Altcoin exchange deposit count jumps 160% in 2 weeks — https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks (2026-09-30T11:23:56.000Z)
-
-## Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
-- [Decrypt] Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders — https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders (2026-09-30T11:54:22.000Z)
-
-## Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 35
-- [The Block] Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator — https://theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286 (2026-09-30T13:33:30.000Z)
-
-## Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 35
-- [The Block] Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028 — https://theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274 (2026-09-30T12:00:01.000Z)
-
-## Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
-- [The Block] Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote — https://theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223 (2026-09-30T12:00:00.000Z)
-
-## The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 34
-- [CoinDesk] The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’ — https://coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis (2026-09-30T11:00:00.000Z)

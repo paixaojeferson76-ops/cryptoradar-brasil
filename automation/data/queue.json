@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:59:33.309Z",
+  "updatedAt": "2026-10-01T06:59:16.985Z",
   "stories": [
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
@@ -122,6 +122,39 @@
           "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
           "date": "2026-10-01T00:15:55.000Z",
           "summary": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-think-tank-questions-msci-s-invisible-committee-over-strategy",
+      "headline": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T06:05:51.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
+          "url": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi",
+          "date": "2026-10-01T06:05:51.000Z",
+          "summary": "A Bitcoin Policy Institute paper says MSCI’s proposed “non-operating company” rule could remove Strategy and Metaplanet from its indexes and may have roots in an earlier crypto treasury review."
         }
       ],
       "validation": {
@@ -328,6 +361,106 @@
       "status": "pendente"
     },
     {
+      "id": "dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually",
+      "headline": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "category": "regulacao",
+      "tags": [
+        "DeFi",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-01T04:58:52.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+          "url": "https://coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+          "date": "2026-10-01T04:58:52.000Z",
+          "summary": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-s-soft-inflation-pop-to-85-500-fades-as-bond-yields-refuse-to",
+      "headline": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T04:15:20.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+          "url": "https://coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+          "date": "2026-10-01T04:15:20.000Z",
+          "summary": "A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-hacks-top-768m-in-september-worst-month-of-2026",
+      "headline": "Crypto hacks top $768M in September, worst month of 2026",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T04:44:33.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto hacks top $768M in September, worst month of 2026",
+          "url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield",
+          "date": "2026-10-01T04:44:33.000Z",
+          "summary": "The $388 million Bitget breach and $320 million Liquid Network exploit accounted for most of September’s losses, though more than $270 million from the latter was later returned."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-industry-gave-8-million-to-clarity-act-lobbyists-who-didn-t",
       "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "category": "regulacao",
@@ -481,6 +614,40 @@
           "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
           "date": "2026-09-30T16:36:10.000Z",
           "summary": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market",
+      "headline": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "DeFi"
+      ],
+      "firstSeen": "2026-10-01T01:07:46.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+          "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight",
+          "date": "2026-10-01T01:07:46.000Z",
+          "summary": "The classification could assist the CFTC’s claim that it has exclusive federal jurisdiction over event contracts offered on regulated prediction markets."
         }
       ],
       "validation": {
