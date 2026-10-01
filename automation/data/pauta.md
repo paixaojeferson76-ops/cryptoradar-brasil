@@ -1,19 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-09-30T23:47:04.715Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Bitwise launches first US spot NEAR ETF after token’s recent surge
-
-- Categoria sugerida: mercado | Confiança: alta | Pontos: 79
-- [Cointelegraph] Bitwise launches first US spot NEAR ETF after token’s recent surge — https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge (2026-09-29T17:14:36.000Z)
-- [Decrypt] Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August — https://decrypt.co/379612/bitwise-launches-first-spot-near-etf (2026-09-29T20:36:04.000Z)
-- [The Block] Bitwise launches first US spot NEAR ETF with staking rewards — https://theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150 (2026-09-29T14:27:22.000Z)
-
-## FCA opens crypto authorization window ahead of 2027 UK regime
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 70
-- [Cointelegraph] FCA opens crypto authorization window ahead of 2027 UK regime — https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime (2026-09-30T12:06:04.000Z)
-- [The Block] FCA starts accepting crypto authorization applications ahead of 2027 regime — https://theblock.co/news/regulation/2026-09-30-fca-starts-accepting-crypto-authorization-applications-ahead-of-2027-regime-417284 (2026-09-30T13:21:27.000Z)
+Gerada em 2026-10-01T00:59:33.309Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
 
@@ -29,6 +16,11 @@ Gerada em 2026-09-30T23:47:04.715Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Decrypt] Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity — https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity (2026-09-30T23:20:59.000Z)
+
+## MetaMask exits Ethereum validators as it investigates security incident
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Cointelegraph] MetaMask exits Ethereum validators as it investigates security incident — https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident (2026-10-01T00:15:55.000Z)
 
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
@@ -154,3 +146,8 @@ Gerada em 2026-09-30T23:47:04.715Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
 - [The Block] Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote — https://theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223 (2026-09-30T12:00:00.000Z)
+
+## The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 34
+- [CoinDesk] The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’ — https://coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis (2026-09-30T11:00:00.000Z)

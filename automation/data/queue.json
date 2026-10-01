@@ -1,108 +1,6 @@
 {
-  "updatedAt": "2026-09-30T23:47:04.715Z",
+  "updatedAt": "2026-10-01T00:59:33.309Z",
   "stories": [
-    {
-      "id": "bitwise-launches-first-us-spot-near-etf-after-token-s-recent-surge",
-      "headline": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-      "category": "mercado",
-      "tags": [
-        "ETFs"
-      ],
-      "firstSeen": "2026-09-29T14:27:22.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "Decrypt",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-          "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge",
-          "date": "2026-09-29T17:14:36.000Z",
-          "summary": "Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows."
-        },
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-          "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-          "date": "2026-09-29T20:36:04.000Z",
-          "summary": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitwise launches first US spot NEAR ETF with staking rewards",
-          "url": "https://theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
-          "date": "2026-09-29T14:27:22.000Z",
-          "summary": "Bitwise's NRR is the first U.S. NEAR ETP, charging a 0.75% fee and staking its NEAR in-house, with rewards flowing to shareholders via NAV."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 79,
-      "status": "gerada",
-      "slug": "bitwise-lanca-nos-estados-unidos-o-primeiro-etf-a-vista-de-near-com-rendimentos"
-    },
-    {
-      "id": "fca-opens-crypto-authorization-window-ahead-of-2027-uk-regime",
-      "headline": "FCA opens crypto authorization window ahead of 2027 UK regime",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T12:06:04.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
-          "url": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime",
-          "date": "2026-09-30T12:06:04.000Z",
-          "summary": "Crypto businesses should apply by Feb. 28, 2027, while existing money laundering registrations will not convert into FCA authorization."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FCA starts accepting crypto authorization applications ahead of 2027 regime",
-          "url": "https://theblock.co/news/regulation/2026-09-30-fca-starts-accepting-crypto-authorization-applications-ahead-of-2027-regime-417284",
-          "date": "2026-09-30T13:21:27.000Z",
-          "summary": "FCA opens crypto authorization window, setting a Feb. 28, 2027 deadline as UK firms face fresh vetting under new regime."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 70,
-      "status": "gerada",
-      "slug": "fca-abre-prazo-de-autorizacao-para-empresas-cripto-antes-de-novo-regime-no"
-    },
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
       "headline": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
@@ -191,6 +89,39 @@
           "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
           "date": "2026-09-30T23:20:59.000Z",
           "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "metamask-exits-ethereum-validators-as-it-investigates-security",
+      "headline": "MetaMask exits Ethereum validators as it investigates security incident",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T00:15:55.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MetaMask exits Ethereum validators as it investigates security incident",
+          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
+          "date": "2026-10-01T00:15:55.000Z",
+          "summary": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets."
         }
       ],
       "validation": {
@@ -2162,6 +2093,105 @@
           "url": "https://livecoins.com.br/mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-sob-custodia-apos-dois-anos-de-operacoes",
           "date": "2026-09-30T21:07:33.000Z",
           "summary": "O Ministério Público de São Paulo (MPSP) revelou a guarda de R$ 47 milhões em criptomoedas e, Paulo Sérgio de Oliveira e Costa, Procurador-Geral de Justiça, confirmou este saldo na terça-feira (22). A informação, contudo, só veio a público no Diário Oficial do órgão nesta quarta-feira (30). Tais valores derivam de diversas ações policiais realizadas […] Fonte: MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
+      "headline": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T00:57:35.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
+          "date": "2026-10-01T00:57:35.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit Misha Komarov explains Shielded Bitcoin—a proposed ZK privacy protocol using Bitcoin PIPEs to hide transactions with no soft fork needed. This post Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-s-institutional-era-has-arrived-robinhood-vp-of-crypto",
+      "headline": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T00:52:03.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
+          "url": "https://bitcoinmagazine.com/videos/bitcoins-institutional-era-has-arrived-robinhood-vp-of-crypto-institutions-nicola-white",
+          "date": "2026-10-01T00:52:03.000Z",
+          "summary": "Bitcoin Magazine Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White Robinhood VP Nicola White explains how 10x crypto perpetual futures arrived in the US and why Robinhood is pushing for 24/7 global markets. This post Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
+      "headline": "Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T00:45:15.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030",
+          "url": "https://bitcoinmagazine.com/videos/mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
+          "date": "2026-10-01T00:45:15.000Z",
+          "summary": "Bitcoin Magazine Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030 Mark Moss explains why Bitcoin keeps climbing post-Fed rate hike, benefiting from both currency debasement and a booming tech future. This post Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030 first appeared on Bitcoin Magazine and is written by Patrick Green ."
         }
       ],
       "validation": {
