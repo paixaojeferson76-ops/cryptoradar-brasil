@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-01T06:59:16.985Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-01T13:00:00.921Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
 
@@ -26,6 +26,21 @@ Gerada em 2026-10-01T06:59:16.985Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule — https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi (2026-10-01T06:05:51.000Z)
+
+## Illinois agrees to six-month delay of crypto tax as industry continues court battle
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Illinois agrees to six-month delay of crypto tax as industry continues court battle — https://coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle (2026-10-01T11:58:00.000Z)
+
+## Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter — https://coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter (2026-10-01T11:30:38.000Z)
+
+## Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds — https://theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384 (2026-10-01T12:17:06.000Z)
 
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
@@ -72,6 +87,26 @@ Gerada em 2026-10-01T06:59:16.985Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Crypto hacks top $768M in September, worst month of 2026 — https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield (2026-10-01T04:44:33.000Z)
 
+## Synthetic tokenized stocks are bad for American investors
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [CoinDesk] Synthetic tokenized stocks are bad for American investors — https://coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors (2026-10-01T11:00:00.000Z)
+
+## Bitcoin kicks off new quarter in the old $82,000-$85,000 price range
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin kicks off new quarter in the old $82,000-$85,000 price range — https://coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range (2026-10-01T10:38:04.000Z)
+
+## Tokenized assets don’t always mirror traditional markets, Dune finds
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Tokenized assets don’t always mirror traditional markets, Dune finds — https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report (2026-10-01T10:50:24.000Z)
+
+## Bitcoin trapped below $86K as PCE changes cloud inflation reading
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Bitcoin trapped below $86K as PCE changes cloud inflation reading — https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data (2026-10-01T10:30:18.000Z)
+
 ## Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
@@ -102,52 +137,17 @@ Gerada em 2026-10-01T06:59:16.985Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
 - [Cointelegraph] CFTC seeks to define event contracts as swaps amid prediction market fight — https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight (2026-10-01T01:07:46.000Z)
 
+## MetaMask security incident forces Ethereum staking exits, no funds at risk
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 37
+- [CoinDesk] MetaMask security incident forces Ethereum staking exits, no funds at risk — https://coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards (2026-10-01T07:06:30.000Z)
+
+## Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
+- [Cointelegraph] Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43% — https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43 (2026-10-01T07:27:00.000Z)
+
 ## Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 36
 - [CoinDesk] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money' — https://coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money (2026-09-30T15:34:50.000Z)
-
-## U.S. CFTC seeks event contract definitions that may defy states' gambling claims
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 36
-- [CoinDesk] U.S. CFTC seeks event contract definitions that may defy states' gambling claims — https://coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims (2026-09-30T15:19:36.000Z)
-
-## Clock's ticking: UK's crypto regulatory application window opens with February deadline
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 36
-- [CoinDesk] Clock's ticking: UK's crypto regulatory application window opens with February deadline — https://coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline (2026-09-30T14:04:19.000Z)
-
-## Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 36
-- [Decrypt] Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs — https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data (2026-09-30T15:50:25.000Z)
-
-## Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 36
-- [Decrypt] Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K — https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k (2026-09-30T15:17:45.000Z)
-
-## Bitcoin steadies as soft PCE cools October Fed rate hike bets
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 36
-- [The Block] Bitcoin steadies as soft PCE cools October Fed rate hike bets — https://theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335 (2026-09-30T16:10:36.000Z)
-
-## A stronger dollar is a weaker threat to bitcoin than traders think
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
-- [CoinDesk] A stronger dollar is a weaker threat to bitcoin than traders think — https://coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think (2026-09-30T11:20:09.000Z)
-
-## Could THORChain face prosecution over stolen Bitget funds? Legal opinion
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 35
-- [Cointelegraph] Could THORChain face prosecution over stolen Bitget funds? Legal opinion — https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget (2026-09-30T13:30:00.000Z)
-
-## Singapore crypto activity grows 55% as broader region contracts
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 35
-- [Cointelegraph] Singapore crypto activity grows 55% as broader region contracts — https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis (2026-09-30T13:00:00.000Z)
-
-## Altcoin exchange deposit count jumps 160% in 2 weeks
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 35
-- [Cointelegraph] Altcoin exchange deposit count jumps 160% in 2 weeks — https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks (2026-09-30T11:23:56.000Z)

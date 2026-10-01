@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:59:16.985Z",
+  "updatedAt": "2026-10-01T13:00:00.921Z",
   "stories": [
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
@@ -155,6 +155,106 @@
           "url": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi",
           "date": "2026-10-01T06:05:51.000Z",
           "summary": "A Bitcoin Policy Institute paper says MSCI’s proposed “non-operating company” rule could remove Strategy and Metaplanet from its indexes and may have roots in an earlier crypto treasury review."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry",
+      "headline": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-01T11:58:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+          "url": "https://coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+          "date": "2026-10-01T11:58:00.000Z",
+          "summary": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-lost-1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a",
+      "headline": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T11:30:38.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+          "url": "https://coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+          "date": "2026-10-01T11:30:38.000Z",
+          "summary": "Your day-ahead look for Oct. 1, 2026"
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149",
+      "headline": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-01T12:17:06.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+          "url": "https://theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+          "date": "2026-10-01T12:17:06.000Z",
+          "summary": "Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund."
         }
       ],
       "validation": {
@@ -461,6 +561,139 @@
       "status": "pendente"
     },
     {
+      "id": "synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "headline": "Synthetic tokenized stocks are bad for American investors",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-01T11:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Synthetic tokenized stocks are bad for American investors",
+          "url": "https://coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+          "date": "2026-10-01T11:00:00.000Z",
+          "summary": "U.S. markets are the envy of the world because investors trust that whoever owns a share owns it fully, writes Aaron Kaplan, founder of Promethum. The synthetic models cheapens that trust, shortchanges U.S. investors, and undercuts the issuer-led capital markets model."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-kicks-off-new-quarter-in-the-old-82-000-85-000-price-range",
+      "headline": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-01T10:38:04.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+          "url": "https://coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+          "date": "2026-10-01T10:38:04.000Z",
+          "summary": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "tokenized-assets-don-t-always-mirror-traditional-markets-dune-finds",
+      "headline": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-01T10:50:24.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+          "url": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report",
+          "date": "2026-10-01T10:50:24.000Z",
+          "summary": "Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-trapped-below-86k-as-pce-changes-cloud-inflation-reading",
+      "headline": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T10:30:18.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+          "url": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data",
+          "date": "2026-10-01T10:30:18.000Z",
+          "summary": "Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-industry-gave-8-million-to-clarity-act-lobbyists-who-didn-t",
       "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "category": "regulacao",
@@ -648,6 +881,73 @@
           "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight",
           "date": "2026-10-01T01:07:46.000Z",
           "summary": "The classification could assist the CFTC’s claim that it has exclusive federal jurisdiction over event contracts offered on regulated prediction markets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "metamask-security-incident-forces-ethereum-staking-exits-no-funds-at",
+      "headline": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T07:06:30.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+          "url": "https://coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+          "date": "2026-10-01T07:06:30.000Z",
+          "summary": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-draw-6-3b-in-q3-as-btc-price-rises-nearly-43",
+      "headline": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-01T07:27:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43",
+          "date": "2026-10-01T07:27:00.000Z",
+          "summary": "Bitcoin gained 42.71% in Q3, its best third-quarter performance since 2017, as US spot ETFs attracted $6.34 billion in net inflows."
         }
       ],
       "validation": {
@@ -2370,6 +2670,74 @@
       "status": "pendente"
     },
     {
+      "id": "bloomberg-integra-dados-de-stablecoins-ao-terminal-para-mercado",
+      "headline": "Bloomberg integra dados de stablecoins ao Terminal para mercado institucional",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T10:57:57.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bloomberg integra dados de stablecoins ao Terminal para mercado institucional",
+          "url": "https://livecoins.com.br/bloomberg-integra-dados-de-stablecoins-ao-terminal-para-mercado-institucional",
+          "date": "2026-10-01T10:57:57.000Z",
+          "summary": "A empresa Bloomberg anunciou a inclusão de um painel voltado ao acompanhamento de stablecoins em seu terminal financeiro na quarta-feira (30). O sistema funciona com informações estruturadas pela plataforma Allium para reforçar a cobertura de mercado. “As stablecoins estão se tornando uma parte cada vez mais importante dos mercados institucionais de ativos digitais, principalmente à […] Fonte: Bloomberg integra dados de stablecoins ao Terminal para mercado institucional Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-hoje-btc-tenta-retomar-os-us-84-mil-apos-inflacao-dar-alivio",
+      "headline": "Bitcoin hoje: BTC tenta retomar os US$ 84 mil após inflação dar alívio temporário nos EUA",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-01T12:08:58.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin hoje: BTC tenta retomar os US$ 84 mil após inflação dar alívio temporário nos EUA",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-tenta-retomar-os-us-84-mil-apos-inflacao-dar-alivio-temporario-nos-eua",
+          "date": "2026-10-01T12:08:58.000Z",
+          "summary": "Bitcoin volta aos US$ 83 mil após inflação mais fraca nos EUA, enquanto juros elevados dos Treasuries e saídas dos ETFs limitam a recuperação O post Bitcoin hoje: BTC tenta retomar os US$ 84 mil após inflação dar alívio temporário nos EUA apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "uk-brings-crypto-under-full-fca-oversight-for-the-first-time",
       "headline": "UK Brings Crypto Under Full FCA Oversight for the First Time",
       "category": "regulacao",
@@ -3711,6 +4079,323 @@
       },
       "score": 12,
       "status": "pendente"
+    },
+    {
+      "id": "live-updates-bitcoin-flat-near-84-000-after-closing-out-best-quarter",
+      "headline": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T11:59:17.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+          "url": "https://coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+          "date": "2026-10-01T11:59:17.000Z",
+          "summary": "After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "citigroup-raises-12-month-bitcoin-target-to-113-000-as-etf-inflows",
+      "headline": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-01T09:59:30.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+          "url": "https://coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+          "date": "2026-10-01T09:59:30.000Z",
+          "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "previsão de preço"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "binance-s-eu-services-face-scrutiny-over-licensing-exemption-report",
+      "headline": "Binance’s EU services face scrutiny over licensing exemption: Report",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-01T10:07:18.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
+          "url": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight",
+          "date": "2026-10-01T10:07:18.000Z",
+          "summary": "EU regulators are reportedly examining Binance’s use of a MiCA exemption to serve customers as ESMA seeks stronger enforcement powers."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "chainalysis-beats-most-celsius-claims-but-audit-lawsuit-survives",
+      "headline": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-01T09:09:46.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
+          "url": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives",
+          "date": "2026-10-01T09:09:46.000Z",
+          "summary": "Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3.3 billion audit after a judge dismissed 15 other claims."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "headline": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-01T12:29:00.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+          "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+          "date": "2026-10-01T12:29:00.000Z",
+          "summary": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T12:23:15.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+          "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+          "date": "2026-10-01T12:23:15.000Z",
+          "summary": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "previsão de preço"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "metamask-exits-lido-validators-amid-infrastructure-security-incident",
+      "headline": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
+      "category": "regulacao",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T09:38:06.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
+          "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+          "date": "2026-10-01T09:38:06.000Z",
+          "summary": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "eu-presses-binance-over-reverse-solicitation-exemption-for-users",
+      "headline": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-01T08:56:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
+          "url": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+          "date": "2026-10-01T08:56:02.000Z",
+          "summary": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "lloyds-visa-settle-750-000-using-usdc-in-live-cross-border-pilot",
+      "headline": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T11:13:46.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
+          "url": "https://theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
+          "date": "2026-10-01T11:13:46.000Z",
+          "summary": "Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
