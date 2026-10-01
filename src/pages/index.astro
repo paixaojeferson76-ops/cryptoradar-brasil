@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import HeroLead from '../components/HeroLead.astro';
 import MarketPanel from '../components/MarketPanel.astro';
 import Advertisement from '../components/Advertisement.astro';
 import { getPublished, inCategory, type Article } from '../lib/articles';
@@ -10,15 +11,13 @@ import { link } from '../lib/url';
 const all = await getPublished();
 const lead = all.find((a) => a.data.featured) ?? all[0];
 const used = new Set<string>([lead?.id]);
-const take = (list: Article[], n: number, fill = false) => {
+const take = (list: Article[], n: number) => {
   const out = list.filter((a) => !used.has(a.id)).slice(0, n);
   out.forEach((a) => used.add(a.id));
-  // Completa a seção com itens já exibidos acima, para não deixar coluna vazia.
-  if (fill && out.length < n) out.push(...list.filter((a) => !out.includes(a) && a.id !== lead?.id).slice(0, n - out.length));
   return out;
 };
 
-const latest = take(all, 5);
+const latest = take(all, 3);
 const relevant = take(
   all.filter((a) => a.data.featured),
   4,
@@ -27,7 +26,7 @@ if (relevant.length < 4) relevant.push(...take(all, 4 - relevant.length));
 
 const sections: { id: CategoryId | 'guias'; title: string; href: string; items: Article[] }[] = [];
 for (const id of ['bitcoin', 'ethereum', 'mercado', 'regulacao', 'tecnologia'] as CategoryId[]) {
-  sections.push({ id, title: CATEGORIES[id].name, href: `/${id}`, items: take(inCategory(all, id), 3, true) });
+  sections.push({ id, title: CATEGORIES[id].name, href: `/${id}`, items: take(inCategory(all, id), 3) });
 }
 sections.push({
   id: 'guias',
@@ -36,7 +35,6 @@ sections.push({
   items: take(
     all.filter((a) => a.data.type === 'guia'),
     4,
-    true,
   ),
 });
 ---
@@ -46,22 +44,18 @@ sections.push({
     <h1 class="visually-hidden">{SITE.name}: notícias e guias sobre Bitcoin e criptomoedas</h1>
 
     <div class="top">
-      {lead && <ArticleCard article={lead} variant="lead" headingLevel={2} eager />}
-
-      <aside class="latest" aria-labelledby="ultimas">
-        <h2 id="ultimas">Últimas publicações</h2>
-        <ul>
-          {
-            latest.map((a) => (
-              <li>
-                <ArticleCard article={a} variant="row" />
-              </li>
-            ))
-          }
-        </ul>
-        <a class="all" href={link('/noticias')}>Ver todas as publicações</a>
-      </aside>
+      {lead && <HeroLead article={lead} />}
     </div>
+
+    <section class="latest" aria-labelledby="ultimas">
+      <div class="section-head">
+        <h2 id="ultimas">Últimas publicações</h2>
+        <a href={link('/noticias')}>Ver todas</a>
+      </div>
+      <div class="grid-3">
+        {latest.map((a) => <ArticleCard article={a} />)}
+      </div>
+    </section>
 
     <Advertisement placement="home" />
 
@@ -86,14 +80,14 @@ sections.push({
 
     {
       sections
-        .filter((s) => s.items.length > 0)
+        .filter((s) => s.items.length >= 2)
         .map((s) => (
           <section aria-labelledby={`sec-${s.id}`} class="cat-section">
             <div class="section-head">
               <h2 id={`sec-${s.id}`}>{s.title}</h2>
               <a href={link(s.href)}>Mais em {s.id === 'guias' ? 'Guias' : s.title}</a>
             </div>
-            <div class:list={[s.items.length > 3 ? 'grid-4' : 'grid-3']}>
+            <div class:list={[s.items.length > 3 ? 'grid-4' : s.items.length === 3 ? 'grid-3' : 'grid-2']}>
               {s.items.map((a) => (
                 <ArticleCard article={a} />
               ))}
@@ -108,34 +102,7 @@ sections.push({
 
 <style>
   .top {
-    display: grid;
-    gap: 2rem;
-    padding-top: 1.75rem;
-  }
-
-  .latest h2 {
-    font-size: var(--step-1);
-    border-bottom: 2px solid var(--ink);
-    padding-bottom: 0.4rem;
-    margin-bottom: 0.4rem;
-  }
-
-  .latest ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .latest li {
-    padding: 0.85rem 0;
-    border-bottom: 1px solid var(--line);
-  }
-
-  .all {
-    display: inline-block;
-    margin-top: 0.9rem;
-    font-weight: 650;
-    color: var(--brand);
+    padding-top: 1.5rem;
   }
 
   .middle {
@@ -171,6 +138,7 @@ sections.push({
     color: var(--ink);
   }
 
+  .grid-2,
   .grid-3,
   .grid-4 {
     display: grid;
@@ -178,6 +146,7 @@ sections.push({
   }
 
   @media (min-width: 640px) {
+    .grid-2,
     .grid-3,
     .grid-4 {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -185,11 +154,6 @@ sections.push({
   }
 
   @media (min-width: 980px) {
-    .top {
-      grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
-      gap: 2.5rem;
-    }
-
     .middle {
       grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
       gap: 2.5rem;

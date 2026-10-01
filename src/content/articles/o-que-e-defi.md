@@ -10,6 +10,11 @@ reviewed: false
 category: defi
 tags: ["DeFi", "Ethereum", "stablecoins", "segurança"]
 type: guia
+image: "/images/noticias/o-que-e-defi.webp"
+imageAlt: "Moeda com o símbolo do Ethereum sobre moedas de cobre"
+imageCredit: "Imagem por Ivan Radic (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=150592955"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 featured: true
 sources:
   - title: "Decentralized finance (DeFi)"

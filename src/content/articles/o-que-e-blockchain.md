@@ -10,6 +10,11 @@ reviewed: false
 category: blockchain
 tags: ["blockchain", "tecnologia", "iniciantes"]
 type: guia
+image: "/images/noticias/o-que-e-blockchain.webp"
+imageAlt: "Símbolo do bitcoin em verde no centro de um circuito eletrônico"
+imageCredit: "Imagem por edwinchuen (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=122799664"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "Bitcoin: A Peer-to-Peer Electronic Cash System (whitepaper)"
     url: "https://bitcoin.org/bitcoin.pdf"

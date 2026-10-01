@@ -10,6 +10,11 @@ reviewed: false
 category: mercado
 tags: ["mercado", "indicadores", "Bitcoin", "iniciantes"]
 type: guia
+image: "/images/noticias/como-ler-o-mercado-cripto.webp"
+imageAlt: "Notebook exibindo gráficos de cotações"
+imageCredit: "Imagem por Negative Space - Pexels account (CC0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=81666294"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
 sources:
   - title: "CoinGecko — metodologia e dados de mercado"
     url: "https://www.coingecko.com/en/methodology"

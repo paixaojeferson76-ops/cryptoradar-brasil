@@ -80,17 +80,20 @@ const isActive = (href: string) => current === href || current.startsWith(href +
 
 <style>
   .site-header {
-    background: var(--surface);
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    background: color-mix(in srgb, var(--surface) 82%, transparent);
+    backdrop-filter: saturate(1.6) blur(14px);
+    -webkit-backdrop-filter: saturate(1.6) blur(14px);
     border-bottom: 1px solid var(--line);
-    position: relative;
-    z-index: 20;
   }
 
   .bar {
     display: flex;
     align-items: center;
     gap: 1rem;
-    min-height: 64px;
+    min-height: 60px;
   }
 
   .brand {
@@ -244,7 +247,19 @@ const isActive = (href: string) => current === href || current.startsWith(href +
   }
 
   .primary {
-    display: none;
+    display: block;
+    position: relative;
+  }
+
+  .primary::after {
+    content: '';
+    position: absolute;
+    right: var(--gutter);
+    top: 0;
+    bottom: 0;
+    width: 32px;
+    background: linear-gradient(90deg, transparent, var(--surface));
+    pointer-events: none;
   }
 
   .primary ul {
@@ -259,7 +274,7 @@ const isActive = (href: string) => current === href || current.startsWith(href +
 
   .primary a {
     display: block;
-    padding: 0.7rem 0.75rem;
+    padding: 0.55rem 0.75rem 0.6rem;
     font-weight: 600;
     font-size: 0.95rem;
     text-decoration: none;
@@ -281,8 +296,10 @@ const isActive = (href: string) => current === href || current.startsWith(href +
     padding-left: 0;
   }
 
-  .extra {
-    display: none;
+  @media (max-width: 1179px) and (min-width: 900px) {
+    .extra {
+      display: none;
+    }
   }
 
   @media (min-width: 900px) {
@@ -294,14 +311,9 @@ const isActive = (href: string) => current === href || current.startsWith(href +
       display: none;
     }
 
-    .primary {
-      display: block;
+    .primary::after {
+      display: none;
     }
   }
 
-  @media (min-width: 1180px) {
-    .extra {
-      display: block;
-    }
-  }
 </style>

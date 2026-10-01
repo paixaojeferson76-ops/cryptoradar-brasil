@@ -10,6 +10,11 @@ reviewed: false
 category: regulacao
 tags: ["regulação", "Banco Central", "Brasil", "segurança", "autocustódia"]
 type: noticia
+image: "/images/noticias/banco-central-retencao-preventiva-transferencias-ativos-virtuais.webp"
+imageAlt: "Edifício-sede do Banco Central do Brasil, em Brasília"
+imageCredit: "Imagem por Agência Senado from Brasilia, Brazil (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=131077964"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 featured: true
 sources:
   - title: "BC reforça combate a fraudes com novas regras para transferências de ativos virtuais"

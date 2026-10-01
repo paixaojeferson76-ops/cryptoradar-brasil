@@ -60,7 +60,7 @@ jobs:
           if [ -n "$REVIEW" ]; then
             BRANCH="noticias/$(date -u +%Y%m%d-%H%M)"
             git switch -c "$BRANCH"
-            for s in $REVIEW; do git add "src/content/articles/$s.md"; done
+            for s in $REVIEW; do git add "src/content/articles/$s.md"; if [ -f "public/images/noticias/$s.webp" ]; then git add "public/images/noticias/$s.webp" "public/images/noticias/$s-800.webp"; fi; done
             git commit -m "noticias: rascunhos para revisão ($(echo $REVIEW | wc -w))"
             git push origin "$BRANCH"
             BODY=$(jq -r '"Notícias geradas automaticamente a partir das fontes abaixo. **Revise cada texto contra as fontes antes do merge** (o merge publica).\n\n" + ([.review[] | "- **\(.title)** — confiança \(.confidence) — fontes: \(.sources | join(", "))"] | join("\n"))' automation/data/last-run.json)
@@ -68,7 +68,7 @@ jobs:
             git switch main
           fi
 
-          for s in $AUTO; do git add "src/content/articles/$s.md"; done
+          for s in $AUTO; do git add "src/content/articles/$s.md"; if [ -f "public/images/noticias/$s.webp" ]; then git add "public/images/noticias/$s.webp" "public/images/noticias/$s-800.webp"; fi; done
           git add automation/data/queue.json automation/data/seen.json automation/data/pauta.md automation/data/last-run.json
           if ! git diff --cached --quiet; then
             git commit -m "automação: fila de pautas${AUTO:+ e notícias automáticas}"

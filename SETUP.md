@@ -52,7 +52,7 @@ Texto em Markdown. Links internos: [texto](/noticias/outro-slug) ou [Bitcoin](/b
 3. `npm run build && npm run verify` para conferir.
 4. `git add . && git commit -m "noticia: ..." && git push`. O site é atualizado sozinho em ~2 minutos.
 
-Campos opcionais: `image` + `imageAlt` + `imageCredit` (imagem própria ou com licença; sem ela o site gera a capa "radar" automaticamente), `updatedDate`, `draft: true` (esconde do site).
+Campos opcionais: `image` + `imageAlt` + `imageCredit` + `imageSource` + `imageLicenseUrl` (foto com licença livre, veja "Imagens das matérias" em NEWS_AUTOMATION.md; sem ela o site gera a capa "radar"), `updatedDate`, `draft: true` (esconde do site).
 
 ## Onde mudar as coisas
 

@@ -10,6 +10,11 @@ reviewed: false
 category: bitcoin
 tags: ["Bitcoin", "tecnologia", "mineração", "iniciantes"]
 type: guia
+image: "/images/noticias/como-funciona-o-bitcoin.webp"
+imageAlt: "Moedas de bitcoin prateadas sobre grânulos pretos"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/5974412/bitcoin-free-public-domain-cc0-image"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 featured: true
 sources:
   - title: "Bitcoin: A Peer-to-Peer Electronic Cash System (whitepaper)"

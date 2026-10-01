@@ -10,6 +10,11 @@ reviewed: false
 category: regulacao
 tags: ["regulação", "SEC", "tokenização", "DeFi", "mercado"]
 type: noticia
+image: "/images/noticias/sec-innovation-exemption-acoes-tokenizadas.webp"
+imageAlt: "Placa da Wall Street, em Nova York"
+imageCredit: "Imagem por Alex Proimos from Sydney, Australia (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=25650653"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "SEC Issues \"Innovation Exemption\" to Facilitate the Trading of Tokenized NMS Stock and Request for Comment"
     url: "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"

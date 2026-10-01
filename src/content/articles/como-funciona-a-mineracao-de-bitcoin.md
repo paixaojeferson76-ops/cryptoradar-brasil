@@ -10,6 +10,11 @@ reviewed: false
 category: mineracao
 tags: ["mineração", "Bitcoin", "energia", "tecnologia"]
 type: guia
+image: "/images/noticias/como-funciona-a-mineracao-de-bitcoin.webp"
+imageAlt: "Máquinas de mineração de bitcoin enfileiradas"
+imageCredit: "Imagem por Mirko Tobias Schäfer (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=92021863"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "Bitcoin: A Peer-to-Peer Electronic Cash System (whitepaper)"
     url: "https://bitcoin.org/bitcoin.pdf"

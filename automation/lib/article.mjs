@@ -15,7 +15,7 @@ Escreva uma NOTÍCIA ORIGINAL a partir das informações das fontes fornecidas. 
 9. Não afirme relação de causa e efeito que as fontes não afirmem, não use adjetivos que as fontes não usem e não termine com conclusão, opinião ou frase de efeito: encerre com um fato ou com o próximo passo informado pelas fontes.
 10. Inclua de 1 a 3 links internos, SOMENTE da lista de artigos fornecida, no formato [texto](/noticias/slug), onde fizer sentido.
 Responda APENAS com JSON no formato:
-{"title": "até 110 caracteres", "description": "resumo de 120 a 240 caracteres", "seoTitle": "até 65 caracteres", "seoDescription": "120 a 155 caracteres", "category": "uma de: ${CATEGORIES.join(', ')}", "tags": ["3 a 6 tags em português"], "body": "markdown"}`;
+{"title": "até 110 caracteres", "description": "resumo de 120 a 240 caracteres", "seoTitle": "até 65 caracteres", "seoDescription": "120 a 155 caracteres", "category": "uma de: ${CATEGORIES.join(', ')}", "tags": ["3 a 6 tags em português"], "imageQueries": ["2 ou 3 buscas curtas em inglês para uma foto ilustrativa genérica: objetos, lugares ou conceitos (ex.: bitcoin coin, stock exchange, data center). Nunca pessoas, rostos ou logotipos"], "body": "markdown"}`;
 
 export function buildUserPrompt(story, existing) {
   const sources = story.items
@@ -68,7 +68,7 @@ export function checkGenerated(g, story, existingSlugs = new Set()) {
 const q = (s) => JSON.stringify(String(s));
 
 /** Monta o arquivo Markdown com frontmatter no formato da coleção "articles". */
-export function toMarkdown(g, story, { now = new Date(), draft, reviewed, model }) {
+export function toMarkdown(g, story, { now = new Date(), draft, reviewed, model, image = null }) {
   const iso = new Date(now.getTime() - 3 * 36e5).toISOString().replace(/\.\d{3}Z$/, '-03:00');
   const sources = story.items
     .map(
@@ -87,6 +87,7 @@ export function toMarkdown(g, story, { now = new Date(), draft, reviewed, model 
     `category: ${g.category}`,
     `tags: [${g.tags.map(q).join(', ')}]`,
     'type: noticia',
+    ...(image ? Object.entries(image).filter(([, v]) => v).map(([k, v]) => `${k}: ${q(v)}`) : []),
     'sources:',
     sources,
     `draft: ${draft}`,

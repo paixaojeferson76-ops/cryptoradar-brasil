@@ -10,6 +10,11 @@ reviewed: false
 category: seguranca
 tags: ["segurança", "carteiras", "Bitcoin", "iniciantes"]
 type: guia
+image: "/images/noticias/o-que-e-autocustodia.webp"
+imageAlt: "Mãos guardando uma moeda de bitcoin em uma carteira de couro"
+imageCredit: "Imagem por CryptoWallet.com Images (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=108114736"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "Choose your wallet"
     url: "https://bitcoin.org/en/choose-your-wallet"

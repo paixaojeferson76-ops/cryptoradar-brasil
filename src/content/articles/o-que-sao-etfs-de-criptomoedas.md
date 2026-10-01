@@ -10,6 +10,11 @@ reviewed: false
 category: mercado
 tags: ["ETFs", "mercado", "Bitcoin", "Ethereum", "regulação"]
 type: guia
+image: "/images/noticias/o-que-sao-etfs-de-criptomoedas.webp"
+imageAlt: "Fachada da Bolsa de Valores de Nova York"
+imageCredit: "Imagem por TomasEE (CC BY 3.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=54505867"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 sources:
   - title: "Statement on the Approval of Spot Bitcoin Exchange-Traded Products"
     url: "https://www.sec.gov/newsroom/speeches-statements/gensler-statement-spot-bitcoin-011023"

@@ -10,6 +10,11 @@ reviewed: false
 category: regulacao
 tags: ["regulação", "Brasil", "Banco Central", "CVM"]
 type: guia
+image: "/images/noticias/regulacao-de-criptomoedas-no-brasil.webp"
+imageAlt: "Martelo de juiz ao lado de moedas douradas de criptomoedas"
+imageCredit: "Imagem por CryptoWallet.com Images (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=108114748"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 featured: true
 sources:
   - title: "Lei nº 14.478, de 21 de dezembro de 2022"

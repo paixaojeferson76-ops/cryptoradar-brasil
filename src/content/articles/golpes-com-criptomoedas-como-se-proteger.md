@@ -10,6 +10,11 @@ reviewed: false
 category: seguranca
 tags: ["segurança", "golpes", "carteiras", "iniciantes"]
 type: guia
+image: "/images/noticias/golpes-com-criptomoedas-como-se-proteger.webp"
+imageAlt: "Notebook com a palavra HACKED na tela"
+imageCredit: "Imagem por Yuri Samoilov (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=97404624"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 featured: true
 sources:
   - title: "What to know about cryptocurrency and scams"

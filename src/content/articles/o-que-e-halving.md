@@ -10,6 +10,11 @@ reviewed: false
 category: mineracao
 tags: ["Bitcoin", "halving", "mineração", "mercado"]
 type: guia
+image: "/images/noticias/o-que-e-halving.webp"
+imageAlt: "Mão segurando uma moeda de bitcoin dourada"
+imageCredit: "Imagem por Satheesh Sankaran (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=128701877"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 featured: true
 sources:
   - title: "Controlled supply"

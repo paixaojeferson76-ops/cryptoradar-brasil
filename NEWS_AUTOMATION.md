@@ -84,3 +84,12 @@ npm run preview                    # rascunhos (draft: true) não aparecem
 ## Resiliência da IA
 
 Se o Gemini responder "alta demanda" (503) ou limite (429), o gerador espera e tenta de novo até 3 vezes e, se continuar, passa para o próximo modelo Flash disponível. Uma pauta que falhar volta na execução seguinte.
+
+## Imagens das matérias
+
+- Fonte: [Openverse](https://openverse.org) (WordPress Foundation), que reúne bancos abertos como Wikimedia Commons, Flickr, Rawpixel e StockSnap. Não exige chave.
+- Só licenças com uso comercial liberado: **CC0**, **domínio público** e **CC BY**. As CC BY exigem crédito, e o site exibe autor, origem e link da licença abaixo da foto.
+- Na geração automática, a IA sugere buscas em inglês (objetos, lugares, conceitos; nunca pessoas ou logotipos). O sistema pega a primeira imagem válida ainda não usada no site, recorta em 16:9 e salva em `public/images/noticias/<slug>.webp` (1600px) e `<slug>-800.webp`.
+- **Revise a foto no PR**: troque se mostrar uma pessoa identificável, uma marca ou algo que possa enganar o leitor. Sem imagem, o site usa a capa "radar" gerada.
+- Para trocar à mão: salve a foto em `public/images/noticias/` nos dois tamanhos e preencha `image`, `imageAlt`, `imageCredit`, `imageSource` e `imageLicenseUrl` no frontmatter.
+- O Wikimedia só serve miniaturas em larguras padrão (330, 500, 960, 1280, 1920) e limita downloads de originais (HTTP 429); a biblioteca `automation/lib/images.mjs` já trata os dois casos.

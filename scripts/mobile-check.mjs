@@ -50,6 +50,15 @@ for (const [label, viewport] of [
     const expected = route === '/rota-inexistente' ? 404 : 200;
     const status = res?.status?.();
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+    // Rola a página para carregar as imagens com loading="lazy" antes da captura.
+    await page.evaluate(async () => {
+      for (let y = 0; y < document.body.scrollHeight; y += 500) {
+        window.scrollTo(0, y);
+        await new Promise((r) => setTimeout(r, 80));
+      }
+      window.scrollTo(0, 0);
+    });
+    await page.waitForLoadState('networkidle').catch(() => {});
     const name = `${label}-${route.replace(/[^a-z0-9]+/gi, '_') || 'home'}.png`;
     await page.screenshot({ path: `screenshots/${name}`, fullPage: true });
     const ok = status === expected && overflow <= 0 && errors.length === 0;

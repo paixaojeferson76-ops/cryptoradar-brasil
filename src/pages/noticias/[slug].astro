@@ -11,6 +11,7 @@ import { getPublished, related, articleHref, tagSlug, type Article } from '../..
 import { formatLongDate, formatTime, readingTime, TYPE_LABEL } from '../../lib/format';
 import { articleLd, breadcrumbLd } from '../../lib/seo';
 import { absolute, link } from '../../lib/url';
+import { coverOf } from '../../lib/images';
 
 export const getStaticPaths = (async () => {
   const all = await getPublished();
@@ -23,8 +24,8 @@ const { Content } = await render(article);
 const author = await getEntry(data.author);
 const cat = CATEGORIES[data.category];
 const path = articleHref(article);
-const cover = data.image ?? `/capas/${article.id}.svg`;
-const ogImage = data.image && !data.image.endsWith('.svg') ? data.image : `/og/${article.id}.png`;
+const cover = coverOf(article);
+const ogImage = cover.photo && data.image?.startsWith("/images/") ? `/og/${article.id}.jpg` : `/og/${article.id}.png`;
 const minutes = readingTime(article.body);
 const rel = related(article, all, 3);
 const crumbs = [
@@ -99,15 +100,36 @@ const authorPath = `/autor/${data.author.id}`;
 
       <figure class="cover">
         <img
-          src={link(cover)}
+          src={cover.src}
+          srcset={cover.srcset}
+          sizes="(min-width: 1220px) 1160px, 100vw"
           alt={data.imageAlt ?? ''}
-          width="1200"
-          height="630"
+          width="1600"
+          height="900"
           fetchpriority="high"
           decoding="async"
           data-pagefind-meta="image[src]"
         />
-        {data.imageCredit && <figcaption>{data.imageCredit}</figcaption>}
+        {
+          data.imageCredit && (
+            <figcaption>
+              {data.imageAlt && <span>{data.imageAlt}. </span>}
+              {data.imageSource ? (
+                <a href={data.imageSource} target="_blank" rel="noopener noreferrer">
+                  {data.imageCredit}
+                </a>
+              ) : (
+                data.imageCredit
+              )}
+              {data.imageLicenseUrl && (
+                <>
+                  {' '}
+                  (<a href={data.imageLicenseUrl} target="_blank" rel="noopener noreferrer license">licença</a>)
+                </>
+              )}
+            </figcaption>
+          )
+        }
       </figure>
 
       <div class="main">
@@ -244,15 +266,19 @@ const authorPath = `/autor/${data.author.id}`;
   .cover img {
     width: 100%;
     border-radius: var(--radius-l);
-    aspect-ratio: 1200 / 630;
+    aspect-ratio: 16 / 9;
     object-fit: cover;
     background: var(--line);
   }
 
   figcaption {
-    font-size: var(--step--1);
+    font-size: 0.8rem;
     color: var(--ink-3);
-    margin-top: 0.4rem;
+    margin-top: 0.5rem;
+  }
+
+  figcaption a {
+    color: inherit;
   }
 
   .ai-note {

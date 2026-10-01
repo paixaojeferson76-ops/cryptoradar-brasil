@@ -10,6 +10,11 @@ reviewed: false
 category: bitcoin
 tags: ["Bitcoin", "iniciantes", "blockchain"]
 type: guia
+image: "/images/noticias/o-que-e-bitcoin.webp"
+imageAlt: "Moeda física de bitcoin prateada sobre fundo escuro"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/5914956/dark-bitcoin-coins"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 featured: true
 sources:
   - title: "Bitcoin: A Peer-to-Peer Electronic Cash System (whitepaper)"

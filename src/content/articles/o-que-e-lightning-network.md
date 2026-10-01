@@ -10,6 +10,11 @@ reviewed: false
 category: tecnologia
 tags: ["Bitcoin", "Lightning", "tecnologia", "pagamentos"]
 type: guia
+image: "/images/noticias/o-que-e-lightning-network.webp"
+imageAlt: "Raios caindo sobre o mar durante uma tempestade, vistos de um píer"
+imageCredit: "Imagem por Maxime Raynal from France (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=42048641"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments"
     url: "https://lightning.network/lightning-network-paper.pdf"

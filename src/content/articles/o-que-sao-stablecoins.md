@@ -10,6 +10,11 @@ reviewed: false
 category: altcoins
 tags: ["stablecoins", "DeFi", "regulação", "mercado"]
 type: guia
+image: "/images/noticias/o-que-sao-stablecoins.webp"
+imageAlt: "Maço de notas de dólar e moedas douradas sobre um notebook"
+imageCredit: "Imagem por Bybit.com (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=124084409"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "Stablecoins"
     url: "https://ethereum.org/en/stablecoins/"

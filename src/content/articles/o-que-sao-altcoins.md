@@ -10,6 +10,11 @@ reviewed: false
 category: altcoins
 tags: ["altcoins", "mercado", "Ethereum", "iniciantes"]
 type: guia
+image: "/images/noticias/o-que-sao-altcoins.webp"
+imageAlt: "Mão aberta segurando moedas de criptomoedas"
+imageCredit: "Imagem por Shixart1985 (CC BY 2.0), via Wikimedia Commons"
+imageSource: "https://commons.wikimedia.org/w/index.php?curid=196345503"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 sources:
   - title: "CoinGecko — categorias de criptomoedas"
     url: "https://www.coingecko.com/en/categories"

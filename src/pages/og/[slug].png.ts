@@ -4,17 +4,15 @@ import { getPublished } from '../../lib/articles';
 import { coverSvg } from '../../lib/cover';
 import { CATEGORIES, SITE } from '../../config/site';
 
-/** Imagens 1200×630 para Open Graph / X (redes sociais não aceitam SVG). */
+/** Imagens 1200×630 para Open Graph / X (redes sociais não aceitam SVG nem WebP em todos os apps). */
 export const getStaticPaths = (async () => {
-  const list = await getPublished();
+  // Matérias com foto usam /og/<slug>.jpg (endpoint ao lado).
+  const list = (await getPublished()).filter((a) => !a.data.image?.startsWith('/images/'));
   const pages = list.map((a) => ({
     params: { slug: a.id },
-    props: { title: a.data.title, category: a.data.category as string },
+    props: { title: a.data.title, category: a.data.category as string, image: a.data.image ?? '' },
   }));
-  pages.push({
-    params: { slug: 'default' },
-    props: { title: SITE.tagline, category: 'bitcoin' },
-  });
+  pages.push({ params: { slug: 'default' }, props: { title: SITE.tagline, category: 'bitcoin', image: '' } });
   return pages;
 }) satisfies GetStaticPaths;
 

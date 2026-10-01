@@ -8,6 +8,11 @@ author: redacao
 category: mercado
 tags: ["Bitwise", "NEAR Protocol", "ETFs de criptomoedas", "Staking", "Mercado cripto"]
 type: noticia
+image: "/images/noticias/bitwise-lanca-nos-estados-unidos-o-primeiro-etf-a-vista-de-near-com-rendimentos.webp"
+imageAlt: "Pregão da Bolsa de Valores de Nova York"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/6111464/new-york-stock-exchange-usa-02282017"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 sources:
   - title: "Bitwise launches first US spot NEAR ETF after token’s recent surge"
     url: "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge"

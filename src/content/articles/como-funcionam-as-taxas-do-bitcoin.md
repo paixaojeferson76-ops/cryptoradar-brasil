@@ -10,6 +10,11 @@ reviewed: false
 category: bitcoin
 tags: ["Bitcoin", "taxas", "tecnologia", "mercado"]
 type: guia
+image: "/images/noticias/como-funcionam-as-taxas-do-bitcoin.webp"
+imageAlt: "Moeda de bitcoin dourada refletida sobre uma tela com cotações"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/5922925/free-public-domain-cc0-photo"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 sources:
   - title: "Bitcoin Developer Guide: Transaction fees and change"
     url: "https://developer.bitcoin.org/devguide/transactions.html#transaction-fees-and-change"

@@ -31,6 +31,9 @@ const articles = defineCollection({
       image: z.string().optional(),
       imageAlt: z.string().optional(),
       imageCredit: z.string().optional(),
+      /** Página original da imagem e link da licença (obrigatórios para CC BY). */
+      imageSource: z.url().optional(),
+      imageLicenseUrl: z.url().optional(),
       sources: z.array(source).default([]),
       featured: z.boolean().default(false),
       draft: z.boolean().default(false),

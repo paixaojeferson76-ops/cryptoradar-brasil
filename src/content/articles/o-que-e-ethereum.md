@@ -10,6 +10,11 @@ reviewed: false
 category: ethereum
 tags: ["Ethereum", "contratos inteligentes", "tecnologia", "iniciantes"]
 type: guia
+image: "/images/noticias/o-que-e-ethereum.webp"
+imageAlt: "Duas moedas físicas com o símbolo do Ethereum sobre fundo escuro"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/5914894/ethereum-cryptocurrency"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 featured: true
 sources:
   - title: "What is Ethereum?"

@@ -10,6 +10,11 @@ reviewed: false
 category: ethereum
 tags: ["Ethereum", "tecnologia", "atualização", "escalabilidade"]
 type: noticia
+image: "/images/noticias/ethereum-glamsterdam-testnet-sepolia.webp"
+imageAlt: "Corredor de data center com racks de servidores iluminados em azul"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/5906639/photo-image-light-desktop-wallpapers-public-domain"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 sources:
   - title: "Glamsterdam Testnet Announcement"
     url: "https://blog.ethereum.org/en/2026/09/17/glamsterdam-testnet-announcement"

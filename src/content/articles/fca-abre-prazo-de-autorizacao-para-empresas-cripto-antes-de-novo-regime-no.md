@@ -8,6 +8,11 @@ author: redacao
 category: regulacao
 tags: ["FCA", "Reino Unido", "regulação cripto", "stablecoins", "licenciamento"]
 type: noticia
+image: "/images/noticias/fca-abre-prazo-de-autorizacao-para-empresas-cripto-antes-de-novo-regime-no.webp"
+imageAlt: "Vista do centro de Londres com a Catedral de St. Paul"
+imageCredit: "Imagem (CC0), via Rawpixel"
+imageSource: "https://www.rawpixel.com/image/5918942/image-public-domain-water-free"
+imageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 sources:
   - title: "FCA opens crypto authorization window ahead of 2027 UK regime"
     url: "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime"
