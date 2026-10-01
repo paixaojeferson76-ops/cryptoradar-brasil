@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-01T13:00:00.921Z",
+  "updatedAt": "2026-10-01T18:56:21.996Z",
   "stories": [
+    {
+      "id": "v32-0rc3-bitcoin-core-32-0-release-candidate-3",
+      "headline": "v32.0rc3: Bitcoin Core 32.0 release candidate 3",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T16:41:48.000Z",
+      "publishers": [
+        "Bitcoin Core (GitHub)"
+      ],
+      "official": true,
+      "items": [
+        {
+          "feed": "bitcoin-core",
+          "publisher": "Bitcoin Core (GitHub)",
+          "type": "official",
+          "weight": 3,
+          "lang": "en",
+          "title": "v32.0rc3: Bitcoin Core 32.0 release candidate 3",
+          "url": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc3",
+          "date": "2026-10-01T16:41:48.000Z",
+          "summary": "Tree-SHA512: c62b5cef9395bbc1d7607ebe8898e3414e1da1a5ab98ecfa49b7ff9e979159e79ce9ee47c1e8828ec7d018f6a6a0c0cd89d9aa327736024cb6fd138f7896996f",
+          "fullText": ""
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "alta",
+        "reasons": []
+      },
+      "score": 73,
+      "status": "pulada",
+      "note": "A fonte fornecida apresenta apenas o título da versão candidate v32.0rc3 do Bitcoin Core e um hash SHA-512, sem fornecer notas de lançamento, detalhes das mudanças ou contexto suficiente para a redação de uma notícia completa de 300 a 600 palavras sem violar a regra de não inventar informações."
+    },
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
       "headline": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
@@ -255,6 +290,173 @@
           "url": "https://theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
           "date": "2026-10-01T12:17:06.000Z",
           "summary": "Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "headline": "Another Trump memecoin dinner advertised for token's top investors",
+      "category": "altcoins",
+      "tags": [],
+      "firstSeen": "2026-10-01T18:45:29.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Another Trump memecoin dinner advertised for token's top investors",
+          "url": "https://coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+          "date": "2026-10-01T18:45:29.000Z",
+          "summary": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\""
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "50-000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions",
+      "headline": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+      "category": "regulacao",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T18:45:09.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+          "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
+          "date": "2026-10-01T18:45:09.000Z",
+          "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "illinois-will-postpone-implementation-of-crypto-tax-following-lawsuit",
+      "headline": "Illinois will postpone implementation of crypto tax following lawsuit",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-01T18:01:49.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+          "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit",
+          "date": "2026-10-01T18:01:49.000Z",
+          "summary": "State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "banco-central-exige-notificacao-sobre-movimentacao-de-criptomoedas-em",
+      "headline": "Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "Banco Central",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-01T17:52:36.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução",
+          "url": "https://livecoins.com.br/banco-central-exige-notificacao-sobre-movimentacao-de-criptomoedas-em-autocustodia-com-nova-resolucao",
+          "date": "2026-10-01T17:52:36.000Z",
+          "summary": "O Banco Central do Brasil (BCB) aprovou novas regras de fiscalização sobre movimentações de criptomoedas no país na quarta-feira (30). A norma exige que instituições financeiras comuniquem transferências acima de US$ 10 mil para carteiras autocustodiadas. A medida altera a Circular 3.978 de 2020 para reforçar o combate à lavagem de dinheiro e ao financiamento […] Fonte: Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "visa-mastercard-e-mais-empresas-pedem-aval-do-cade-para-joint-venture",
+      "headline": "Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-01T18:42:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil",
+          "url": "https://portaldobitcoin.uol.com.br/visa-mastercard-e-mais-empresas-pedem-aval-do-cade-para-joint-venture-de-stablecoin-no-brasil",
+          "date": "2026-10-01T18:42:00.000Z",
+          "summary": "Visa, Mastercard, Coinbase, Stripe e Shopify levaram ao Cade uma joint venture ligada à emissão da stablecoin OUSD O post Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -694,6 +896,169 @@
       "status": "pendente"
     },
     {
+      "id": "crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+      "headline": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-01T15:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+          "url": "https://coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+          "date": "2026-10-01T15:00:00.000Z",
+          "summary": ""
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "new-york-wyoming-regulators-sign-pact-to-coordinate-crypto-oversight",
+      "headline": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-01T16:12:23.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+          "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight",
+          "date": "2026-10-01T16:12:23.000Z",
+          "summary": "The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-fights-for-local-uptrend-as-us-bond-yields-drop-from-new-24",
+      "headline": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T15:55:19.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+          "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
+          "date": "2026-10-01T15:55:19.000Z",
+          "summary": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "illinois-delays-controversial-crypto-tax-amid-industry-lawsuit",
+      "headline": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-01T16:16:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+          "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+          "date": "2026-10-01T16:16:03.000Z",
+          "summary": "Illinois officials and crypto groups jointly asked a state court to delay the 0.2% Digital Asset Tax from Jan. 1 to July 1, 2027, while a legal challenge continues."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-staking-reward-burn-proposal-eip-8363-pulled-from-hegota",
+      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T16:17:23.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+          "url": "https://theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+          "date": "2026-10-01T16:17:23.000Z",
+          "summary": "Co-author Jérôme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-industry-gave-8-million-to-clarity-act-lobbyists-who-didn-t",
       "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "category": "regulacao",
@@ -948,6 +1313,202 @@
           "url": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43",
           "date": "2026-10-01T07:27:00.000Z",
           "summary": "Bitcoin gained 42.71% in Q3, its best third-quarter performance since 2017, as US spot ETFs attracted $6.34 billion in net inflows."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "near-intents-hit-by-3-8-million-exploit-as-crypto-s-rough-year-of",
+      "headline": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T14:18:14.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+          "url": "https://coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+          "date": "2026-10-01T14:18:14.000Z",
+          "summary": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "bitget-s-388m-hack-pushes-q3-crypto-security-losses-past-1b",
+      "headline": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+      "category": "regulacao",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T13:35:47.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+          "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion",
+          "date": "2026-10-01T13:35:47.000Z",
+          "summary": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says",
+      "headline": "LATAM stablecoin liquidity may depend on few providers, investor says",
+      "category": "defi",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T13:30:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
+          "url": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says",
+          "date": "2026-10-01T13:30:00.000Z",
+          "summary": "Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "stablecoins-can-drain-from-banks-and-nations-at-lightning-speed",
+      "headline": "Stablecoins can drain from banks and nations at lightning speed",
+      "category": "seguranca",
+      "tags": [
+        "Ethereum",
+        "stablecoins",
+        "Lightning"
+      ],
+      "firstSeen": "2026-10-01T13:30:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Stablecoins can drain from banks and nations at lightning speed",
+          "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed",
+          "date": "2026-10-01T13:30:00.000Z",
+          "summary": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+      "headline": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-01T13:22:58.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
+          "url": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+          "date": "2026-10-01T13:22:58.000Z",
+          "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps",
+      "headline": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-01T13:00:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps",
+          "url": "https://theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
+          "date": "2026-10-01T13:00:00.000Z",
+          "summary": "Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens."
         }
       ],
       "validation": {
@@ -2738,6 +3299,241 @@
       "status": "pendente"
     },
     {
+      "id": "peter-todd-joins-mara-to-lead-private-mempool-slipstream",
+      "headline": "Peter Todd Joins MARA to Lead Private Mempool Slipstream",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-01T18:01:44.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Peter Todd Joins MARA to Lead Private Mempool Slipstream",
+          "url": "https://bitcoinmagazine.com/news/peter-todd-joins-mara-to-lead-slipstream",
+          "date": "2026-10-01T18:01:44.000Z",
+          "summary": "Bitcoin Magazine Peter Todd Joins MARA to Lead Private Mempool Slipstream Bitcoin O.G. Peter Todd has joined the MARA Foundation as lead maintainer of Slipstream, the miner’s private Bitcoin mempool service. Announced by the foundation on Thursday, the new role will see Todd responsible for developing and running the service. Slipstream lets users send bitcoin transactions straight to MARA Pool, the company’s mining pool, without going […] This post Peter Todd Joins MARA to Lead Private Mempool Slipstream first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "21bitcoin-now-pays-interest-on-idle-euros-payable-in-btc",
+      "headline": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T16:25:18.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
+          "url": "https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros",
+          "date": "2026-10-01T16:25:18.000Z",
+          "summary": "Bitcoin Magazine 21bitcoin Now Pays Interest on Idle Euros, Payable in BTC Austrian Bitcoin platform 21bitcoin will pay customers interest on their euro balances — in bitcoin if they want. This post 21bitcoin Now Pays Interest on Idle Euros, Payable in BTC first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "setembro-foi-o-mes-com-as-maiores-perdas-e-o-maior-numero-de-ataques",
+      "headline": "Setembro foi o mês com as maiores perdas e o maior número de ataques no setor cripto em 2026, revela CertiK",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T18:47:43.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Setembro foi o mês com as maiores perdas e o maior número de ataques no setor cripto em 2026, revela CertiK",
+          "url": "https://livecoins.com.br/setembro-foi-o-mes-com-as-maiores-perdas-e-o-maior-numero-de-ataques-no-setor-cripto-em-2026-revela-certik",
+          "date": "2026-10-01T18:47:43.000Z",
+          "summary": "Dados compartilhados pela CertiK mostram que setembro foi o pior mês para a indústria de criptomoedas em 2026, registrando recordes tanto em perdas totais quanto em número de ataques. Os dois principais eventos são o ataque à Bitget, que resultou em perdas de US$ 387,5 milhões, e o Liquid Network que, embora o hacker tenha […] Fonte: Setembro foi o mês com as maiores perdas e o maior número de ataques no setor cripto em 2026, revela CertiK Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "near-sofre-ataque-de-us-3-8-milhoes-dias-apos-congelar-us-503-mil",
+      "headline": "NEAR sofre ataque de US$ 3,8 milhões, dias após congelar US$ 503 mil ligados a hacker da Bitget",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T17:31:23.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "NEAR sofre ataque de US$ 3,8 milhões, dias após congelar US$ 503 mil ligados a hacker da Bitget",
+          "url": "https://livecoins.com.br/near-sofre-ataque-de-us-38-milhoes-dias-apos-congelar-us-503-mil-ligados-a-hacker-da-bitget",
+          "date": "2026-10-01T17:31:23.000Z",
+          "summary": "Em nota compartilhada nesta quinta-feira (1º), a equipe da NEAR Intents, protocolo de execução e liquidação cross-chain do NEAR Protocol, precisou interromper seus serviços após a detecção de um incidente de segurança. O texto afirma que a vulnerabilidade já foi corrigida, mas que as perdas chegam a US$ 3,8 milhões. Curiosamente, o incidente acontece dias […] Fonte: NEAR sofre ataque de US$ 3,8 milhões, dias após congelar US$ 503 mil ligados a hacker da Bitget Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "pavio-estreia-agente-de-ia-que-opera-a-conta-na-foxbit-pela-conversa",
+      "headline": "Pavio estreia agente de IA que opera a conta na Foxbit pela conversa, inclusive de dentro do Claude",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T17:30:39.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Pavio estreia agente de IA que opera a conta na Foxbit pela conversa, inclusive de dentro do Claude",
+          "url": "https://livecoins.com.br/pavio-estreia-agente-de-ia-que-opera-a-conta-na-foxbit-pela-conversa-inclusive-de-dentro-do-claude",
+          "date": "2026-10-01T17:30:39.000Z",
+          "summary": "Estreou o Pavio (pavioai.com), um agente de inteligência artificial que se conecta à conta do cliente na corretora Foxbit. Em vez de navegar por telas e menus, a pessoa escreve o que quer: pergunta quanto tem, compra e vende criptomoedas, acompanha a carteira e deixa automações cuidando do resto. Tudo isso também funciona de dentro […] Fonte: Pavio estreia agente de IA que opera a conta na Foxbit pela conversa, inclusive de dentro do Claude Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "near-intents-sofre-ataque-de-us-3-8-milhoes-suspende-servicos-e",
+      "headline": "NEAR Intents sofre ataque de US$ 3,8 milhões, suspende serviços e promete ressarcir clientes",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T17:16:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "NEAR Intents sofre ataque de US$ 3,8 milhões, suspende serviços e promete ressarcir clientes",
+          "url": "https://portaldobitcoin.uol.com.br/near-intents-sofre-ataque-de-us-38-milhoes-suspende-servicos-e-promete-ressarcir-clientes",
+          "date": "2026-10-01T17:16:00.000Z",
+          "summary": "NEAR Intents suspendeu parte dos serviços após um ataque de US$ 3,8 milhões e prometeu ressarcir integralmente os usuários O post NEAR Intents sofre ataque de US$ 3,8 milhões, suspende serviços e promete ressarcir clientes apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "mercado-bitcoin-parfin-e-bloquo-miram-mercado-asiatico-em-missao",
+      "headline": "Mercado Bitcoin, Parfin e Bloquo miram mercado asiático em missão cripto a Hong Kong",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-01T16:29:55.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Mercado Bitcoin, Parfin e Bloquo miram mercado asiático em missão cripto a Hong Kong",
+          "url": "https://portaldobitcoin.uol.com.br/mercado-bitcoin-parfin-e-bloquo-miram-mercado-asiatico-em-missao-cripto-a-hong-kong",
+          "date": "2026-10-01T16:29:55.000Z",
+          "summary": "Empresas lideram missão para buscar parcerias, conexões com investidores e discutir oportunidades em tokenização e ativos digitais na Ásia O post Mercado Bitcoin, Parfin e Bloquo miram mercado asiático em missão cripto a Hong Kong apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "uk-brings-crypto-under-full-fca-oversight-for-the-first-time",
       "headline": "UK Brings Crypto Under Full FCA Oversight for the First Time",
       "category": "regulacao",
@@ -3166,6 +3962,140 @@
           "url": "https://livecoins.com.br/vice-xerife-americano-e-condenado-a-prisao-por-participar-de-esquema-de-extorsao-contra-investidores-de-criptomoedas",
           "date": "2026-09-30T16:50:39.000Z",
           "summary": "A justiça americana anunciou na segunda-feira (28) a condenação de Eric Chase Saavedra (42) a 1 ano e 9 meses de prisão. Ex-vice-xerife do Condado de Los Angeles (LASD), Saavedra participou de um esquema para extorquir investidores de criptomoedas. O caso está ligado a Adam Iza, também conhecido como “O Poderoso Chefão”, acusado pelo FBI […] Fonte: Vice-xerife americano é condenado à prisão por participar de esquema de extorsão contra investidores de criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "the-quantum-issue-quantum-isn-t-coming-for-your-bitcoin",
+      "headline": "The Quantum Issue: Quantum Isn't Coming For Your Bitcoin",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T14:07:50.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "The Quantum Issue: Quantum Isn't Coming For Your Bitcoin",
+          "url": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
+          "date": "2026-10-01T14:07:50.000Z",
+          "summary": "Bitcoin Magazine The Quantum Issue: Quantum Isn't Coming For Your Bitcoin From The Quantum Issue: Brandon Black considers all of the issues that might prevent a viable quantum computer from ever being built. This post The Quantum Issue: Quantum Isn't Coming For Your Bitcoin first appeared on Bitcoin Magazine and is written by Brandon Black ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "metamask-passa-por-incidente-de-seguranca-mas-afirma-que-fundos-de",
+      "headline": "MetaMask passa por incidente de segurança, mas afirma que fundos de clientes não foram afetados e alerta para tentativas de golpe",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T14:18:14.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "MetaMask passa por incidente de segurança, mas afirma que fundos de clientes não foram afetados e alerta para tentativas de golpe",
+          "url": "https://livecoins.com.br/metamask-passa-por-incidente-de-seguranca-mas-afirma-que-fundos-de-clientes-nao-foram-afetados-e-alerta-para-tentativas-de-golpe",
+          "date": "2026-10-01T14:18:14.000Z",
+          "summary": "A MetaMask, uma das carteiras mais famosas de Ethereum e outras criptomoedas, revelou na noite desta quarta-feira (30) estar investigando um incidente de segurança que afeta a sua infra estrutura. Sem dar grandes detalhes sobre o que estaria acontecendo, os desenvolvedores disseram estar retirando seus validadores afetados de suas operações de staking não custodial. No […] Fonte: MetaMask passa por incidente de segurança, mas afirma que fundos de clientes não foram afetados e alerta para tentativas de golpe Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "clarity-act-empresas-cripto-gastaram-us-8-milhoes-em-lobby-e-nao",
+      "headline": "Clarity Act: empresas cripto gastaram US$ 8 milhões em lobby e não conseguiram aprová-lo",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T15:02:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Clarity Act: empresas cripto gastaram US$ 8 milhões em lobby e não conseguiram aprová-lo",
+          "url": "https://portaldobitcoin.uol.com.br/clarity-act-empresas-cripto-gastaram-us-8-milhoes-em-lobby-e-nao-conseguiram-aprova-lo",
+          "date": "2026-10-01T15:02:00.000Z",
+          "summary": "Indústria de criptomoedas destinou cerca de US$ 8 milhões a lobby pelo Clarity Act, mas o projeto não avançou no Senado dos EUA O post Clarity Act: empresas cripto gastaram US$ 8 milhões em lobby e não conseguiram aprová-lo apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-apreendidas",
+      "headline": "MP de São Paulo tem R$ 47 milhões em criptomoedas apreendidas",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T13:27:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "MP de São Paulo tem R$ 47 milhões em criptomoedas apreendidas",
+          "url": "https://portaldobitcoin.uol.com.br/mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-apreendidas",
+          "date": "2026-10-01T13:27:00.000Z",
+          "summary": "MPSP mantém R$ 47 milhões em criptomoedas e amplia treinamentos para rastrear, custodiar e recuperar ativos digitais em investigações O post MP de São Paulo tem R$ 47 milhões em criptomoedas apreendidas apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -4081,28 +5011,28 @@
       "status": "pendente"
     },
     {
-      "id": "live-updates-bitcoin-flat-near-84-000-after-closing-out-best-quarter",
-      "headline": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "id": "bitcoin-optech-newsletter-424-recap-podcast",
+      "headline": "Bitcoin Optech Newsletter #424 Recap Podcast",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-01T11:59:17.000Z",
+      "firstSeen": "2026-09-29T00:00:00.000Z",
       "publishers": [
-        "CoinDesk"
+        "Bitcoin Optech"
       ],
-      "official": false,
+      "official": true,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
+          "feed": "bitcoin-optech",
+          "publisher": "Bitcoin Optech",
+          "type": "official",
           "weight": 2,
           "lang": "en",
-          "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
-          "url": "https://coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-          "date": "2026-10-01T11:59:17.000Z",
-          "summary": "After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report."
+          "title": "Bitcoin Optech Newsletter #424 Recap Podcast",
+          "url": "https://bitcoinops.org/en/podcast/2026/09/29",
+          "date": "2026-09-29T00:00:00.000Z",
+          "summary": "Gustavo Flores Echaiz and Mike Schmidt are joined by Ahmet Kurt and Jan B to discuss Newsletter #424."
         }
       ],
       "validation": {
@@ -4116,51 +5046,13 @@
       "status": "descartada"
     },
     {
-      "id": "citigroup-raises-12-month-bitcoin-target-to-113-000-as-etf-inflows",
-      "headline": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "category": "mercado",
+      "id": "near-intents-suffers-3-8m-exploit-after-assistance-with-bitget-breach",
+      "headline": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+      "category": "seguranca",
       "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs"
+        "segurança"
       ],
-      "firstSeen": "2026-10-01T09:59:30.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-          "url": "https://coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-          "date": "2026-10-01T09:59:30.000Z",
-          "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "previsão de preço"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "binance-s-eu-services-face-scrutiny-over-licensing-exemption-report",
-      "headline": "Binance’s EU services face scrutiny over licensing exemption: Report",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "mineração"
-      ],
-      "firstSeen": "2026-10-01T10:07:18.000Z",
+      "firstSeen": "2026-10-01T15:43:34.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -4172,10 +5064,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
-          "url": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight",
-          "date": "2026-10-01T10:07:18.000Z",
-          "summary": "EU regulators are reportedly examining Binance’s use of a MiCA exemption to serve customers as ESMA seeks stronger enforcement powers."
+          "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+          "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+          "date": "2026-10-01T15:43:34.000Z",
+          "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals."
         }
       ],
       "validation": {
@@ -4189,187 +5081,154 @@
       "status": "descartada"
     },
     {
-      "id": "chainalysis-beats-most-celsius-claims-but-audit-lawsuit-survives",
-      "headline": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-01T09:09:46.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-          "url": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives",
-          "date": "2026-10-01T09:09:46.000Z",
-          "summary": "Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3.3 billion audit after a judge dismissed 15 other claims."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-      "headline": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-01T12:29:00.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-          "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-          "date": "2026-10-01T12:29:00.000Z",
-          "summary": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-01T12:23:15.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-          "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-          "date": "2026-10-01T12:23:15.000Z",
-          "summary": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "previsão de preço"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "metamask-exits-lido-validators-amid-infrastructure-security-incident",
-      "headline": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
-      "category": "regulacao",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-01T09:38:06.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
-          "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
-          "date": "2026-10-01T09:38:06.000Z",
-          "summary": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "eu-presses-binance-over-reverse-solicitation-exemption-for-users",
-      "headline": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-01T08:56:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
-          "url": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
-          "date": "2026-10-01T08:56:02.000Z",
-          "summary": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "lloyds-visa-settle-750-000-using-usdc-in-live-cross-border-pilot",
-      "headline": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
+      "id": "the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+      "headline": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
       "category": "altcoins",
       "tags": [
-        "stablecoins"
+        "XRP"
       ],
-      "firstSeen": "2026-10-01T11:13:46.000Z",
+      "firstSeen": "2026-10-01T18:46:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+          "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+          "date": "2026-10-01T18:46:03.000Z",
+          "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "openai-fires-three-safety-researchers-over-alleged-leak-to-outside",
+      "headline": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-01T18:12:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
+          "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+          "date": "2026-10-01T18:12:04.000Z",
+          "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto",
+          "parece rumor/especulação"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "it-s-the-start-of-uptober-will-bitcoin-live-up-to-it",
+      "headline": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T17:11:44.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+          "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+          "date": "2026-10-01T17:11:44.000Z",
+          "summary": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "near-intents-hacked-for-3-8m-days-after-denying-north-korea-linked",
+      "headline": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T15:43:27.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+          "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+          "date": "2026-10-01T15:43:27.000Z",
+          "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "evernorth-shareholders-approve-1-billion-xrp-treasury-deal-clearing",
+      "headline": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+      "category": "regulacao",
+      "tags": [
+        "XRP"
+      ],
+      "firstSeen": "2026-10-01T15:17:11.000Z",
       "publishers": [
         "The Block"
       ],
@@ -4381,10 +5240,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
-          "url": "https://theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
-          "date": "2026-10-01T11:13:46.000Z",
-          "summary": "Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot."
+          "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+          "url": "https://theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+          "date": "2026-10-01T15:17:11.000Z",
+          "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP."
         }
       ],
       "validation": {
@@ -4392,6 +5251,77 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "near-intents-halts-services-after-3-8-million-exploit-promises-full",
+      "headline": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
+      "category": "seguranca",
+      "tags": [
+        "regulação",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-01T14:18:12.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
+          "url": "https://theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
+          "date": "2026-10-01T14:18:12.000Z",
+          "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "citi-eleva-previsao-de-preco-do-bitcoin-para-us-113-000",
+      "headline": "Citi eleva previsão de preço do Bitcoin para US$ 113.000",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T15:11:37.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Citi eleva previsão de preço do Bitcoin para US$ 113.000",
+          "url": "https://livecoins.com.br/citi-eleva-previsao-de-preco-do-bitcoin-para-us-113-000",
+          "date": "2026-10-01T15:11:37.000Z",
+          "summary": "Em relatório publicado no início de julho, o Citi rebaixou sua previsão de preço do Bitcoin de US$ 112.000 para somente US$ 82.000 em uma janela de doze meses. Três meses depois, o banco voltou a aumentar seu preço alvo para US$ 113.000 nesta quinta-feira (1º). No texto compartilhado pela Reuters, os analistas do Citi […] Fonte: Citi eleva previsão de preço do Bitcoin para US$ 113.000 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
         ]
       },
       "score": 0,

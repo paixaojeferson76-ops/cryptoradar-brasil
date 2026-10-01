@@ -1,6 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-01T13:00:00.921Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-01T18:56:21.996Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## v32.0rc3: Bitcoin Core 32.0 release candidate 3
+
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 73
+- [Bitcoin Core (GitHub)] v32.0rc3: Bitcoin Core 32.0 release candidate 3 — https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc3 (2026-10-01T16:41:48.000Z)
 
 ## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
 
@@ -41,6 +46,31 @@ Gerada em 2026-10-01T13:00:00.921Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds — https://theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384 (2026-10-01T12:17:06.000Z)
+
+## Another Trump memecoin dinner advertised for token's top investors
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Another Trump memecoin dinner advertised for token's top investors — https://coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors (2026-10-01T18:45:29.000Z)
+
+## 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review — https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review (2026-10-01T18:45:09.000Z)
+
+## Illinois will postpone implementation of crypto tax following lawsuit
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Illinois will postpone implementation of crypto tax following lawsuit — https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit (2026-10-01T18:01:49.000Z)
+
+## Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Livecoins] Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução — https://livecoins.com.br/banco-central-exige-notificacao-sobre-movimentacao-de-criptomoedas-em-autocustodia-com-nova-resolucao (2026-10-01T17:52:36.000Z)
+
+## Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil — https://portaldobitcoin.uol.com.br/visa-mastercard-e-mais-empresas-pedem-aval-do-cade-para-joint-venture-de-stablecoin-no-brasil (2026-10-01T18:42:00.000Z)
 
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
@@ -107,47 +137,17 @@ Gerada em 2026-10-01T13:00:00.921Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Bitcoin trapped below $86K as PCE changes cloud inflation reading — https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data (2026-10-01T10:30:18.000Z)
 
-## Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal
+## Crypto for Advisors: The CLARITY Act failed, but the rules came anyway
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
-- [CoinDesk] Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal — https://coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal (2026-09-30T17:16:31.000Z)
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Crypto for Advisors: The CLARITY Act failed, but the rules came anyway — https://coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway (2026-10-01T15:00:00.000Z)
 
-## Bloomberg brings onchain stablecoin data to its Terminal
+## New York, Wyoming regulators sign pact to coordinate crypto oversight
 
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Bloomberg brings onchain stablecoin data to its Terminal — https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief (2026-09-30T18:49:06.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [Cointelegraph] New York, Wyoming regulators sign pact to coordinate crypto oversight — https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight (2026-10-01T16:12:23.000Z)
 
-## CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets
+## Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
-- [Decrypt] CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets — https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets (2026-09-30T18:39:21.000Z)
-
-## Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
-- [Decrypt] Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally — https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally (2026-09-30T17:27:43.000Z)
-
-## Introducing The Information Exchange on Solana, Powered by Decrypt and MYR
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
-- [Decrypt] Introducing The Information Exchange on Solana, Powered by Decrypt and MYR — https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr (2026-09-30T16:36:10.000Z)
-
-## CFTC seeks to define event contracts as swaps amid prediction market fight
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
-- [Cointelegraph] CFTC seeks to define event contracts as swaps amid prediction market fight — https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight (2026-10-01T01:07:46.000Z)
-
-## MetaMask security incident forces Ethereum staking exits, no funds at risk
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 37
-- [CoinDesk] MetaMask security incident forces Ethereum staking exits, no funds at risk — https://coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards (2026-10-01T07:06:30.000Z)
-
-## Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43% — https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43 (2026-10-01T07:27:00.000Z)
-
-## Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 36
-- [CoinDesk] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money' — https://coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money (2026-09-30T15:34:50.000Z)
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs — https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs (2026-10-01T15:55:19.000Z)
