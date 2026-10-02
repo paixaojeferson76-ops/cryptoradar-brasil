@@ -1,32 +1,7 @@
 {
-  "at": "2026-10-02T01:01:59.006Z",
+  "at": "2026-10-02T06:58:21.057Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "sec-propoe-regras-para-custodia-de-criptomoedas-por-gestores-e-fundos-nos-eua",
-      "title": "SEC propõe regras para custódia de criptomoedas por gestores e fundos nos EUA",
-      "confidence": "alta",
-      "sources": [
-        "CoinDesk",
-        "Decrypt",
-        "The Block",
-        "Bitcoin Magazine"
-      ]
-    },
-    {
-      "slug": "fundacao-ethereum-e-open-anonymity-project-lancam-zkapi-para-pagamentos",
-      "title": "Fundação Ethereum e Open Anonymity Project lançam zkAPI para pagamentos anônimos em APIs",
-      "confidence": "alta",
-      "sources": [
-        "Ethereum Foundation Blog"
-      ]
-    }
-  ],
-  "skipped": [
-    {
-      "headline": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
-      "reason": "A fonte contém apenas uma frase incompleta sobre a proposta da SEC, sendo insuficiente para produzir um texto jornalístico factual de 300 a 600 palavras sem violar a regra de não inventar informações."
-    }
-  ],
+  "review": [],
+  "skipped": [],
   "errors": []
 }

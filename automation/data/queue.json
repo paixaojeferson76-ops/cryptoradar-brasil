@@ -1,147 +1,6 @@
 {
-  "updatedAt": "2026-10-02T00:57:40.347Z",
+  "updatedAt": "2026-10-02T06:58:13.805Z",
   "stories": [
-    {
-      "id": "sec-proposes-new-crypto-custody-rules-for-investment-advisers-and",
-      "headline": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-10-01T20:20:04.000Z",
-      "publishers": [
-        "CoinDesk",
-        "Decrypt",
-        "The Block",
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-          "url": "https://coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-          "date": "2026-10-01T20:20:04.000Z",
-          "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week."
-        },
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-          "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-          "date": "2026-10-01T20:46:03.000Z",
-          "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-          "url": "https://theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-          "date": "2026-10-01T21:00:53.000Z",
-          "summary": "SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians."
-        },
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "SEC Proposes New Rules On Crypto Custody",
-          "url": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
-          "date": "2026-10-01T21:09:53.000Z",
-          "summary": "Bitcoin Magazine SEC Proposes New Rules On Crypto Custody The regulator proposed new rules it ​said would ​help govern investment ⁠funds’ custody of ​crypto assets. This post SEC Proposes New Rules On Crypto Custody first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 136,
-      "status": "gerada",
-      "slug": "sec-propoe-regras-para-custodia-de-criptomoedas-por-gestores-e-fundos-nos-eua"
-    },
-    {
-      "id": "sec-proposal-would-address-how-investment-advisers-and-funds-can",
-      "headline": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-10-01T16:16:07.000Z",
-      "publishers": [
-        "SEC (EUA)"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "sec",
-          "publisher": "SEC (EUA)",
-          "type": "official",
-          "weight": 3,
-          "lang": "en",
-          "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
-          "url": "https://sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
-          "date": "2026-10-01T16:16:07.000Z",
-          "summary": "The Securities and Exchange Commission today proposed new rules and amendments to provide a tailored framework for the custody of crypto assets for registered investment advisers and regulated funds, i.e. registered investment companies and business…",
-          "fullText": ""
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 68,
-      "status": "pulada",
-      "note": "A fonte contém apenas uma frase incompleta sobre a proposta da SEC, sendo insuficiente para produzir um texto jornalístico factual de 300 a 600 palavras sem violar a regra de não inventar informações."
-    },
-    {
-      "id": "introducing-zkapi-private-usage-credits-for-any-api",
-      "headline": "Introducing zkAPI: private usage credits for any API",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-01T00:00:00.000Z",
-      "publishers": [
-        "Ethereum Foundation Blog"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "ethereum-blog",
-          "publisher": "Ethereum Foundation Blog",
-          "type": "official",
-          "weight": 3,
-          "lang": "en",
-          "title": "Introducing zkAPI: private usage credits for any API",
-          "url": "https://blog.ethereum.org/en/2026/10/01/introducing-zkapi",
-          "date": "2026-10-01T00:00:00.000Z",
-          "summary": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge proofs instead of an identity. The provider sees the requests, and the payment layer sees the spend. Neither learns the link between them. The..."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 56,
-      "status": "gerada",
-      "slug": "fundacao-ethereum-e-open-anonymity-project-lancam-zkapi-para-pagamentos"
-    },
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
       "headline": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
@@ -627,6 +486,71 @@
           "url": "https://theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
           "date": "2026-10-02T00:22:58.000Z",
           "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "south-korea-crypto-exchange-profits-fall-78-in-h1-amid-trading-slump",
+      "headline": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-10-02T05:53:27.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent",
+          "date": "2026-10-02T05:53:27.000Z",
+          "summary": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "spot-bitcoin-etfs-log-2-7-billion-in-september-inflows-as",
+      "headline": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-02T05:50:41.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+          "url": "https://theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+          "date": "2026-10-02T05:50:41.000Z",
+          "summary": "US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025."
         }
       ],
       "validation": {
@@ -1229,6 +1153,139 @@
       "status": "pendente"
     },
     {
+      "id": "south-korea-advances-tokenized-securities-rules-ahead-of-2027-rollout",
+      "headline": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+      "category": "blockchain",
+      "tags": [
+        "regulação",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-02T05:08:32.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+          "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
+          "date": "2026-10-02T05:08:32.000Z",
+          "summary": "South Korea’s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "zano-exploiter-created-36-9m-unauthorized-zano-before-blockchain",
+      "headline": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-02T05:02:23.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+          "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback",
+          "date": "2026-10-02T05:02:23.000Z",
+          "summary": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-s-zkapi-brings-privacy-preserving-api-payments-to-mainnet",
+      "headline": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-02T03:34:25.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+          "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet",
+          "date": "2026-10-02T03:34:25.000Z",
+          "summary": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "sec-s-innovation-exemption-poses-constraint-on-bringing-stock-tokens",
+      "headline": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+      "category": "regulacao",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-02T05:04:41.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+          "url": "https://theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+          "date": "2026-10-02T05:04:41.000Z",
+          "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-industry-gave-8-million-to-clarity-act-lobbyists-who-didn-t",
       "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "category": "regulacao",
@@ -1712,6 +1769,40 @@
           "url": "https://theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
           "date": "2026-10-01T19:10:36.000Z",
           "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
+      "headline": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "SEC"
+      ],
+      "firstSeen": "2026-10-02T01:07:08.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+          "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
+          "date": "2026-10-02T01:07:08.000Z",
+          "summary": "Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC’s proposal could remove."
         }
       ],
       "validation": {
@@ -5451,13 +5542,13 @@
       "status": "pendente"
     },
     {
-      "id": "evernorth-clears-shareholder-vote-ahead-of-nasdaq-debut-with-473m-xrp",
-      "headline": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-      "category": "regulacao",
+      "id": "core-lightning-warns-attackers-are-targeting-unpatched-nodes",
+      "headline": "Core Lightning warns attackers are targeting unpatched nodes",
+      "category": "seguranca",
       "tags": [
-        "XRP"
+        "Lightning"
       ],
-      "firstSeen": "2026-10-01T21:07:45.000Z",
+      "firstSeen": "2026-10-02T04:18:43.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -5469,10 +5560,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-          "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
-          "date": "2026-10-01T21:07:45.000Z",
-          "summary": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices."
+          "title": "Core Lightning warns attackers are targeting unpatched nodes",
+          "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
+          "date": "2026-10-02T04:18:43.000Z",
+          "summary": "Node operators running version 26.06.7 or earlier were told to upgrade immediately."
         }
       ],
       "validation": {
@@ -5486,11 +5577,13 @@
       "status": "descartada"
     },
     {
-      "id": "trump-to-host-3rd-exclusive-memecoin-event-amid-corruption-claims",
-      "headline": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-      "category": "altcoins",
-      "tags": [],
-      "firstSeen": "2026-10-01T21:00:11.000Z",
+      "id": "near-intents-says-it-s-identified-the-hacker-gives-48-hour-ultimatum",
+      "headline": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-02T02:02:13.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -5502,10 +5595,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-          "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
-          "date": "2026-10-01T21:00:11.000Z",
-          "summary": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026."
+          "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+          "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
+          "date": "2026-10-02T02:02:13.000Z",
+          "summary": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million."
         }
       ],
       "validation": {
@@ -5513,175 +5606,6 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "zcash-drops-21-from-recent-high-here-s-why-the-rally-may-not-be-over",
-      "headline": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-      "category": "mercado",
-      "tags": [
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-01T21:31:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-          "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-          "date": "2026-10-01T21:31:03.000Z",
-          "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "reddit-is-killing-rss-feeds-and-public-api-access-to-fight-ai-scrapers",
-      "headline": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-01T20:31:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-          "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-          "date": "2026-10-01T20:31:03.000Z",
-          "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-says-people-linked-to-china-s-moonshot-tried-to-copy-its-ai-s",
-      "headline": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-01T19:46:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-          "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
-          "date": "2026-10-01T19:46:03.000Z",
-          "summary": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "meta-pushes-back-on-claim-that-muse-ai-read-a-user-s-messages-without",
-      "headline": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-01T19:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-          "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
-          "date": "2026-10-01T19:16:03.000Z",
-          "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
-      "headline": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?",
-      "category": "defi",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-01T21:18:21.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?",
-          "url": "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
-          "date": "2026-10-01T21:18:21.000Z",
-          "summary": "Bitcoin Magazine Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027? Darius Dale warns near-term liquidity tightening could trigger Bitcoin chop, but expects a major 12-to-18-month rally if liquidity returns in 2027. This post Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027? first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
         ]
       },
       "score": 0,
