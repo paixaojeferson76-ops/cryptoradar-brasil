@@ -1,11 +1,24 @@
 # Pauta de notícias
 
-Gerada em 2026-10-01T18:56:21.996Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-02T00:57:40.347Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## v32.0rc3: Bitcoin Core 32.0 release candidate 3
+## SEC proposes new crypto custody rules for investment advisers and funds
 
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 73
-- [Bitcoin Core (GitHub)] v32.0rc3: Bitcoin Core 32.0 release candidate 3 — https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc3 (2026-10-01T16:41:48.000Z)
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 136
+- [CoinDesk] SEC proposes new crypto custody rules for investment advisers and funds — https://coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda (2026-10-01T20:20:04.000Z)
+- [Decrypt] SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto — https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto (2026-10-01T20:46:03.000Z)
+- [The Block] SEC proposes framework allowing investment advisers, funds to self-custody crypto — https://theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498 (2026-10-01T21:00:53.000Z)
+- [Bitcoin Magazine] SEC Proposes New Rules On Crypto Custody — https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules (2026-10-01T21:09:53.000Z)
+
+## SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws
+
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 68
+- [SEC (EUA)] SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws — https://sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal (2026-10-01T16:16:07.000Z)
+
+## Introducing zkAPI: private usage credits for any API
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 56
+- [Ethereum Foundation Blog] Introducing zkAPI: private usage credits for any API — https://blog.ethereum.org/en/2026/10/01/introducing-zkapi (2026-10-01T00:00:00.000Z)
 
 ## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
 
@@ -72,6 +85,16 @@ Gerada em 2026-10-01T18:56:21.996Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [Portal do Bitcoin] Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil — https://portaldobitcoin.uol.com.br/visa-mastercard-e-mais-empresas-pedem-aval-do-cade-para-joint-venture-de-stablecoin-no-brasil (2026-10-01T18:42:00.000Z)
 
+## China warns foreign spies about crypto, Singapore dominates Asia: Asia Express
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] China warns foreign spies about crypto, Singapore dominates Asia: Asia Express — https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express (2026-10-01T23:17:47.000Z)
+
+## Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [The Block] Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity — https://theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504 (2026-10-02T00:22:58.000Z)
+
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -131,23 +154,3 @@ Gerada em 2026-10-01T18:56:21.996Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Tokenized assets don’t always mirror traditional markets, Dune finds — https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report (2026-10-01T10:50:24.000Z)
-
-## Bitcoin trapped below $86K as PCE changes cloud inflation reading
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Bitcoin trapped below $86K as PCE changes cloud inflation reading — https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data (2026-10-01T10:30:18.000Z)
-
-## Crypto for Advisors: The CLARITY Act failed, but the rules came anyway
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Crypto for Advisors: The CLARITY Act failed, but the rules came anyway — https://coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway (2026-10-01T15:00:00.000Z)
-
-## New York, Wyoming regulators sign pact to coordinate crypto oversight
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Cointelegraph] New York, Wyoming regulators sign pact to coordinate crypto oversight — https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight (2026-10-01T16:12:23.000Z)
-
-## Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs — https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs (2026-10-01T15:55:19.000Z)

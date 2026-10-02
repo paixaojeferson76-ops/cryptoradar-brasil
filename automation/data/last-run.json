@@ -1,11 +1,31 @@
 {
-  "at": "2026-10-01T18:57:38.517Z",
+  "at": "2026-10-02T01:01:59.006Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "sec-propoe-regras-para-custodia-de-criptomoedas-por-gestores-e-fundos-nos-eua",
+      "title": "SEC propõe regras para custódia de criptomoedas por gestores e fundos nos EUA",
+      "confidence": "alta",
+      "sources": [
+        "CoinDesk",
+        "Decrypt",
+        "The Block",
+        "Bitcoin Magazine"
+      ]
+    },
+    {
+      "slug": "fundacao-ethereum-e-open-anonymity-project-lancam-zkapi-para-pagamentos",
+      "title": "Fundação Ethereum e Open Anonymity Project lançam zkAPI para pagamentos anônimos em APIs",
+      "confidence": "alta",
+      "sources": [
+        "Ethereum Foundation Blog"
+      ]
+    }
+  ],
   "skipped": [
     {
-      "headline": "v32.0rc3: Bitcoin Core 32.0 release candidate 3",
-      "reason": "A fonte fornecida apresenta apenas o título da versão candidate v32.0rc3 do Bitcoin Core e um hash SHA-512, sem fornecer notas de lançamento, detalhes das mudanças ou contexto suficiente para a redação de uma notícia completa de 300 a 600 palavras sem violar a regra de não inventar informações."
+      "headline": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "reason": "A fonte contém apenas uma frase incompleta sobre a proposta da SEC, sendo insuficiente para produzir um texto jornalístico factual de 300 a 600 palavras sem violar a regra de não inventar informações."
     }
   ],
   "errors": []

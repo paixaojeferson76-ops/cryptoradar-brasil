@@ -1,29 +1,101 @@
 {
-  "updatedAt": "2026-10-01T18:56:21.996Z",
+  "updatedAt": "2026-10-02T00:57:40.347Z",
   "stories": [
     {
-      "id": "v32-0rc3-bitcoin-core-32-0-release-candidate-3",
-      "headline": "v32.0rc3: Bitcoin Core 32.0 release candidate 3",
-      "category": "bitcoin",
+      "id": "sec-proposes-new-crypto-custody-rules-for-investment-advisers-and",
+      "headline": "SEC proposes new crypto custody rules for investment advisers and funds",
+      "category": "regulacao",
       "tags": [
-        "Bitcoin"
+        "regulação",
+        "SEC"
       ],
-      "firstSeen": "2026-10-01T16:41:48.000Z",
+      "firstSeen": "2026-10-01T20:20:04.000Z",
       "publishers": [
-        "Bitcoin Core (GitHub)"
+        "CoinDesk",
+        "Decrypt",
+        "The Block",
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+          "url": "https://coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+          "date": "2026-10-01T20:20:04.000Z",
+          "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week."
+        },
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+          "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+          "date": "2026-10-01T20:46:03.000Z",
+          "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path."
+        },
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+          "url": "https://theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+          "date": "2026-10-01T21:00:53.000Z",
+          "summary": "SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians."
+        },
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "SEC Proposes New Rules On Crypto Custody",
+          "url": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
+          "date": "2026-10-01T21:09:53.000Z",
+          "summary": "Bitcoin Magazine SEC Proposes New Rules On Crypto Custody The regulator proposed new rules it ​said would ​help govern investment ⁠funds’ custody of ​crypto assets. This post SEC Proposes New Rules On Crypto Custody first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "alta",
+        "reasons": []
+      },
+      "score": 136,
+      "status": "gerada",
+      "slug": "sec-propoe-regras-para-custodia-de-criptomoedas-por-gestores-e-fundos-nos-eua"
+    },
+    {
+      "id": "sec-proposal-would-address-how-investment-advisers-and-funds-can",
+      "headline": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "SEC"
+      ],
+      "firstSeen": "2026-10-01T16:16:07.000Z",
+      "publishers": [
+        "SEC (EUA)"
       ],
       "official": true,
       "items": [
         {
-          "feed": "bitcoin-core",
-          "publisher": "Bitcoin Core (GitHub)",
+          "feed": "sec",
+          "publisher": "SEC (EUA)",
           "type": "official",
           "weight": 3,
           "lang": "en",
-          "title": "v32.0rc3: Bitcoin Core 32.0 release candidate 3",
-          "url": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc3",
-          "date": "2026-10-01T16:41:48.000Z",
-          "summary": "Tree-SHA512: c62b5cef9395bbc1d7607ebe8898e3414e1da1a5ab98ecfa49b7ff9e979159e79ce9ee47c1e8828ec7d018f6a6a0c0cd89d9aa327736024cb6fd138f7896996f",
+          "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+          "url": "https://sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+          "date": "2026-10-01T16:16:07.000Z",
+          "summary": "The Securities and Exchange Commission today proposed new rules and amendments to provide a tailored framework for the custody of crypto assets for registered investment advisers and regulated funds, i.e. registered investment companies and business…",
           "fullText": ""
         }
       ],
@@ -32,9 +104,43 @@
         "confidence": "alta",
         "reasons": []
       },
-      "score": 73,
+      "score": 68,
       "status": "pulada",
-      "note": "A fonte fornecida apresenta apenas o título da versão candidate v32.0rc3 do Bitcoin Core e um hash SHA-512, sem fornecer notas de lançamento, detalhes das mudanças ou contexto suficiente para a redação de uma notícia completa de 300 a 600 palavras sem violar a regra de não inventar informações."
+      "note": "A fonte contém apenas uma frase incompleta sobre a proposta da SEC, sendo insuficiente para produzir um texto jornalístico factual de 300 a 600 palavras sem violar a regra de não inventar informações."
+    },
+    {
+      "id": "introducing-zkapi-private-usage-credits-for-any-api",
+      "headline": "Introducing zkAPI: private usage credits for any API",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T00:00:00.000Z",
+      "publishers": [
+        "Ethereum Foundation Blog"
+      ],
+      "official": true,
+      "items": [
+        {
+          "feed": "ethereum-blog",
+          "publisher": "Ethereum Foundation Blog",
+          "type": "official",
+          "weight": 3,
+          "lang": "en",
+          "title": "Introducing zkAPI: private usage credits for any API",
+          "url": "https://blog.ethereum.org/en/2026/10/01/introducing-zkapi",
+          "date": "2026-10-01T00:00:00.000Z",
+          "summary": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge proofs instead of an identity. The provider sees the requests, and the payment layer sees the spend. Neither learns the link between them. The..."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "alta",
+        "reasons": []
+      },
+      "score": 56,
+      "status": "gerada",
+      "slug": "fundacao-ethereum-e-open-anonymity-project-lancam-zkapi-para-pagamentos"
     },
     {
       "id": "cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel",
@@ -457,6 +563,70 @@
           "url": "https://portaldobitcoin.uol.com.br/visa-mastercard-e-mais-empresas-pedem-aval-do-cade-para-joint-venture-de-stablecoin-no-brasil",
           "date": "2026-10-01T18:42:00.000Z",
           "summary": "Visa, Mastercard, Coinbase, Stripe e Shopify levaram ao Cade uma joint venture ligada à emissão da stablecoin OUSD O post Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "china-warns-foreign-spies-about-crypto-singapore-dominates-asia-asia",
+      "headline": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-10-01T23:17:47.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+          "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express",
+          "date": "2026-10-01T23:17:47.000Z",
+          "summary": "Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it’s watching the blockchain."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-foundation-launches-zkapi-to-let-users-pay-for-ai-models",
+      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-02T00:22:58.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "url": "https://theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+          "date": "2026-10-02T00:22:58.000Z",
+          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer."
         }
       ],
       "validation": {
@@ -1509,6 +1679,39 @@
           "url": "https://theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
           "date": "2026-10-01T13:00:00.000Z",
           "summary": "Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "hyperliquid-policy-center-circle-press-eu-on-perps-and-stablecoin",
+      "headline": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+      "category": "regulacao",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T19:10:36.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+          "url": "https://theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+          "date": "2026-10-01T19:10:36.000Z",
+          "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review."
         }
       ],
       "validation": {
@@ -4107,6 +4310,243 @@
       "status": "pendente"
     },
     {
+      "id": "frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-e-gold",
+      "headline": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-01T21:34:00.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
+          "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
+          "date": "2026-10-01T21:34:00.000Z",
+          "summary": "Bitcoin Magazine Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
+      "headline": "Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T21:24:55.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry",
+          "url": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
+          "date": "2026-10-01T21:24:55.000Z",
+          "summary": "Bitcoin Magazine Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give founders a better choice. This post Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "sazmining-launches-the-wild-sats-club-a-loyalty-program-that",
+      "headline": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-01T21:05:32.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
+          "url": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
+          "date": "2026-10-01T21:05:32.000Z",
+          "summary": "Bitcoin Magazine Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows Sazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder Kent Halliburton, today launched the Wild Sats Club, a loyalty program with four tiers that lowers the management fee customers pay as their petahash under management grows. The program is open to existing and new customers starting today. This post Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows first appeared on Bitcoin Magazine and is written by Bitcoin Magazine ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "jack-dorsey-s-block-launches-campaign-to-get-people-spending-bitcoin",
+      "headline": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T20:15:36.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
+          "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
+          "date": "2026-10-01T20:15:36.000Z",
+          "summary": "Bitcoin Magazine Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin Block has launched a campaign to get people on a Bitcoin standard. This post Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "republican-senator-steve-daines-releases-text-of-proposed-crypto-tax",
+      "headline": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T20:03:12.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
+          "url": "https://bitcoinmagazine.com/news/republican-releases-crypto-tax-plan",
+          "date": "2026-10-01T20:03:12.000Z",
+          "summary": "Bitcoin Magazine Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan The senator says the proposed bill would create clearer rules for assets like stablecoins. This post Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "drift-protocol-anuncia-distribuicao-de-fundos-para-vitimas-de-ataque",
+      "headline": "Drift Protocol anuncia distribuição de fundos para vítimas de ataque, mas valor representa somente 1,1% das perdas",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-01T20:16:20.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Drift Protocol anuncia distribuição de fundos para vítimas de ataque, mas valor representa somente 1,1% das perdas",
+          "url": "https://livecoins.com.br/drift-protocol-anuncia-distribuicao-de-fundos-para-vitimas-de-ataque-mas-valor-representa-somente-11-das-perdas",
+          "date": "2026-10-01T20:16:20.000Z",
+          "summary": "O Drift Protocol anunciou nesta quinta-feira (1º) o início dos pagamentos de compensação para vítimas que perderam seus fundos no projeto. O ataque aconteceu no dia 1º de abril, há exatos seis meses, e resultou em perdas de US$ 285,3 milhões. A quantia a ser reembolsada, no entanto, é de somente 3,1 milhões de USDT, […] Fonte: Drift Protocol anuncia distribuição de fundos para vítimas de ataque, mas valor representa somente 1,1% das perdas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "citi-projeta-bitcoin-a-us-113-mil-e-ethereum-a-us-3-mil-em-12-meses",
+      "headline": "Citi projeta Bitcoin a US$ 113 mil e Ethereum a US$ 3 mil em 12 meses",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-01T20:04:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Citi projeta Bitcoin a US$ 113 mil e Ethereum a US$ 3 mil em 12 meses",
+          "url": "https://portaldobitcoin.uol.com.br/citi-projeta-bitcoin-a-us-113-mil-e-ethereum-a-us-3-mil-em-12-meses",
+          "date": "2026-10-01T20:04:00.000Z",
+          "summary": "Banco revisou sua meta de 12 meses para o Bitcoin de US$ 82 mil para cima, embora o preço fique abaixo da máxima de 2025 O post Citi projeta Bitcoin a US$ 113 mil e Ethereum a US$ 3 mil em 12 meses apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "tax-on-bitcoin-gains-dutch-government-to-introduce-capital-gains-tax",
       "headline": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
       "category": "regulacao",
@@ -5011,48 +5451,13 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-optech-newsletter-424-recap-podcast",
-      "headline": "Bitcoin Optech Newsletter #424 Recap Podcast",
-      "category": "bitcoin",
+      "id": "evernorth-clears-shareholder-vote-ahead-of-nasdaq-debut-with-473m-xrp",
+      "headline": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "category": "regulacao",
       "tags": [
-        "Bitcoin"
+        "XRP"
       ],
-      "firstSeen": "2026-09-29T00:00:00.000Z",
-      "publishers": [
-        "Bitcoin Optech"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "bitcoin-optech",
-          "publisher": "Bitcoin Optech",
-          "type": "official",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Optech Newsletter #424 Recap Podcast",
-          "url": "https://bitcoinops.org/en/podcast/2026/09/29",
-          "date": "2026-09-29T00:00:00.000Z",
-          "summary": "Gustavo Flores Echaiz and Mike Schmidt are joined by Ahmet Kurt and Jan B to discuss Newsletter #424."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "near-intents-suffers-3-8m-exploit-after-assistance-with-bitget-breach",
-      "headline": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-01T15:43:34.000Z",
+      "firstSeen": "2026-10-01T21:07:45.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -5064,10 +5469,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-          "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
-          "date": "2026-10-01T15:43:34.000Z",
-          "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals."
+          "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+          "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
+          "date": "2026-10-01T21:07:45.000Z",
+          "summary": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices."
         }
       ],
       "validation": {
@@ -5081,28 +5486,26 @@
       "status": "descartada"
     },
     {
-      "id": "the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-      "headline": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+      "id": "trump-to-host-3rd-exclusive-memecoin-event-amid-corruption-claims",
+      "headline": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
       "category": "altcoins",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-01T18:46:03.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-01T21:00:11.000Z",
       "publishers": [
-        "Decrypt"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-          "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-          "date": "2026-10-01T18:46:03.000Z",
-          "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP."
+          "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+          "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
+          "date": "2026-10-01T21:00:11.000Z",
+          "summary": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026."
         }
       ],
       "validation": {
@@ -5116,205 +5519,162 @@
       "status": "descartada"
     },
     {
-      "id": "openai-fires-three-safety-researchers-over-alleged-leak-to-outside",
-      "headline": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-01T18:12:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-          "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-          "date": "2026-10-01T18:12:04.000Z",
-          "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto",
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "it-s-the-start-of-uptober-will-bitcoin-live-up-to-it",
-      "headline": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-01T17:11:44.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
-          "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
-          "date": "2026-10-01T17:11:44.000Z",
-          "summary": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "near-intents-hacked-for-3-8m-days-after-denying-north-korea-linked",
-      "headline": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-01T15:43:27.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-          "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
-          "date": "2026-10-01T15:43:27.000Z",
-          "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "evernorth-shareholders-approve-1-billion-xrp-treasury-deal-clearing",
-      "headline": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
-      "category": "regulacao",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-01T15:17:11.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
-          "url": "https://theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-          "date": "2026-10-01T15:17:11.000Z",
-          "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "near-intents-halts-services-after-3-8-million-exploit-promises-full",
-      "headline": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
-      "category": "seguranca",
-      "tags": [
-        "regulação",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-01T14:18:12.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
-          "url": "https://theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
-          "date": "2026-10-01T14:18:12.000Z",
-          "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "citi-eleva-previsao-de-preco-do-bitcoin-para-us-113-000",
-      "headline": "Citi eleva previsão de preço do Bitcoin para US$ 113.000",
+      "id": "zcash-drops-21-from-recent-high-here-s-why-the-rally-may-not-be-over",
+      "headline": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
       "category": "mercado",
       "tags": [
-        "Bitcoin"
+        "ETFs"
       ],
-      "firstSeen": "2026-10-01T15:11:37.000Z",
+      "firstSeen": "2026-10-01T21:31:03.000Z",
       "publishers": [
-        "Livecoins"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
+          "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+          "date": "2026-10-01T21:31:03.000Z",
+          "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?"
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "reddit-is-killing-rss-feeds-and-public-api-access-to-fight-ai-scrapers",
+      "headline": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-01T20:31:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
+          "date": "2026-10-01T20:31:03.000Z",
+          "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "openai-says-people-linked-to-china-s-moonshot-tried-to-copy-its-ai-s",
+      "headline": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-01T19:46:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+          "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+          "date": "2026-10-01T19:46:03.000Z",
+          "summary": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "meta-pushes-back-on-claim-that-muse-ai-read-a-user-s-messages-without",
+      "headline": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-01T19:16:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+          "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+          "date": "2026-10-01T19:16:03.000Z",
+          "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
+      "headline": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-01T21:18:21.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
           "type": "media",
           "weight": 1,
-          "lang": "pt",
-          "title": "Citi eleva previsão de preço do Bitcoin para US$ 113.000",
-          "url": "https://livecoins.com.br/citi-eleva-previsao-de-preco-do-bitcoin-para-us-113-000",
-          "date": "2026-10-01T15:11:37.000Z",
-          "summary": "Em relatório publicado no início de julho, o Citi rebaixou sua previsão de preço do Bitcoin de US$ 112.000 para somente US$ 82.000 em uma janela de doze meses. Três meses depois, o banco voltou a aumentar seu preço alvo para US$ 113.000 nesta quinta-feira (1º). No texto compartilhado pela Reuters, os analistas do Citi […] Fonte: Citi eleva previsão de preço do Bitcoin para US$ 113.000 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "lang": "en",
+          "title": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?",
+          "url": "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
+          "date": "2026-10-01T21:18:21.000Z",
+          "summary": "Bitcoin Magazine Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027? Darius Dale warns near-term liquidity tightening could trigger Bitcoin chop, but expects a major 12-to-18-month rally if liquidity returns in 2027. This post Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027? first appeared on Bitcoin Magazine and is written by Patrick Green ."
         }
       ],
       "validation": {
