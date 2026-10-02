@@ -1,6 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-02T06:58:13.805Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-02T12:57:53.754Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Porsche’s ‘long haul’ Web3 project ends in less than four years
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 51
+- [Cointelegraph] Porsche’s ‘long haul’ Web3 project ends in less than four years — https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft (2026-10-02T09:18:52.000Z)
 
 ## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
 
@@ -87,6 +92,36 @@ Gerada em 2026-10-02T06:58:13.805Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds — https://theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547 (2026-10-02T05:50:41.000Z)
 
+## U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2% — https://coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2 (2026-10-02T12:31:53.000Z)
+
+## Circle urges EU to revise stablecoin reserve rules in MiCA review
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Circle urges EU to revise stablecoin reserve rules in MiCA review — https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review (2026-10-02T12:25:56.000Z)
+
+## BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B — https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion (2026-10-02T11:40:21.000Z)
+
+## US Designates Russia's A7 Network as Transnational Criminal Organization
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] US Designates Russia's A7 Network as Transnational Criminal Organization — https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization (2026-10-02T11:28:41.000Z)
+
+## Mercado Bitcoin fecha acordo com Bity para receber clientes da plataforma no Brasil
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] Mercado Bitcoin fecha acordo com Bity para receber clientes da plataforma no Brasil — https://portaldobitcoin.uol.com.br/mercado-bitcoin-fecha-acordo-com-bity-para-receber-clientes-da-plataforma-no-brasil (2026-10-02T12:47:19.000Z)
+
+## Banco Central muda regras para criptomoedas e adia reporte de autocustódia ao Coaf
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] Banco Central muda regras para criptomoedas e adia reporte de autocustódia ao Coaf — https://portaldobitcoin.uol.com.br/banco-central-muda-regras-para-criptomoedas-e-adia-reporte-de-autocustodia-ao-coaf (2026-10-02T11:51:00.000Z)
+
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -116,38 +151,3 @@ Gerada em 2026-10-02T06:58:13.805Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [The Block] CFTC secures over $30 million judgment against defendants in Fundsz fraud case — https://theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365 (2026-09-30T20:37:08.000Z)
-
-## Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [CoinDesk] Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps — https://coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps (2026-10-01T04:58:52.000Z)
-
-## Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall — https://coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall (2026-10-01T04:15:20.000Z)
-
-## Crypto hacks top $768M in September, worst month of 2026
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Crypto hacks top $768M in September, worst month of 2026 — https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield (2026-10-01T04:44:33.000Z)
-
-## Synthetic tokenized stocks are bad for American investors
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [CoinDesk] Synthetic tokenized stocks are bad for American investors — https://coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors (2026-10-01T11:00:00.000Z)
-
-## Bitcoin kicks off new quarter in the old $82,000-$85,000 price range
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin kicks off new quarter in the old $82,000-$85,000 price range — https://coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range (2026-10-01T10:38:04.000Z)
-
-## Tokenized assets don’t always mirror traditional markets, Dune finds
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Tokenized assets don’t always mirror traditional markets, Dune finds — https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report (2026-10-01T10:50:24.000Z)
-
-## Bitcoin trapped below $86K as PCE changes cloud inflation reading
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Bitcoin trapped below $86K as PCE changes cloud inflation reading — https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data (2026-10-01T10:30:18.000Z)
