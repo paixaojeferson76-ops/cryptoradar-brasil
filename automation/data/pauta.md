@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-03T07:05:12.090Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-03T17:18:42.115Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
@@ -122,6 +122,16 @@ Gerada em 2026-10-03T07:05:12.090Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Portal do Bitcoin] Banco Central muda regras para criptomoedas e adia reporte de autocustódia ao Coaf — https://portaldobitcoin.uol.com.br/banco-central-muda-regras-para-criptomoedas-e-adia-reporte-de-autocustodia-ao-coaf (2026-10-02T11:51:00.000Z)
 
+## Crypto job postings triple to over 1,200 in September, but applications fall
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto job postings triple to over 1,200 in September, but applications fall — https://coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall (2026-10-03T16:00:00.000Z)
+
+## Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea — https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea (2026-10-03T17:01:03.000Z)
+
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -141,13 +151,3 @@ Gerada em 2026-10-03T07:05:12.090Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Base completes Cobalt upgrade, adds new tools for tokenized assets — https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc (2026-09-30T19:00:00.000Z)
-
-## Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [Decrypt] Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse — https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act (2026-09-30T20:31:04.000Z)
-
-## CFTC secures over $30 million judgment against defendants in Fundsz fraud case
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [The Block] CFTC secures over $30 million judgment against defendants in Fundsz fraud case — https://theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365 (2026-09-30T20:37:08.000Z)

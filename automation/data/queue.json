@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:05:12.090Z",
+  "updatedAt": "2026-10-03T17:18:42.115Z",
   "stories": [
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
@@ -784,6 +784,74 @@
           "url": "https://portaldobitcoin.uol.com.br/banco-central-muda-regras-para-criptomoedas-e-adia-reporte-de-autocustodia-ao-coaf",
           "date": "2026-10-02T11:51:00.000Z",
           "summary": "Banco Central adia parte das novas obrigações sobre autocustódia e amplia prazos de análise para empresas cripto O post Banco Central muda regras para criptomoedas e adia reporte de autocustódia ao Coaf apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-job-postings-triple-to-over-1-200-in-september-but",
+      "headline": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "firstSeen": "2026-10-03T16:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+          "url": "https://coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+          "date": "2026-10-03T16:00:00.000Z",
+          "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "chainalysis-used-ai-to-trace-the-387m-bitget-hack-back-to-north-korea",
+      "headline": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-03T17:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+          "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+          "date": "2026-10-03T17:01:03.000Z",
+          "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers."
         }
       ],
       "validation": {
@@ -1772,6 +1840,101 @@
           "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
           "date": "2026-10-02T20:40:47.000Z",
           "summary": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-s-sisyphean-struggle",
+      "headline": "Crypto's Sisyphean struggle",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-03T13:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto's Sisyphean struggle",
+          "url": "https://coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+          "date": "2026-10-03T13:00:00.000Z",
+          "summary": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "blackrock-offers-a-glimpse-of-how-tokenization-may-change-your",
+      "headline": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-03T13:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+          "url": "https://coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+          "date": "2026-10-03T13:00:00.000Z",
+          "summary": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "trump-is-hosting-yet-another-meme-coin-dinner-here-are-the-details",
+      "headline": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-03T15:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+          "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+          "date": "2026-10-03T15:01:03.000Z",
+          "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate."
         }
       ],
       "validation": {
@@ -2934,6 +3097,39 @@
           "url": "https://livecoins.com.br/apos-mp-de-lula-que-proibe-bets-no-brasil-deputado-propoe-repatriacao-de-criptomoedas-com-anistia-fiscal",
           "date": "2026-10-02T16:11:09.000Z",
           "summary": "Uma emenda apresentada à Medida Provisória 1.394/2026 sugere a criação de um programa de regularização para criptomoedas do setor de apostas, nas chamadas bets. O texto do Deputado Federal Julio Arcoverde (PP-PI) surgiu na quinta-feira (1) no Congresso Nacional. A proposta pretende liberar a declaração voluntária de recursos obtidos por casas de jogos até o […] Fonte: Após MP de Lula que proíbe bets no Brasil, deputado propõe repatriação de criptomoedas com anistia fiscal Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
+      "headline": "Community banks sue OCC over trust bank charters of crypto firms",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-03T09:25:01.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Community banks sue OCC over trust bank charters of crypto firms",
+          "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
+          "date": "2026-10-03T09:25:01.000Z",
+          "summary": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress."
         }
       ],
       "validation": {
@@ -4957,6 +5153,105 @@
       "status": "pendente"
     },
     {
+      "id": "fim-das-bets-contextualiza-como-vicio-em-jogos-e-questao-de-saude",
+      "headline": "Fim das bets contextualiza como vício em jogos é questão de saúde pública",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-03T17:08:22.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Fim das bets contextualiza como vício em jogos é questão de saúde pública",
+          "url": "https://livecoins.com.br/fim-das-bets-contextualiza-como-vicio-em-jogos-e-questao-de-saude-publica",
+          "date": "2026-10-03T17:08:22.000Z",
+          "summary": "O fim das bets, determinado pelo governo federal, recoloca no centro do debate um problema que não desaparece com o encerramento das plataformas, a ludopatia. Ao assinar, em 25 de setembro, a medida provisória que proíbe a exploração, a oferta, a intermediação e a publicidade das apostas de quota fixa no país, o governo classificou […] Fonte: Fim das bets contextualiza como vício em jogos é questão de saúde pública Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "microsoft-promove-memecoin-do-clippy-escreve-estranho-pedido-de",
+      "headline": "Microsoft promove memecoin do “Clippy”, escreve estranho pedido de desculpas e apaga postagens",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-03T15:32:58.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Microsoft promove memecoin do “Clippy”, escreve estranho pedido de desculpas e apaga postagens",
+          "url": "https://livecoins.com.br/microsoft-promove-memecoin-do-clippy-escreve-estranho-pedido-de-desculpas-e-apaga-postagens",
+          "date": "2026-10-03T15:32:58.000Z",
+          "summary": "A Microsoft, quarta maior empresa do mundo por valor de mercado, compartilhou na quinta-feira (1º) uma postagem sobre o retorno do “Clippy”, um personagem que funcionava como um assistente virtual dos produtos do Office nos anos 2000. A conta que realizou a postagem original, no entanto, estava sendo usada para promover uma memecoin. Ao perceber […] Fonte: Microsoft promove memecoin do “Clippy”, escreve estranho pedido de desculpas e apaga postagens Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "ia-da-meta-e-acusada-de-ler-mensagens-privadas-sem-permissao",
+      "headline": "IA da Meta é acusada de ler mensagens privadas sem permissão",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-03T15:12:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "IA da Meta é acusada de ler mensagens privadas sem permissão",
+          "url": "https://portaldobitcoin.uol.com.br/ia-da-meta-e-acusada-de-ler-mensagens-privadas-sem-permissao",
+          "date": "2026-10-03T15:12:00.000Z",
+          "summary": "Jornalista diz que agente de IA da Meta acessou mensagens privadas mesmo sem permissão dele; a empresa nega O post IA da Meta é acusada de ler mensagens privadas sem permissão apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "uk-brings-crypto-under-full-fca-oversight-for-the-first-time",
       "headline": "UK Brings Crypto Under Full FCA Oversight for the First Time",
       "category": "regulacao",
@@ -5970,6 +6265,40 @@
       "status": "pendente"
     },
     {
+      "id": "esqueca-o-preco-do-bitcoin",
+      "headline": "Esqueça o preço do Bitcoin",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-03T12:01:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Esqueça o preço do Bitcoin",
+          "url": "https://portaldobitcoin.uol.com.br/esqueca-o-preco-do-bitcoin",
+          "date": "2026-10-03T12:01:00.000Z",
+          "summary": "O futuro da tokenização e da IA não está no valor dos ativos, mas na velocidade com que o capital se movimenta O post Esqueça o preço do Bitcoin apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "tax-on-bitcoin-gains-dutch-government-to-introduce-capital-gains-tax",
       "headline": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
       "category": "regulacao",
@@ -6541,6 +6870,39 @@
           "url": "https://portaldobitcoin.uol.com.br/etfs-de-bitcoin-atraem-us-265-bilhoes-em-setembro-e-reforcam-demanda-institucional",
           "date": "2026-10-02T14:16:00.000Z",
           "summary": "ETFs de Bitcoin tiveram grandes entradas e mantiveram a demanda institucional em alta, enquanto o BTC voltou a se aproximar dos US$ 87 mil O post ETFs de Bitcoin atraem US$ 2,65 bilhões em setembro e reforçam demanda institucional apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "mpf-defende-sufocamento-financeiro-contra-crimes-com-criptoativos-em",
+      "headline": "MPF defende sufocamento financeiro contra crimes com criptoativos em evento internacional",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-03T10:00:24.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "MPF defende sufocamento financeiro contra crimes com criptoativos em evento internacional",
+          "url": "https://livecoins.com.br/mpf-defende-sufocamento-financeiro-contra-crimes-com-criptoativos-em-evento-internacional",
+          "date": "2026-10-03T10:00:24.000Z",
+          "summary": "O Ministério Público Federal (MPF) defendeu o sufocamento financeiro de organizações criminosas na quinta-feira (1), quando Hindenburgo Chateaubriand apresentou essa estratégia durante a reunião de órgãos internacionais no Peru. Vice-Procurador-Geral da República, Chateaubriand discursou na abertura da 33ª Assembleia-Geral Ordinária da Associação Ibero-Americana de Ministérios Públicos (Aiamp), com representantes de 22 países. A pauta do […] Fonte: MPF defende sufocamento financeiro contra crimes com criptoativos em evento internacional Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -7250,6 +7612,206 @@
       },
       "score": 12,
       "status": "pendente"
+    },
+    {
+      "id": "payments-firm-openpayd-targets-year-end-nasdaq-listing-to-fund-u-s",
+      "headline": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-03T16:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+          "url": "https://coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+          "date": "2026-10-03T16:00:00.000Z",
+          "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "cathie-wood-says-smart-investors-need-to-start-watching-where-ai",
+      "headline": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-03T15:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+          "url": "https://coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+          "date": "2026-10-03T15:00:00.000Z",
+          "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "near-intents-recovers-entire-stolen-3-8m-after-ultimatum-to-exploiter",
+      "headline": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-03T11:59:10.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+          "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
+          "date": "2026-10-03T11:59:10.000Z",
+          "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
+      "headline": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-03T07:06:08.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+          "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
+          "date": "2026-10-03T07:06:08.000Z",
+          "summary": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "openai-banned-pewdiepie-twice-while-he-built-ajax-an-uncensored-ai",
+      "headline": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-03T16:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+          "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+          "date": "2026-10-03T16:01:03.000Z",
+          "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "the-pope-has-thoughts-on-ai-art-and-they-re-not-flattering",
+      "headline": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-03T13:01:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
+          "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+          "date": "2026-10-03T13:01:04.000Z",
+          "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
