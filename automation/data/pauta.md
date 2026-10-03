@@ -1,6 +1,18 @@
 # Pauta de notícias
 
-Gerada em 2026-10-02T12:57:53.754Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-03T00:56:57.347Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 72
+- [CoinDesk] Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98% — https://coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98 (2026-10-02T17:15:35.000Z)
+- [Decrypt] Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down — https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down (2026-10-02T17:47:06.000Z)
+
+## Blast to wind down Ethereum L2 after costs outpace revenue
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 72
+- [Cointelegraph] Blast to wind down Ethereum L2 after costs outpace revenue — https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue (2026-10-02T18:24:05.000Z)
+- [The Block] Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue — https://theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583 (2026-10-02T16:54:29.000Z)
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
@@ -141,13 +153,3 @@ Gerada em 2026-10-02T12:57:53.754Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Base completes Cobalt upgrade, adds new tools for tokenized assets — https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc (2026-09-30T19:00:00.000Z)
-
-## Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [Decrypt] Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse — https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act (2026-09-30T20:31:04.000Z)
-
-## CFTC secures over $30 million judgment against defendants in Fundsz fraud case
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [The Block] CFTC secures over $30 million judgment against defendants in Fundsz fraud case — https://theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365 (2026-09-30T20:37:08.000Z)
