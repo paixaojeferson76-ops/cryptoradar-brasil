@@ -1,26 +1,7 @@
 {
-  "at": "2026-10-03T00:59:06.434Z",
+  "at": "2026-10-03T07:05:15.532Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "rede-de-segunda-camada-blast-anuncia-encerramento-apos-queda-de-98-em-ativos",
-      "title": "Rede de segunda camada Blast anuncia encerramento após queda de 98% em ativos",
-      "confidence": "media",
-      "sources": [
-        "CoinDesk",
-        "Decrypt"
-      ]
-    },
-    {
-      "slug": "blast-anuncia-encerramento-de-rede-de-segunda-camada-do-ethereum-apos-custos",
-      "title": "Blast anuncia encerramento de rede de segunda camada do Ethereum após custos superarem receitas",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
-        "The Block"
-      ]
-    }
-  ],
+  "review": [],
   "skipped": [],
   "errors": []
 }
