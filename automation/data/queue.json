@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T15:00:14.827Z",
+  "updatedAt": "2026-10-04T21:21:08.178Z",
   "stories": [
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
@@ -2010,6 +2010,72 @@
       "status": "pendente"
     },
     {
+      "id": "there-s-an-election-next-month-state-of-crypto",
+      "headline": "There's an election next month: State of Crypto",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-04T18:30:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "There's an election next month: State of Crypto",
+          "url": "https://coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+          "date": "2026-10-04T18:30:00.000Z",
+          "summary": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "trump-taps-jay-clayton-the-sec-chair-who-sued-ripple-to-lead-ai-push",
+      "headline": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "SEC",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-04T17:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+          "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+          "date": "2026-10-04T17:01:03.000Z",
+          "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-industry-gave-8-million-to-clarity-act-lobbyists-who-didn-t",
       "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "category": "regulacao",
@@ -2799,6 +2865,108 @@
           "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
           "date": "2026-10-04T09:40:00.000Z",
           "summary": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "banking-group-sues-to-block-crypto-s-side-door-into-the-banking-system",
+      "headline": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-04T16:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+          "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+          "date": "2026-10-04T16:01:03.000Z",
+          "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "uptober-starts-green-as-bitcoin-etfs-draw-134-million",
+      "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-04T15:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+          "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+          "date": "2026-10-04T15:01:03.000Z",
+          "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "apos-idoso-cair-em-golpe-de-r-3-milhoes-justica-manda-kraken-bloquear",
+      "headline": "Após idoso cair em golpe de R$ 3 milhões, justiça manda Kraken bloquear valores no Brasil e isenta Tether e Circle",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "stablecoins",
+        "segurança",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-04T15:06:01.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Após idoso cair em golpe de R$ 3 milhões, justiça manda Kraken bloquear valores no Brasil e isenta Tether e Circle",
+          "url": "https://livecoins.com.br/apos-idoso-cair-em-golpe-de-r-3-milhoes-justica-manda-kraken-bloquear-valores-no-brasil-e-isenta-tether-e-circle",
+          "date": "2026-10-04T15:06:01.000Z",
+          "summary": "Um médico aposentado de setenta e quatro anos sofreu um prejuízo milionário em fraudes com criptomoedas, uma vez que a vítima perdeu a quantia de R$ 3,4 milhões durante as operações criminosas. Os advogados estruturaram o rastreio técnico dos ativos através das redes Bitcoin, Ethereum e TRON. O caminho do dinheiro passou por plataformas de […] Fonte: Após idoso cair em golpe de R$ 3 milhões, justiça manda Kraken bloquear valores no Brasil e isenta Tether e Circle Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -6498,6 +6666,74 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-pode-chegar-a-us-500-mil-neste-ciclo-diz-executivo-da-vaneck",
+      "headline": "Bitcoin pode chegar a US$ 500 mil neste ciclo, diz executivo da VanEck",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-04T16:33:27.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin pode chegar a US$ 500 mil neste ciclo, diz executivo da VanEck",
+          "url": "https://livecoins.com.br/bitcoin-pode-chegar-a-us-500-mil-neste-ciclo-diz-executivo-da-vaneck",
+          "date": "2026-10-04T16:33:27.000Z",
+          "summary": "Matthew Sigel, chefe de pesquisa de ativos digitais da VanEck, acredita que o Bitcoin pode alcançar a marca de US$ 500 mil neste ciclo de alta. Nesse patamar, a criptomoeda teria um valor de mercado equivalente à metade do valor de mercado do ouro. No momento desta redação, o Bitcoin é negociado na faixa dos […] Fonte: Bitcoin pode chegar a US$ 500 mil neste ciclo, diz executivo da VanEck Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "minha-exchange-fechou-e-agora-veja-o-que-fazer-com-suas-criptomoedas",
+      "headline": "Minha exchange fechou, e agora? Veja o que fazer com suas criptomoedas",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-04T18:03:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Minha exchange fechou, e agora? Veja o que fazer com suas criptomoedas",
+          "url": "https://portaldobitcoin.uol.com.br/minha-exchange-fechou-e-agora-veja-o-que-fazer-com-suas-criptomoedas",
+          "date": "2026-10-04T18:03:00.000Z",
+          "summary": "Com fechamento e saída de exchanges do Brasil com a nova regulação, investidores precisam ficar atentos de onde manter suas criptomoedas O post Minha exchange fechou, e agora? Veja o que fazer com suas criptomoedas apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "tax-on-bitcoin-gains-dutch-government-to-introduce-capital-gains-tax",
       "headline": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
       "category": "regulacao",
@@ -7281,168 +7517,6 @@
       "status": "pendente"
     },
     {
-      "id": "a-clever-rsa-attack-fooled-a-hardware-vault-here-s-what-it-means-for",
-      "headline": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-      "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-09-28T21:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-          "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
-          "date": "2026-09-28T21:16:03.000Z",
-          "summary": "A UC San Diego-led team impersonated a hardware security module without extracting its key."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 20,
-      "status": "pendente"
-    },
-    {
-      "id": "banco-central-nega-autorizacao-a-primeira-empresa-cripto-e-transfero",
-      "headline": "Banco Central nega autorização à primeira empresa cripto e Transfero entra na fila por licença",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Banco Central"
-      ],
-      "firstSeen": "2026-09-28T20:54:25.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Banco Central nega autorização à primeira empresa cripto e Transfero entra na fila por licença",
-          "url": "https://portaldobitcoin.uol.com.br/banco-central-nega-autorizacao-a-primeira-empresa-cripto-e-transfero-entra-na-fila-por-licenca",
-          "date": "2026-09-28T20:54:25.000Z",
-          "summary": "Banco Central registra a primeira negativa a uma empresa cripto no novo regime, enquanto a Transfero entra na fila por autorização O post Banco Central nega autorização à primeira empresa cripto e Transfero entra na fila por licença apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 20,
-      "status": "pendente"
-    },
-    {
-      "id": "citi-clients-can-now-take-stablecoin-payments-through-coinbase",
-      "headline": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-09-28T20:36:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-          "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-          "date": "2026-09-28T20:36:03.000Z",
-          "summary": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 19,
-      "status": "pendente"
-    },
-    {
-      "id": "anthropic-s-claude-sonnet-5-5-is-out-beats-opus-5-5-at-coding-for",
-      "headline": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-09-28T20:06:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-          "url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
-          "date": "2026-09-28T20:06:03.000Z",
-          "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 19,
-      "status": "pendente"
-    },
-    {
-      "id": "strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27-000-btc",
-      "headline": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-28T18:16:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-          "url": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
-          "date": "2026-09-28T18:16:02.000Z",
-          "summary": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 19,
-      "status": "pendente"
-    },
-    {
       "id": "bitget-customers-withdraw-over-4-000-bitcoins-in-one-hour-following",
       "headline": "Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack",
       "category": "seguranca",
@@ -7578,39 +7652,6 @@
       "status": "pendente"
     },
     {
-      "id": "vitalik-buterin-outlines-cryptographic-world-computer-plan-for",
-      "headline": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-09-28T16:29:42.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-          "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
-          "date": "2026-09-28T16:29:42.000Z",
-          "summary": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 18,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-a-us-84-mil-chega-a-faixa-que-pode-definir-o-proximo-grande",
       "headline": "Bitcoin a US$ 84 mil chega à faixa que pode definir o próximo grande movimento do mercado",
       "category": "mercado",
@@ -7676,39 +7717,6 @@
         "reasons": []
       },
       "score": 18,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-falls-lower-as-trump-s-iran-snub-sends-oil-yields-higher",
-      "headline": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-      "category": "defi",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-28T15:26:28.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-          "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
-          "date": "2026-09-28T15:26:28.000Z",
-          "summary": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 17,
       "status": "pendente"
     },
     {
@@ -7811,210 +7819,6 @@
       },
       "score": 16,
       "status": "pendente"
-    },
-    {
-      "id": "como-as-criptomoedas-pararam-de-esperar-pelo-congresso-e-aprenderam-a",
-      "headline": "Como as criptomoedas pararam de esperar pelo Congresso e aprenderam a amar os reguladores",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-09-28T19:43:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Como as criptomoedas pararam de esperar pelo Congresso e aprenderam a amar os reguladores",
-          "url": "https://portaldobitcoin.uol.com.br/como-as-criptomoedas-pararam-de-esperar-pelo-congresso-e-aprenderam-a-amar-os-reguladores",
-          "date": "2026-09-28T19:43:00.000Z",
-          "summary": "Após o fracasso do Clarity Act no Senado, empresas de cripto voltam suas atenções para SEC, CFTC e Fed em busca de avanços nos EUA O post Como as criptomoedas pararam de esperar pelo Congresso e aprenderam a amar os reguladores apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 12,
-      "status": "pendente"
-    },
-    {
-      "id": "ethereum-deixara-de-ser-apenas-uma-blockchain-diz-vitalik-buterin",
-      "headline": "Ethereum deixará de ser “apenas uma blockchain”, diz Vitalik Buterin",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-09-28T18:01:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Ethereum deixará de ser “apenas uma blockchain”, diz Vitalik Buterin",
-          "url": "https://portaldobitcoin.uol.com.br/ethereum-deixara-de-ser-apenas-uma-blockchain-diz-vitalik-buterin",
-          "date": "2026-09-28T18:01:00.000Z",
-          "summary": "Vitalik Buterin prevê que o Ethereum passará por uma transformação profunda até 2030, com mais velocidade, escala e privacidade O post Ethereum deixará de ser “apenas uma blockchain”, diz Vitalik Buterin apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 12,
-      "status": "pendente"
-    },
-    {
-      "id": "trump-taps-intel-chief-jay-clayton-to-lead-new-super-intelligence",
-      "headline": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-04T13:48:48.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-          "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force",
-          "date": "2026-10-04T13:48:48.000Z",
-          "summary": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
-      "headline": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-04T12:42:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-          "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
-          "date": "2026-10-04T12:42:00.000Z",
-          "summary": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "russia-s-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
-      "headline": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-04T07:18:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-          "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
-          "date": "2026-10-04T07:18:00.000Z",
-          "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "we-have-identified-you-sir-near-intents-recovers-3-8-million-after-48",
-      "headline": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-04T13:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-          "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-          "date": "2026-10-04T13:01:03.000Z",
-          "summary": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }
