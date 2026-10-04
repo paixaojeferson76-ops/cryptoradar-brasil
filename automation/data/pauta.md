@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-04T02:16:28.010Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-04T15:00:14.827Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
@@ -132,6 +132,11 @@ Gerada em 2026-10-04T02:16:28.010Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Decrypt] Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea — https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea (2026-10-03T17:01:03.000Z)
 
+## Crypto poured years into new products. The next challenge is keeping users
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto poured years into new products. The next challenge is keeping users — https://coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users (2026-10-04T14:00:00.000Z)
+
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -146,8 +151,3 @@ Gerada em 2026-10-04T02:16:28.010Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Crypto advocacy group announces picks for US Congress as midterms loom — https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms (2026-09-30T19:11:23.000Z)
-
-## Base completes Cobalt upgrade, adds new tools for tokenized assets
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Base completes Cobalt upgrade, adds new tools for tokenized assets — https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc (2026-09-30T19:00:00.000Z)

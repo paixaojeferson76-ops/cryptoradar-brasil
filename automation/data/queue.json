@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:16:28.010Z",
+  "updatedAt": "2026-10-04T15:00:14.827Z",
   "stories": [
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
@@ -852,6 +852,37 @@
           "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
           "date": "2026-10-03T17:01:03.000Z",
           "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-poured-years-into-new-products-the-next-challenge-is-keeping",
+      "headline": "Crypto poured years into new products. The next challenge is keeping users",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-04T14:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto poured years into new products. The next challenge is keeping users",
+          "url": "https://coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+          "date": "2026-10-04T14:00:00.000Z",
+          "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge."
         }
       ],
       "validation": {
@@ -1946,6 +1977,39 @@
       "status": "pendente"
     },
     {
+      "id": "the-clarity-act-stalled-bankers-aren-t-hitting-the-brakes-yet-on",
+      "headline": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-04T13:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+          "url": "https://coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+          "date": "2026-10-04T13:00:00.000Z",
+          "summary": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-industry-gave-8-million-to-clarity-act-lobbyists-who-didn-t",
       "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "category": "regulacao",
@@ -2701,6 +2765,40 @@
           "url": "https://portaldobitcoin.uol.com.br/por-que-grandes-empresas-cripto-ainda-nao-pediram-autorizacao-ao-banco-central",
           "date": "2026-10-02T19:19:00.000Z",
           "summary": "Empresas cripto estão usando o período de transição para concluir adequações antes de entrar na supervisão contínua do Banco Central O post Por que grandes empresas cripto ainda não pediram autorização ao Banco Central apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "el-salvador-receives-138-million-from-imf-after-bitcoin-waivers",
+      "headline": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-04T09:40:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+          "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+          "date": "2026-10-04T09:40:00.000Z",
+          "summary": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said."
         }
       ],
       "validation": {
@@ -5287,6 +5385,39 @@
       "status": "pendente"
     },
     {
+      "id": "google-lanca-gemini-4-e-nova-ia-lidera-testes-de-seguranca-digital",
+      "headline": "Google lança Gemini 4 e nova IA lidera testes de segurança digital",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-04T14:58:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Google lança Gemini 4 e nova IA lidera testes de segurança digital",
+          "url": "https://portaldobitcoin.uol.com.br/google-lanca-gemini-4-e-nova-ia-lidera-testes-de-seguranca-digital",
+          "date": "2026-10-04T14:58:00.000Z",
+          "summary": "Gemini 4, nova IA do Google, liderou testes de cibersegurança e se destacou contra ataques de prompt injection, além de avanços em raciocínio O post Google lança Gemini 4 e nova IA lidera testes de segurança digital apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "uk-brings-crypto-under-full-fca-oversight-for-the-first-time",
       "headline": "UK Brings Crypto Under Full FCA Oversight for the First Time",
       "category": "regulacao",
@@ -6323,6 +6454,39 @@
           "url": "https://portaldobitcoin.uol.com.br/esqueca-o-preco-do-bitcoin",
           "date": "2026-10-03T12:01:00.000Z",
           "summary": "O futuro da tokenização e da IA não está no valor dos ativos, mas na velocidade com que o capital se movimenta O post Esqueça o preço do Bitcoin apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "nova-ia-da-openai-ganha-computador-proprio-e-pode-trabalhar-enquanto",
+      "headline": "Nova IA da OpenAI ganha computador próprio e pode trabalhar enquanto você dorme",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-04T12:07:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Nova IA da OpenAI ganha computador próprio e pode trabalhar enquanto você dorme",
+          "url": "https://portaldobitcoin.uol.com.br/nova-ia-da-openai-ganha-computador-proprio-e-pode-trabalhar-enquanto-voce-dorme",
+          "date": "2026-10-04T12:07:00.000Z",
+          "summary": "OpenAI apresentou agentes de IA com computadores próprios na nuvem, capazes de executar tarefas e trabalhar mesmo sem o usuário O post Nova IA da OpenAI ganha computador próprio e pode trabalhar enquanto você dorme apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -7715,6 +7879,142 @@
       },
       "score": 12,
       "status": "pendente"
+    },
+    {
+      "id": "trump-taps-intel-chief-jay-clayton-to-lead-new-super-intelligence",
+      "headline": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-04T13:48:48.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+          "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force",
+          "date": "2026-10-04T13:48:48.000Z",
+          "summary": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
+      "headline": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-04T12:42:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+          "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
+          "date": "2026-10-04T12:42:00.000Z",
+          "summary": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "russia-s-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
+      "headline": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-04T07:18:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+          "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
+          "date": "2026-10-04T07:18:00.000Z",
+          "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "we-have-identified-you-sir-near-intents-recovers-3-8-million-after-48",
+      "headline": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-04T13:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+          "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+          "date": "2026-10-04T13:01:03.000Z",
+          "summary": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
