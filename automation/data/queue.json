@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:18:42.115Z",
+  "updatedAt": "2026-10-04T02:16:28.010Z",
   "stories": [
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
@@ -3130,6 +3130,41 @@
           "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
           "date": "2026-10-03T09:25:01.000Z",
           "summary": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "regulacao-cripto-veja-a-situacao-de-cada-exchange-no-processo-de",
+      "headline": "Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Banco Central"
+      ],
+      "firstSeen": "2026-10-03T18:15:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central",
+          "url": "https://portaldobitcoin.uol.com.br/regulacao-cripto-veja-a-situacao-de-cada-exchange-no-processo-de-autorizacao-do-banco-central",
+          "date": "2026-10-03T18:15:00.000Z",
+          "summary": "Exchanges de criptomoedas correm para se adaptar às novas regras do Banco Central antes do prazo de 30 de outubro O post Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -6914,6 +6949,74 @@
       "status": "pendente"
     },
     {
+      "id": "bitwise-explica-por-que-as-criptomoedas-subiram-mesmo-apos-a-rejeicao",
+      "headline": "Bitwise explica por que as criptomoedas subiram mesmo após a rejeição do Clarity Act nos EUA",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-03T18:14:12.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitwise explica por que as criptomoedas subiram mesmo após a rejeição do Clarity Act nos EUA",
+          "url": "https://livecoins.com.br/bitwise-explica-por-que-as-criptomoedas-subiram-mesmo-apos-a-rejeicao-do-clarity-act-nos-eua",
+          "date": "2026-10-03T18:14:12.000Z",
+          "summary": "A Bitwise, gestora especializada em ativos digitais, publicou recentemente um artigo explicando por que o mercado de criptomoedas subiu após a rejeição do Clarity Act nos EUA. O projeto de lei que visava trazer clareza regulatória para o setor. Resumindo em uma frase, Matt Hougan, diretor de Investimentos da Bitwise, afirma que “as criptomoedas estão […] Fonte: Bitwise explica por que as criptomoedas subiram mesmo após a rejeição do Clarity Act nos EUA Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "financiamentos-imobiliarios-do-sbpe-somaram-r-17-bilhoes-em-agosto",
+      "headline": "Financiamentos imobiliários do SBPE somaram R$ 17 bilhões em agosto, diz Abecip",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-03T17:27:21.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Financiamentos imobiliários do SBPE somaram R$ 17 bilhões em agosto, diz Abecip",
+          "url": "https://livecoins.com.br/financiamentos-imobiliarios-do-sbpe-somaram-r-17-bilhoes-em-agosto-diz-abecip",
+          "date": "2026-10-03T17:27:21.000Z",
+          "summary": "O crédito imobiliário com recursos das cadernetas do Sistema Brasileiro de Poupança e Empréstimo (SBPE) somou R$ 16,97 bilhões em agosto de 2026, segundo levantamento da Abecip (Associação Brasileira das Entidades de Crédito Imobiliário e Poupança). O resultado representa crescimento de 46,6% em relação ao mesmo mês de 2025 e foi o terceiro melhor desempenho […] Fonte: Financiamentos imobiliários do SBPE somaram R$ 17 bilhões em agosto, diz Abecip Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "standard-chartered-aponta-criptomoeda-com-potencial-de-subir-mais-de",
       "headline": "Standard Chartered aponta criptomoeda com potencial de subir mais de 600%; veja qual",
       "category": "bitcoin",
@@ -7612,206 +7715,6 @@
       },
       "score": 12,
       "status": "pendente"
-    },
-    {
-      "id": "payments-firm-openpayd-targets-year-end-nasdaq-listing-to-fund-u-s",
-      "headline": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-03T16:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-          "url": "https://coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-          "date": "2026-10-03T16:00:00.000Z",
-          "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "cathie-wood-says-smart-investors-need-to-start-watching-where-ai",
-      "headline": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-03T15:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-          "url": "https://coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-          "date": "2026-10-03T15:00:00.000Z",
-          "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "near-intents-recovers-entire-stolen-3-8m-after-ultimatum-to-exploiter",
-      "headline": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-03T11:59:10.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-          "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
-          "date": "2026-10-03T11:59:10.000Z",
-          "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
-      "headline": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-03T07:06:08.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-          "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
-          "date": "2026-10-03T07:06:08.000Z",
-          "summary": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-banned-pewdiepie-twice-while-he-built-ajax-an-uncensored-ai",
-      "headline": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-03T16:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-          "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-          "date": "2026-10-03T16:01:03.000Z",
-          "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "the-pope-has-thoughts-on-ai-art-and-they-re-not-flattering",
-      "headline": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-03T13:01:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-          "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-          "date": "2026-10-03T13:01:04.000Z",
-          "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }
