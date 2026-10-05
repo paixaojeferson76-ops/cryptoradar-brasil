@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-04T21:21:08.178Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-05T01:00:53.864Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
@@ -137,6 +137,11 @@ Gerada em 2026-10-04T21:21:08.178Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
 - [CoinDesk] Crypto poured years into new products. The next challenge is keeping users — https://coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users (2026-10-04T14:00:00.000Z)
 
+## Zcash gets a Washington lobbyist to push crypto policy
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Zcash gets a Washington lobbyist to push crypto policy — https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy (2026-10-05T00:35:34.000Z)
+
 ## Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -146,8 +151,3 @@ Gerada em 2026-10-04T21:21:08.178Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Here’s what happened in crypto today — https://cointelegraph.com/news/what-happened-in-crypto-today (2026-09-30T19:37:13.000Z)
-
-## Crypto advocacy group announces picks for US Congress as midterms loom
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Crypto advocacy group announces picks for US Congress as midterms loom — https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms (2026-09-30T19:11:23.000Z)

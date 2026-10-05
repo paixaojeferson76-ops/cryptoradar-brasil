@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T21:21:08.178Z",
+  "updatedAt": "2026-10-05T01:00:53.864Z",
   "stories": [
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
@@ -883,6 +883,37 @@
           "url": "https://coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
           "date": "2026-10-04T14:00:00.000Z",
           "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+      "headline": "Zcash gets a Washington lobbyist to push crypto policy",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-05T00:35:34.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Zcash gets a Washington lobbyist to push crypto policy",
+          "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+          "date": "2026-10-05T00:35:34.000Z",
+          "summary": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington."
         }
       ],
       "validation": {
@@ -2065,6 +2096,42 @@
           "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
           "date": "2026-10-04T17:01:03.000Z",
           "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodler-s",
+      "headline": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "SEC",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-04T22:31:12.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+          "date": "2026-10-04T22:31:12.000Z",
+          "summary": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029."
         }
       ],
       "validation": {
