@@ -1,7 +1,17 @@
 {
-  "at": "2026-10-05T01:00:57.549Z",
+  "at": "2026-10-05T13:05:51.570Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "okx-e-dona-da-nyse-planejam-lancar-plataforma-de-acoes-tokenizadas-24-7-nos-eua",
+      "title": "OKX e dona da NYSE planejam lançar plataforma de ações tokenizadas 24/7 nos EUA",
+      "confidence": "media",
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
