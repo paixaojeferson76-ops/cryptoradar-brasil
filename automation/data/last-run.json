@@ -1,14 +1,22 @@
 {
-  "at": "2026-10-05T13:05:51.570Z",
+  "at": "2026-10-06T01:01:51.069Z",
   "auto": [],
   "review": [
     {
-      "slug": "okx-e-dona-da-nyse-planejam-lancar-plataforma-de-acoes-tokenizadas-24-7-nos-eua",
-      "title": "OKX e dona da NYSE planejam lançar plataforma de ações tokenizadas 24/7 nos EUA",
+      "slug": "fincen-retira-propostas-sobre-misturadores-de-criptomoedas-e-carteiras-de",
+      "title": "FinCEN retira propostas sobre misturadores de criptomoedas e carteiras de autocustódia",
       "confidence": "media",
       "sources": [
-        "CoinDesk",
+        "Cointelegraph",
         "The Block"
+      ]
+    },
+    {
+      "slug": "ethereum-foundation-estuda-assercoes-nativas-para-evitar-perdas-de-usuarios-em",
+      "title": "Ethereum Foundation estuda 'asserções nativas' para evitar perdas de usuários em transações",
+      "confidence": "alta",
+      "sources": [
+        "Ethereum Foundation Blog"
       ]
     }
   ],

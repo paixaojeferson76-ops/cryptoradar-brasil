@@ -1,12 +1,17 @@
 # Pauta de notícias
 
-Gerada em 2026-10-05T13:02:15.357Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-06T00:59:39.713Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading
+## FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns
 
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 72
-- [CoinDesk] Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading — https://coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks (2026-10-05T04:45:03.000Z)
-- [The Block] OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue — https://theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613 (2026-10-05T06:38:24.000Z)
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 72
+- [Cointelegraph] FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns — https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity (2026-10-05T20:46:53.000Z)
+- [The Block] Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’ — https://theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690 (2026-10-05T17:22:37.000Z)
+
+## How native transaction assertions could enforce a transaction's final outcome
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 56
+- [Ethereum Foundation Blog] How native transaction assertions could enforce a transaction's final outcome — https://blog.ethereum.org/en/2026/10/05/transaction-assertions (2026-10-05T00:00:00.000Z)
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
@@ -147,8 +152,3 @@ Gerada em 2026-10-05T13:02:15.357Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Zcash gets a Washington lobbyist to push crypto policy — https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy (2026-10-05T00:35:34.000Z)
-
-## SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings — https://coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings (2026-10-05T11:14:35.000Z)
