@@ -1,16 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-06T12:58:18.623Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-06T18:56:34.713Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 51
 - [Cointelegraph] Porsche’s ‘long haul’ Web3 project ends in less than four years — https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft (2026-10-02T09:18:52.000Z)
-
-## Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 48
-- [CoinDesk] Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel — https://coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel (2026-09-30T13:00:00.000Z)
 
 ## Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-06T12:58:18.623Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Strategy opts for bigger spending on STRC buybacks over BTC purchases — https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys (2026-10-05T12:46:47.000Z)
+
+## Metaplanet reveals net income strategy to fuel Bitcoin accumulation
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Metaplanet reveals net income strategy to fuel Bitcoin accumulation — https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation (2026-10-05T12:28:39.000Z)
