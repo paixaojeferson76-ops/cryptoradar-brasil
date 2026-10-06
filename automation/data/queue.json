@@ -1,86 +1,6 @@
 {
-  "updatedAt": "2026-10-06T00:59:39.713Z",
+  "updatedAt": "2026-10-06T06:59:43.594Z",
   "stories": [
-    {
-      "id": "fincen-withdraws-proposed-crypto-mixing-rule-over-legitimate-activity",
-      "headline": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-05T17:22:37.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-          "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
-          "date": "2026-10-05T20:46:53.000Z",
-          "summary": "The bureau under the US Treasury said it was withdrawing two proposed rules on unhosted wallets and crypto mixers ”as part of the Trump Administration’s deregulatory agenda.”"
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
-          "url": "https://theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-          "date": "2026-10-05T17:22:37.000Z",
-          "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 72,
-      "status": "gerada",
-      "slug": "fincen-retira-propostas-sobre-misturadores-de-criptomoedas-e-carteiras-de"
-    },
-    {
-      "id": "how-native-transaction-assertions-could-enforce-a-transaction-s-final",
-      "headline": "How native transaction assertions could enforce a transaction's final outcome",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-05T00:00:00.000Z",
-      "publishers": [
-        "Ethereum Foundation Blog"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "ethereum-blog",
-          "publisher": "Ethereum Foundation Blog",
-          "type": "official",
-          "weight": 3,
-          "lang": "en",
-          "title": "How native transaction assertions could enforce a transaction's final outcome",
-          "url": "https://blog.ethereum.org/en/2026/10/05/transaction-assertions",
-          "date": "2026-10-05T00:00:00.000Z",
-          "summary": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is exploring native transaction assertions as a next step to enforce a transaction’s final outcome, alongside Clear Signing. This post covers why a valid signature doesn't always guarantee the..."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 56,
-      "status": "gerada",
-      "slug": "ethereum-foundation-estuda-assercoes-nativas-para-evitar-perdas-de-usuarios-em"
-    },
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
       "headline": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
@@ -1292,6 +1212,39 @@
           "url": "https://theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
           "date": "2026-10-05T12:01:06.000Z",
           "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "better-markets-says-cftc-is-wrong-agency-to-regulate-retail-crypto",
+      "headline": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-06T05:43:50.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+          "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
+          "date": "2026-10-06T05:43:50.000Z",
+          "summary": "Better Markets said the CFTC’s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC."
         }
       ],
       "validation": {
@@ -2905,6 +2858,167 @@
           "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
           "date": "2026-10-05T20:46:03.000Z",
           "summary": "An anonymous 4chan user called Bitcoin's October 2025 peak to the day way back in 2023. Could they be right again?"
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "u-s-scraps-proposed-10-000-reporting-rule-for-for-crypto-sent-to",
+      "headline": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-06T04:55:36.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+          "url": "https://coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+          "date": "2026-10-06T04:55:36.000Z",
+          "summary": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major",
+      "headline": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-06T04:49:05.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+          "url": "https://coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+          "date": "2026-10-06T04:49:05.000Z",
+          "summary": "One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-keeps-getting-rejected-at-87-000-as-stocks-hover-near-records",
+      "headline": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-06T04:41:10.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+          "url": "https://coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+          "date": "2026-10-06T04:41:10.000Z",
+          "summary": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto",
+      "headline": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-06T03:45:40.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+          "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters",
+          "date": "2026-10-06T03:45:40.000Z",
+          "summary": "Rain joins a growing queue of crypto firms seeking federal trust charters, while community banks have just asked a court to overturn the OCC rules underpinning them."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "okx-eyes-emerging-markets-with-yield-offering-stablecoin-savings-and",
+      "headline": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+      "category": "mercado",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-06T03:40:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+          "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets",
+          "date": "2026-10-06T03:40:00.000Z",
+          "summary": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY."
         }
       ],
       "validation": {
@@ -5989,135 +6103,6 @@
         "reasons": []
       },
       "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears",
-      "headline": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-30T04:38:18.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-          "url": "https://coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
-          "date": "2026-09-30T04:38:18.000Z",
-          "summary": "A trend guage tracked on onchain analysis firm CryptoQuant is near its ceiling. The buyers who drove BTC to an eight-month high are already pulling back."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "illinois-draft-crypto-tax-rules-detail-defi-stablecoin-treatment",
-      "headline": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "category": "regulacao",
-      "tags": [
-        "stablecoins",
-        "DeFi"
-      ],
-      "firstSeen": "2026-09-30T04:29:28.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-          "url": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins",
-          "date": "2026-09-30T04:29:28.000Z",
-          "summary": "Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, crypto bridges and self-custody transfers."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-com-ai-agent-still-in-stealth-mode-nearly-8-months-after-super",
-      "headline": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T03:40:42.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-          "url": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut",
-          "date": "2026-09-30T03:40:42.000Z",
-          "summary": "In February, ai.com drew enough traffic to crash its website after a $15 million Super Bowl ad, but months later, users are still wondering what’s happened to their promised AI agent."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "binance-pay-lets-visitors-spend-crypto-at-paypay-merchants-in-japan",
-      "headline": "Binance Pay lets visitors spend crypto at PayPay merchants in Japan",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T02:25:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance Pay lets visitors spend crypto at PayPay merchants in Japan",
-          "url": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan",
-          "date": "2026-09-30T02:25:00.000Z",
-          "summary": "Binance Pay will let overseas users spend more than 100 cryptocurrencies at PayPay-supported merchants in Japan through HIVEX, while stores receive yen."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 31,
       "status": "pendente"
     },
     {
@@ -9524,11 +9509,48 @@
       "status": "pendente"
     },
     {
-      "id": "too-big-to-pause-could-an-ai-slowdown-crash-the-economy",
-      "headline": "Too big to pause: Could an AI slowdown crash the economy?",
+      "id": "solana-foundation-unveils-a-program-to-settle-institutional-trades-in",
+      "headline": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
       "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-05T12:30:00.000Z",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-06T04:23:45.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+          "url": "https://coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+          "date": "2026-10-06T04:23:45.000Z",
+          "summary": "Solana Foundation launched an open-source program that lets institutions settle trades in seconds, not days. JPMorgan provided key inputs."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt",
+      "headline": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "category": "regulacao",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-06T01:47:24.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -9540,44 +9562,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Too big to pause: Could an AI slowdown crash the economy?",
-          "url": "https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown",
-          "date": "2026-10-05T12:30:00.000Z",
-          "summary": "Calls to slow down development of the most powerful AI models are colliding with an $800 billion investment boom. Could an AI slowdown tank the US economy?"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto",
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "a-florida-woman-used-claude-as-a-diary-an-anthropic-employee-read-it",
-      "headline": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-05T21:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-          "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-          "date": "2026-10-05T21:16:03.000Z",
-          "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that."
+          "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+          "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt",
+          "date": "2026-10-06T01:47:24.000Z",
+          "summary": "ZachXBT says he infiltrated the network by posing as a customer, gaining information that helped trace funds from the $1.5 billion Bybit hack."
         }
       ],
       "validation": {
@@ -9591,11 +9579,13 @@
       "status": "descartada"
     },
     {
-      "id": "nextpredict-founder-nobody-was-serving-prediction-markets-enormous",
-      "headline": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-05T16:03:03.000Z",
+      "id": "solana-debuts-institutional-settlement-standard-with-j-p-morgan-input",
+      "headline": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+      "category": "regulacao",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-06T02:01:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -9607,10 +9597,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
-          "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
-          "date": "2026-10-05T16:03:03.000Z",
-          "summary": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air."
+          "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+          "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+          "date": "2026-10-06T02:01:03.000Z",
+          "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days."
         }
       ],
       "validation": {
@@ -9618,76 +9608,6 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "td-cowen-s-lance-vitanza-btc-to-132k-in-2027-e-mstr-price-outlook",
-      "headline": "TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T21:03:57.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook",
-          "url": "https://bitcoinmagazine.com/videos/td-cowens-lance-vitanza-btc-to-132k-in-2027-mstr-price-outlook",
-          "date": "2026-10-05T21:03:57.000Z",
-          "summary": "Bitcoin Magazine TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook Institutions aren't asking IF to buy Bitcoin, but HOW. TD Cowen’s Lance Vitanza breaks down the rise of BTC corporate treasuries and capital markets products. This post TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "previsão de preço"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "por-que-a-metaplanet-vendeu-10-mil-bitcoins-e-depois-comprou-11-mil",
-      "headline": "Por que a Metaplanet vendeu 10 mil bitcoins e depois comprou 11 mil BTC?",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T15:06:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Por que a Metaplanet vendeu 10 mil bitcoins e depois comprou 11 mil BTC?",
-          "url": "https://portaldobitcoin.uol.com.br/por-que-a-metaplanet-vendeu-10-mil-bitcoins-e-depois-comprou-11-mil-btc",
-          "date": "2026-10-05T15:06:00.000Z",
-          "summary": "Metaplanet quis responder as agências de classificação de risco se uma empresa de Bitcoin venderia ações quando suas obrigações vencerem O post Por que a Metaplanet vendeu 10 mil bitcoins e depois comprou 11 mil BTC? apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
         ]
       },
       "score": 0,

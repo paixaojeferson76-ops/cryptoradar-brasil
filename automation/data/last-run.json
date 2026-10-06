@@ -1,25 +1,7 @@
 {
-  "at": "2026-10-06T01:01:51.069Z",
+  "at": "2026-10-06T06:59:46.774Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "fincen-retira-propostas-sobre-misturadores-de-criptomoedas-e-carteiras-de",
-      "title": "FinCEN retira propostas sobre misturadores de criptomoedas e carteiras de autocustódia",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
-        "The Block"
-      ]
-    },
-    {
-      "slug": "ethereum-foundation-estuda-assercoes-nativas-para-evitar-perdas-de-usuarios-em",
-      "title": "Ethereum Foundation estuda 'asserções nativas' para evitar perdas de usuários em transações",
-      "confidence": "alta",
-      "sources": [
-        "Ethereum Foundation Blog"
-      ]
-    }
-  ],
+  "review": [],
   "skipped": [],
   "errors": []
 }
