@@ -1,7 +1,17 @@
 {
-  "at": "2026-10-06T18:56:37.771Z",
+  "at": "2026-10-07T01:02:36.584Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "abstract-anuncia-encerramento-de-operacoes-apos-perdas-de-dezenas-de-milhoes-de",
+      "title": "Abstract anuncia encerramento de operações após perdas de dezenas de milhões de dólares",
+      "confidence": "media",
+      "sources": [
+        "Cointelegraph",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }

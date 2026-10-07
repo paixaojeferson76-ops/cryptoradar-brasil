@@ -1,26 +1,17 @@
 # Pauta de notícias
 
-Gerada em 2026-10-06T18:56:34.713Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-07T01:02:17.111Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses
+
+- Categoria sugerida: mercado | Confiança: media | Pontos: 75
+- [Cointelegraph] Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses — https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down (2026-10-07T00:01:40.000Z)
+- [The Block] Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’ — https://theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855 (2026-10-06T20:11:30.000Z)
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 51
 - [Cointelegraph] Porsche’s ‘long haul’ Web3 project ends in less than four years — https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft (2026-10-02T09:18:52.000Z)
-
-## Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says — https://theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362 (2026-09-30T21:53:05.000Z)
-
-## Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity — https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity (2026-09-30T23:20:59.000Z)
-
-## MetaMask exits Ethereum validators as it investigates security incident
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Cointelegraph] MetaMask exits Ethereum validators as it investigates security incident — https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident (2026-10-01T00:15:55.000Z)
 
 ## Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule
 
@@ -151,3 +142,13 @@ Gerada em 2026-10-06T18:56:34.713Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Metaplanet reveals net income strategy to fuel Bitcoin accumulation — https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation (2026-10-05T12:28:39.000Z)
+
+## Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC — https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc (2026-10-05T12:51:42.000Z)
+
+## Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point — https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point (2026-10-05T12:04:01.000Z)

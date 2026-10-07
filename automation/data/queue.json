@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-06T18:56:34.713Z",
+  "updatedAt": "2026-10-07T01:02:17.111Z",
   "stories": [
+    {
+      "id": "pudgy-penguins-backed-abstract-to-shut-down-after-tens-of-millions-in",
+      "headline": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+      "category": "mercado",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-06T20:11:30.000Z",
+      "publishers": [
+        "Cointelegraph",
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+          "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down",
+          "date": "2026-10-07T00:01:40.000Z",
+          "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions."
+        },
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’",
+          "url": "https://theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
+          "date": "2026-10-06T20:11:30.000Z",
+          "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "media",
+        "reasons": []
+      },
+      "score": 75,
+      "status": "gerada",
+      "slug": "abstract-anuncia-encerramento-de-operacoes-apos-perdas-de-dezenas-de-milhoes-de"
+    },
     {
       "id": "porsche-s-long-haul-web3-project-ends-in-less-than-four-years",
       "headline": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
@@ -32,104 +78,6 @@
         "reasons": []
       },
       "score": 51,
-      "status": "pendente"
-    },
-    {
-      "id": "clarity-act-s-failure-gave-crypto-faster-regulatory-wins-bitwise-cio",
-      "headline": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-09-30T21:53:05.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
-          "url": "https://theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
-          "date": "2026-09-30T21:53:05.000Z",
-          "summary": "Bitwise’s Matt Hougan says Clarity’s defeat left crypto with fewer restrictions and faster SEC action."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "gemini-4-is-here-and-google-s-flagship-tops-all-other-ai-models-on",
-      "headline": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T23:20:59.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-          "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
-          "date": "2026-09-30T23:20:59.000Z",
-          "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "metamask-exits-ethereum-validators-as-it-investigates-security",
-      "headline": "MetaMask exits Ethereum validators as it investigates security incident",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-01T00:15:55.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "MetaMask exits Ethereum validators as it investigates security incident",
-          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
-          "date": "2026-10-01T00:15:55.000Z",
-          "summary": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1351,201 +1299,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "standard-chartered-sees-ethena-s-usde-reaching-40b-ena-hitting-2",
-      "headline": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T20:57:32.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-          "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b",
-          "date": "2026-09-30T20:57:32.000Z",
-          "summary": "The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and token buybacks increase."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "here-s-what-happened-in-crypto-today",
-      "headline": "Here’s what happened in crypto today",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "DeFi",
-        "Brasil"
-      ],
-      "firstSeen": "2026-09-30T19:37:13.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-          "date": "2026-09-30T19:37:13.000Z",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-advocacy-group-announces-picks-for-us-congress-as-midterms-loom",
-      "headline": "Crypto advocacy group announces picks for US Congress as midterms loom",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-09-30T19:11:23.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-          "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms",
-          "date": "2026-09-30T19:11:23.000Z",
-          "summary": "The organization’s endorsements in the House and Senate came as many polls showed Democrats favored to regain control of both chambers in 2027."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "base-completes-cobalt-upgrade-adds-new-tools-for-tokenized-assets",
-      "headline": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-09-30T19:00:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-          "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc",
-          "date": "2026-09-30T19:00:00.000Z",
-          "summary": "Base’s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "coinbase-backed-crypto-group-reveals-midterm-endorsements-after",
-      "headline": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-09-30T20:31:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-          "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
-          "date": "2026-09-30T20:31:04.000Z",
-          "summary": "The Coinbase-backed group's first Senate endorsements—Republicans Jon Husted and Ashley Hinson and Democrat Chris Pappas—come two weeks after the Clarity Act's collapse, as the industry's fight shifts to the campaign trail."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "cftc-secures-over-30-million-judgment-against-defendants-in-fundsz",
-      "headline": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-      "category": "regulacao",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-09-30T20:37:08.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-          "url": "https://theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
-          "date": "2026-09-30T20:37:08.000Z",
-          "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -3658,6 +3411,108 @@
       "status": "pendente"
     },
     {
+      "id": "circle-welcomes-dj-khaled-to-team-usdc-and-crypto-twitter-is-furious",
+      "headline": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins",
+        "regulação",
+        "SEC",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-06T22:16:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+          "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+          "date": "2026-10-06T22:16:03.000Z",
+          "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "housingwire-s-logan-mohtashami-real-estate-vs-bitcoin-e-bond-market",
+      "headline": "Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-06T21:28:54.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
+          "url": "https://bitcoinmagazine.com/videos/housingwires-logan-mohtashami-real-estate-vs-bitcoin-bond-market-outlook",
+          "date": "2026-10-06T21:28:54.000Z",
+          "summary": "Bitcoin Magazine Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook Mortgage rates hit 3-year highs as homebuyers retreat. HousingWire’s Logan Mohtashami explains why rising bond yields and Fed hawkishness drive the surge. This post Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "leon-wankum-btc-taking-on-real-estate-s-300t-monetary-premium",
+      "headline": "Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-06T21:21:43.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium",
+          "url": "https://bitcoinmagazine.com/videos/leon-wankum-btc-taking-on-real-estates-300t-monetary-premium",
+          "date": "2026-10-06T21:21:43.000Z",
+          "summary": "Bitcoin Magazine Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium Property was once the default wealth store, but Leon Wankum argues that run is over. He explains why Bitcoin is stripping real estate of its monetary premium. This post Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market",
       "headline": "CFTC seeks to define event contracts as swaps amid prediction market fight",
       "category": "regulacao",
@@ -4991,6 +4846,109 @@
       "status": "pendente"
     },
     {
+      "id": "pudgy-penguins-ethereum-layer-2-abstract-is-shutting-down",
+      "headline": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-06T20:28:53.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+          "date": "2026-10-06T20:28:53.000Z",
+          "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "tether-hit-with-lawsuit-over-2-76-million-stablecoin-freeze",
+      "headline": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+      "category": "regulacao",
+      "tags": [
+        "Ethereum",
+        "stablecoins",
+        "regulação",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-06T19:46:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+          "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+          "date": "2026-10-06T19:46:04.000Z",
+          "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profited from the reserves while refusing to release the funds for more than a year."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
+      "headline": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ],
+      "firstSeen": "2026-10-06T20:13:35.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+          "url": "https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
+          "date": "2026-10-06T20:13:35.000Z",
+          "summary": "Bitcoin Magazine The Real Estate Market Is Dead in Spain. Long Live Bitcoin. A 2% rent ceiling against 4.9% September inflation, plus compulsory five- and seven-year renewals, rewrites signed leases. The Bank of Spain still puts the housing deficit near 750,000 homes. This post The Real Estate Market Is Dead in Spain. Long Live Bitcoin. first appeared on Bitcoin Magazine and is written by Kristyna Mazankova ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "bny-in-talks-with-kraken-parent-payward-over-infrastructure",
       "headline": "BNY in talks with Kraken parent Payward over infrastructure partnership",
       "category": "mercado",
@@ -6048,138 +6006,6 @@
       "status": "pendente"
     },
     {
-      "id": "mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-sob-custodia-apos",
-      "headline": "MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-30T21:07:33.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações",
-          "url": "https://livecoins.com.br/mp-de-sao-paulo-tem-r-47-milhoes-em-criptomoedas-sob-custodia-apos-dois-anos-de-operacoes",
-          "date": "2026-09-30T21:07:33.000Z",
-          "summary": "O Ministério Público de São Paulo (MPSP) revelou a guarda de R$ 47 milhões em criptomoedas e, Paulo Sérgio de Oliveira e Costa, Procurador-Geral de Justiça, confirmou este saldo na terça-feira (22). A informação, contudo, só veio a público no Diário Oficial do órgão nesta quarta-feira (30). Tais valores derivam de diversas ações policiais realizadas […] Fonte: MP de São Paulo tem R$ 47 milhões em criptomoedas sob custódia após dois anos de operações Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
-      "headline": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-01T00:57:35.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
-          "url": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
-          "date": "2026-10-01T00:57:35.000Z",
-          "summary": "Bitcoin Magazine Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit Misha Komarov explains Shielded Bitcoin—a proposed ZK privacy protocol using Bitcoin PIPEs to hide transactions with no soft fork needed. This post Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-s-institutional-era-has-arrived-robinhood-vp-of-crypto",
-      "headline": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-01T00:52:03.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
-          "url": "https://bitcoinmagazine.com/videos/bitcoins-institutional-era-has-arrived-robinhood-vp-of-crypto-institutions-nicola-white",
-          "date": "2026-10-01T00:52:03.000Z",
-          "summary": "Bitcoin Magazine Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White Robinhood VP Nicola White explains how 10x crypto perpetual futures arrived in the US and why Robinhood is pushing for 24/7 global markets. This post Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
-      "headline": "Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-01T00:45:15.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030",
-          "url": "https://bitcoinmagazine.com/videos/mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
-          "date": "2026-10-01T00:45:15.000Z",
-          "summary": "Bitcoin Magazine Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030 Mark Moss explains why Bitcoin keeps climbing post-Fed rate hike, benefiting from both currency debasement and a booming tech future. This post Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030 first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "bloomberg-integra-dados-de-stablecoins-ao-terminal-para-mercado",
       "headline": "Bloomberg integra dados de stablecoins ao Terminal para mercado institucional",
       "category": "mercado",
@@ -7148,277 +6974,6 @@
         "reasons": []
       },
       "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "uk-brings-crypto-under-full-fca-oversight-for-the-first-time",
-      "headline": "UK Brings Crypto Under Full FCA Oversight for the First Time",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-09-30T20:14:02.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "UK Brings Crypto Under Full FCA Oversight for the First Time",
-          "url": "https://bitcoinmagazine.com/news/uk-brings-crypto-under-fca-oversight",
-          "date": "2026-09-30T20:14:02.000Z",
-          "summary": "Bitcoin Magazine UK Brings Crypto Under Full FCA Oversight for the First Time The British regulator has started accepting applications from crypto companies ahead of a new regime taking effect next year. This post UK Brings Crypto Under Full FCA Oversight for the First Time first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-surges-40-in-its-best-quarter-since-late-2024",
-      "headline": "Bitcoin Surges 40% in Its Best Quarter Since Late 2024",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-30T20:10:24.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Bitcoin Surges 40% in Its Best Quarter Since Late 2024",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024",
-          "date": "2026-09-30T20:10:24.000Z",
-          "summary": "Bitcoin Magazine Bitcoin Surges 40% in Its Best Quarter Since Late 2024 The price of bitcoin has surged — mostly since the Treasury announced its debt buyback program — putting it on course for one of its best quarters ever. This post Bitcoin Surges 40% in Its Best Quarter Since Late 2024 first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-is-more-than-just-an-asset-says-td-cowen",
-      "headline": "Bitcoin Is More Than Just an Asset, Says TD Cowen",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-30T18:59:01.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Bitcoin Is More Than Just an Asset, Says TD Cowen",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-is-more-than-an-asset-td-cowen",
-          "date": "2026-09-30T18:59:01.000Z",
-          "summary": "Bitcoin Magazine Bitcoin Is More Than Just an Asset, Says TD Cowen TD Cowen says institutions are talking more about how bitcoin can be used to support capital markets. This post Bitcoin Is More Than Just an Asset, Says TD Cowen first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "7-criptomoedas-que-podem-disparar-em-outubro-segundo-analistas",
-      "headline": "7 criptomoedas que podem disparar em outubro, segundo analistas",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-09-30T20:19:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "7 criptomoedas que podem disparar em outubro, segundo analistas",
-          "url": "https://portaldobitcoin.uol.com.br/7-criptomoedas-que-podem-disparar-em-outubro-segundo-analistas",
-          "date": "2026-09-30T20:19:00.000Z",
-          "summary": "Analistas veem outubro como decisivo para as criptos, com ETFs e upgrades no radar e Hyperliquid, Ondo e Uniswap como as principais apostas O post 7 criptomoedas que podem disparar em outubro, segundo analistas apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "eleicoes-2026-abcripto-entrega-manifesto-com-7-propostas-para-o",
-      "headline": "Eleições 2026: ABcripto entrega manifesto com 7 propostas para o mercado de criptomoedas",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "stablecoins",
-        "regulação"
-      ],
-      "firstSeen": "2026-09-30T19:07:24.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Eleições 2026: ABcripto entrega manifesto com 7 propostas para o mercado de criptomoedas",
-          "url": "https://portaldobitcoin.uol.com.br/eleicoes-2026-abcripto-entrega-manifesto-com-7-propostas-para-o-mercado-de-criptomoedas",
-          "date": "2026-09-30T19:07:24.000Z",
-          "summary": "ABcripto levou aos candidatos 7 prioridades para o setor cripto, com propostas sobre regulação, stablecoins, tributação e educação O post Eleições 2026: ABcripto entrega manifesto com 7 propostas para o mercado de criptomoedas apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "binance-research-ve-sinais-de-reversao-no-bitcoin-mas-alerta-para",
-      "headline": "Binance Research vê sinais de reversão no Bitcoin, mas alerta para pressão dos juros americanos",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-30T20:34:19.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Binance Research vê sinais de reversão no Bitcoin, mas alerta para pressão dos juros americanos",
-          "url": "https://livecoins.com.br/binance-research-ve-sinais-de-reversao-no-bitcoin-mas-alerta-para-pressao-dos-juros-americanos",
-          "date": "2026-09-30T20:34:19.000Z",
-          "summary": "A recuperação do Bitcoin entrou em uma fase decisiva: depois de superar US$ 86 mil, o ativo recuou para a faixa entre US$ 83 mil e US$ 84 mil justamente quando a alta dos rendimentos dos títulos do Tesouro americano voltou a pressionar o ativo. Para a Binance Research, braço de pesquisa da maior plataforma […] Fonte: Binance Research vê sinais de reversão no Bitcoin, mas alerta para pressão dos juros americanos Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "autocustodia-e-coaf-o-que-muda-com-a-resolucao-bcb-588",
-      "headline": "Autocustódia e COAF: o que muda com a Resolução BCB 588",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "Banco Central",
-        "Brasil"
-      ],
-      "firstSeen": "2026-09-30T20:30:00.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Autocustódia e COAF: o que muda com a Resolução BCB 588",
-          "url": "https://livecoins.com.br/autocustodia-e-coaf-o-que-muda-com-a-resolucao-bcb-588",
-          "date": "2026-09-30T20:30:00.000Z",
-          "summary": "Comunicação automática não é sinônimo de operação suspeita. A regulamentação brasileira de ativos virtuais entrou em uma nova etapa. As Resoluções BCB 588 e 589, publicadas em 23 de setembro de 2026, adicionam novas camadas de controle sobre autocustódia, comunicação ao COAF, custódia, ativos mantidos no exterior, reservas, staking e operações envolvendo prestadores de serviços […] Fonte: Autocustódia e COAF: o que muda com a Resolução BCB 588 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "michael-saylor-defende-que-empresas-de-tesouraria-de-bitcoin-podem",
-      "headline": "Michael Saylor defende que empresas de tesouraria de Bitcoin podem fortalecer umas às outras",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-09-30T19:21:45.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Michael Saylor defende que empresas de tesouraria de Bitcoin podem fortalecer umas às outras",
-          "url": "https://livecoins.com.br/michael-saylor-defende-que-empresas-de-tesouraria-de-bitcoin-podem-fortalecer-umas-as-outras",
-          "date": "2026-09-30T19:21:45.000Z",
-          "summary": "Embora Strategy e Strive possam ser vistas como concorrentes, já que possuem estratégias de negócio bem parecidas, Michael Saylor acredita que elas podem beneficiar uma à outra. Em longo texto publicado em suas redes sociais, o bilionário afirma que deseja que tanto a Strive quanto outra empresa de tesouraria de Bitcoin bem administrada tenham sucesso […] Fonte: Michael Saylor defende que empresas de tesouraria de Bitcoin podem fortalecer umas às outras Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
       "status": "pendente"
     },
     {
@@ -8940,6 +8495,244 @@
       "status": "pendente"
     },
     {
+      "id": "crypto-card-payments-hit-record-12-5-billion-as-stablecoin-adoption",
+      "headline": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-06T21:48:49.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+          "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+          "date": "2026-10-06T21:48:49.000Z",
+          "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core",
+      "headline": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-06T21:34:32.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+          "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
+          "date": "2026-10-06T21:34:32.000Z",
+          "summary": "Bitcoin Magazine $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model and quiet path to over 20 BTC. This post $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "stonex-s-mark-palmer-435-mstr-price-target-explained-dat",
+      "headline": "StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-06T21:16:05.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
+          "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
+          "date": "2026-10-06T21:16:05.000Z",
+          "summary": "Bitcoin Magazine StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising and how reserve cash drives it to par. This post StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-privacy-legend-amir-taaki-deported-from-singapore",
+      "headline": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-06T21:07:23.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+          "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+          "date": "2026-10-06T21:07:23.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Privacy Legend Amir Taaki Deported From Singapore The early Bitcoin contributor says he was questioned for hours before being deported — something which keeps happening. This post Bitcoin Privacy Legend Amir Taaki Deported From Singapore first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "okx-gets-new-funding-from-circle-standard-chartered-at-25b-valuation",
+      "headline": "OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-06T19:01:29.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation",
+          "url": "https://bitcoinmagazine.com/news/okx-gets-new-funding-25-billion-valuation",
+          "date": "2026-10-06T19:01:29.000Z",
+          "summary": "Bitcoin Magazine OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation The crypto exchange has raised new funding from the likes of Circle and Standard Chartered as it races to tokenize real-world assets. This post OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "stf-nega-recurso-de-ex-diretor-da-braiscompany-suspeito-de-ter",
+      "headline": "STF nega recurso de ex-diretor da Braiscompany suspeito de ter carteira de criptomoedas escondida",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-06T21:00:55.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "STF nega recurso de ex-diretor da Braiscompany suspeito de ter carteira de criptomoedas escondida",
+          "url": "https://livecoins.com.br/stf-nega-recurso-de-ex-diretor-da-braiscompany-suspeito-de-ter-carteira-de-criptomoedas-escondida",
+          "date": "2026-10-06T21:00:55.000Z",
+          "summary": "O Supremo Tribunal Federal (STF) negou um pedido de soltura feito pela defesa de um ex-diretor da Braiscompany em uma decisão do ministro Alexandre de Moraes publicada nesta terça-feira (6). O réu identificado como Victor Hugo Lima Duarte cumpre pena pelos crimes de fraude e lavagem de dinheiro no mercado financeiro. A pirâmide financeira Braiscompany, […] Fonte: STF nega recurso de ex-diretor da Braiscompany suspeito de ter carteira de criptomoedas escondida Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "sec-aprova-os-primeiros-etfs-de-bitcoin-e-ethereum-com-alavancagem-de",
+      "headline": "SEC aprova os primeiros ETFs de Bitcoin e Ethereum com alavancagem de 3x nos EUA",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs",
+        "regulação",
+        "SEC"
+      ],
+      "firstSeen": "2026-10-06T19:40:57.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "SEC aprova os primeiros ETFs de Bitcoin e Ethereum com alavancagem de 3x nos EUA",
+          "url": "https://livecoins.com.br/sec-aprova-os-primeiros-etfs-de-bitcoin-e-ethereum-com-alavancagem-de-3x-nos-eua",
+          "date": "2026-10-06T19:40:57.000Z",
+          "summary": "A SEC, Comissão de Valores Mobiliários dos EUA, aprovou recentemente seis ETFs com alavancagem de 3x da gestora Volatility Shares. Dentre eles estão um ETF de Bitcoin e outro de Ethereum. Embora a própria Volatility Shares já oferecesse ETFs dessas duas criptomoedas com alavancagem de 2x, tendo US$ 1,37 bilhão em ativos líquidos, essa é […] Fonte: SEC aprova os primeiros ETFs de Bitcoin e Ethereum com alavancagem de 3x nos EUA Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-price-surges-above-87-000-on-softer-than-expected-jobs-data",
       "headline": "Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data",
       "category": "mercado",
@@ -9617,301 +9410,69 @@
       "status": "pendente"
     },
     {
-      "id": "russia-s-digital-ruble-accounts-top-220k-in-first-month-nearly-4x",
-      "headline": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-06T18:19:35.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-          "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments",
-          "date": "2026-10-06T18:19:35.000Z",
-          "summary": "The digital ruble’s early uptake comes as BRICS nations explore linking their digital currencies for cross-border trade and payments."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bill-aims-at-stopping-us-lawmaker-bets-on-their-own-elections-ahead",
-      "headline": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-06T17:59:32.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
-          "url": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets",
-          "date": "2026-10-06T17:59:32.000Z",
-          "summary": "The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms as Congress is on recess until after the election."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ecb-policymaker-warns-of-fragmentation-without-digital-euro",
-      "headline": "ECB policymaker warns of fragmentation without digital euro",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-06T16:32:57.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "ECB policymaker warns of fragmentation without digital euro",
-          "url": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro",
-          "date": "2026-10-06T16:32:57.000Z",
-          "summary": "A ECB executive board member said the potential introduction of a digital euro ”would not to take over the role of banks,” but ensure they have a role in the EU’s monetary system."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ripple-expands-brevan-howard-deal-with-prime-brokerage-services",
-      "headline": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "category": "altcoins",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-06T15:24:51.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-          "url": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services",
-          "date": "2026-10-06T15:24:51.000Z",
-          "summary": "Ripple Prime will provide prime brokerage, clearing and financing services to funds managed by the $35 billion alternative investment manager."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "okx-exchange-raises-fresh-capital-at-25b-valuation",
-      "headline": "OKX exchange raises fresh capital at $25B valuation",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-06T13:32:32.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OKX exchange raises fresh capital at $25B valuation",
-          "url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation",
-          "date": "2026-10-06T13:32:32.000Z",
-          "summary": "OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stock Exchange."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "another-zcash-etf-is-coming-winklevoss-twins-file-for-wink",
-      "headline": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-      "category": "mercado",
-      "tags": [
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-06T18:42:34.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-          "url": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
-          "date": "2026-10-06T18:42:34.000Z",
-          "summary": "The proposed fund would hold ZEC directly, trade on Nasdaq under \"WINK\" with Gemini as custodian, and add the Winklevoss twins to a wave of institutional interest in the privacy coin."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "mistral-ai-drops-le-chonk-a-massive-ai-model-named-after-a-cat-meme",
-      "headline": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-06T17:22:54.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-          "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
-          "date": "2026-10-06T17:22:54.000Z",
-          "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "conduit-sues-tether-over-2-76-million-freeze-says-it-has-no-legal",
-      "headline": "Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds",
+      "id": "conduit-sues-tether-over-allegedly-freezing-2-8m-without-explanation",
+      "headline": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
       "category": "altcoins",
       "tags": [
         "Ethereum",
-        "stablecoins"
+        "stablecoins",
+        "regulação",
+        "Brasil"
       ],
-      "firstSeen": "2026-10-06T17:54:00.000Z",
+      "firstSeen": "2026-10-06T21:00:44.000Z",
       "publishers": [
-        "The Block"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds",
-          "url": "https://theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
-          "date": "2026-10-06T17:54:00.000Z",
-          "summary": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation."
+          "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+          "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze",
+          "date": "2026-10-06T21:00:44.000Z",
+          "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto"
+          "fora do tema cripto",
+          "parece rumor/especulação"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "winklevoss-group-seeks-to-launch-zcash-etf-with-0-25-fee-proposed",
-      "headline": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
-      "category": "mercado",
+      "id": "winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing",
+      "headline": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "category": "regulacao",
       "tags": [
-        "ETFs"
+        "ETFs",
+        "regulação",
+        "SEC"
       ],
-      "firstSeen": "2026-10-06T16:43:41.000Z",
+      "firstSeen": "2026-10-06T20:53:19.000Z",
       "publishers": [
-        "The Block"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
-          "url": "https://theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-          "date": "2026-10-06T16:43:41.000Z",
-          "summary": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH."
+          "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+          "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing",
+          "date": "2026-10-06T20:53:19.000Z",
+          "summary": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment."
         }
       ],
       "validation": {
@@ -9925,28 +9486,26 @@
       "status": "descartada"
     },
     {
-      "id": "brevan-howard-to-use-ripple-prime-for-multi-asset-brokerage-clearing",
-      "headline": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
-      "category": "altcoins",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-06T14:36:08.000Z",
+      "id": "uk-names-6-banks-to-lead-first-digitally-native-government-bond",
+      "headline": "UK names 6 banks to lead first digitally native government bond",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-06T19:19:00.000Z",
       "publishers": [
-        "The Block"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
-          "url": "https://theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
-          "date": "2026-10-06T14:36:08.000Z",
-          "summary": "Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment."
+          "title": "UK names 6 banks to lead first digitally native government bond",
+          "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond",
+          "date": "2026-10-06T19:19:00.000Z",
+          "summary": "The DIGIT pilot will test distributed ledger technology and onchain settlement for UK sovereign debt, with issuance expected by the first quarter of 2027."
         }
       ],
       "validation": {
@@ -9960,26 +9519,26 @@
       "status": "descartada"
     },
     {
-      "id": "polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions",
-      "headline": "Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral",
+      "id": "google-launches-nano-banana-2-1-better-than-its-predecessor-at-half",
+      "headline": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
       "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-10-06T14:35:03.000Z",
+      "firstSeen": "2026-10-06T22:46:03.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral",
-          "url": "https://theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
-          "date": "2026-10-06T14:35:03.000Z",
-          "summary": "Polymarket rolls out Protocol V2, replacing its legacy Gnosis-based setup with a single ERC-1155 positions contract and pUSD collateral."
+          "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+          "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+          "date": "2026-10-06T22:46:03.000Z",
+          "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests."
         }
       ],
       "validation": {
@@ -9993,28 +9552,59 @@
       "status": "descartada"
     },
     {
-      "id": "fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment",
-      "headline": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
-      "category": "mineracao",
-      "tags": [
-        "mineração"
-      ],
-      "firstSeen": "2026-10-06T13:00:48.000Z",
+      "id": "someone-scraped-5-6-billion-tiktok-videos-and-put-the-data-on-hugging",
+      "headline": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-06T22:00:19.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
-          "url": "https://theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
-          "date": "2026-10-06T13:00:48.000Z",
-          "summary": "Fortitude secured priority access to BITMAIN’s next-generation Zcash miners as it expands capacity and increases financing from DCG."
+          "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+          "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+          "date": "2026-10-06T22:00:19.000Z",
+          "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "bryan-johnson-spent-millions-to-reverse-aging-he-says-a-filter-works",
+      "headline": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-06T19:15:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
+          "url": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
+          "date": "2026-10-06T19:15:04.000Z",
+          "summary": "The face of the \"Don't Die\" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why."
         }
       ],
       "validation": {
