@@ -1,22 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-07T01:02:17.111Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses
-
-- Categoria sugerida: mercado | Confiança: media | Pontos: 75
-- [Cointelegraph] Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses — https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down (2026-10-07T00:01:40.000Z)
-- [The Block] Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’ — https://theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855 (2026-10-06T20:11:30.000Z)
+Gerada em 2026-10-07T07:00:01.308Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 51
 - [Cointelegraph] Porsche’s ‘long haul’ Web3 project ends in less than four years — https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft (2026-10-02T09:18:52.000Z)
-
-## Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule — https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi (2026-10-01T06:05:51.000Z)
 
 ## Illinois agrees to six-month delay of crypto tax as industry continues court battle
 
@@ -152,3 +141,13 @@ Gerada em 2026-10-07T01:02:17.111Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Decrypt] Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point — https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point (2026-10-05T12:04:01.000Z)
+
+## Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme — https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme (2026-10-05T11:18:01.000Z)
+
+## ‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] ‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC — https://theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631 (2026-10-05T12:13:28.000Z)
