@@ -1,19 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-08T01:02:29.909Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Robinhood adds $25 million of bitcoin to its balance sheet
-
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 85
-- [CoinDesk] Robinhood adds $25 million of bitcoin to its balance sheet — https://coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report (2026-10-07T08:53:27.000Z)
-- [The Block] Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push — https://theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890 (2026-10-07T07:08:36.000Z)
-- [Bitcoin Magazine] Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech — https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech (2026-10-07T12:16:58.000Z)
-
-## Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization
-
-- Categoria sugerida: altcoins | Confiança: media | Pontos: 70
-- [CoinDesk] Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization — https://coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization (2026-10-07T14:27:37.000Z)
-- [Decrypt] Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets — https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets (2026-10-07T19:46:04.000Z)
+Gerada em 2026-10-08T07:02:01.928Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
@@ -24,16 +11,6 @@ Gerada em 2026-10-08T01:02:29.909Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## South Korea crypto exchange profits fall 78% in H1 amid trading slump
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] South Korea crypto exchange profits fall 78% in H1 amid trading slump — https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent (2026-10-02T05:53:27.000Z)
-
-## Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds — https://theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547 (2026-10-02T05:50:41.000Z)
 
 ## U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%
 
@@ -154,3 +131,23 @@ Gerada em 2026-10-08T01:02:29.909Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Bitcoin grinds toward $87K as US equities hit new record highs — https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs (2026-10-06T17:19:58.000Z)
+
+## U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed — https://coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed (2026-10-07T05:58:25.000Z)
+
+## Crypto news site Cointelegraph seeks buyer after web traffic plunges
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto news site Cointelegraph seeks buyer after web traffic plunges — https://coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges (2026-10-08T00:35:24.000Z)
+
+## Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months — https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months (2026-10-08T00:04:32.000Z)
+
+## Ripple is earning fees financing leveraged stock bets, a business long run by banks
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Ripple is earning fees financing leveraged stock bets, a business long run by banks — https://coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks (2026-10-08T06:17:13.000Z)
