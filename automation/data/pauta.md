@@ -1,20 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-08T13:03:02.844Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Standard Chartered to expand institutional crypto and RWA custody to Singapore
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 112
-- [CoinDesk] Standard Chartered to expand institutional crypto and RWA custody to Singapore — https://coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody (2026-10-08T09:32:13.000Z)
-- [Cointelegraph] Standard Chartered plans institutional crypto custody in Singapore — https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore (2026-10-08T08:08:03.000Z)
-- [The Block] Standard Chartered to expand crypto custody services in Singapore — https://theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017 (2026-10-08T07:55:14.000Z)
-
-## Greece prepares to levy 10% capital gains tax on cryptocurrency
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 112
-- [CoinDesk] Greece prepares to levy 10% capital gains tax on cryptocurrency — https://coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency (2026-10-08T09:17:18.000Z)
-- [Cointelegraph] Greece plans 10% capital gains tax on cryptocurrencies — https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies (2026-10-08T08:03:47.000Z)
-- [Decrypt] Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June — https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june (2026-10-08T10:32:52.000Z)
+Gerada em 2026-10-08T18:59:20.466Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
@@ -155,3 +141,13 @@ Gerada em 2026-10-08T13:03:02.844Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] EU lawmakers push crypto onto anti-corruption agenda — https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption (2026-10-08T12:54:21.000Z)
+
+## Sui’s Hashi to launch with $500M in Bitcoin finance commitments
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Sui’s Hashi to launch with $500M in Bitcoin finance commitments — https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments (2026-10-08T12:03:28.000Z)
+
+## Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft — https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft (2026-10-08T11:37:17.000Z)
