@@ -1,61 +1,29 @@
 # Pauta de notícias
 
-Gerada em 2026-10-07T07:00:01.308Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-08T01:02:29.909Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Robinhood adds $25 million of bitcoin to its balance sheet
+
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 85
+- [CoinDesk] Robinhood adds $25 million of bitcoin to its balance sheet — https://coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report (2026-10-07T08:53:27.000Z)
+- [The Block] Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push — https://theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890 (2026-10-07T07:08:36.000Z)
+- [Bitcoin Magazine] Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech — https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech (2026-10-07T12:16:58.000Z)
+
+## Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization
+
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 70
+- [CoinDesk] Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization — https://coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization (2026-10-07T14:27:37.000Z)
+- [Decrypt] Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets — https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets (2026-10-07T19:46:04.000Z)
 
 ## Porsche’s ‘long haul’ Web3 project ends in less than four years
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 51
 - [Cointelegraph] Porsche’s ‘long haul’ Web3 project ends in less than four years — https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft (2026-10-02T09:18:52.000Z)
 
-## Illinois agrees to six-month delay of crypto tax as industry continues court battle
+## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Illinois agrees to six-month delay of crypto tax as industry continues court battle — https://coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle (2026-10-01T11:58:00.000Z)
-
-## Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter — https://coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter (2026-10-01T11:30:38.000Z)
-
-## Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds — https://theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384 (2026-10-01T12:17:06.000Z)
-
-## Another Trump memecoin dinner advertised for token's top investors
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Another Trump memecoin dinner advertised for token's top investors — https://coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors (2026-10-01T18:45:29.000Z)
-
-## 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review — https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review (2026-10-01T18:45:09.000Z)
-
-## Illinois will postpone implementation of crypto tax following lawsuit
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Illinois will postpone implementation of crypto tax following lawsuit — https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit (2026-10-01T18:01:49.000Z)
-
-## Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Livecoins] Banco Central exige notificação sobre movimentação de criptomoedas em autocustódia com nova resolução — https://livecoins.com.br/banco-central-exige-notificacao-sobre-movimentacao-de-criptomoedas-em-autocustodia-com-nova-resolucao (2026-10-01T17:52:36.000Z)
-
-## Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] Visa, Mastercard e mais empresas pedem aval do Cade para joint venture de stablecoin no Brasil — https://portaldobitcoin.uol.com.br/visa-mastercard-e-mais-empresas-pedem-aval-do-cade-para-joint-venture-de-stablecoin-no-brasil (2026-10-01T18:42:00.000Z)
-
-## China warns foreign spies about crypto, Singapore dominates Asia: Asia Express
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] China warns foreign spies about crypto, Singapore dominates Asia: Asia Express — https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express (2026-10-01T23:17:47.000Z)
-
-## Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [The Block] Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity — https://theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504 (2026-10-02T00:22:58.000Z)
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 48
+- [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
 
 ## South Korea crypto exchange profits fall 78% in H1 amid trading slump
 
@@ -151,3 +119,38 @@ Gerada em 2026-10-07T07:00:01.308Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] ‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC — https://theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631 (2026-10-05T12:13:28.000Z)
+
+## Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’ — https://theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640 (2026-10-05T12:04:15.000Z)
+
+## Visa, CoinShares find growing crypto appetite among consumers and affluent investors
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [The Block] Visa, CoinShares find growing crypto appetite among consumers and affluent investors — https://theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642 (2026-10-05T12:01:06.000Z)
+
+## Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto — https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto (2026-10-06T05:43:50.000Z)
+
+## Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [CoinDesk] Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme — https://coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case (2026-10-06T12:31:51.000Z)
+
+## The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet — https://coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet (2026-10-06T11:30:00.000Z)
+
+## Affluent investors seen boosting crypto exposure: Survey
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Affluent investors seen boosting crypto exposure: Survey — https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey (2026-10-06T17:30:18.000Z)
+
+## Bitcoin grinds toward $87K as US equities hit new record highs
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin grinds toward $87K as US equities hit new record highs — https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs (2026-10-06T17:19:58.000Z)

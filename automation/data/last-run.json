@@ -1,7 +1,27 @@
 {
-  "at": "2026-10-07T07:00:06.073Z",
+  "at": "2026-10-08T01:03:43.152Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "robinhood-adiciona-us-25-milhoes-em-bitcoin-ao-balanco-patrimonial-da-empresa",
+      "title": "Robinhood adiciona US$ 25 milhões em Bitcoin ao balanço patrimonial da empresa",
+      "confidence": "alta",
+      "sources": [
+        "CoinDesk",
+        "The Block",
+        "Bitcoin Magazine"
+      ]
+    },
+    {
+      "slug": "banco-central-do-cazaquistao-e-tether-fecham-acordo-para-estudar-stablecoin-e",
+      "title": "Banco Central do Cazaquistão e Tether fecham acordo para estudar stablecoin e tokenização de ativos",
+      "confidence": "media",
+      "sources": [
+        "CoinDesk",
+        "Decrypt"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
