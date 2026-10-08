@@ -1,46 +1,25 @@
 # Pauta de notícias
 
-Gerada em 2026-10-08T07:02:01.928Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-08T13:03:02.844Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Porsche’s ‘long haul’ Web3 project ends in less than four years
+## Standard Chartered to expand institutional crypto and RWA custody to Singapore
 
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 51
-- [Cointelegraph] Porsche’s ‘long haul’ Web3 project ends in less than four years — https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft (2026-10-02T09:18:52.000Z)
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 112
+- [CoinDesk] Standard Chartered to expand institutional crypto and RWA custody to Singapore — https://coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody (2026-10-08T09:32:13.000Z)
+- [Cointelegraph] Standard Chartered plans institutional crypto custody in Singapore — https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore (2026-10-08T08:08:03.000Z)
+- [The Block] Standard Chartered to expand crypto custody services in Singapore — https://theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017 (2026-10-08T07:55:14.000Z)
+
+## Greece prepares to levy 10% capital gains tax on cryptocurrency
+
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 112
+- [CoinDesk] Greece prepares to levy 10% capital gains tax on cryptocurrency — https://coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency (2026-10-08T09:17:18.000Z)
+- [Cointelegraph] Greece plans 10% capital gains tax on cryptocurrencies — https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies (2026-10-08T08:03:47.000Z)
+- [Decrypt] Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June — https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june (2026-10-08T10:32:52.000Z)
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2% — https://coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2 (2026-10-02T12:31:53.000Z)
-
-## Circle urges EU to revise stablecoin reserve rules in MiCA review
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Circle urges EU to revise stablecoin reserve rules in MiCA review — https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review (2026-10-02T12:25:56.000Z)
-
-## BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B — https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion (2026-10-02T11:40:21.000Z)
-
-## US Designates Russia's A7 Network as Transnational Criminal Organization
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] US Designates Russia's A7 Network as Transnational Criminal Organization — https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization (2026-10-02T11:28:41.000Z)
-
-## Mercado Bitcoin fecha acordo com Bity para receber clientes da plataforma no Brasil
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] Mercado Bitcoin fecha acordo com Bity para receber clientes da plataforma no Brasil — https://portaldobitcoin.uol.com.br/mercado-bitcoin-fecha-acordo-com-bity-para-receber-clientes-da-plataforma-no-brasil (2026-10-02T12:47:19.000Z)
-
-## Banco Central muda regras para criptomoedas e adia reporte de autocustódia ao Coaf
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] Banco Central muda regras para criptomoedas e adia reporte de autocustódia ao Coaf — https://portaldobitcoin.uol.com.br/banco-central-muda-regras-para-criptomoedas-e-adia-reporte-de-autocustodia-ao-coaf (2026-10-02T11:51:00.000Z)
 
 ## Crypto job postings triple to over 1,200 in September, but applications fall
 
@@ -151,3 +130,28 @@ Gerada em 2026-10-08T07:02:01.928Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [CoinDesk] Ripple is earning fees financing leveraged stock bets, a business long run by banks — https://coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks (2026-10-08T06:17:13.000Z)
+
+## Bitcoin loans are paying for tuition and working capital, not just trades, lenders say
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin loans are paying for tuition and working capital, not just trades, lenders say — https://coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say (2026-10-08T05:40:41.000Z)
+
+## Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks — https://coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks (2026-10-08T11:47:16.000Z)
+
+## NUVA brings U.S. residential mortgage credit to offshore investors
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [CoinDesk] NUVA brings U.S. residential mortgage credit to offshore investors — https://coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors (2026-10-08T11:36:25.000Z)
+
+## Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million — https://coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million (2026-10-08T11:30:19.000Z)
+
+## EU lawmakers push crypto onto anti-corruption agenda
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] EU lawmakers push crypto onto anti-corruption agenda — https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption (2026-10-08T12:54:21.000Z)

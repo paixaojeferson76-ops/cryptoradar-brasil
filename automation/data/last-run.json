@@ -1,7 +1,28 @@
 {
-  "at": "2026-10-08T07:02:05.280Z",
+  "at": "2026-10-08T13:06:26.169Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "standard-chartered-planeja-expandir-custodia-de-criptomoedas-e-ativos",
+      "title": "Standard Chartered planeja expandir custódia de criptomoedas e ativos tokenizados para Cingapura",
+      "confidence": "alta",
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph",
+        "The Block"
+      ]
+    },
+    {
+      "slug": "grecia-publica-projeto-de-lei-para-tributar-ganhos-com-criptomoedas-em-10",
+      "title": "Grécia publica projeto de lei para tributar ganhos com criptomoedas em 10%",
+      "confidence": "alta",
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph",
+        "Decrypt"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
