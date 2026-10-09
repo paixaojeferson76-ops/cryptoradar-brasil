@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-09T01:04:29.784Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-09T07:02:33.920Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 

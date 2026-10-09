@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T01:04:29.784Z",
+  "updatedAt": "2026-10-09T07:02:33.920Z",
   "stories": [
     {
       "id": "moody-s-gives-sky-protocol-b3-rating-as-institutional-interest-in",
@@ -1246,6 +1246,101 @@
           "url": "https://portaldobitcoin.uol.com.br/b3-vai-lancar-acoes-tokenizadas-em-2027-e-pedir-licenca-cripto-ao-banco-central",
           "date": "2026-10-08T17:14:18.000Z",
           "summary": "B3 pretende ampliar atuação em ativos digitais com autorização do Banco Central e iniciar em 2027 a tokenização de ações brasileiras O post B3 vai lançar ações tokenizadas em 2027 e pedir licença cripto ao Banco Central apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "new-tech-to-power-bitcoin-lending-is-set-to-debut-with-500-million-in",
+      "headline": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T06:40:54.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+          "url": "https://coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+          "date": "2026-10-09T06:40:54.000Z",
+          "summary": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-projects-apply-for-anthropic-s-new-frontier-ai-security-scanner",
+      "headline": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-09T05:34:33.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+          "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner",
+          "date": "2026-10-09T05:34:33.000Z",
+          "summary": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "trump-administration-outlines-quantum-ai-initiatives-in-6b-science",
+      "headline": "Trump administration outlines quantum, AI initiatives in $6B science push",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-09T05:25:27.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+          "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push",
+          "date": "2026-10-09T05:25:27.000Z",
+          "summary": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security."
         }
       ],
       "validation": {
@@ -3863,6 +3958,143 @@
           "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express",
           "date": "2026-10-08T22:35:00.000Z",
           "summary": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "headline": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "category": "blockchain",
+      "tags": [
+        "stablecoins",
+        "tokenização",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-09T04:21:36.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+          "url": "https://coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+          "date": "2026-10-09T04:21:36.000Z",
+          "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-1",
+      "headline": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-09T04:04:36.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+          "url": "https://coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+          "date": "2026-10-09T04:04:36.000Z",
+          "summary": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-rebounds-to-82-000-as-trump-rules-out-iran-strikes-oil-drops",
+      "headline": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T03:27:38.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+          "url": "https://coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+          "date": "2026-10-09T03:27:38.000Z",
+          "summary": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+      "headline": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-09T03:08:51.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+          "date": "2026-10-09T03:08:51.000Z",
+          "summary": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand."
         }
       ],
       "validation": {
@@ -10786,17 +11018,17 @@
       "status": "pendente"
     },
     {
-      "id": "top-democrat-among-senate-investigators-probes-ties-between-cantor",
-      "headline": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "category": "ethereum",
+      "id": "live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds",
+      "headline": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+      "category": "mercado",
       "tags": [
-        "Ethereum",
-        "stablecoins"
+        "Bitcoin",
+        "ETFs",
+        "XRP"
       ],
-      "firstSeen": "2026-10-08T21:22:58.000Z",
+      "firstSeen": "2026-10-09T06:51:32.000Z",
       "publishers": [
-        "CoinDesk",
-        "Cointelegraph"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
@@ -10806,156 +11038,45 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-          "url": "https://coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-          "date": "2026-10-08T21:22:58.000Z",
-          "summary": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership."
-        },
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
-          "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
-          "date": "2026-10-09T00:46:27.000Z",
-          "summary": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network."
+          "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+          "url": "https://coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+          "date": "2026-10-09T06:51:32.000Z",
+          "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto"
+          "resumo/boletim, não é notícia"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "nfl-backs-new-jersey-authorities-in-scotus-petition-over-kalshi",
-      "headline": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-08T19:17:18.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
-          "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi",
-          "date": "2026-10-08T19:17:18.000Z",
-          "summary": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ai-startup-manus-raises-500-million-after-china-nixed-meta-s-2",
-      "headline": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+      "id": "solana-is-about-to-halve-its-block-times-as-final-200-millisecond",
+      "headline": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
       "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-08T21:46:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-          "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-          "date": "2026-10-08T21:46:03.000Z",
-          "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "google-wants-gemini-to-be-your-next-coworker-complete-with-its-own",
-      "headline": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-08T21:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-          "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-          "date": "2026-10-08T21:16:03.000Z",
-          "summary": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nfl-sides-with-states-against-kalshi-in-supreme-court-prediction",
-      "headline": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "category": "mercado",
       "tags": [
-        "Ethereum",
-        "regulação"
+        "Solana"
       ],
-      "firstSeen": "2026-10-08T19:31:03.000Z",
+      "firstSeen": "2026-10-09T05:00:52.000Z",
       "publishers": [
-        "Decrypt"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-          "date": "2026-10-08T19:31:03.000Z",
-          "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps."
+          "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+          "url": "https://coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+          "date": "2026-10-09T05:00:52.000Z",
+          "summary": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows."
         }
       ],
       "validation": {
