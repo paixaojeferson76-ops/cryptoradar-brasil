@@ -1,27 +1,23 @@
 # Pauta de notícias
 
-Gerada em 2026-10-09T13:00:57.323Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-09T18:57:35.236Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round
+## Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives
+
+- Categoria sugerida: mercado | Confiança: media | Pontos: 76
+- [Decrypt] Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives — https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives (2026-10-09T18:06:03.000Z)
+- [The Block] Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC — https://theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192 (2026-10-09T16:05:22.000Z)
+
+## New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky
 
 - Categoria sugerida: regulacao | Confiança: media | Pontos: 75
-- [CoinDesk] Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round — https://coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round (2026-10-09T09:06:00.000Z)
-- [The Block] Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto — https://theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131 (2026-10-09T10:33:46.000Z)
+- [CoinDesk] New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky — https://coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky (2026-10-09T14:55:23.000Z)
+- [The Block] New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky — https://theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154 (2026-10-09T14:16:15.000Z)
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## Crypto job postings triple to over 1,200 in September, but applications fall
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto job postings triple to over 1,200 in September, but applications fall — https://coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall (2026-10-03T16:00:00.000Z)
-
-## Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea — https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea (2026-10-03T17:01:03.000Z)
 
 ## Crypto poured years into new products. The next challenge is keeping users
 
@@ -152,3 +148,8 @@ Gerada em 2026-10-09T13:00:57.323Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Sui’s Hashi to launch with $500M in Bitcoin finance commitments — https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments (2026-10-08T12:03:28.000Z)
+
+## Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft — https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft (2026-10-08T11:37:17.000Z)

@@ -1,14 +1,60 @@
 {
-  "updatedAt": "2026-10-09T13:00:57.323Z",
+  "updatedAt": "2026-10-09T18:57:35.236Z",
   "stories": [
     {
-      "id": "sam-altman-backed-bitcoin-insurer-meanwhile-secures-37-5-million-in",
-      "headline": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+      "id": "blockchain-com-seeks-approval-for-us-prediction-markets-and-crypto",
+      "headline": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+      "category": "mercado",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-09T16:05:22.000Z",
+      "publishers": [
+        "Decrypt",
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+          "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+          "date": "2026-10-09T18:06:03.000Z",
+          "summary": "The crypto platform filed for designated contract market and futures commission merchant licenses, which would let it run its own regulated event-contract venue instead of relying on overseas partners."
+        },
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+          "url": "https://theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
+          "date": "2026-10-09T16:05:22.000Z",
+          "summary": "Blockchain.com has applied for DCM and FCM licenses to offer ahead of a planned $500 million IPO."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "media",
+        "reasons": []
+      },
+      "score": 76,
+      "status": "gerada",
+      "slug": "blockchain-com-solicita-licencas-nos-eua-para-operar-mercados-de-previsao-e"
+    },
+    {
+      "id": "new-york-ag-secures-up-to-35-million-and-lifetime-crypto-ban-from",
+      "headline": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
       "category": "regulacao",
       "tags": [
-        "Bitcoin"
+        "segurança"
       ],
-      "firstSeen": "2026-10-09T09:06:00.000Z",
+      "firstSeen": "2026-10-09T14:16:15.000Z",
       "publishers": [
         "CoinDesk",
         "The Block"
@@ -21,10 +67,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-          "url": "https://coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-          "date": "2026-10-09T09:06:00.000Z",
-          "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE."
+          "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+          "url": "https://coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+          "date": "2026-10-09T14:55:23.000Z",
+          "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety."
         },
         {
           "feed": "theblock",
@@ -32,10 +78,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-          "url": "https://theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-          "date": "2026-10-09T10:33:46.000Z",
-          "summary": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million."
+          "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+          "url": "https://theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
+          "date": "2026-10-09T14:16:15.000Z",
+          "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries."
         }
       ],
       "validation": {
@@ -45,7 +91,7 @@
       },
       "score": 75,
       "status": "gerada",
-      "slug": "seguradora-de-bitcoin-meanwhile-capta-us-37-5-milhoes-para-expansao"
+      "slug": "ex-ceo-da-celsius-aceita-banimento-do-mercado-cripto-e-acordo-de-ate-us-35"
     },
     {
       "id": "moody-s-gives-sky-protocol-b3-rating-as-institutional-interest-in",
@@ -79,74 +125,6 @@
         "reasons": []
       },
       "score": 48,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-job-postings-triple-to-over-1-200-in-september-but",
-      "headline": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "firstSeen": "2026-10-03T16:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-          "url": "https://coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-          "date": "2026-10-03T16:00:00.000Z",
-          "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "chainalysis-used-ai-to-trace-the-387m-bitget-hack-back-to-north-korea",
-      "headline": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-03T17:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-          "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-          "date": "2026-10-03T17:01:03.000Z",
-          "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1494,11 +1472,46 @@
       "status": "pendente"
     },
     {
-      "id": "trump-is-hosting-yet-another-meme-coin-dinner-here-are-the-details",
-      "headline": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "id": "hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
+      "headline": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-09T17:21:07.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
+          "date": "2026-10-09T17:21:07.000Z",
+          "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-rebounds-after-rough-week-but-traders-are-pricing-in-more",
+      "headline": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
       "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-03T15:01:03.000Z",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T17:36:26.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -1510,10 +1523,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-          "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-          "date": "2026-10-03T15:01:03.000Z",
-          "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate."
+          "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
+          "url": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+          "date": "2026-10-09T17:36:26.000Z",
+          "summary": "Bitcoin bounced after dipping to around $80,000. Traders are placing increasingly high odds BTC slips further before October is over."
         }
       ],
       "validation": {
@@ -1521,7 +1534,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4587,6 +4600,364 @@
       "status": "pendente"
     },
     {
+      "id": "ledger-investigates-potential-wallet-tampering-after-reports-of-86",
+      "headline": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-09T14:47:27.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+          "url": "https://coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+          "date": "2026-10-09T14:47:27.000Z",
+          "summary": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-investigates-fund-losses-linked-to-southeast-asian-reseller",
+      "headline": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-09T17:02:47.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users",
+          "date": "2026-10-09T17:02:47.000Z",
+          "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "blockchain-com-pursues-cftc-approval-for-prediction-markets-cnbc",
+      "headline": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-09T16:22:45.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
+          "date": "2026-10-09T16:22:45.000Z",
+          "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-biz-wealthy-investors-are-buying-crypto-but-their-advisers",
+      "headline": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-09T15:51:53.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+          "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks",
+          "date": "2026-10-09T15:51:53.000Z",
+          "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-consolidates-near-82-5k-as-crypto-weathers-ledger-theft",
+      "headline": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-09T15:20:36.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+          "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports",
+          "date": "2026-10-09T15:20:36.000Z",
+          "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+      "headline": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-09T16:36:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+          "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+          "date": "2026-10-09T16:36:03.000Z",
+          "summary": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "dwf-labs-subsidiaries-sue-bitgo-for-141-million-over-early-token-sales",
+      "headline": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-09T16:08:23.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+          "date": "2026-10-09T16:08:23.000Z",
+          "summary": "The DWF Labs-linked firms allege in London’s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-probes-potential-theft-of-87m-in-user-funds-tied-to-crypto",
+      "headline": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-09T15:30:36.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+          "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+          "date": "2026-10-09T15:30:36.000Z",
+          "summary": "Ledger asked reseller CryptoBilis to pause sales and urged recent buyers not to set up their devices, as an onchain investigator tracked more than $86 million in suspected thefts."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-investigates-wallet-drains-involving-cryptobilis-buyers",
+      "headline": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-10-09T14:52:55.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+          "url": "https://theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
+          "date": "2026-10-09T14:52:55.000Z",
+          "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "brasileiro-que-movimentou-r-1-bilhao-em-criptomoedas-e-fugiu-do-pais",
+      "headline": "Brasileiro que movimentou R$ 1 bilhão em criptomoedas e fugiu do país tem recurso negado no STF",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-09T16:01:46.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Brasileiro que movimentou R$ 1 bilhão em criptomoedas e fugiu do país tem recurso negado no STF",
+          "url": "https://livecoins.com.br/brasileiro-que-movimentou-r-1-bilhao-em-criptomoedas-e-fugiu-do-pais-tem-recurso-negado-no-stf",
+          "date": "2026-10-09T16:01:46.000Z",
+          "summary": "O Supremo Tribunal Federal (STF) negou um pedido de liberdade para um brasileiro acusado de crimes financeiros. O ministro Cristiano Zanin assinou a decisão contra o investigado por movimentar R$ 1 bilhão em criptomoedas na quarta-feira (7). A Polícia Federal aponta a participação do homem em esquemas de lavagem de dinheiro e evasão de divisas. […] Fonte: Brasileiro que movimentou R$ 1 bilhão em criptomoedas e fugiu do país tem recurso negado no STF Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "binance-removera-20-criptomoedas-e-diversos-produtos-a-brasileiros",
+      "headline": "Binance removerá 20 criptomoedas e diversos produtos a brasileiros para se adequar à regulação",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-09T15:03:54.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Binance removerá 20 criptomoedas e diversos produtos a brasileiros para se adequar à regulação",
+          "url": "https://livecoins.com.br/binance-removera-20-criptomoedas-e-diversos-produtos-a-brasileiros-para-se-adequar-a-regulacao",
+          "date": "2026-10-09T15:03:54.000Z",
+          "summary": "A Binance, maior corretora de criptomoedas do mundo, publicou nesta quinta-feira (8) um artigo sobre mudanças na plataforma para se adequar à regulação brasileira. Como destaque, usuários brasileiros passarão a ter uma conta de pagamento individualizada na ‘Binance Brasil Corretora de Câmbio e Valores Mobiliários S.A.‘, CNPJ 68.757.681/0001-70, antiga Sim;paul, para a realização de pagamentos […] Fonte: Binance removerá 20 criptomoedas e diversos produtos a brasileiros para se adequar à regulação Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "el-salvador-receives-138-million-from-imf-after-bitcoin-waivers",
       "headline": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
       "category": "bitcoin",
@@ -6027,15 +6398,180 @@
       "status": "pendente"
     },
     {
-      "id": "regulacao-cripto-veja-a-situacao-de-cada-exchange-no-processo-de",
-      "headline": "Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central",
-      "category": "regulacao",
+      "id": "dragonfly-partner-rejects-bunker-mode-doomerism-calls-for-proactive",
+      "headline": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-09T13:49:22.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+          "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures",
+          "date": "2026-10-09T13:49:22.000Z",
+          "summary": "Dragonfly’s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "france-is-world-s-most-dangerous-place-for-bitcoiners-90-attacks-in-7",
+      "headline": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T13:30:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+          "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months",
+          "date": "2026-10-09T13:30:00.000Z",
+          "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot?"
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+      "headline": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T13:20:12.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
+          "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+          "date": "2026-10-09T13:20:12.000Z",
+          "summary": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "base-creator-jesse-pollak-says-equities-and-non-dollar-stablecoins",
+      "headline": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
+      "category": "blockchain",
+      "tags": [
+        "stablecoins",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-09T13:12:57.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
+          "url": "https://theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+          "date": "2026-10-09T13:12:57.000Z",
+          "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "policia-civil-apreende-us-1-7-milhao-em-criptomoedas-no-maior",
+      "headline": "Polícia Civil apreende US$ 1,7 milhão em criptomoedas no maior confisco de autocustódia do Brasil",
+      "category": "seguranca",
       "tags": [
         "Bitcoin",
-        "regulação",
-        "Banco Central"
+        "segurança",
+        "Brasil"
       ],
-      "firstSeen": "2026-10-03T18:15:00.000Z",
+      "firstSeen": "2026-10-09T13:20:46.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Polícia Civil apreende US$ 1,7 milhão em criptomoedas no maior confisco de autocustódia do Brasil",
+          "url": "https://livecoins.com.br/policia-civil-apreende-us-17-milhao-em-criptomoedas-no-maior-confisco-de-autocustodia-do-brasil",
+          "date": "2026-10-09T13:20:46.000Z",
+          "summary": "A Polícia Civil de Santa Catarina (PCSC) executou a apreensão histórica de cerca de US$ 1,7 milhão em criptomoedas guardadas em carteiras de autocustódia. O marco ocorreu no âmbito da Operação ClickFix para frear uma rede especializada em fraudes financeiras de alta tecnologia. A ação foi deflagrada pela Delegacia de Repressão aos Crimes de Informática […] Fonte: Polícia Civil apreende US$ 1,7 milhão em criptomoedas no maior confisco de autocustódia do Brasil Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "binance-vai-restringir-8-servicos-e-retirar-22-criptomoedas-para",
+      "headline": "Binance vai restringir 8 serviços e retirar 22 criptomoedas para brasileiros após novas regras do BC",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-09T13:16:06.000Z",
       "publishers": [
         "Portal do Bitcoin"
       ],
@@ -6047,10 +6583,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central",
-          "url": "https://portaldobitcoin.uol.com.br/regulacao-cripto-veja-a-situacao-de-cada-exchange-no-processo-de-autorizacao-do-banco-central",
-          "date": "2026-10-03T18:15:00.000Z",
-          "summary": "Exchanges de criptomoedas correm para se adaptar às novas regras do Banco Central antes do prazo de 30 de outubro O post Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central apareceu primeiro em Portal do Bitcoin ."
+          "title": "Binance vai restringir 8 serviços e retirar 22 criptomoedas para brasileiros após novas regras do BC",
+          "url": "https://portaldobitcoin.uol.com.br/binance-vai-restringir-8-servicos-e-retirar-22-criptomoedas-para-brasileiros-apos-novas-regras-do-bc",
+          "date": "2026-10-09T13:16:06.000Z",
+          "summary": "Mudanças para adequação às regras do BC incluem migração de contas, restrição de serviços e fim da negociação de 22 criptomoedas O post Binance vai restringir 8 serviços e retirar 22 criptomoedas para brasileiros após novas regras do BC apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -6058,7 +6594,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 36,
+      "score": 37,
       "status": "pendente"
     },
     {
@@ -7909,105 +8445,6 @@
       "status": "pendente"
     },
     {
-      "id": "fim-das-bets-contextualiza-como-vicio-em-jogos-e-questao-de-saude",
-      "headline": "Fim das bets contextualiza como vício em jogos é questão de saúde pública",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-03T17:08:22.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Fim das bets contextualiza como vício em jogos é questão de saúde pública",
-          "url": "https://livecoins.com.br/fim-das-bets-contextualiza-como-vicio-em-jogos-e-questao-de-saude-publica",
-          "date": "2026-10-03T17:08:22.000Z",
-          "summary": "O fim das bets, determinado pelo governo federal, recoloca no centro do debate um problema que não desaparece com o encerramento das plataformas, a ludopatia. Ao assinar, em 25 de setembro, a medida provisória que proíbe a exploração, a oferta, a intermediação e a publicidade das apostas de quota fixa no país, o governo classificou […] Fonte: Fim das bets contextualiza como vício em jogos é questão de saúde pública Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "microsoft-promove-memecoin-do-clippy-escreve-estranho-pedido-de",
-      "headline": "Microsoft promove memecoin do “Clippy”, escreve estranho pedido de desculpas e apaga postagens",
-      "category": "altcoins",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-03T15:32:58.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Microsoft promove memecoin do “Clippy”, escreve estranho pedido de desculpas e apaga postagens",
-          "url": "https://livecoins.com.br/microsoft-promove-memecoin-do-clippy-escreve-estranho-pedido-de-desculpas-e-apaga-postagens",
-          "date": "2026-10-03T15:32:58.000Z",
-          "summary": "A Microsoft, quarta maior empresa do mundo por valor de mercado, compartilhou na quinta-feira (1º) uma postagem sobre o retorno do “Clippy”, um personagem que funcionava como um assistente virtual dos produtos do Office nos anos 2000. A conta que realizou a postagem original, no entanto, estava sendo usada para promover uma memecoin. Ao perceber […] Fonte: Microsoft promove memecoin do “Clippy”, escreve estranho pedido de desculpas e apaga postagens Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "ia-da-meta-e-acusada-de-ler-mensagens-privadas-sem-permissao",
-      "headline": "IA da Meta é acusada de ler mensagens privadas sem permissão",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-03T15:12:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "IA da Meta é acusada de ler mensagens privadas sem permissão",
-          "url": "https://portaldobitcoin.uol.com.br/ia-da-meta-e-acusada-de-ler-mensagens-privadas-sem-permissao",
-          "date": "2026-10-03T15:12:00.000Z",
-          "summary": "Jornalista diz que agente de IA da Meta acessou mensagens privadas mesmo sem permissão dele; a empresa nega O post IA da Meta é acusada de ler mensagens privadas sem permissão apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "google-lanca-gemini-4-e-nova-ia-lidera-testes-de-seguranca-digital",
       "headline": "Google lança Gemini 4 e nova IA lidera testes de segurança digital",
       "category": "seguranca",
@@ -8870,6 +9307,207 @@
           "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-tenta-recuperacao-apos-cair-a-us-80-mil-com-alivio-nas-tensoes-entre-eua-e-ira",
           "date": "2026-10-09T10:46:25.000Z",
           "summary": "Bitcoin volta a superar os US$ 82 mil após Trump afastar novos ataques ao Irã, mas saídas de ETFs e liquidações ainda pressionam o mercado O post Bitcoin hoje: BTC tenta recuperação após cair a US$ 80 mil com alívio nas tensões entre EUA e Irã apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-shed-729m-in-two-days-as-investors-reverse-course",
+      "headline": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-09T17:11:16.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+          "date": "2026-10-09T17:11:16.000Z",
+          "summary": "Bitcoin Magazine Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course Investors have fast cashed out of bitcoin exchange-traded funds this week. It’s showing in the price. This post Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-warns-buyers-not-to-set-up-wallets-from-reseller-after-users",
+      "headline": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T16:43:45.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+          "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+          "date": "2026-10-09T16:43:45.000Z",
+          "summary": "Bitcoin Magazine Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. This post Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "operador-de-mercado-ilegal-na-dark-web-e-condenado-a-40-anos-de",
+      "headline": "Operador de mercado ilegal na dark web é condenado a 40 anos de prisão e a entregar US$ 100 milhões em Bitcoin",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T18:31:04.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Operador de mercado ilegal na dark web é condenado a 40 anos de prisão e a entregar US$ 100 milhões em Bitcoin",
+          "url": "https://livecoins.com.br/operador-de-mercado-ilegal-na-dark-web-e-condenado-a-40-anos-de-prisao-e-a-entregar-us-100-milhoes-em-bitcoin",
+          "date": "2026-10-09T18:31:04.000Z",
+          "summary": "O Departamento de Justiça americano anunciou na quarta-feira (7) a condenação de Raheim Hamilton (30) a 40 anos de prisão. O homem é apontado como co-criador do Empire Market, um mercado na dark web que permitia que usuários comprassem e vendessem bens e serviços ilegais. As autoridades apontam que o Empire Market funcionou entre 2018 […] Fonte: Operador de mercado ilegal na dark web é condenado a 40 anos de prisão e a entregar US$ 100 milhões em Bitcoin Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "criptomoedas-alternativas-estao-perdendo-forca-aponta-relatorio-da",
+      "headline": "Criptomoedas alternativas estão perdendo força, aponta relatório da Glassnode",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T17:34:13.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Criptomoedas alternativas estão perdendo força, aponta relatório da Glassnode",
+          "url": "https://livecoins.com.br/criptomoedas-alternativas-estao-perdendo-forca-aponta-relatorio-da-glassnode",
+          "date": "2026-10-09T17:34:13.000Z",
+          "summary": "Em análise publicada na quarta-feira (7), a Glassnode revela que 7 a cada 10 criptomoedas superaram o Bitcoin em cada uma das duas últimas semanas de setembro. No entanto, destacam que esse número caiu para 3 a cada 10 na primeira semana de outubro. O texto aponta para uma forte alavancagem entre criptomoedas com um […] Fonte: Criptomoedas alternativas estão perdendo força, aponta relatório da Glassnode Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-comeca-outubro-no-vermelho-ate-onde-a-queda-pode-ir-analistas",
+      "headline": "Bitcoin começa outubro no vermelho: até onde a queda pode ir? Analistas respondem",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-09T18:48:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin começa outubro no vermelho: até onde a queda pode ir? Analistas respondem",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-comeca-outubro-no-vermelho-ate-onde-a-queda-pode-ir-analistas-respondem",
+          "date": "2026-10-09T18:48:00.000Z",
+          "summary": "Apesar do histórico positivo de outubro para o Bitcoin, pressão vendedora e saída de recursos dos ETFs aumentam a cautela no mercado O post Bitcoin começa outubro no vermelho: até onde a queda pode ir? Analistas respondem apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoins-que-valiam-us-29-em-2010-sao-movimentados-apos-16-anos-e",
+      "headline": "Bitcoins que valiam US$ 29 em 2010 são movimentados após 16 anos e agora valem US$ 8,3 milhões",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-09T16:15:22.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoins que valiam US$ 29 em 2010 são movimentados após 16 anos e agora valem US$ 8,3 milhões",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoins-que-valiam-us-29-em-2010-sao-movimentados-apos-16-anos-e-agora-valem-us-83-milhoes",
+          "date": "2026-10-09T16:15:22.000Z",
+          "summary": "Um lote de 100,02 Bitcoin minerados em julho de 2010 foi movimentado na quarta após 16 anos. Ele está avaliado em cerca de US$ 8,3 milhões O post Bitcoins que valiam US$ 29 em 2010 são movimentados após 16 anos e agora valem US$ 8,3 milhões apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -10801,29 +11439,28 @@
       "status": "pendente"
     },
     {
-      "id": "bitwise-explica-por-que-as-criptomoedas-subiram-mesmo-apos-a-rejeicao",
-      "headline": "Bitwise explica por que as criptomoedas subiram mesmo após a rejeição do Clarity Act nos EUA",
-      "category": "regulacao",
+      "id": "utxo-s-loren-asmus-the-300t-bond-market-is-bitcoin-s-next-frontier",
+      "headline": "UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin's Next Frontier",
+      "category": "mercado",
       "tags": [
-        "Bitcoin",
-        "regulação"
+        "Bitcoin"
       ],
-      "firstSeen": "2026-10-03T18:14:12.000Z",
+      "firstSeen": "2026-10-09T13:44:49.000Z",
       "publishers": [
-        "Livecoins"
+        "Bitcoin Magazine"
       ],
       "official": false,
       "items": [
         {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
           "type": "media",
           "weight": 1,
-          "lang": "pt",
-          "title": "Bitwise explica por que as criptomoedas subiram mesmo após a rejeição do Clarity Act nos EUA",
-          "url": "https://livecoins.com.br/bitwise-explica-por-que-as-criptomoedas-subiram-mesmo-apos-a-rejeicao-do-clarity-act-nos-eua",
-          "date": "2026-10-03T18:14:12.000Z",
-          "summary": "A Bitwise, gestora especializada em ativos digitais, publicou recentemente um artigo explicando por que o mercado de criptomoedas subiu após a rejeição do Clarity Act nos EUA. O projeto de lei que visava trazer clareza regulatória para o setor. Resumindo em uma frase, Matt Hougan, diretor de Investimentos da Bitwise, afirma que “as criptomoedas estão […] Fonte: Bitwise explica por que as criptomoedas subiram mesmo após a rejeição do Clarity Act nos EUA Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "lang": "en",
+          "title": "UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin's Next Frontier",
+          "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+          "date": "2026-10-09T13:44:49.000Z",
+          "summary": "Bitcoin Magazine UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin's Next Frontier UTXO Management's Loren Asmus: Bitcoin isn't a trade, but a portfolio staple. He breaks down institutional adoption, retention, and why education is key. This post UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin's Next Frontier first appeared on Bitcoin Magazine and is written by Patrick Green ."
         }
       ],
       "validation": {
@@ -10831,18 +11468,119 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 23,
+      "score": 24,
       "status": "pendente"
     },
     {
-      "id": "financiamentos-imobiliarios-do-sbpe-somaram-r-17-bilhoes-em-agosto",
-      "headline": "Financiamentos imobiliários do SBPE somaram R$ 17 bilhões em agosto, diz Abecip",
+      "id": "bitcoin-core-developer-responds-to-ai-e-quantum-risk",
+      "headline": "Bitcoin Core developer responds to AI & Quantum Risk",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T13:38:38.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+          "date": "2026-10-09T13:38:38.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Core developer responds to AI & Quantum Risk Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation. This post Bitcoin Core developer responds to AI & Quantum Risk first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo",
+      "headline": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
       "category": "bitcoin",
       "tags": [
         "Bitcoin",
-        "Brasil"
+        "Ethereum",
+        "stablecoins"
       ],
-      "firstSeen": "2026-10-03T17:27:21.000Z",
+      "firstSeen": "2026-10-09T13:33:09.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+          "date": "2026-10-09T13:33:09.000Z",
+          "summary": "Bitcoin Magazine Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge. This post Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+      "headline": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-09T13:28:10.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+          "url": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+          "date": "2026-10-09T13:28:10.000Z",
+          "summary": "Bitcoin Magazine Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030 Is Bitcoin headed for a $1M awakening by 2030? Calamos CEO John Koudounis explains why institutional bank lending and ETF access will drive the surge. This post Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030 first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-afirma-estar-investigando-perdas-de-criptomoeda-por-usuarios",
+      "headline": "Ledger afirma estar investigando perdas de criptomoeda por usuários que compraram carteiras de revendedor",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T16:07:02.000Z",
       "publishers": [
         "Livecoins"
       ],
@@ -10854,10 +11592,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Financiamentos imobiliários do SBPE somaram R$ 17 bilhões em agosto, diz Abecip",
-          "url": "https://livecoins.com.br/financiamentos-imobiliarios-do-sbpe-somaram-r-17-bilhoes-em-agosto-diz-abecip",
-          "date": "2026-10-03T17:27:21.000Z",
-          "summary": "O crédito imobiliário com recursos das cadernetas do Sistema Brasileiro de Poupança e Empréstimo (SBPE) somou R$ 16,97 bilhões em agosto de 2026, segundo levantamento da Abecip (Associação Brasileira das Entidades de Crédito Imobiliário e Poupança). O resultado representa crescimento de 46,6% em relação ao mesmo mês de 2025 e foi o terceiro melhor desempenho […] Fonte: Financiamentos imobiliários do SBPE somaram R$ 17 bilhões em agosto, diz Abecip Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "title": "Ledger afirma estar investigando perdas de criptomoeda por usuários que compraram carteiras de revendedor",
+          "url": "https://livecoins.com.br/ledger-afirma-estar-investigando-perdas-de-criptomoeda-por-usuarios-que-compraram-carteiras-de-revendedor",
+          "date": "2026-10-09T16:07:02.000Z",
+          "summary": "Em nota divulgada em suas redes sociais nesta sexta-feira (9), a Ledger disse estar investigando relatos de perdas de criptomoedas de usuários do Sudeste Asiático. O texto afirma que os investidores compraram suas carteiras de um revendedor chamado CryptoBilis. Horas antes, um analista conhecido como Specter divulgou uma lista com 98 endereços que teriam sido […] Fonte: Ledger afirma estar investigando perdas de criptomoeda por usuários que compraram carteiras de revendedor Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -10865,7 +11603,40 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 23,
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-suspende-vendas-de-carteiras-apos-suspeitas-de-roubo-de-us-86",
+      "headline": "Ledger suspende vendas de carteiras após suspeitas de roubo de US$ 86 milhões em criptomoedas",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-09T14:41:08.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Ledger suspende vendas de carteiras após suspeitas de roubo de US$ 86 milhões em criptomoedas",
+          "url": "https://portaldobitcoin.uol.com.br/ledger-suspende-vendas-de-carteiras-apos-suspeitas-de-roubo-de-us-86-milhoes-em-criptomoedas",
+          "date": "2026-10-09T14:41:08.000Z",
+          "summary": "Ledger investiga perdas e orienta clientes de revendedora asiática a não utilizar dispositivos comprados recentemente O post Ledger suspende vendas de carteiras após suspeitas de roubo de US$ 86 milhões em criptomoedas apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
       "status": "pendente"
     },
     {
@@ -11535,50 +12306,11 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-optech-newsletter-426",
-      "headline": "Bitcoin Optech Newsletter #426",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-09T00:00:00.000Z",
-      "publishers": [
-        "Bitcoin Optech"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "bitcoin-optech",
-          "publisher": "Bitcoin Optech",
-          "type": "official",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Optech Newsletter #426",
-          "url": "https://bitcoinops.org/en/newsletters/2026/10/09",
-          "date": "2026-10-09T00:00:00.000Z",
-          "summary": "This week’s newsletter links to a draft BIP for letting peers choose their own one-byte message type IDs over the version 2 P2P transport, summarizes a discussion about whether BIPs should include their number in tagged hash tags, and describes a proposed metaprotocol for private onchain transfers that requires no consensus changes. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "zcash-developers-set-january-target-for-quantum-resistant-payments",
-      "headline": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
+      "id": "robinhood-chain-considers-technology-that-gives-paying-traders",
+      "headline": "Robinhood Chain considers technology that gives paying traders priority",
       "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-09T11:39:05.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-09T18:11:00.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -11590,10 +12322,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-          "url": "https://coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-          "date": "2026-10-09T11:39:05.000Z",
-          "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together."
+          "title": "Robinhood Chain considers technology that gives paying traders priority",
+          "url": "https://coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+          "date": "2026-10-09T18:11:00.000Z",
+          "summary": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions."
         }
       ],
       "validation": {
@@ -11607,46 +12339,14 @@
       "status": "descartada"
     },
     {
-      "id": "bitcoin-speculators-move-55k-btc-to-exchanges-amid-1-1b-liquidations",
-      "headline": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-      "category": "bitcoin",
+      "id": "senate-democrat-presses-cantor-fitzgerald-on-tether-ties-and-lutnick",
+      "headline": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "category": "ethereum",
       "tags": [
-        "Bitcoin"
+        "Ethereum",
+        "stablecoins"
       ],
-      "firstSeen": "2026-10-09T09:50:01.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-          "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation",
-          "date": "2026-10-09T09:50:01.000Z",
-          "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-      "headline": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-09T11:41:15.000Z",
+      "firstSeen": "2026-10-09T18:46:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -11658,17 +12358,118 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-          "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-          "date": "2026-10-09T11:41:15.000Z",
-          "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?"
+          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "date": "2026-10-09T18:46:03.000Z",
+          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "resumo/boletim, não é notícia"
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo",
+      "headline": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-09T16:07:07.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+          "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+          "date": "2026-10-09T16:07:07.000Z",
+          "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "former-ftx-coo-says-netflix-s-altruists-trailer-made-me-physically",
+      "headline": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+      "category": "mercado",
+      "tags": [
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-09T18:51:45.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+          "url": "https://theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
+          "date": "2026-10-09T18:51:45.000Z",
+          "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know",
+      "headline": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-09T14:41:09.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
+          "url": "https://theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
+          "date": "2026-10-09T14:41:09.000Z",
+          "summary": "Bessent’s latest crypto seizure plan follows months of sanctions and freezes targeting Iranian assets."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "previsão de preço"
         ]
       },
       "score": 0,
