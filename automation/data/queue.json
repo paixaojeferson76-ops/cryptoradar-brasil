@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:59:20.466Z",
+  "updatedAt": "2026-10-09T01:04:29.784Z",
   "stories": [
     {
       "id": "moody-s-gives-sky-protocol-b3-rating-as-institutional-interest-in",
@@ -1254,72 +1254,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-      "headline": "Bank group sues U.S. regulator over granting crypto trust charters",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-02T21:23:20.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-          "url": "https://coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-          "date": "2026-10-02T21:23:20.000Z",
-          "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "european-crypto-users-have-more-faith-in-regulated-firms-under-mica",
-      "headline": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-02T20:40:47.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-          "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
-          "date": "2026-10-02T20:40:47.000Z",
-          "summary": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -3907,62 +3841,28 @@
       "status": "pendente"
     },
     {
-      "id": "ethereum-now-lets-you-pay-for-ai-without-revealing-who-you-are",
-      "headline": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-02T20:16:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-          "date": "2026-10-02T20:16:04.000Z",
-          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "circle-pushes-back-on-mica-s-bank-deposit-mandate-for-stablecoins",
-      "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+      "id": "china-s-p2p-stablecoin-wallets-surge-43x-korea-s-450b-crypto-economy",
+      "headline": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
       "category": "altcoins",
       "tags": [
         "stablecoins"
       ],
-      "firstSeen": "2026-10-02T19:46:03.000Z",
+      "firstSeen": "2026-10-08T22:35:00.000Z",
       "publishers": [
-        "Decrypt"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-          "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-          "date": "2026-10-02T19:46:03.000Z",
-          "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules."
+          "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+          "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express",
+          "date": "2026-10-08T22:35:00.000Z",
+          "summary": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia."
         }
       ],
       "validation": {
@@ -3970,41 +3870,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "por-que-grandes-empresas-cripto-ainda-nao-pediram-autorizacao-ao",
-      "headline": "Por que grandes empresas cripto ainda não pediram autorização ao Banco Central",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Banco Central"
-      ],
-      "firstSeen": "2026-10-02T19:19:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Por que grandes empresas cripto ainda não pediram autorização ao Banco Central",
-          "url": "https://portaldobitcoin.uol.com.br/por-que-grandes-empresas-cripto-ainda-nao-pediram-autorizacao-ao-banco-central",
-          "date": "2026-10-02T19:19:00.000Z",
-          "summary": "Empresas cripto estão usando o período de transição para concluir adequações antes de entrar na supervisão contínua do Banco Central O post Por que grandes empresas cripto ainda não pediram autorização ao Banco Central apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -5300,6 +5166,108 @@
           "url": "https://portaldobitcoin.uol.com.br/tokenizacao-cvm-quer-colocar-regras-de-fiscalizacao-dentro-dos-proprios-tokens",
           "date": "2026-10-08T14:28:34.000Z",
           "summary": "Presidente da CVM afirma que tokenização pode permitir que limites, vedações e regras de compliance sejam verificados automaticamente O post Tokenização: CVM quer colocar regras de fiscalização dentro dos próprios tokens apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "wall-street-s-tokenization-boom-could-have-bigger-winners-than",
+      "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-08T19:46:15.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+          "url": "https://coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+          "date": "2026-10-08T19:46:15.000Z",
+          "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "securitize-stock-jumps-over-10-after-launching-tokenized-us-equities",
+      "headline": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+      "category": "blockchain",
+      "tags": [
+        "tokenização",
+        "Solana"
+      ],
+      "firstSeen": "2026-10-08T19:31:38.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+          "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
+          "date": "2026-10-08T19:31:38.000Z",
+          "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-test-network-raises-block-limit-to-over-3x-its-current",
+      "headline": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-08T20:16:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+          "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+          "date": "2026-10-08T20:16:03.000Z",
+          "summary": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million."
         }
       ],
       "validation": {
@@ -8130,176 +8098,6 @@
       "status": "pendente"
     },
     {
-      "id": "imf-praises-el-salvador-but-still-tries-to-scale-back-its-bitcoin",
-      "headline": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-02T22:01:18.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
-          "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
-          "date": "2026-10-02T22:01:18.000Z",
-          "summary": "Bitcoin Magazine IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a $139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "when-the-banks-don-t-work-bitcoin-does-cornell-university-s-adoption",
-      "headline": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index",
-      "category": "defi",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-02T19:15:58.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index",
-          "url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
-          "date": "2026-10-02T19:15:58.000Z",
-          "summary": "Bitcoin Magazine When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This post When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "receita-federal-leiloa-lote-com-mineradoras-de-bitcoin-e-equipamentos",
-      "headline": "Receita Federal leiloa lote com mineradoras de bitcoin e equipamentos de criptomoedas em Viracopos",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "mineração",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-02T21:21:49.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Receita Federal leiloa lote com mineradoras de bitcoin e equipamentos de criptomoedas em Viracopos",
-          "url": "https://livecoins.com.br/receita-federal-leiloa-lote-com-mineradoras-de-bitcoin-e-equipamentos-de-criptomoedas-em-viracopos",
-          "date": "2026-10-02T21:21:49.000Z",
-          "summary": "A Receita Federal do Brasil (RFB) abriu um leilão público com diversos equipamentos voltados para a mineração de bitcoin. Os itens integram um lote organizado pela Superintendência Regional da 8ª Região Fiscal. O lote recebe a classificação oficial de informática com preço mínimo fixado em R$ 37.860,00. As mercadorias confiscadas pela fiscalização alfandegária ficam armazenadas […] Fonte: Receita Federal leiloa lote com mineradoras de bitcoin e equipamentos de criptomoedas em Viracopos Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "fmi-empresta-us-138-milhoes-para-el-salvador-mas-nota-que-pais-nao",
-      "headline": "FMI empresta US$ 138 milhões para El Salvador, mas nota que país não abandonou o Bitcoin",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-02T20:00:36.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "FMI empresta US$ 138 milhões para El Salvador, mas nota que país não abandonou o Bitcoin",
-          "url": "https://livecoins.com.br/fmi-empresta-us-138-milhoes-para-el-salvador-mas-nota-que-pais-nao-abandonou-o-bitcoin",
-          "date": "2026-10-02T20:00:36.000Z",
-          "summary": "Em nota divulgada nesta quinta-feira (1º), o Fundo Monetário Internacional (FMI) revelou a liberação de US$ 138 milhões para El Salvador. O texto menciona um acordo de 40 meses com o país, aprovado em fevereiro de 2025, totalizando uma linha de crédito de US$ 1,4 bilhão. Como destaque, a organização citou esforços para reduzir o […] Fonte: FMI empresta US$ 138 milhões para El Salvador, mas nota que país não abandonou o Bitcoin Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "stablecoin-open-usd-ousd-apoiada-por-visa-mastercard-e-coinbase",
-      "headline": "Stablecoin Open USD (OUSD), apoiada por Visa, Mastercard e Coinbase, estreia no mercado",
-      "category": "altcoins",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "stablecoins",
-        "Solana"
-      ],
-      "firstSeen": "2026-10-02T19:04:19.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Stablecoin Open USD (OUSD), apoiada por Visa, Mastercard e Coinbase, estreia no mercado",
-          "url": "https://livecoins.com.br/stablecoin-open-usd-ousd-apoiada-por-visa-mastercard-e-coinbase-estreia-no-mercado",
-          "date": "2026-10-02T19:04:19.000Z",
-          "summary": "A Open Standard anunciou na quarta-feira (30) o lançamento de sua stablecoin, a Open USD (OUSD). O projeto é apoiado por gigantes como Visa, Mastercard, Coinbase e Stripe. No momento desta redação, a criptomoeda está disponível nas redes Ethereum, Solana, Base e Tempo. Já a negociação ocorre em corretoras como Coinbase, Kraken e Uniswap. Stablecoin […] Fonte: Stablecoin Open USD (OUSD), apoiada por Visa, Mastercard e Coinbase, estreia no mercado Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
       "id": "esqueca-o-preco-do-bitcoin",
       "headline": "Esqueça o preço do Bitcoin",
       "category": "mercado",
@@ -10052,6 +9850,175 @@
       "status": "pendente"
     },
     {
+      "id": "ai-coding-agents-drive-surge-in-bitcoin-integration-requests-breez",
+      "headline": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-08T19:17:12.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+          "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
+          "date": "2026-10-08T19:17:12.000Z",
+          "summary": "Bitcoin Magazine AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising roughly 14-fold as developers, and increasingly the agents they deploy, look to add bitcoin payments to their apps. In a company blog post, it tied the jump directly to Anthropic’s Claude Code, which […] This post AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "whitebit-integrates-lightning-network-for-fast-and-cheap-bitcoin",
+      "headline": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Lightning"
+      ],
+      "firstSeen": "2026-10-08T19:10:07.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
+          "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
+          "date": "2026-10-08T19:10:07.000Z",
+          "summary": "Bitcoin Magazine WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. This post WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "google-cloud-encerra-servico-de-blockchain-e-da-prazo-final-para",
+      "headline": "Google Cloud encerra serviço de blockchain e dá prazo final para migração ao Quicknode",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ],
+      "firstSeen": "2026-10-08T21:34:05.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Google Cloud encerra serviço de blockchain e dá prazo final para migração ao Quicknode",
+          "url": "https://livecoins.com.br/google-cloud-encerra-servico-de-blockchain-e-da-prazo-final-para-migracao-ao-quicknode",
+          "date": "2026-10-08T21:34:05.000Z",
+          "summary": "A divisão do Google Cloud se prepara para a desativação do Blockchain Node Engine e da ferramenta Blockchain RPC e o encerramento definitivo desses sistemas acontece no dia 15 de dezembro após uma etapa inicial de transição iniciada no meio do ano de 2026. Assim, programadores de aplicações descentralizadas precisam migrar suas conexões para a […] Fonte: Google Cloud encerra serviço de blockchain e dá prazo final para migração ao Quicknode Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "economista-que-chamou-bitcoin-de-revolucionario-esta-entre-as",
+      "headline": "Economista que chamou Bitcoin de “revolucionário” está entre as favoritas ao Nobel de Economia de 2026",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-08T19:41:24.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Economista que chamou Bitcoin de “revolucionário” está entre as favoritas ao Nobel de Economia de 2026",
+          "url": "https://livecoins.com.br/economista-que-chamou-bitcoin-de-revolucionario-esta-entre-as-favoritas-ao-nobel-de-economia-de-2026",
+          "date": "2026-10-08T19:41:24.000Z",
+          "summary": "Susan Athey, professora de economia na Universidade de Stanford, está entre as principais favoritas para ganhar o Prêmio Nobel de Economia de 2026. A premiação está marcada para a próxima segunda-feira (12). Embora a economista não esteja sendo cotada ao prêmio por pesquisas relacionadas ao Bitcoin, ela já publicou um estudo sobre a criptomoeda em […] Fonte: Economista que chamou Bitcoin de “revolucionário” está entre as favoritas ao Nobel de Economia de 2026 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "mercado-cripto-recebeu-us-50-bilhoes-em-2026-e-ganha-forca-para-reta",
+      "headline": "Mercado cripto recebeu US$ 50 bilhões em 2026 e ganha força para reta final do ano, diz JPMorgan",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-08T20:04:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Mercado cripto recebeu US$ 50 bilhões em 2026 e ganha força para reta final do ano, diz JPMorgan",
+          "url": "https://portaldobitcoin.uol.com.br/mercado-cripto-recebeu-us-50-bilhoes-em-2026-e-ganha-forca-para-reta-final-do-ano-diz-jpmorgan",
+          "date": "2026-10-08T20:04:00.000Z",
+          "summary": "JPMorgan aponta recuperação dos investimentos em ETFs de Bitcoin e Ethereum e aumento das posições em futuros O post Mercado cripto recebeu US$ 50 bilhões em 2026 e ganha força para reta final do ano, diz JPMorgan apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "mpf-defende-sufocamento-financeiro-contra-crimes-com-criptoativos-em",
       "headline": "MPF defende sufocamento financeiro contra crimes com criptoativos em evento internacional",
       "category": "mercado",
@@ -10819,15 +10786,17 @@
       "status": "pendente"
     },
     {
-      "id": "nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court",
-      "headline": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-      "category": "regulacao",
+      "id": "top-democrat-among-senate-investigators-probes-ties-between-cantor",
+      "headline": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "category": "ethereum",
       "tags": [
-        "regulação"
+        "Ethereum",
+        "stablecoins"
       ],
-      "firstSeen": "2026-10-08T18:06:41.000Z",
+      "firstSeen": "2026-10-08T21:22:58.000Z",
       "publishers": [
-        "CoinDesk"
+        "CoinDesk",
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
@@ -10837,10 +10806,21 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-          "url": "https://coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-          "date": "2026-10-08T18:06:41.000Z",
-          "summary": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law."
+          "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+          "url": "https://coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+          "date": "2026-10-08T21:22:58.000Z",
+          "summary": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership."
+        },
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
+          "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
+          "date": "2026-10-09T00:46:27.000Z",
+          "summary": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network."
         }
       ],
       "validation": {
@@ -10854,13 +10834,11 @@
       "status": "descartada"
     },
     {
-      "id": "netflix-drops-trailer-for-series-based-on-ftx-s-sbf-and-caroline",
-      "headline": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "id": "nfl-backs-new-jersey-authorities-in-scotus-petition-over-kalshi",
+      "headline": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
       "category": "mercado",
-      "tags": [
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-08T18:17:35.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-08T19:17:18.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -10872,10 +10850,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-          "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison",
-          "date": "2026-10-08T18:17:35.000Z",
-          "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January."
+          "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+          "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi",
+          "date": "2026-10-08T19:17:18.000Z",
+          "summary": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”"
         }
       ],
       "validation": {
@@ -10889,48 +10867,11 @@
       "status": "descartada"
     },
     {
-      "id": "crypto-lending-rises-again-but-have-they-solved-the-risks",
-      "headline": "Crypto lending rises again… but have they solved the risks?",
-      "category": "defi",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-08T13:30:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto lending rises again… but have they solved the risks?",
-          "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
-          "date": "2026-10-08T13:30:00.000Z",
-          "summary": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-      "headline": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-      "category": "altcoins",
-      "tags": [
-        "Solana"
-      ],
-      "firstSeen": "2026-10-08T15:42:16.000Z",
+      "id": "ai-startup-manus-raises-500-million-after-china-nixed-meta-s-2",
+      "headline": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-08T21:46:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -10942,10 +10883,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-          "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-          "date": "2026-10-08T15:42:16.000Z",
-          "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market."
+          "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+          "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+          "date": "2026-10-08T21:46:03.000Z",
+          "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million."
         }
       ],
       "validation": {
@@ -10959,28 +10900,26 @@
       "status": "descartada"
     },
     {
-      "id": "nfl-tells-supreme-court-prediction-market-sports-contracts-are",
-      "headline": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-08T17:30:58.000Z",
+      "id": "google-wants-gemini-to-be-your-next-coworker-complete-with-its-own",
+      "headline": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-08T21:16:03.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
-          "url": "https://theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
-          "date": "2026-10-08T17:30:58.000Z",
-          "summary": "The NFL filed an amicus brief urging the Supreme Court to hear New Jersey's case, arguing Kalshi's sports contracts are gambling, not CFTC-regulated swaps."
+          "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+          "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
+          "date": "2026-10-08T21:16:03.000Z",
+          "summary": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar."
         }
       ],
       "validation": {
@@ -10994,35 +10933,36 @@
       "status": "descartada"
     },
     {
-      "id": "bitcoin-pulls-back-as-analysts-forecast-80-000-90-000-q4-trading-range",
-      "headline": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
+      "id": "nfl-sides-with-states-against-kalshi-in-supreme-court-prediction",
+      "headline": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
       "category": "mercado",
       "tags": [
-        "Bitcoin"
+        "Ethereum",
+        "regulação"
       ],
-      "firstSeen": "2026-10-08T14:52:27.000Z",
+      "firstSeen": "2026-10-08T19:31:03.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
-          "url": "https://theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
-          "date": "2026-10-08T14:52:27.000Z",
-          "summary": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000."
+          "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+          "date": "2026-10-08T19:31:03.000Z",
+          "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "previsão de preço"
+          "fora do tema cripto"
         ]
       },
       "score": 0,
