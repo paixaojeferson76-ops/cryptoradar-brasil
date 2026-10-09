@@ -1,7 +1,17 @@
 {
-  "at": "2026-10-09T07:02:36.180Z",
+  "at": "2026-10-09T13:02:21.779Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "seguradora-de-bitcoin-meanwhile-capta-us-37-5-milhoes-para-expansao",
+      "title": "Seguradora de bitcoin Meanwhile capta US$ 37,5 milhões para expansão internacional",
+      "confidence": "media",
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }

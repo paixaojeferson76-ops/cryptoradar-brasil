@@ -1,6 +1,12 @@
 # Pauta de notícias
 
-Gerada em 2026-10-09T07:02:33.920Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-09T13:00:57.323Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round
+
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 75
+- [CoinDesk] Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round — https://coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round (2026-10-09T09:06:00.000Z)
+- [The Block] Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto — https://theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131 (2026-10-09T10:33:46.000Z)
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
@@ -146,8 +152,3 @@ Gerada em 2026-10-09T07:02:33.920Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Sui’s Hashi to launch with $500M in Bitcoin finance commitments — https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments (2026-10-08T12:03:28.000Z)
-
-## Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft — https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft (2026-10-08T11:37:17.000Z)
