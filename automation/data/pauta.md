@@ -1,16 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-10T13:03:24.143Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-10T21:59:34.188Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## Crypto poured years into new products. The next challenge is keeping users
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto poured years into new products. The next challenge is keeping users — https://coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users (2026-10-04T14:00:00.000Z)
 
 ## Zcash gets a Washington lobbyist to push crypto policy
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-10T13:03:24.143Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Decrypt] Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years — https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years (2026-10-08T18:46:04.000Z)
+
+## Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [Decrypt] Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand — https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand (2026-10-08T18:16:05.000Z)

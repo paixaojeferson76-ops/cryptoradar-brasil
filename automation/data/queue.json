@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T13:03:24.143Z",
+  "updatedAt": "2026-10-10T21:59:34.188Z",
   "stories": [
     {
       "id": "moody-s-gives-sky-protocol-b3-rating-as-institutional-interest-in",
@@ -33,37 +33,6 @@
         "reasons": []
       },
       "score": 48,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-poured-years-into-new-products-the-next-challenge-is-keeping",
-      "headline": "Crypto poured years into new products. The next challenge is keeping users",
-      "category": "blockchain",
-      "tags": [],
-      "firstSeen": "2026-10-04T14:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto poured years into new products. The next challenge is keeping users",
-          "url": "https://coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-          "date": "2026-10-04T14:00:00.000Z",
-          "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1607,72 +1576,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "there-s-an-election-next-month-state-of-crypto",
-      "headline": "There's an election next month: State of Crypto",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-04T18:30:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "There's an election next month: State of Crypto",
-          "url": "https://coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-          "date": "2026-10-04T18:30:00.000Z",
-          "summary": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "trump-taps-jay-clayton-the-sec-chair-who-sued-ripple-to-lead-ai-push",
-      "headline": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "SEC",
-        "XRP"
-      ],
-      "firstSeen": "2026-10-04T17:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-          "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-          "date": "2026-10-04T17:01:03.000Z",
-          "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -5030,108 +4933,6 @@
       "status": "pendente"
     },
     {
-      "id": "banking-group-sues-to-block-crypto-s-side-door-into-the-banking-system",
-      "headline": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-04T16:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-          "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-          "date": "2026-10-04T16:01:03.000Z",
-          "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "uptober-starts-green-as-bitcoin-etfs-draw-134-million",
-      "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-04T15:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-          "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-          "date": "2026-10-04T15:01:03.000Z",
-          "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "apos-idoso-cair-em-golpe-de-r-3-milhoes-justica-manda-kraken-bloquear",
-      "headline": "Após idoso cair em golpe de R$ 3 milhões, justiça manda Kraken bloquear valores no Brasil e isenta Tether e Circle",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "stablecoins",
-        "segurança",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-04T15:06:01.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Após idoso cair em golpe de R$ 3 milhões, justiça manda Kraken bloquear valores no Brasil e isenta Tether e Circle",
-          "url": "https://livecoins.com.br/apos-idoso-cair-em-golpe-de-r-3-milhoes-justica-manda-kraken-bloquear-valores-no-brasil-e-isenta-tether-e-circle",
-          "date": "2026-10-04T15:06:01.000Z",
-          "summary": "Um médico aposentado de setenta e quatro anos sofreu um prejuízo milionário em fraudes com criptomoedas, uma vez que a vítima perdeu a quantia de R$ 3,4 milhões durante as operações criminosas. Os advogados estruturaram o rastreio técnico dos ativos através das redes Bitcoin, Ethereum e TRON. O caminho do dinheiro passou por plataformas de […] Fonte: Após idoso cair em golpe de R$ 3 milhões, justiça manda Kraken bloquear valores no Brasil e isenta Tether e Circle Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over",
       "headline": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
       "category": "bitcoin",
@@ -6669,6 +6470,144 @@
       "status": "pendente"
     },
     {
+      "id": "cftc-draws-the-line-between-prediction-markets-and-gambling-in-new",
+      "headline": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "category": "regulacao",
+      "tags": [
+        "DeFi"
+      ],
+      "firstSeen": "2026-10-10T17:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+          "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+          "date": "2026-10-10T17:01:03.000Z",
+          "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "this-sam-altman-backed-life-insurer-runs-entirely-on-bitcoin-and-just",
+      "headline": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-10T16:01:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+          "date": "2026-10-10T16:01:04.000Z",
+          "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap",
+      "headline": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs",
+        "Solana"
+      ],
+      "firstSeen": "2026-10-10T15:10:37.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+          "url": "https://theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+          "date": "2026-10-10T15:10:37.000Z",
+          "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "nova-corretora-brasileira-nasce-no-mesmo-endereco-da-brasil-bitcoin",
+      "headline": "Nova corretora brasileira nasce no mesmo endereço da Brasil Bitcoin, com mesmos sócios e detém domínio chave: entenda a tensão envolvendo a cúpula da exchange",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Banco Central",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-10T16:15:06.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Nova corretora brasileira nasce no mesmo endereço da Brasil Bitcoin, com mesmos sócios e detém domínio chave: entenda a tensão envolvendo a cúpula da exchange",
+          "url": "https://livecoins.com.br/nova-corretora-brasileira-nasce-no-mesmo-endereco-da-brasil-bitcoin-com-mesmos-socios-e-detem-dominio-chave-entenda-a-tensao-envolvendo-a-cupula-da-exchange",
+          "date": "2026-10-10T16:15:06.000Z",
+          "summary": "Uma nova corretora brasileira nasce às vésperas do fim de prazo de regularização pelo Banco Central do Brasil (BCB), chamada Brasil 8 e que tem dois sócios da Brasil Bitcoin. Isso porque, até o dia 30 de outubro as empresas não regulamentadas devem encerrar suas operações em até trinta dias no país. Além disso, a […] Fonte: Nova corretora brasileira nasce no mesmo endereço da Brasil Bitcoin, com mesmos sócios e detém domínio chave: entenda a tensão envolvendo a cúpula da exchange Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-zooms-toward-87-000-nearly-setting-an-eight-month-high-then",
       "headline": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
       "category": "bitcoin",
@@ -7350,6 +7289,42 @@
           "url": "https://portaldobitcoin.uol.com.br/ewz-maior-etf-de-acoes-brasileiras-nos-eua-ganha-versao-tokenizada-na-solana",
           "date": "2026-10-07T16:59:00.000Z",
           "summary": "Versão tokenizada do EWZ, da BlackRock, foi emitida pela Backpack Securities e pode circular em aplicações da blockchain Solana O post EWZ, maior ETF de ações brasileiras nos EUA, ganha versão tokenizada na Solana apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "banco-central-do-brasil-define-regras-para-cobranca-hibrida-no-pix-e",
+      "headline": "Banco Central do Brasil define regras para cobrança híbrida no Pix e combate pagamento em duplicidade",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "Banco Central",
+        "DeFi",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-10T13:11:16.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Banco Central do Brasil define regras para cobrança híbrida no Pix e combate pagamento em duplicidade",
+          "url": "https://livecoins.com.br/banco-central-do-brasil-define-regras-para-cobranca-hibrida-no-pix-e-combate-pagamento-em-duplicidade",
+          "date": "2026-10-10T13:11:16.000Z",
+          "summary": "O Banco Central do Brasil (BCB) confirmou a criação de regras específicas para a chamada cobrança híbrida no sistema Pix. A nova funcionalidade faz parte de um pacote de atualizações operacionais voltadas para a segurança dos usuários na hora de pagar contas. A cobrança híbrida já marcava presença em faturas emitidas por diversas empresas de […] Fonte: Banco Central do Brasil define regras para cobrança híbrida no Pix e combate pagamento em duplicidade Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -8581,39 +8556,6 @@
       "status": "pendente"
     },
     {
-      "id": "google-lanca-gemini-4-e-nova-ia-lidera-testes-de-seguranca-digital",
-      "headline": "Google lança Gemini 4 e nova IA lidera testes de segurança digital",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-04T14:58:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Google lança Gemini 4 e nova IA lidera testes de segurança digital",
-          "url": "https://portaldobitcoin.uol.com.br/google-lanca-gemini-4-e-nova-ia-lidera-testes-de-seguranca-digital",
-          "date": "2026-10-04T14:58:00.000Z",
-          "summary": "Gemini 4, nova IA do Google, liderou testes de cibersegurança e se destacou contra ataques de prompt injection, além de avanços em raciocínio O post Google lança Gemini 4 e nova IA lidera testes de segurança digital apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "usp-fecha-parceria-de-r-1-milhao-com-cpqd-para-desenvolver-provas-de",
       "headline": "USP fecha parceria de R$ 1 milhão com CPQD para desenvolver provas de conhecimento zero em blockchain",
       "category": "blockchain",
@@ -9685,74 +9627,6 @@
         "reasons": []
       },
       "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-pode-chegar-a-us-500-mil-neste-ciclo-diz-executivo-da-vaneck",
-      "headline": "Bitcoin pode chegar a US$ 500 mil neste ciclo, diz executivo da VanEck",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-04T16:33:27.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitcoin pode chegar a US$ 500 mil neste ciclo, diz executivo da VanEck",
-          "url": "https://livecoins.com.br/bitcoin-pode-chegar-a-us-500-mil-neste-ciclo-diz-executivo-da-vaneck",
-          "date": "2026-10-04T16:33:27.000Z",
-          "summary": "Matthew Sigel, chefe de pesquisa de ativos digitais da VanEck, acredita que o Bitcoin pode alcançar a marca de US$ 500 mil neste ciclo de alta. Nesse patamar, a criptomoeda teria um valor de mercado equivalente à metade do valor de mercado do ouro. No momento desta redação, o Bitcoin é negociado na faixa dos […] Fonte: Bitcoin pode chegar a US$ 500 mil neste ciclo, diz executivo da VanEck Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "minha-exchange-fechou-e-agora-veja-o-que-fazer-com-suas-criptomoedas",
-      "headline": "Minha exchange fechou, e agora? Veja o que fazer com suas criptomoedas",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-04T18:03:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Minha exchange fechou, e agora? Veja o que fazer com suas criptomoedas",
-          "url": "https://portaldobitcoin.uol.com.br/minha-exchange-fechou-e-agora-veja-o-que-fazer-com-suas-criptomoedas",
-          "date": "2026-10-04T18:03:00.000Z",
-          "summary": "Com fechamento e saída de exchanges do Brasil com a nova regulação, investidores precisam ficar atentos de onde manter suas criptomoedas O post Minha exchange fechou, e agora? Veja o que fazer com suas criptomoedas apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
       "status": "pendente"
     },
     {
@@ -11810,6 +11684,109 @@
       "status": "pendente"
     },
     {
+      "id": "criptomoeda-meme-que-apoiava-campanha-de-flavio-bolsonaro-deixa",
+      "headline": "Criptomoeda meme que apoiava campanha de Flávio Bolsonaro deixa prejuízos; vídeo de crianças é retirado do ar e site removido pelo TSE",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-10T19:08:12.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Criptomoeda meme que apoiava campanha de Flávio Bolsonaro deixa prejuízos; vídeo de crianças é retirado do ar e site removido pelo TSE",
+          "url": "https://livecoins.com.br/criptomoeda-meme-que-apoiava-campanha-de-flavio-bolsonaro-deixa-prejuizos-video-de-criancas-e-retirado-do-ar-e-site-removido-pelo-tse",
+          "date": "2026-10-10T19:08:12.000Z",
+          "summary": "De acordo com informações publicadas pela Folha de São Paulo, a criptomoeda criada em apoio a campanha de Flávio Bolsonaro já deixa prejuízos entre brasileiros que investiram no projeto. Após explodir nas redes sociais por conta de sua divulgação no perfil Hyper Kids, que envolve crianças e adolescentes de Angola dançando, a criptomoeda supostamente prometia […] Fonte: Criptomoeda meme que apoiava campanha de Flávio Bolsonaro deixa prejuízos; vídeo de crianças é retirado do ar e site removido pelo TSE Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "pf-da-argentina-apreende-equipamentos-de-mineracao-de-bitcoin-em-acao",
+      "headline": "PF da Argentina apreende equipamentos de mineração de bitcoin em ação contra “finanças ilegais”",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-10T18:09:21.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "PF da Argentina apreende equipamentos de mineração de bitcoin em ação contra “finanças ilegais”",
+          "url": "https://livecoins.com.br/pf-da-argentina-apreende-equipamentos-de-mineracao-de-bitcoin-em-acao-contra-financas-ilegais",
+          "date": "2026-10-10T18:09:21.000Z",
+          "summary": "A Polícia Federal Argentina (PFA) deflagrou uma operação para combater transações financeiras ilícitas no país, em uma ação que cumpriu doze mandados de busca na cidade de Rosário na quarta-feira (7). O Departamento Federal de Investigaciones (DFI) e a División Unidad Operativa de Investigaciones Especiales (DUOIE) coordenaram as incursões para desarticular a estrutura clandestina. Os […] Fonte: PF da Argentina apreende equipamentos de mineração de bitcoin em ação contra “finanças ilegais” Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "netflix-lanca-trailer-de-serie-sobre-fraude-bilionaria-da-ftx-veja",
+      "headline": "Netflix lança trailer de série sobre fraude bilionária da FTX; veja quando estreia",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "ETFs",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-10T17:57:13.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Netflix lança trailer de série sobre fraude bilionária da FTX; veja quando estreia",
+          "url": "https://portaldobitcoin.uol.com.br/netflix-lanca-trailer-de-serie-sobre-fraude-bilionaria-da-ftx-veja-quando-estreia",
+          "date": "2026-10-10T17:57:13.000Z",
+          "summary": "Produção terá Julia Garner e Anthony Boyle como Caroline Ellison e Sam Bankman-Fried, protagonistas do escândalo que levou à falência da FTX O post Netflix lança trailer de série sobre fraude bilionária da FTX; veja quando estreia apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "empresa-paranaense-e-listada-na-bolsa-de-acesso-bee4",
       "headline": "Empresa paranaense é listada na Bolsa de acesso BEE4",
       "category": "bitcoin",
@@ -12339,6 +12316,39 @@
       "status": "pendente"
     },
     {
+      "id": "coinbase-critica-regra-do-bc-que-permite-reter-transferencias-de",
+      "headline": "Coinbase critica regra do BC que permite reter transferências de criptomoedas por até 24 horas",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-10T15:03:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Coinbase critica regra do BC que permite reter transferências de criptomoedas por até 24 horas",
+          "url": "https://portaldobitcoin.uol.com.br/coinbase-critica-regra-do-bc-que-permite-reter-transferencias-de-criptomoedas-por-ate-24-horas",
+          "date": "2026-10-10T15:03:00.000Z",
+          "summary": "Coinbase diz que retenção de transferências de criptomoedas por até 24 horas pelo BC pode criar barreiras à inovação O post Coinbase critica regra do BC que permite reter transferências de criptomoedas por até 24 horas apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "strategy-faz-nova-compra-de-bitcoin-e-michael-saylor-comemora-ganhos",
       "headline": "Strategy faz nova compra de Bitcoin e Michael Saylor comemora ganhos de US$ 21 bilhões no 3º trimestre",
       "category": "bitcoin",
@@ -12608,61 +12618,59 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-s-19-billion-wake-up-call-one-year-after-flash-crash-has",
-      "headline": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-10T11:00:00.000Z",
+      "id": "here-s-a-way-to-predict-when-ai-chatbots-will-turn-bad",
+      "headline": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-10T15:01:03.000Z",
       "publishers": [
-        "CoinDesk"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-          "url": "https://coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-          "date": "2026-10-10T11:00:00.000Z",
-          "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain."
+          "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+          "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+          "date": "2026-10-10T15:01:03.000Z",
+          "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "parece rumor/especulação"
+          "fora do tema cripto"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
-      "headline": "Tech chief says EU can fend off rogue AI risk: Report",
-      "category": "bitcoin",
+      "id": "kalshi-is-investigating-bets-on-trump-s-press-secretary-pick-placed",
+      "headline": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-10-10T08:41:06.000Z",
+      "firstSeen": "2026-10-10T18:35:25.000Z",
       "publishers": [
-        "Cointelegraph"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Tech chief says EU can fend off rogue AI risk: Report",
-          "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
-          "date": "2026-10-10T08:41:06.000Z",
-          "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
+          "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+          "url": "https://theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+          "date": "2026-10-10T18:35:25.000Z",
+          "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined."
         }
       ],
       "validation": {
