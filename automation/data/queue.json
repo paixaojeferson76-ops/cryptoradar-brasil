@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:23:14.076Z",
+  "updatedAt": "2026-10-10T13:03:24.143Z",
   "stories": [
     {
       "id": "moody-s-gives-sky-protocol-b3-rating-as-institutional-interest-in",
@@ -1479,13 +1479,14 @@
       "status": "pendente"
     },
     {
-      "id": "the-clarity-act-stalled-bankers-aren-t-hitting-the-brakes-yet-on",
-      "headline": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-      "category": "regulacao",
+      "id": "one-year-after-10-10-flash-crash-bitcoin-and-ether-liquidity-have",
+      "headline": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "category": "defi",
       "tags": [
-        "regulação"
+        "Bitcoin",
+        "Ethereum"
       ],
-      "firstSeen": "2026-10-04T13:00:00.000Z",
+      "firstSeen": "2026-10-10T12:00:00.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -1497,10 +1498,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-          "url": "https://coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-          "date": "2026-10-04T13:00:00.000Z",
-          "summary": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters."
+          "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+          "url": "https://coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+          "date": "2026-10-10T12:00:00.000Z",
+          "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak."
         }
       ],
       "validation": {
@@ -1508,7 +1509,104 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new",
+      "headline": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-10T12:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+          "url": "https://coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+          "date": "2026-10-10T12:00:00.000Z",
+          "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "justin-sun-says-tron-s-post-quantum-cryptography-has-gone-live-on",
+      "headline": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "category": "tecnologia",
+      "tags": [],
+      "firstSeen": "2026-10-10T11:52:14.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+          "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+          "date": "2026-10-10T11:52:14.000Z",
+          "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "french-committee-backs-stablecoin-swap-tax-and-crypto-exit-tax-then",
+      "headline": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "category": "regulacao",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-10T13:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+          "date": "2026-10-10T13:01:03.000Z",
+          "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4932,40 +5030,6 @@
       "status": "pendente"
     },
     {
-      "id": "el-salvador-receives-138-million-from-imf-after-bitcoin-waivers",
-      "headline": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-04T09:40:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-          "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
-          "date": "2026-10-04T09:40:00.000Z",
-          "summary": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
       "id": "banking-group-sues-to-block-crypto-s-side-door-into-the-banking-system",
       "headline": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
       "category": "bitcoin",
@@ -6561,6 +6625,39 @@
           "url": "https://portaldobitcoin.uol.com.br/binance-vai-restringir-8-servicos-e-retirar-22-criptomoedas-para-brasileiros-apos-novas-regras-do-bc",
           "date": "2026-10-09T13:16:06.000Z",
           "summary": "Mudanças para adequação às regras do BC incluem migração de contas, restrição de serviços e fim da negociação de 22 criptomoedas O post Binance vai restringir 8 serviços e retirar 22 criptomoedas para brasileiros após novas regras do BC apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+      "headline": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-10T07:10:43.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+          "date": "2026-10-10T07:10:43.000Z",
+          "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability."
         }
       ],
       "validation": {
@@ -9558,13 +9655,13 @@
       "status": "pendente"
     },
     {
-      "id": "nova-ia-da-openai-ganha-computador-proprio-e-pode-trabalhar-enquanto",
-      "headline": "Nova IA da OpenAI ganha computador próprio e pode trabalhar enquanto você dorme",
+      "id": "anthropic-lanca-modelo-de-ia-do-claude-mais-barato-e-rapido-para",
+      "headline": "Anthropic lança modelo de IA do Claude mais barato e rápido para competir com OpenAI",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-04T12:07:00.000Z",
+      "firstSeen": "2026-10-10T12:16:00.000Z",
       "publishers": [
         "Portal do Bitcoin"
       ],
@@ -9576,10 +9673,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Nova IA da OpenAI ganha computador próprio e pode trabalhar enquanto você dorme",
-          "url": "https://portaldobitcoin.uol.com.br/nova-ia-da-openai-ganha-computador-proprio-e-pode-trabalhar-enquanto-voce-dorme",
-          "date": "2026-10-04T12:07:00.000Z",
-          "summary": "OpenAI apresentou agentes de IA com computadores próprios na nuvem, capazes de executar tarefas e trabalhar mesmo sem o usuário O post Nova IA da OpenAI ganha computador próprio e pode trabalhar enquanto você dorme apareceu primeiro em Portal do Bitcoin ."
+          "title": "Anthropic lança modelo de IA do Claude mais barato e rápido para competir com OpenAI",
+          "url": "https://portaldobitcoin.uol.com.br/anthropic-lanca-modelo-de-ia-do-claude-mais-barato-e-rapido-para-competir-com-openai",
+          "date": "2026-10-10T12:16:00.000Z",
+          "summary": "Claude Haiku 5.5 custa 75% menos para operar e é direcionado para tarefas de alto volume, como resumos e suporte ao cliente em tempo real O post Anthropic lança modelo de IA do Claude mais barato e rápido para competir com OpenAI apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -9587,7 +9684,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -12511,117 +12608,46 @@
       "status": "pendente"
     },
     {
-      "id": "robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions",
-      "headline": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "category": "mercado",
+      "id": "bitcoin-s-19-billion-wake-up-call-one-year-after-flash-crash-has",
+      "headline": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-10T11:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+          "url": "https://coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+          "date": "2026-10-10T11:00:00.000Z",
+          "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
+      "headline": "Tech chief says EU can fend off rogue AI risk: Report",
+      "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-10T04:44:35.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-          "url": "https://coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-          "date": "2026-10-10T04:44:35.000Z",
-          "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "xrp-ledger-patched-decade-old-bug-that-could-create-billions-of",
-      "headline": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "category": "regulacao",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-10T04:20:07.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-          "url": "https://coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-          "date": "2026-10-10T04:20:07.000Z",
-          "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as",
-      "headline": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-09T21:21:54.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-          "url": "https://coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-          "date": "2026-10-09T21:21:54.000Z",
-          "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "thorchain-exec-accuses-tether-of-temporarily-freezing-usdt-vaults",
-      "headline": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "category": "altcoins",
-      "tags": [
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-09T19:04:03.000Z",
+      "firstSeen": "2026-10-10T08:41:06.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -12633,43 +12659,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-          "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
-          "date": "2026-10-09T19:04:03.000Z",
-          "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-and-anthropic-are-quietly-rehearsing-for-the-day-after-an-ai",
-      "headline": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-09T19:47:01.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-          "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-          "date": "2026-10-09T19:47:01.000Z",
-          "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary."
+          "title": "Tech chief says EU can fend off rogue AI risk: Report",
+          "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
+          "date": "2026-10-10T08:41:06.000Z",
+          "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
         }
       ],
       "validation": {
