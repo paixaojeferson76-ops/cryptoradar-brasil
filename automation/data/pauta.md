@@ -1,18 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-09T18:57:35.236Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives
-
-- Categoria sugerida: mercado | Confiança: media | Pontos: 76
-- [Decrypt] Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives — https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives (2026-10-09T18:06:03.000Z)
-- [The Block] Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC — https://theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192 (2026-10-09T16:05:22.000Z)
-
-## New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky
-
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 75
-- [CoinDesk] New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky — https://coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky (2026-10-09T14:55:23.000Z)
-- [The Block] New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky — https://theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154 (2026-10-09T14:16:15.000Z)
+Gerada em 2026-10-10T06:23:14.076Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
@@ -153,3 +141,13 @@ Gerada em 2026-10-09T18:57:35.236Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Decrypt] Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft — https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft (2026-10-08T11:37:17.000Z)
+
+## Crypto crumbles as anniversary of flash crash nears
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto crumbles as anniversary of flash crash nears — https://coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears (2026-10-08T18:14:39.000Z)
+
+## Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years — https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years (2026-10-08T18:46:04.000Z)
