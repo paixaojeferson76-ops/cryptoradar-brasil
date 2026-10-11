@@ -1,16 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-10T21:59:34.188Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-11T06:27:08.292Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## Zcash gets a Washington lobbyist to push crypto policy
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Zcash gets a Washington lobbyist to push crypto policy — https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy (2026-10-05T00:35:34.000Z)
 
 ## SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-10T21:59:34.188Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 39
 - [Decrypt] Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand — https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand (2026-10-08T18:16:05.000Z)
+
+## Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red — https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red (2026-10-08T17:46:05.000Z)
