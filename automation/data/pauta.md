@@ -1,56 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-11T06:27:08.292Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-11T13:32:03.746Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings — https://coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings (2026-10-05T11:14:35.000Z)
-
-## Strategy opts for bigger spending on STRC buybacks over BTC purchases
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Strategy opts for bigger spending on STRC buybacks over BTC purchases — https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys (2026-10-05T12:46:47.000Z)
-
-## Metaplanet reveals net income strategy to fuel Bitcoin accumulation
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Metaplanet reveals net income strategy to fuel Bitcoin accumulation — https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation (2026-10-05T12:28:39.000Z)
-
-## Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC — https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc (2026-10-05T12:51:42.000Z)
-
-## Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point — https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point (2026-10-05T12:04:01.000Z)
-
-## Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme — https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme (2026-10-05T11:18:01.000Z)
-
-## ‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] ‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC — https://theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631 (2026-10-05T12:13:28.000Z)
-
-## Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’ — https://theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640 (2026-10-05T12:04:15.000Z)
-
-## Visa, CoinShares find growing crypto appetite among consumers and affluent investors
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [The Block] Visa, CoinShares find growing crypto appetite among consumers and affluent investors — https://theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642 (2026-10-05T12:01:06.000Z)
 
 ## Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto
 
@@ -151,3 +106,48 @@ Gerada em 2026-10-11T06:27:08.292Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [Decrypt] Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red — https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red (2026-10-08T17:46:05.000Z)
+
+## JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [The Block] JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4 — https://theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115 (2026-10-08T18:46:59.000Z)
+
+## Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says — https://theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066 (2026-10-08T17:18:24.000Z)
+
+## The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market — https://theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081 (2026-10-08T17:16:23.000Z)
+
+## B3 vai lançar ações tokenizadas em 2027 e pedir licença cripto ao Banco Central
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] B3 vai lançar ações tokenizadas em 2027 e pedir licença cripto ao Banco Central — https://portaldobitcoin.uol.com.br/b3-vai-lancar-acoes-tokenizadas-em-2027-e-pedir-licenca-cripto-ao-banco-central (2026-10-08T17:14:18.000Z)
+
+## New tech to power bitcoin lending is set to debut with $500 million in commitments
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [CoinDesk] New tech to power bitcoin lending is set to debut with $500 million in commitments — https://coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments (2026-10-09T06:40:54.000Z)
+
+## Crypto projects apply for Anthropic’s new frontier AI security scanner
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Crypto projects apply for Anthropic’s new frontier AI security scanner — https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner (2026-10-09T05:34:33.000Z)
+
+## Trump administration outlines quantum, AI initiatives in $6B science push
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Trump administration outlines quantum, AI initiatives in $6B science push — https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push (2026-10-09T05:25:27.000Z)
+
+## DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach — https://coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach (2026-10-09T12:23:54.000Z)
+
+## UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package — https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package (2026-10-09T12:04:07.000Z)

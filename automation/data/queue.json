@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:27:08.292Z",
+  "updatedAt": "2026-10-11T13:32:03.746Z",
   "stories": [
     {
       "id": "moody-s-gives-sky-protocol-b3-rating-as-institutional-interest-in",
@@ -33,304 +33,6 @@
         "reasons": []
       },
       "score": 48,
-      "status": "pendente"
-    },
-    {
-      "id": "sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild",
-      "headline": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-10-05T11:14:35.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-          "url": "https://coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-          "date": "2026-10-05T11:14:35.000Z",
-          "summary": "Your day-ahead look for Oct. 5, 2026"
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "strategy-opts-for-bigger-spending-on-strc-buybacks-over-btc-purchases",
-      "headline": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:46:47.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
-          "url": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
-          "date": "2026-10-05T12:46:47.000Z",
-          "summary": "Strategy bought 334 Bitcoin for $28.7 million last week while spending $176.3 million to repurchase about 1.77 million shares of STRC."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "metaplanet-reveals-net-income-strategy-to-fuel-bitcoin-accumulation",
-      "headline": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:28:39.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-          "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation",
-          "date": "2026-10-05T12:28:39.000Z",
-          "summary": "Metaplanet revealed a revised capital allocation framework proposing to allocate as much as 15% of total assets to strategic investments to fund its Bitcoin accumulation."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-      "headline": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:51:42.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-          "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-          "date": "2026-10-05T12:51:42.000Z",
-          "summary": "The firm's Bitcoin holdings hit a record 848,000 BTC, while the quarterly gain is a fair-value mark carrying $1.88 billion in deferred tax."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "metaplanet-sold-10-000-bitcoin-and-bought-back-11-000-to-prove-a-point",
-      "headline": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:04:01.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-          "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-          "date": "2026-10-05T12:04:01.000Z",
-          "summary": "Rating agencies ask if a Bitcoin company will actually sell when obligations fall due. \"We answered by doing it,\" said CEO Simon Gerovich."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-      "headline": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-05T11:18:01.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-          "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-          "date": "2026-10-05T11:18:01.000Z",
-          "summary": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "more-orange-than-ever-michael-saylor-s-strategy-buys-334-bitcoin-for",
-      "headline": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:13:28.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
-          "url": "https://theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
-          "date": "2026-10-05T12:13:28.000Z",
-          "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $73 billion."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "metaplanet-sold-10-000-btc-in-q3-before-buying-back-11-000-btc-to",
-      "headline": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:04:15.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
-          "url": "https://theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
-          "date": "2026-10-05T12:04:15.000Z",
-          "summary": "Metaplanet added a net 1,000 BTC during the third quarter as its total bitcoin holdings reached 44,000 BTC."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "visa-coinshares-find-growing-crypto-appetite-among-consumers-and",
-      "headline": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-05T12:01:06.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
-          "url": "https://theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
-          "date": "2026-10-05T12:01:06.000Z",
-          "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1548,257 +1250,28 @@
       "status": "pendente"
     },
     {
-      "id": "treasury-crackdown-exposes-crypto-s-role-in-2-million-hamas",
-      "headline": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-05T11:08:03.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-          "url": "https://coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-          "date": "2026-10-05T11:08:03.000Z",
-          "summary": "The Treasury Department said the network raised more than $2 million through purported humanitarian charities, including hundreds of thousands of dollars sent in crypto."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "metaplanet-added-1-000-bitcoin-net-in-the-third-quarter-bringing",
-      "headline": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T10:58:03.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-          "url": "https://coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-          "date": "2026-10-05T10:58:03.000Z",
-          "summary": "The Japanese firm sold 10,000 BTC before buying 11,000 BTC, demonstrating liquidity as it seeks recurring income from preferred securities."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-resilience-tested-as-u-s-dollar-climbs-to-18-month-high",
-      "headline": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T10:44:55.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-          "url": "https://coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-          "date": "2026-10-05T10:44:55.000Z",
-          "summary": "A stronger dollar and rising bond yields could be headwinds as fiscal concerns in France and political uncertainty in Spain weigh on the euro."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam",
-      "headline": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-05T09:37:13.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-          "url": "https://coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-          "date": "2026-10-05T09:37:13.000Z",
-          "summary": "Your look at what's coming in the week starting Oct. 5."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "kraken-operator-payward-and-singapore-gulf-bank-partner-for-24-7",
-      "headline": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-10-05T09:26:24.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-          "url": "https://coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-          "date": "2026-10-05T09:26:24.000Z",
-          "summary": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "vivek-ramaswamy-s-gubernatorial-run-lacks-the-crypto-rhetoric-of-his",
-      "headline": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-05T10:11:26.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
-          "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign",
-          "date": "2026-10-05T10:11:26.000Z",
-          "summary": "The Ohio Republican candidate holds a stake in a digital asset manager and received donations from many in the industry, but has avoided making crypto a central campaign issue."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin",
-      "headline": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T09:08:09.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
-          "url": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
-          "date": "2026-10-05T09:08:09.000Z",
-          "summary": "Bitcoin bulls renewed pressure on range highs with the 2026 yearly open forming the next key resistance to break through."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec",
-      "headline": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "id": "imf-finds-demand-for-tokenized-stocks-says-the-market-is-still",
+      "headline": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
       "category": "blockchain",
       "tags": [
-        "stablecoins",
-        "regulação",
-        "SEC",
         "tokenização"
       ],
-      "firstSeen": "2026-10-05T10:22:27.000Z",
+      "firstSeen": "2026-10-11T13:00:00.000Z",
       "publishers": [
-        "Decrypt"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-          "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-          "date": "2026-10-05T10:22:27.000Z",
-          "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins."
+          "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+          "url": "https://coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+          "date": "2026-10-11T13:00:00.000Z",
+          "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up."
         }
       ],
       "validation": {
@@ -1806,7 +1279,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4866,96 +4339,30 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over",
-      "headline": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T06:57:40.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-          "url": "https://coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-          "date": "2026-10-05T06:57:40.000Z",
-          "summary": "Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "ethereum-investors-are-stuck-in-a-two-week-staking-exit-line-here-s",
-      "headline": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-05T06:40:29.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-          "url": "https://coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-          "date": "2026-10-05T06:40:29.000Z",
-          "summary": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-etfs-notch-third-inflow-week-as-ether-etfs-shed-138m",
-      "headline": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
-      "category": "mercado",
+      "id": "presidente-da-cvm-apresenta-novidades-durante-encontro-de-grupo-de",
+      "headline": "Presidente da CVM apresenta novidades durante encontro de Grupo de Tokenização",
+      "category": "regulacao",
       "tags": [
         "Bitcoin",
-        "Ethereum",
-        "ETFs"
+        "regulação",
+        "tokenização"
       ],
-      "firstSeen": "2026-10-05T08:00:49.000Z",
+      "firstSeen": "2026-10-11T11:40:12.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Livecoins"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "livecoins",
+          "publisher": "Livecoins",
           "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
-          "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
-          "date": "2026-10-05T08:00:49.000Z",
-          "summary": "Bitcoin ETF inflows reached a third straight week, while Ether ETFs swung to outflows and Zcash funds posted their first weekly outflow."
+          "weight": 1,
+          "lang": "pt",
+          "title": "Presidente da CVM apresenta novidades durante encontro de Grupo de Tokenização",
+          "url": "https://livecoins.com.br/presidente-da-cvm-apresenta-novidades-durante-encontro-de-grupo-de-tokenizacao",
+          "date": "2026-10-11T11:40:12.000Z",
+          "summary": "A Comissão de Valores Mobiliários (CVM) reuniu lideranças do setor financeiro para apresentar os avanços do Grupo de Trabalho de Tokenização (GTT). O debate ocorreu na sede da FGV Direito em São Paulo durante a quinta-feira (8). O encontro detalhou a nova estrutura regulatória voltada para ativos digitais no país e representantes de diversas entidades […] Fonte: Presidente da CVM apresenta novidades durante encontro de Grupo de Tokenização Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -4963,7 +4370,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -7237,39 +6644,6 @@
       "status": "pendente"
     },
     {
-      "id": "china-p2p-stablecoin-wallets-grew-43x-despite-crypto-restrictions",
-      "headline": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-05T13:00:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
-          "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions",
-          "date": "2026-10-05T13:00:00.000Z",
-          "summary": "Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026 as crypto activity increasingly shifted toward direct wallet-to-wallet transfers."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 35,
-      "status": "pendente"
-    },
-    {
       "id": "bitmine-buys-41m-more-ethereum-reaching-99-of-its-alchemy-of-5-target",
       "headline": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
       "category": "ethereum",
@@ -7359,39 +6733,6 @@
           "url": "https://theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
           "date": "2026-10-05T14:33:14.000Z",
           "summary": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 35,
-      "status": "pendente"
-    },
-    {
-      "id": "tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15-112",
-      "headline": "Tom Lee says ether ‘dwarfing other macro assets’ as Bitmine adds 15,112 ETH",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-05T13:23:07.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tom Lee says ether ‘dwarfing other macro assets’ as Bitmine adds 15,112 ETH",
-          "url": "https://theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
-          "date": "2026-10-05T13:23:07.000Z",
-          "summary": "Bitmine added 15,112 ETH as Chairman Tom Lee said Ethereum outperformed the S&P 500 by 6,832 basis points in Q3."
         }
       ],
       "validation": {
@@ -8389,105 +7730,6 @@
       "status": "pendente"
     },
     {
-      "id": "usp-fecha-parceria-de-r-1-milhao-com-cpqd-para-desenvolver-provas-de",
-      "headline": "USP fecha parceria de R$ 1 milhão com CPQD para desenvolver provas de conhecimento zero em blockchain",
-      "category": "blockchain",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T10:20:07.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "USP fecha parceria de R$ 1 milhão com CPQD para desenvolver provas de conhecimento zero em blockchain",
-          "url": "https://livecoins.com.br/usp-fecha-parceria-de-r-1-milhao-com-cpqd-para-desenvolver-provas-de-conhecimento-zero-em-blockchain",
-          "date": "2026-10-05T10:20:07.000Z",
-          "summary": "A Universidade de São Paulo (USP) divulgou os detalhes do contrato para criar soluções de privacidade em blockchains. O plano de trabalho assinado no dia 28 de setembro confirma o investimento de R$ 1,008 milhão no projeto. A iniciativa reúne pesquisadores da Escola Politécnica e especialistas da Fundação CPQD – Centro de Pesquisa e Desenvolvimento […] Fonte: USP fecha parceria de R$ 1 milhão com CPQD para desenvolver provas de conhecimento zero em blockchain Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "strategy-compra-mais-334-bitcoins-e-atinge-reserva-recorde-de-848-mil",
-      "headline": "Strategy compra mais 334 bitcoins e atinge reserva recorde de 848 mil BTC",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T12:25:03.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Strategy compra mais 334 bitcoins e atinge reserva recorde de 848 mil BTC",
-          "url": "https://portaldobitcoin.uol.com.br/strategy-compra-mais-334-bitcoins-e-atinge-reserva-recorde-de-848-mil-btc",
-          "date": "2026-10-05T12:25:03.000Z",
-          "summary": "Strategy comprou mais 334 bitcoins por US$ 28,7 milhões, enquanto também ampliou a recompra de ações preferenciais STRC O post Strategy compra mais 334 bitcoins e atinge reserva recorde de 848 mil BTC apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-hoje-btc-sobe-e-tenta-sustentar-os-us-86-mil-com-mercado",
-      "headline": "Bitcoin hoje: BTC sobe e tenta sustentar os US$ 86 mil com mercado afastando alta de juros",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-05T10:58:49.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitcoin hoje: BTC sobe e tenta sustentar os US$ 86 mil com mercado afastando alta de juros",
-          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-sobe-e-tenta-sustentar-os-us-86-mil-com-mercado-afastando-alta-de-juros",
-          "date": "2026-10-05T10:58:49.000Z",
-          "summary": "Bitcoin encosta em US$ 87 mil após dado nos EUA reduzir apostas em alta de juros, mas volta a perder força com resistência nessa faixa de preço O post Bitcoin hoje: BTC sobe e tenta sustentar os US$ 86 mil com mercado afastando alta de juros apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "now-accepting-bitcoin-old-major-market-brings-artisanal-meats-to-48",
       "headline": "Now Accepting Bitcoin: Old Major Market Brings Artisanal Meats to 48 States",
       "category": "mercado",
@@ -9463,29 +8705,29 @@
       "status": "pendente"
     },
     {
-      "id": "maior-risco-da-reforma-tributaria-pode-nao-estar-nos-impostos",
-      "headline": "Maior risco da reforma tributária pode não estar nos impostos",
-      "category": "regulacao",
+      "id": "ia-pode-quebrar-seguranca-do-bitcoin-e-ethereum-antes-da-computacao",
+      "headline": "IA pode quebrar segurança do Bitcoin e Ethereum antes da computação quântica, alerta pesquisador",
+      "category": "ethereum",
       "tags": [
         "Bitcoin",
-        "Brasil"
+        "Ethereum"
       ],
-      "firstSeen": "2026-10-05T09:47:11.000Z",
+      "firstSeen": "2026-10-11T12:13:00.000Z",
       "publishers": [
-        "Livecoins"
+        "Portal do Bitcoin"
       ],
       "official": false,
       "items": [
         {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Maior risco da reforma tributária pode não estar nos impostos",
-          "url": "https://livecoins.com.br/maior-risco-da-reforma-tributaria-pode-nao-estar-nos-impostos",
-          "date": "2026-10-05T09:47:11.000Z",
-          "summary": "A reforma tributária avança para uma das maiores mudanças no sistema de arrecadação brasileiro das últimas décadas, mas o principal desafio para muitas empresas pode estar longe das novas alíquotas. Com 8,9 milhões de negócios inadimplentes no país e um recorde de 2.466 recuperações judiciais registradas em 2025, segundo a Serasa Experian, cresce a preocupação […] Fonte: Maior risco da reforma tributária pode não estar nos impostos Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "title": "IA pode quebrar segurança do Bitcoin e Ethereum antes da computação quântica, alerta pesquisador",
+          "url": "https://portaldobitcoin.uol.com.br/ia-pode-quebrar-seguranca-do-bitcoin-e-ethereum-antes-da-computacao-quantica-alerta-pesquisador",
+          "date": "2026-10-11T12:13:00.000Z",
+          "summary": "Pesquisador alerta que avanços da IA podem antecipar riscos à criptografia das principais criptomoedas, como Bitcoin e Ethereum O post IA pode quebrar segurança do Bitcoin e Ethereum antes da computação quântica, alerta pesquisador apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -9493,7 +8735,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -12182,6 +11424,39 @@
       "status": "pendente"
     },
     {
+      "id": "coldcard-tem-conta-no-x-invadida-em-ataque-de-phishing-contra",
+      "headline": "Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-11T06:31:54.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin",
+          "url": "https://livecoins.com.br/coldcard-tem-conta-no-x-invadida-em-ataque-de-phishing-contra-usuarios-de-bitcoin",
+          "date": "2026-10-11T06:31:54.000Z",
+          "summary": "Na madrugada deste domingo (11), por volta das 2 horas da manhã, a conta oficial da ColdCard (@COLDCARDwallet) no X (Twitter) foi comprometida e publicou um post de phishing mirando investidores de Bitcoin. O post falso usava o título “ATUALIZAÇÃO DE SEGURANÇA URGENTE” e afirmava ter identificado “uma nova vulnerabilidade crítica afetando a geração de […] Fonte: Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "strategy-faz-nova-compra-de-bitcoin-e-michael-saylor-comemora-ganhos",
       "headline": "Strategy faz nova compra de Bitcoin e Michael Saylor comemora ganhos de US$ 21 bilhões no 3º trimestre",
       "category": "bitcoin",
@@ -12449,6 +11724,138 @@
       },
       "score": 21,
       "status": "pendente"
+    },
+    {
+      "id": "coldcard-says-it-s-investigating-how-phishing-link-appeared-on-its-x",
+      "headline": "Coldcard says it’s investigating how phishing link appeared on its X account",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-10-11T10:22:44.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+          "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+          "date": "2026-10-11T10:22:44.000Z",
+          "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m",
+      "headline": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-11T09:01:51.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+          "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m",
+          "date": "2026-10-11T09:01:51.000Z",
+          "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "cftc-proposals-aimed-at-separating-prediction-markets-from-casino",
+      "headline": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-11T07:44:51.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+          "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling",
+          "date": "2026-10-11T07:44:51.000Z",
+          "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "how-zcash-plans-to-hide-your-keys-from-ai-and-quantum-attacks",
+      "headline": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-10-11T13:00:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+          "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+          "date": "2026-10-11T13:00:03.000Z",
+          "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
