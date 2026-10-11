@@ -1,6 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-11T13:32:03.746Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-11T22:28:18.200Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
+- [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
 
 ## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
 
@@ -146,8 +151,3 @@ Gerada em 2026-10-11T13:32:03.746Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach — https://coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach (2026-10-09T12:23:54.000Z)
-
-## UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package — https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package (2026-10-09T12:04:07.000Z)
