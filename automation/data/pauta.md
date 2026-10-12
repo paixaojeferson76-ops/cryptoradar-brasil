@@ -1,6 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-11T22:28:18.200Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-12T16:07:19.421Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## v32.0rc4: Bitcoin Core 32.0 release candidate 4
+
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 65
+- [Bitcoin Core (GitHub)] v32.0rc4: Bitcoin Core 32.0 release candidate 4 — https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc4 (2026-10-12T04:05:19.000Z)
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
@@ -11,21 +16,6 @@ Gerada em 2026-10-11T22:28:18.200Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto — https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto (2026-10-06T05:43:50.000Z)
-
-## Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [CoinDesk] Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme — https://coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case (2026-10-06T12:31:51.000Z)
-
-## The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet — https://coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet (2026-10-06T11:30:00.000Z)
 
 ## Affluent investors seen boosting crypto exposure: Survey
 
@@ -151,3 +141,13 @@ Gerada em 2026-10-11T22:28:18.200Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach — https://coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach (2026-10-09T12:23:54.000Z)
+
+## UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package — https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package (2026-10-09T12:04:07.000Z)
+
+## Banco Central cria nova classificação para operações com criptomoedas no exterior
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] Banco Central cria nova classificação para operações com criptomoedas no exterior — https://portaldobitcoin.uol.com.br/banco-central-cria-nova-classificacao-para-operacoes-com-criptomoedas-no-exterior (2026-10-09T11:57:59.000Z)

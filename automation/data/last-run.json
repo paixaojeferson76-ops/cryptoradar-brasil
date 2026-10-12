@@ -1,7 +1,12 @@
 {
-  "at": "2026-10-11T22:28:21.654Z",
+  "at": "2026-10-12T16:07:59.296Z",
   "auto": [],
   "review": [],
-  "skipped": [],
+  "skipped": [
+    {
+      "headline": "v32.0rc4: Bitcoin Core 32.0 release candidate 4",
+      "reason": "A fonte traz apenas a publicação de uma versão candidata (release candidate 4) do Bitcoin Core 32.0 com um hash SHA512, sem notas de versão, descrição de mudanças ou detalhes suficientes para redigir uma notícia completa de 300 a 600 palavras sem extrapolar as diretrizes contra invenção de dados."
+    }
+  ],
   "errors": []
 }
