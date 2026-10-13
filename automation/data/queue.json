@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-12T16:07:19.421Z",
+  "updatedAt": "2026-10-13T00:58:35.636Z",
   "stories": [
-    {
-      "id": "v32-0rc4-bitcoin-core-32-0-release-candidate-4",
-      "headline": "v32.0rc4: Bitcoin Core 32.0 release candidate 4",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T04:05:19.000Z",
-      "publishers": [
-        "Bitcoin Core (GitHub)"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "bitcoin-core",
-          "publisher": "Bitcoin Core (GitHub)",
-          "type": "official",
-          "weight": 3,
-          "lang": "en",
-          "title": "v32.0rc4: Bitcoin Core 32.0 release candidate 4",
-          "url": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc4",
-          "date": "2026-10-12T04:05:19.000Z",
-          "summary": "Tree-SHA512: 99ba16e9d49cc0b00ee78caaa9647e3e3dab19306017ea98defa64535c43269e95cc436ad7175ea6e946e9165696d9286787dd07cb9a790eb017deadc61807f0",
-          "fullText": ""
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 65,
-      "status": "pulada",
-      "note": "A fonte traz apenas a publicação de uma versão candidata (release candidate 4) do Bitcoin Core 32.0 com um hash SHA512, sem notas de versão, descrição de mudanças ou detalhes suficientes para redigir uma notícia completa de 300 a 600 palavras sem extrapolar as diretrizes contra invenção de dados."
-    },
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
       "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -101,70 +66,6 @@
         "reasons": []
       },
       "score": 48,
-      "status": "pendente"
-    },
-    {
-      "id": "affluent-investors-seen-boosting-crypto-exposure-survey",
-      "headline": "Affluent investors seen boosting crypto exposure: Survey",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-06T17:30:18.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Affluent investors seen boosting crypto exposure: Survey",
-          "url": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey",
-          "date": "2026-10-06T17:30:18.000Z",
-          "summary": "Most affluent investors across seven countries own and are increasing their crypto holdings despite financial advisers who remain overly cautious about digital assets."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs",
-      "headline": "Bitcoin grinds toward $87K as US equities hit new record highs",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T17:19:58.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-          "url": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs",
-          "date": "2026-10-06T17:19:58.000Z",
-          "summary": "Bitcoin price action was kept in check by overhead ask liquidity while US stocks broke out to new all-time highs."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1347,272 +1248,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "peter-thiel-backed-founders-fund-leads-a-5-million-token-buy-in",
-      "headline": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-      "category": "defi",
-      "tags": [],
-      "firstSeen": "2026-10-06T17:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-          "url": "https://coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-          "date": "2026-10-06T17:00:00.000Z",
-          "summary": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-      "headline": "Crypto is expanding the boundaries of what can be priced",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-06T16:50:26.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto is expanding the boundaries of what can be priced",
-          "url": "https://coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-          "date": "2026-10-06T16:50:26.000Z",
-          "summary": "The future of crypto may therefore depend less on creating the next novel asset and more on building the infrastructure required to price a growing universe of existing ones, argues Altius co-founder and CEO Annabelle Huang."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "securitize-stock-jumps-8-amid-south-korea-tokenization-push",
-      "headline": "Securitize stock jumps 8% amid South Korea tokenization push",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-06T17:04:41.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-          "url": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets",
-          "date": "2026-10-06T17:04:41.000Z",
-          "summary": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-falls-asleep-but-privacy-coins-zcash-and-monero-are-waking-up",
-      "headline": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-06T16:38:15.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
-          "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
-          "date": "2026-10-06T16:38:15.000Z",
-          "summary": "Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "busca-por-dolar-apos-1-turno-das-eleicoes-no-brasil-disparou-volume",
-      "headline": "Busca por Dólar após 1º turno das eleições no Brasil disparou volume de stablecoins em corretoras; Foxbit lidera, seguida por Binance",
-      "category": "altcoins",
-      "tags": [
-        "Bitcoin",
-        "stablecoins",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-06T16:57:45.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Busca por Dólar após 1º turno das eleições no Brasil disparou volume de stablecoins em corretoras; Foxbit lidera, seguida por Binance",
-          "url": "https://livecoins.com.br/busca-por-dolar-apos-1o-turno-das-eleicoes-no-brasil-disparou-volume-de-stablecoins-em-corretoras-foxbit-lidera-seguida-por-binance",
-          "date": "2026-10-06T16:57:45.000Z",
-          "summary": "O mercado brasileiro de criptomoedas participou da reação do mercado interessado em comprar Dólar, com o volume de negociação nas corretoras disparando acima de R$ 2,33 bilhões em 24 horas. E com a desvalorização da moeda norte-americana no país, os brasileiros aproveitaram para negociar também Dólar no formato de stablecoins. Vale lembrar que a paridade […] Fonte: Busca por Dólar após 1º turno das eleições no Brasil disparou volume de stablecoins em corretoras; Foxbit lidera, seguida por Binance Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "circle-welcomes-dj-khaled-to-team-usdc-and-crypto-twitter-is-furious",
-      "headline": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins",
-        "regulação",
-        "SEC",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-06T22:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-          "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-          "date": "2026-10-06T22:16:03.000Z",
-          "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "housingwire-s-logan-mohtashami-real-estate-vs-bitcoin-e-bond-market",
-      "headline": "Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T21:28:54.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
-          "url": "https://bitcoinmagazine.com/videos/housingwires-logan-mohtashami-real-estate-vs-bitcoin-bond-market-outlook",
-          "date": "2026-10-06T21:28:54.000Z",
-          "summary": "Bitcoin Magazine Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook Mortgage rates hit 3-year highs as homebuyers retreat. HousingWire’s Logan Mohtashami explains why rising bond yields and Fed hawkishness drive the surge. This post Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "leon-wankum-btc-taking-on-real-estate-s-300t-monetary-premium",
-      "headline": "Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T21:21:43.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium",
-          "url": "https://bitcoinmagazine.com/videos/leon-wankum-btc-taking-on-real-estates-300t-monetary-premium",
-          "date": "2026-10-06T21:21:43.000Z",
-          "summary": "Bitcoin Magazine Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium Property was once the default wealth store, but Leon Wankum argues that run is over. He explains why Bitcoin is stripping real estate of its monetary premium. This post Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -4149,28 +3784,28 @@
       "status": "pendente"
     },
     {
-      "id": "pudgy-penguins-ethereum-layer-2-abstract-is-shutting-down",
-      "headline": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-      "category": "ethereum",
+      "id": "ftx-s-crypto-mining-venture-is-now-used-to-advance-ai",
+      "headline": "FTX’s crypto mining venture is now used to advance AI",
+      "category": "mineracao",
       "tags": [
-        "Ethereum"
+        "mineração"
       ],
-      "firstSeen": "2026-10-06T20:28:53.000Z",
+      "firstSeen": "2026-10-12T21:11:26.000Z",
       "publishers": [
-        "Decrypt"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
-          "date": "2026-10-06T20:28:53.000Z",
-          "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then."
+          "title": "FTX’s crypto mining venture is now used to advance AI",
+          "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
+          "date": "2026-10-12T21:11:26.000Z",
+          "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."
         }
       ],
       "validation": {
@@ -4178,20 +3813,18 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
-      "id": "tether-hit-with-lawsuit-over-2-76-million-stablecoin-freeze",
-      "headline": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-      "category": "regulacao",
+      "id": "standard-chartered-will-hold-ripple-s-stablecoin-in-dubai-and-let",
+      "headline": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+      "category": "altcoins",
       "tags": [
-        "Ethereum",
         "stablecoins",
-        "regulação",
-        "Brasil"
+        "XRP"
       ],
-      "firstSeen": "2026-10-06T19:46:04.000Z",
+      "firstSeen": "2026-10-12T21:16:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -4203,10 +3836,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-          "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-          "date": "2026-10-06T19:46:04.000Z",
-          "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profited from the reserves while refusing to release the funds for more than a year."
+          "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+          "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+          "date": "2026-10-12T21:16:03.000Z",
+          "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put."
         }
       ],
       "validation": {
@@ -4214,33 +3847,30 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
-      "id": "the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
-      "headline": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+      "id": "blur-to-shut-down-frontend-next-month-as-nft-trading-volume-dwindles",
+      "headline": "Blur to shut down frontend next month as NFT trading volume dwindles",
       "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "DeFi"
-      ],
-      "firstSeen": "2026-10-06T20:13:35.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-12T21:49:02.000Z",
       "publishers": [
-        "Bitcoin Magazine"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
-          "weight": 1,
+          "weight": 2,
           "lang": "en",
-          "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
-          "url": "https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
-          "date": "2026-10-06T20:13:35.000Z",
-          "summary": "Bitcoin Magazine The Real Estate Market Is Dead in Spain. Long Live Bitcoin. A 2% rent ceiling against 4.9% September inflation, plus compulsory five- and seven-year renewals, rewrites signed leases. The Bank of Spain still puts the housing deficit near 750,000 homes. This post The Real Estate Market Is Dead in Spain. Long Live Bitcoin. first appeared on Bitcoin Magazine and is written by Kristyna Mazankova ."
+          "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+          "url": "https://theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+          "date": "2026-10-12T21:49:02.000Z",
+          "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."
         }
       ],
       "validation": {
@@ -4248,7 +3878,38 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "cftc-s-new-crypto-framework-could-face-2028-election-deadline-says-td",
+      "headline": "CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-12T20:53:54.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen",
+          "url": "https://theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+          "date": "2026-10-12T20:53:54.000Z",
+          "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -5764,6 +5425,105 @@
       "status": "pendente"
     },
     {
+      "id": "crypto-pacs-report-2-7m-spending-blitz-on-house-races-as-midterms-loom",
+      "headline": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-12T18:55:49.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+          "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms",
+          "date": "2026-10-12T18:55:49.000Z",
+          "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support “pro-crypto” candidates in 2026."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "us-accounting-overhaul-could-make-stablecoins-more-attractive-to",
+      "headline": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-12T18:38:14.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+          "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption",
+          "date": "2026-10-12T18:38:14.000Z",
+          "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "solana-treasury-firm-defi-development-keeps-buying-sol-as-chad",
+      "headline": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+      "category": "regulacao",
+      "tags": [
+        "DeFi",
+        "Solana"
+      ],
+      "firstSeen": "2026-10-12T19:07:30.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+          "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+          "date": "2026-10-12T19:07:30.000Z",
+          "summary": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "polygon-taps-tron-s-94-billion-stablecoin-supply-for-seamless-cross",
       "headline": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
       "category": "altcoins",
@@ -6184,6 +5944,206 @@
           "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans",
           "date": "2026-10-12T08:45:58.000Z",
           "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-miners-face-widening-ai-financing-costs-as-lenders-scrutinize",
+      "headline": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-12T16:51:05.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+          "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
+          "date": "2026-10-12T16:51:05.000Z",
+          "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-drops-2-2-as-ukraine-iran-strikes-send-oil-toward-one-month",
+      "headline": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-12T16:30:21.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+          "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
+          "date": "2026-10-12T16:30:21.000Z",
+          "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-spooked-crypto-fear-and-greed-index-drops-to-pre-rally-august",
+      "headline": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-12T16:41:34.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+          "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+          "date": "2026-10-12T16:41:34.000Z",
+          "summary": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to",
+      "headline": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-10-12T16:32:17.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+          "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+          "date": "2026-10-12T16:32:17.000Z",
+          "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "stonex-raises-securitize-price-target-50-as-tokenized-stock-platform",
+      "headline": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+      "category": "blockchain",
+      "tags": [
+        "tokenização",
+        "Solana"
+      ],
+      "firstSeen": "2026-10-12T17:06:25.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+          "url": "https://theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+          "date": "2026-10-12T17:06:25.000Z",
+          "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "socio-da-brasil-bitcoin-diz-que-envolvimento-com-danilo-dubaiano",
+      "headline": "Sócio da Brasil Bitcoin diz que envolvimento com Danilo Dubaiano gerou racha na cúpula da corretora",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-12T17:36:44.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Sócio da Brasil Bitcoin diz que envolvimento com Danilo Dubaiano gerou racha na cúpula da corretora",
+          "url": "https://livecoins.com.br/socio-da-brasil-bitcoin-diz-que-envolvimento-com-danilo-dubaiano-gerou-racha-na-cupula-da-corretora",
+          "date": "2026-10-12T17:36:44.000Z",
+          "summary": "A tensão envolvendo a alta cúpula da Brasil Bitcoin ganha mais um episódio com Erick Crus (sócio com 40% das cotas da corretora que teve pedido de expulsão protocolado) indicando que a plataforma tem se envolvido com Danilo Dubaiano, foragido do Brasil por ter criado a pirâmide financeira D9 Club, uma das primeiras a lesar […] Fonte: Sócio da Brasil Bitcoin diz que envolvimento com Danilo Dubaiano gerou racha na cúpula da corretora Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -7280,242 +7240,6 @@
       "status": "pendente"
     },
     {
-      "id": "blackrock-says-ai-agents-could-be-the-next-big-driver-of-crypto-demand",
-      "headline": "BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T16:10:10.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand",
-          "url": "https://bitcoinmagazine.com/news/blackrock-says-ai-to-drive-crypto-demand",
-          "date": "2026-10-06T16:10:10.000Z",
-          "summary": "Bitcoin Magazine BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand The asset manager says that artificial intelligence and digital assets are converging, and that AI adoption may be an underappreciated source of demand for crypto. This post BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-pode-chegar-a-us-500-mil-ate-2030-diz-ceo-da-strive",
-      "headline": "Bitcoin pode chegar a US$ 500 mil até 2030, diz CEO da Strive",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T18:45:55.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitcoin pode chegar a US$ 500 mil até 2030, diz CEO da Strive",
-          "url": "https://livecoins.com.br/bitcoin-pode-chegar-a-us-500-mil-ate-2030-diz-ceo-da-strive",
-          "date": "2026-10-06T18:45:55.000Z",
-          "summary": "Matt Cole, CEO da Strive, acredita que o Bitcoin pode chegar a US$ 500 mil até 2030. Participando de uma conversa no canal ‘What Bitcoin Did', o executivo criticou a visão de curto prazo de outros investidores. Atualmente, a Strive mantém a quinta maior reserva de Bitcoin dentre empresas públicas, totalizando 29.462 moedas (US$ 2,5 […] Fonte: Bitcoin pode chegar a US$ 500 mil até 2030, diz CEO da Strive Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-nao-esta-caindo-menos-ele-esta-oscilando-menos-aponta-binance",
-      "headline": "Bitcoin não está caindo menos, ele está oscilando menos, aponta Binance Research",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T18:43:20.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitcoin não está caindo menos, ele está oscilando menos, aponta Binance Research",
-          "url": "https://livecoins.com.br/bitcoin-nao-esta-caindo-menos-ele-esta-oscilando-menos-aponta-binance-research",
-          "date": "2026-10-06T18:43:20.000Z",
-          "summary": "O Bitcoin não está necessariamente caindo menos nesta fase do ciclo: ele está oscilando menos. É o que aponta a mais recente análise semanal da Binance Research, braço de pesquisa da maior exchange de criptoativos do mundo. O Bitcoin atingiu uma mínima de US$ 57.800 em 1º de julho de 2026, 54,2% abaixo da máxima […] Fonte: Bitcoin não está caindo menos, ele está oscilando menos, aponta Binance Research Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "carteira-de-bitcoin-que-sofreu-ataque-promete-recompensa-de-25-para",
-      "headline": "Carteira de Bitcoin que sofreu ataque promete recompensa de 25% para quem ajudar na recuperação dos fundos",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança",
-        "Lightning"
-      ],
-      "firstSeen": "2026-10-06T17:19:47.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Carteira de Bitcoin que sofreu ataque promete recompensa de 25% para quem ajudar na recuperação dos fundos",
-          "url": "https://livecoins.com.br/carteira-de-bitcoin-que-sofreu-ataque-promete-recompensa-de-25-para-quem-ajudar-na-recuperacao-dos-fundos",
-          "date": "2026-10-06T17:19:47.000Z",
-          "summary": "A Blink, uma carteira de Bitcoin focada na rede Lightning Network, está oferecendo uma recompensa de 25% para quem ajudar a recuperar os fundos perdidos pelo aplicativo. Em resumo, a carteira sofreu um ataque hacker no dia 19 de setembro, perdendo cerca de 6,61 bitcoins (US$ 566 mil). Os desenvolvedores da Blink não foram os […] Fonte: Carteira de Bitcoin que sofreu ataque promete recompensa de 25% para quem ajudar na recuperação dos fundos Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "estrategista-da-bloomberg-afirma-que-bitcoin-e-um-investimento-ruim",
-      "headline": "Estrategista da Bloomberg afirma que Bitcoin é um investimento ruim: “está no mesmo nível do topo de 2017 contra o Nasdaq-100”",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T16:42:40.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Estrategista da Bloomberg afirma que Bitcoin é um investimento ruim: “está no mesmo nível do topo de 2017 contra o Nasdaq-100”",
-          "url": "https://livecoins.com.br/estrategista-da-bloomberg-afirma-que-bitcoin-e-um-investimento-ruim-esta-no-mesmo-nivel-do-topo-de-2017-contra-o-nasdaq-100",
-          "date": "2026-10-06T16:42:40.000Z",
-          "summary": "Mike McGlone, estrategista da Bloomberg Intelligence, criticou o desempenho do Bitcoin nos últimos anos. Seu argumento é que a criptomoeda é três vezes mais volátil que o Nasdaq-100, mas hoje se encontra no mesmo nível que seu topo de 2017 contra o índice. Embora tenha acertado que o Bitcoin chegaria a US$ 100 mil em […] Fonte: Estrategista da Bloomberg afirma que Bitcoin é um investimento ruim: “está no mesmo nível do topo de 2017 contra o Nasdaq-100” Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "hackers-roubaram-us-1-2-bilhao-de-projetos-defi-usando-emprestimos",
-      "headline": "Hackers roubaram US$ 1,2 bilhão de projetos DeFi usando empréstimos instantâneos, aponta estudo",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-06T18:52:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Hackers roubaram US$ 1,2 bilhão de projetos DeFi usando empréstimos instantâneos, aponta estudo",
-          "url": "https://portaldobitcoin.uol.com.br/hackers-roubaram-us-12-bilhao-de-projetos-defi-usando-emprestimos-instantaneos-aponta-estudo",
-          "date": "2026-10-06T18:52:00.000Z",
-          "summary": "Ataques se tornaram mais sofisticados e menos previsíveis, segundo pesquisadores que analisaram mais de 20 bilhões de transações O post Hackers roubaram US$ 1,2 bilhão de projetos DeFi usando empréstimos instantâneos, aponta estudo apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "com-bitcoin-de-lado-zcash-e-monero-viram-destaque-de-alta-entre-as",
-      "headline": "Com Bitcoin de lado, Zcash e Monero viram destaque de alta entre as maiores criptomoedas",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-06T17:07:05.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Com Bitcoin de lado, Zcash e Monero viram destaque de alta entre as maiores criptomoedas",
-          "url": "https://portaldobitcoin.uol.com.br/com-bitcoin-de-lado-zcash-e-monero-viram-destaque-de-alta-entre-as-maiores-criptomoedas",
-          "date": "2026-10-06T17:07:05.000Z",
-          "summary": "Bitcoin e Ethereum praticamente não se moveram hoje, mas Zcash e Monero lideram o ranking das maiores criptomoedas nas últimas 24 horas O post Com Bitcoin de lado, Zcash e Monero viram destaque de alta entre as maiores criptomoedas apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-hoje-btc-amplia-queda-e-perde-os-us-83-mil-com-petroleo-e",
       "headline": "Bitcoin hoje: BTC amplia queda e perde os US$ 83 mil com petróleo e juros em alta",
       "category": "mercado",
@@ -8289,80 +8013,13 @@
       "status": "pendente"
     },
     {
-      "id": "crypto-card-payments-hit-record-12-5-billion-as-stablecoin-adoption",
-      "headline": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-06T21:48:49.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
-          "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
-          "date": "2026-10-06T21:48:49.000Z",
-          "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core",
-      "headline": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-06T21:34:32.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
-          "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
-          "date": "2026-10-06T21:34:32.000Z",
-          "summary": "Bitcoin Magazine $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model and quiet path to over 20 BTC. This post $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer first appeared on Bitcoin Magazine and is written by Patrick Green ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "stonex-s-mark-palmer-435-mstr-price-target-explained-dat",
-      "headline": "StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
+      "id": "moscow-exchange-to-launch-bitcoin-trading-testing-underway",
+      "headline": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
       "category": "mercado",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-06T21:16:05.000Z",
+      "firstSeen": "2026-10-12T22:10:39.000Z",
       "publishers": [
         "Bitcoin Magazine"
       ],
@@ -8374,10 +8031,10 @@
           "type": "media",
           "weight": 1,
           "lang": "en",
-          "title": "StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
-          "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
-          "date": "2026-10-06T21:16:05.000Z",
-          "summary": "Bitcoin Magazine StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising and how reserve cash drives it to par. This post StoneX's Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook first appeared on Bitcoin Magazine and is written by Patrick Green ."
+          "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+          "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+          "date": "2026-10-12T22:10:39.000Z",
+          "summary": "Bitcoin Magazine Moscow Exchange to Launch Bitcoin Trading, Testing Underway Russia in recent months has paved the way to allow its citizens to trade bitcoin. This post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
         }
       ],
       "validation": {
@@ -8385,85 +8042,17 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
-      "id": "bitcoin-privacy-legend-amir-taaki-deported-from-singapore",
-      "headline": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+      "id": "bitcoin-de-graca-entenda-como-holders-estao-ganhando-copia-do-bitcoin",
+      "headline": "“Bitcoin de graça”? Entenda como holders estão ganhando cópia do bitcoin após o fork de agosto",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-06T21:07:23.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
-          "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
-          "date": "2026-10-06T21:07:23.000Z",
-          "summary": "Bitcoin Magazine Bitcoin Privacy Legend Amir Taaki Deported From Singapore The early Bitcoin contributor says he was questioned for hours before being deported — something which keeps happening. This post Bitcoin Privacy Legend Amir Taaki Deported From Singapore first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "okx-gets-new-funding-from-circle-standard-chartered-at-25b-valuation",
-      "headline": "OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-06T19:01:29.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation",
-          "url": "https://bitcoinmagazine.com/news/okx-gets-new-funding-25-billion-valuation",
-          "date": "2026-10-06T19:01:29.000Z",
-          "summary": "Bitcoin Magazine OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation The crypto exchange has raised new funding from the likes of Circle and Standard Chartered as it races to tokenize real-world assets. This post OKX Gets New Funding From Circle, Standard Chartered at $25B Valuation first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "stf-nega-recurso-de-ex-diretor-da-braiscompany-suspeito-de-ter",
-      "headline": "STF nega recurso de ex-diretor da Braiscompany suspeito de ter carteira de criptomoedas escondida",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-06T21:00:55.000Z",
+      "firstSeen": "2026-10-12T23:26:33.000Z",
       "publishers": [
         "Livecoins"
       ],
@@ -8475,10 +8064,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "STF nega recurso de ex-diretor da Braiscompany suspeito de ter carteira de criptomoedas escondida",
-          "url": "https://livecoins.com.br/stf-nega-recurso-de-ex-diretor-da-braiscompany-suspeito-de-ter-carteira-de-criptomoedas-escondida",
-          "date": "2026-10-06T21:00:55.000Z",
-          "summary": "O Supremo Tribunal Federal (STF) negou um pedido de soltura feito pela defesa de um ex-diretor da Braiscompany em uma decisão do ministro Alexandre de Moraes publicada nesta terça-feira (6). O réu identificado como Victor Hugo Lima Duarte cumpre pena pelos crimes de fraude e lavagem de dinheiro no mercado financeiro. A pirâmide financeira Braiscompany, […] Fonte: STF nega recurso de ex-diretor da Braiscompany suspeito de ter carteira de criptomoedas escondida Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "title": "“Bitcoin de graça”? Entenda como holders estão ganhando cópia do bitcoin após o fork de agosto",
+          "url": "https://livecoins.com.br/bitcoin-de-graca-entenda-como-holders-estao-ganhando-copia-do-bitcoin-apos-o-fork-de-agosto",
+          "date": "2026-10-12T23:26:33.000Z",
+          "summary": "Entenda o fork BIP 110, como funciona a divisão da rede Bitcoin e como holders podem verificar a elegibilidade para recuperar ativos. Fonte: “Bitcoin de graça”? Entenda como holders estão ganhando cópia do bitcoin após o fork de agosto Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -8486,44 +8075,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "sec-aprova-os-primeiros-etfs-de-bitcoin-e-ethereum-com-alavancagem-de",
-      "headline": "SEC aprova os primeiros ETFs de Bitcoin e Ethereum com alavancagem de 3x nos EUA",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs",
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-10-06T19:40:57.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "SEC aprova os primeiros ETFs de Bitcoin e Ethereum com alavancagem de 3x nos EUA",
-          "url": "https://livecoins.com.br/sec-aprova-os-primeiros-etfs-de-bitcoin-e-ethereum-com-alavancagem-de-3x-nos-eua",
-          "date": "2026-10-06T19:40:57.000Z",
-          "summary": "A SEC, Comissão de Valores Mobiliários dos EUA, aprovou recentemente seis ETFs com alavancagem de 3x da gestora Volatility Shares. Dentre eles estão um ETF de Bitcoin e outro de Ethereum. Embora a própria Volatility Shares já oferecesse ETFs dessas duas criptomoedas com alavancagem de 2x, tendo US$ 1,37 bilhão em ativos líquidos, essa é […] Fonte: SEC aprova os primeiros ETFs de Bitcoin e Ethereum com alavancagem de 3x nos EUA Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -9704,6 +9256,39 @@
       "status": "pendente"
     },
     {
+      "id": "south-korean-lender-jeonbuk-bank-to-offer-bitcoin-backed-loans",
+      "headline": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-12T22:06:36.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+          "url": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+          "date": "2026-10-12T22:06:36.000Z",
+          "summary": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "jack-dorsey-s-block-gifts-one-bitcoin-to-lucky-complexcon-attendee",
       "headline": "Jack Dorsey’s Block Gifts One Bitcoin to Lucky ComplexCon Attendee",
       "category": "bitcoin",
@@ -10134,6 +9719,39 @@
       "status": "pendente"
     },
     {
+      "id": "ledger-investigates-fund-losses-tied-to-southeast-asian-reseller",
+      "headline": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-12T17:19:33.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+          "url": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
+          "date": "2026-10-12T17:19:33.000Z",
+          "summary": "Bitcoin Magazine Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device Ledger has reassured users after people who bought signing devices from a Malaysia-based reseller reported losing funds. This post Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-cai-abaixo-dos-us-83-500-enquanto-mais-de-100-mil-traders-sao",
       "headline": "Bitcoin cai abaixo dos US$ 83.500 enquanto mais de 100 mil traders são liquidados",
       "category": "mercado",
@@ -10370,13 +9988,11 @@
       "status": "pendente"
     },
     {
-      "id": "tom-lee-sees-2-trillion-wealth-transfer-fueling-crypto-demand-as",
-      "headline": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-12T15:27:09.000Z",
+      "id": "palantir-s-europe-head-warns-the-region-is-missing-the-boat-on-ai",
+      "headline": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-10-12T16:18:03.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -10388,45 +10004,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-          "url": "https://coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-          "date": "2026-10-12T15:27:09.000Z",
-          "summary": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "previsão de preço"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax",
-      "headline": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-      "category": "altcoins",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-12T12:09:09.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-          "url": "https://coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-          "date": "2026-10-12T12:09:09.000Z",
-          "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure."
+          "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+          "url": "https://coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+          "date": "2026-10-12T16:18:03.000Z",
+          "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks."
         }
       ],
       "validation": {
@@ -10440,149 +10021,11 @@
       "status": "descartada"
     },
     {
-      "id": "why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap",
-      "headline": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-      "category": "regulacao",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-12T08:32:17.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-          "url": "https://coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-          "date": "2026-10-12T08:32:17.000Z",
-          "summary": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "data-network-to-migrate-to-sui-retire-own-chain",
-      "headline": "DATA Network to migrate to Sui, retire own chain",
+      "id": "ai-will-hit-40-of-jobs-imf-warns-young-people-are-first-in-line",
+      "headline": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-12T05:15:43.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DATA Network to migrate to Sui, retire own chain",
-          "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain",
-          "date": "2026-10-12T05:15:43.000Z",
-          "summary": "The migration is backed by a $30 million investment from Sui Foundation."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug",
-      "headline": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "category": "altcoins",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-12T01:21:29.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-          "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug",
-          "date": "2026-10-12T01:21:29.000Z",
-          "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodler-s",
-      "headline": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "category": "regulacao",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-11T22:57:53.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-          "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest",
-          "date": "2026-10-11T22:57:53.000Z",
-          "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nextpredict-paid-12-000-to-hedge-its-conference-on-a-prediction-market",
-      "headline": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-12T16:01:04.000Z",
+      "firstSeen": "2026-10-12T21:46:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -10594,10 +10037,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
-          "url": "https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market",
-          "date": "2026-10-12T16:01:04.000Z",
-          "summary": "Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations."
+          "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+          "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+          "date": "2026-10-12T21:46:03.000Z",
+          "summary": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving tsunami' for young workers."
         }
       ],
       "validation": {
@@ -10611,28 +10054,26 @@
       "status": "descartada"
     },
     {
-      "id": "evernorth-names-former-coinbase-investment-exec-to-steer-473-million",
-      "headline": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
-      "category": "defi",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-12T12:01:02.000Z",
+      "id": "meta-s-new-muse-wonder-finally-puts-zuckerberg-in-the-frontier-ai-race",
+      "headline": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-12T20:46:04.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
-          "url": "https://theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
-          "date": "2026-10-12T12:01:02.000Z",
-          "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies."
+          "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+          "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+          "date": "2026-10-12T20:46:04.000Z",
+          "summary": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top."
         }
       ],
       "validation": {
@@ -10646,28 +10087,61 @@
       "status": "descartada"
     },
     {
-      "id": "standard-chartered-launches-custody-for-ripple-s-rlusd-on-xrp-ledger",
-      "headline": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+      "id": "from-gta-v-on-iphone-to-free-photoshop-this-ai-tool-is-upending",
+      "headline": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+      "category": "tecnologia",
+      "tags": [],
+      "firstSeen": "2026-10-12T19:46:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+          "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
+          "date": "2026-10-12T19:46:03.000Z",
+          "summary": "REA, a free toolkit that hands AI agents the keys to reverse engineering, crossed 100,000 GitHub stars in a week as AI-decompiled game mods, console ports, and Adobe clones flood the internet."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp-worth-far",
+      "headline": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
       "category": "altcoins",
       "tags": [
         "XRP"
       ],
-      "firstSeen": "2026-10-12T09:35:21.000Z",
+      "firstSeen": "2026-10-12T18:09:15.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-          "url": "https://theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-          "date": "2026-10-12T09:35:21.000Z",
-          "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model."
+          "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+          "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+          "date": "2026-10-12T18:09:15.000Z",
+          "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing."
         }
       ],
       "validation": {
@@ -10681,11 +10155,11 @@
       "status": "descartada"
     },
     {
-      "id": "sui-foundation-invests-30-million-in-data-network-as-ai-data-protocol",
-      "headline": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "category": "defi",
+      "id": "binance-launches-ai-trading-tool-after-150-000-user-beta",
+      "headline": "Binance launches AI trading tool after 150,000-user beta",
+      "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-10-12T02:00:00.000Z",
+      "firstSeen": "2026-10-12T18:44:10.000Z",
       "publishers": [
         "The Block"
       ],
@@ -10697,10 +10171,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-          "url": "https://theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-          "date": "2026-10-12T02:00:00.000Z",
-          "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired."
+          "title": "Binance launches AI trading tool after 150,000-user beta",
+          "url": "https://theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+          "date": "2026-10-12T18:44:10.000Z",
+          "summary": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers."
         }
       ],
       "validation": {
@@ -10708,6 +10182,41 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "bitcoin-extends-slide-can-uptober-2026-beat-last-year-s",
+      "headline": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-12T19:43:18.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare",
+          "date": "2026-10-12T19:43:18.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s? Bitcoin is off to a rough start so far this month. But things could still turn around. This post Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
         ]
       },
       "score": 0,

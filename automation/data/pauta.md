@@ -1,11 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-12T16:07:19.421Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## v32.0rc4: Bitcoin Core 32.0 release candidate 4
-
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 65
-- [Bitcoin Core (GitHub)] v32.0rc4: Bitcoin Core 32.0 release candidate 4 — https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc4 (2026-10-12T04:05:19.000Z)
+Gerada em 2026-10-13T00:58:35.636Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
@@ -16,16 +11,6 @@ Gerada em 2026-10-12T16:07:19.421Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 48
 - [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## Affluent investors seen boosting crypto exposure: Survey
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Affluent investors seen boosting crypto exposure: Survey — https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey (2026-10-06T17:30:18.000Z)
-
-## Bitcoin grinds toward $87K as US equities hit new record highs
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin grinds toward $87K as US equities hit new record highs — https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs (2026-10-06T17:19:58.000Z)
 
 ## U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed
 
@@ -151,3 +136,18 @@ Gerada em 2026-10-12T16:07:19.421Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Portal do Bitcoin] Banco Central cria nova classificação para operações com criptomoedas no exterior — https://portaldobitcoin.uol.com.br/banco-central-cria-nova-classificacao-para-operacoes-com-criptomoedas-no-exterior (2026-10-09T11:57:59.000Z)
+
+## HSBC, Ant Digital test AI-agent payments using tokenized deposits
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Cointelegraph] HSBC, Ant Digital test AI-agent payments using tokenized deposits — https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits (2026-10-09T17:21:07.000Z)
+
+## Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside — https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside (2026-10-09T17:36:26.000Z)
+
+## Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018 — https://coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018 (2026-10-10T05:43:00.000Z)
