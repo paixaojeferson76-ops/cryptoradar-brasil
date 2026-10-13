@@ -1,21 +1,23 @@
 # Pauta de notícias
 
-Gerada em 2026-10-13T00:58:35.636Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-13T23:07:46.140Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 71
+- [Decrypt] Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months — https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months (2026-10-13T18:15:05.000Z)
+- [The Block] Strive buys 3,311 bitcoin for $280 million in largest acquisition since January — https://theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430 (2026-10-13T13:42:25.000Z)
+
+## Binance to shut down crypto mining pool services in November
+
+- Categoria sugerida: mineracao | Confiança: media | Pontos: 65
+- [Cointelegraph] Binance to shut down crypto mining pool services in November — https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november (2026-10-13T05:23:26.000Z)
+- [The Block] Binance to shut down mining pool, cloud mining and related services — https://theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410 (2026-10-13T11:40:56.000Z)
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 48
-- [The Block] Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows — https://theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931 (2026-10-07T14:20:01.000Z)
-
-## U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed — https://coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed (2026-10-07T05:58:25.000Z)
 
 ## Crypto news site Cointelegraph seeks buyer after web traffic plunges
 

@@ -1,7 +1,26 @@
 {
-  "at": "2026-10-13T00:58:38.183Z",
+  "at": "2026-10-13T23:09:21.163Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "strive-compra-us-280-milhoes-em-bitcoin-e-eleva-tesouraria-para-32-773-btc",
+      "title": "Strive compra US$ 280 milhões em Bitcoin e eleva tesouraria para 32.773 BTC",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "The Block"
+      ]
+    },
+    {
+      "slug": "binance-anuncia-encerramento-de-pool-de-mineracao-e-servicos-relacionados-para",
+      "title": "Binance anuncia encerramento de pool de mineração e serviços relacionados para novembro",
+      "confidence": "media",
+      "sources": [
+        "Cointelegraph",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
