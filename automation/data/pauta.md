@@ -1,91 +1,37 @@
 # Pauta de notícias
 
-Gerada em 2026-10-14T05:24:24.200Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-14T21:57:01.179Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients
+
+- Categoria sugerida: mercado | Confiança: alta | Pontos: 123
+- [CoinDesk] Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients — https://coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients (2026-10-14T08:10:07.000Z)
+- [Cointelegraph] Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE — https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae (2026-10-14T10:07:03.000Z)
+- [Decrypt] Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients — https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading (2026-10-14T17:46:05.000Z)
+- [Bitcoin Magazine] Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients — https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2 (2026-10-14T16:22:15.000Z)
+
+## Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 72
+- [Decrypt] Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report — https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report (2026-10-14T14:03:20.000Z)
+- [The Block] Hex and PulseChain founder Richard Heart detained in Istanbul: reports — https://theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574 (2026-10-14T15:53:15.000Z)
+
+## CVM publica resolução e cria programa piloto para testar tokenização de ativos no Brasil
+
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 61
+- [Livecoins] CVM publica resolução e cria programa piloto para testar tokenização de ativos no Brasil — https://livecoins.com.br/cvm-publica-resolucao-e-cria-programa-piloto-para-testar-tokenizacao-de-ativos-no-brasil (2026-10-14T18:12:34.000Z)
+- [Portal do Bitcoin] CVM lança programa piloto para testar negociação e liquidação de ativos tokenizados no Brasil — https://portaldobitcoin.uol.com.br/cvm-lanca-programa-piloto-para-testar-negociacao-e-liquidacao-de-ativos-tokenizados-no-brasil (2026-10-14T16:31:37.000Z)
+
+## Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
+
+- Categoria sugerida: blockchain | Confiança: media | Pontos: 57
+- [Decrypt] Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push — https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push (2026-10-14T10:21:34.000Z)
+- [Bitcoin Magazine] Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push — https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank (2026-10-14T16:30:01.000Z)
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## Ripple is earning fees financing leveraged stock bets, a business long run by banks
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Ripple is earning fees financing leveraged stock bets, a business long run by banks — https://coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks (2026-10-08T06:17:13.000Z)
-
-## Bitcoin loans are paying for tuition and working capital, not just trades, lenders say
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin loans are paying for tuition and working capital, not just trades, lenders say — https://coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say (2026-10-08T05:40:41.000Z)
-
-## Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks — https://coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks (2026-10-08T11:47:16.000Z)
-
-## NUVA brings U.S. residential mortgage credit to offshore investors
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [CoinDesk] NUVA brings U.S. residential mortgage credit to offshore investors — https://coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors (2026-10-08T11:36:25.000Z)
-
-## Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million — https://coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million (2026-10-08T11:30:19.000Z)
-
-## EU lawmakers push crypto onto anti-corruption agenda
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] EU lawmakers push crypto onto anti-corruption agenda — https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption (2026-10-08T12:54:21.000Z)
-
-## Sui’s Hashi to launch with $500M in Bitcoin finance commitments
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Sui’s Hashi to launch with $500M in Bitcoin finance commitments — https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments (2026-10-08T12:03:28.000Z)
-
-## Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft — https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft (2026-10-08T11:37:17.000Z)
-
-## Crypto crumbles as anniversary of flash crash nears
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto crumbles as anniversary of flash crash nears — https://coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears (2026-10-08T18:14:39.000Z)
-
-## Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years — https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years (2026-10-08T18:46:04.000Z)
-
-## Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [Decrypt] Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand — https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand (2026-10-08T18:16:05.000Z)
-
-## Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red — https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red (2026-10-08T17:46:05.000Z)
-
-## JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4 — https://theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115 (2026-10-08T18:46:59.000Z)
-
-## Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says — https://theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066 (2026-10-08T17:18:24.000Z)
-
-## The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market — https://theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081 (2026-10-08T17:16:23.000Z)
-
-## B3 vai lançar ações tokenizadas em 2027 e pedir licença cripto ao Banco Central
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] B3 vai lançar ações tokenizadas em 2027 e pedir licença cripto ao Banco Central — https://portaldobitcoin.uol.com.br/b3-vai-lancar-acoes-tokenizadas-em-2027-e-pedir-licenca-cripto-ao-banco-central (2026-10-08T17:14:18.000Z)
 
 ## New tech to power bitcoin lending is set to debut with $500 million in commitments
 
@@ -151,3 +97,63 @@ Gerada em 2026-10-14T05:24:24.200Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Decrypt] French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget — https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax (2026-10-10T13:01:03.000Z)
+
+## IMF finds demand for tokenized stocks, says the market is still volatile, illiquid
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid — https://coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid (2026-10-11T13:00:00.000Z)
+
+## Tokenized catastrophe bonds target the disaster-insurance gap
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Tokenized catastrophe bonds target the disaster-insurance gap — https://coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap (2026-10-12T15:00:00.000Z)
+
+## XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Decrypt] XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015 — https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding (2026-10-12T15:56:35.000Z)
+
+## DeFi Development grows SOL holdings 12% as CHAD hits record highs
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [The Block] DeFi Development grows SOL holdings 12% as CHAD hits record highs — https://theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307 (2026-10-12T14:53:25.000Z)
+
+## BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing — https://coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing (2026-10-13T21:52:00.000Z)
+
+## Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027 — https://coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027 (2026-10-14T03:50:54.000Z)
+
+## Organizations join forces to fight Illinois crypto tax, after 6-month pause
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Organizations join forces to fight Illinois crypto tax, after 6-month pause — https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause (2026-10-14T20:56:22.000Z)
+
+## AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [Decrypt] AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny — https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year (2026-10-14T20:16:05.000Z)
+
+## Patrick Witt exits White House crypto role as Clarity Act stalls
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Patrick Witt exits White House crypto role as Clarity Act stalls — https://theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611 (2026-10-14T20:30:15.000Z)
+
+## China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 38
+- [Cointelegraph] China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express — https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express (2026-10-08T22:35:00.000Z)
+
+## XRP Ledger adds new controls for banks, stablecoins and tokenized funds
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [CoinDesk] XRP Ledger adds new controls for banks, stablecoins and tokenized funds — https://coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds (2026-10-09T04:21:36.000Z)
+
+## Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [CoinDesk] Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush — https://coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush (2026-10-09T04:04:36.000Z)

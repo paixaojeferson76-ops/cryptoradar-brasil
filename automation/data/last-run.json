@@ -1,7 +1,31 @@
 {
-  "at": "2026-10-14T05:24:26.446Z",
+  "at": "2026-10-14T22:00:04.293Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "fundador-da-hex-richard-heart-e-detido-na-turquia-apos-alerta-da-interpol",
+      "title": "Fundador da Hex, Richard Heart é detido na Turquia após alerta da Interpol",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "The Block"
+      ]
+    },
+    {
+      "slug": "cvm-publica-resolucao-249-e-cria-programa-piloto-para-testar-ativos-tokenizados",
+      "title": "CVM publica Resolução 249 e cria programa piloto para testar ativos tokenizados",
+      "confidence": "media",
+      "sources": [
+        "Livecoins",
+        "Portal do Bitcoin"
+      ]
+    }
+  ],
   "skipped": [],
-  "errors": []
+  "errors": [
+    {
+      "headline": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+      "error": "Gemini indisponível. gemini-3.8-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later | gemini-3.7-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later | gemini-3.6-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later | gemini-3.5-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
+    }
+  ]
 }
