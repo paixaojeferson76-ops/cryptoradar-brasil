@@ -1,33 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-13T23:07:46.140Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 71
-- [Decrypt] Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months — https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months (2026-10-13T18:15:05.000Z)
-- [The Block] Strive buys 3,311 bitcoin for $280 million in largest acquisition since January — https://theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430 (2026-10-13T13:42:25.000Z)
-
-## Binance to shut down crypto mining pool services in November
-
-- Categoria sugerida: mineracao | Confiança: media | Pontos: 65
-- [Cointelegraph] Binance to shut down crypto mining pool services in November — https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november (2026-10-13T05:23:26.000Z)
-- [The Block] Binance to shut down mining pool, cloud mining and related services — https://theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410 (2026-10-13T11:40:56.000Z)
+Gerada em 2026-10-14T05:24:24.200Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## Crypto news site Cointelegraph seeks buyer after web traffic plunges
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto news site Cointelegraph seeks buyer after web traffic plunges — https://coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges (2026-10-08T00:35:24.000Z)
-
-## Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months — https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months (2026-10-08T00:04:32.000Z)
 
 ## Ripple is earning fees financing leveraged stock bets, a business long run by banks
 
@@ -153,3 +131,23 @@ Gerada em 2026-10-13T23:07:46.140Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018 — https://coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018 (2026-10-10T05:43:00.000Z)
+
+## One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [CoinDesk] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks — https://coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks (2026-10-10T12:00:00.000Z)
+
+## Tokenized commodities look beyond gold as lending and oil open new markets
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Tokenized commodities look beyond gold as lending and oil open new markets — https://coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets (2026-10-10T12:00:00.000Z)
+
+## Justin Sun says Tron’s post-quantum cryptography has gone live on testnet
+
+- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Justin Sun says Tron’s post-quantum cryptography has gone live on testnet — https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet (2026-10-10T11:52:14.000Z)
+
+## French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget — https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax (2026-10-10T13:01:03.000Z)

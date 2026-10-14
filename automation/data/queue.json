@@ -1,98 +1,6 @@
 {
-  "updatedAt": "2026-10-13T23:07:46.140Z",
+  "updatedAt": "2026-10-14T05:24:24.200Z",
   "stories": [
-    {
-      "id": "strive-buys-280-million-in-bitcoin-its-largest-purchase-in-months",
-      "headline": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T13:42:25.000Z",
-      "publishers": [
-        "Decrypt",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-          "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-          "date": "2026-10-13T18:15:05.000Z",
-          "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-          "url": "https://theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-          "date": "2026-10-13T13:42:25.000Z",
-          "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 71,
-      "status": "gerada",
-      "slug": "strive-compra-us-280-milhoes-em-bitcoin-e-eleva-tesouraria-para-32-773-btc"
-    },
-    {
-      "id": "binance-to-shut-down-crypto-mining-pool-services-in-november",
-      "headline": "Binance to shut down crypto mining pool services in November",
-      "category": "mineracao",
-      "tags": [
-        "mineração"
-      ],
-      "firstSeen": "2026-10-13T05:23:26.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance to shut down crypto mining pool services in November",
-          "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november",
-          "date": "2026-10-13T05:23:26.000Z",
-          "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance to shut down mining pool, cloud mining and related services",
-          "url": "https://theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
-          "date": "2026-10-13T11:40:56.000Z",
-          "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 65,
-      "status": "gerada",
-      "slug": "binance-anuncia-encerramento-de-pool-de-mineracao-e-servicos-relacionados-para"
-    },
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
       "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -124,70 +32,6 @@
         "reasons": []
       },
       "score": 50,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-      "headline": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-08T00:35:24.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-          "url": "https://coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-          "date": "2026-10-08T00:35:24.000Z",
-          "summary": "The amount of money the crypto media firm has been shopping itself for was not revealed."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet",
-      "headline": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
-      "category": "regulacao",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-08T00:04:32.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
-          "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-          "date": "2026-10-08T00:04:32.000Z",
-          "summary": "The Ethereum researcher said crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1309,46 +1153,13 @@
       "status": "pendente"
     },
     {
-      "id": "ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after",
-      "headline": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-08T04:23:23.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-          "url": "https://coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-          "date": "2026-10-08T04:23:23.000Z",
-          "summary": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-breaks-below-83-000-as-oil-jumps-on-iran-strike-plan-report",
-      "headline": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-      "category": "bitcoin",
+      "id": "bitcoin-climbs-toward-84-000-after-fed-s-williams-sees-no-rate-hikes",
+      "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "category": "mercado",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-08T04:00:07.000Z",
+      "firstSeen": "2026-10-14T03:50:54.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -1360,10 +1171,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-          "url": "https://coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
-          "date": "2026-10-08T04:00:07.000Z",
-          "summary": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002."
+          "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+          "url": "https://coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+          "date": "2026-10-14T03:50:54.000Z",
+          "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data."
         }
       ],
       "validation": {
@@ -1371,136 +1182,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-s-heavy-backing-of-republicans-alienated-democrats-cuomo",
-      "headline": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-08T05:06:51.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
-          "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo",
-          "date": "2026-10-08T05:06:51.000Z",
-          "summary": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-must-cement-adoption-to-withstand-us-policy-shifts-canton-ceo",
-      "headline": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-      "category": "altcoins",
-      "tags": [],
-      "firstSeen": "2026-10-08T04:28:27.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-          "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals",
-          "date": "2026-10-08T04:28:27.000Z",
-          "summary": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "don-t-rush-anything-vitalik-buterin-warns-against-hasty-wallet",
-      "headline": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-08T05:00:28.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
-          "url": "https://theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-          "date": "2026-10-08T05:00:28.000Z",
-          "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users",
-      "headline": "Samsung to launch USDC transfers on Solana for US Galaxy users",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins",
-        "Solana"
-      ],
-      "firstSeen": "2026-10-08T02:50:01.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
-          "url": "https://theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-          "date": "2026-10-08T02:50:01.000Z",
-          "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -3805,6 +3487,70 @@
       "status": "pendente"
     },
     {
+      "id": "bitwise-s-hougan-says-q3-charts-point-to-crypto-spring",
+      "headline": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-14T02:19:56.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+          "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring",
+          "date": "2026-10-14T02:19:56.000Z",
+          "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "coinbase-lays-out-flexible-designs-as-key-priority-for-bitcoin-s-post",
+      "headline": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-14T02:49:34.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+          "url": "https://theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+          "date": "2026-10-14T02:49:34.000Z",
+          "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue",
       "headline": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
       "category": "bitcoin",
@@ -5333,6 +5079,72 @@
           "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
           "date": "2026-10-13T16:14:50.000Z",
           "summary": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "largest-philippines-crypto-exchange-coins-ph-said-to-face-central",
+      "headline": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-14T01:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+          "url": "https://coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+          "date": "2026-10-14T01:00:00.000Z",
+          "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "strive-raising-500-million-to-buy-additional-bitcoin-with-new",
+      "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-13T23:23:05.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+          "url": "https://coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+          "date": "2026-10-13T23:23:05.000Z",
+          "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%)."
         }
       ],
       "validation": {
@@ -9802,13 +9614,13 @@
       "status": "pendente"
     },
     {
-      "id": "live-updates-bitcoin-trading-in-tight-range-near-83-000-ahead-of-key",
-      "headline": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "category": "mercado",
+      "id": "solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond",
+      "headline": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "category": "regulacao",
       "tags": [
-        "Bitcoin"
+        "Solana"
       ],
-      "firstSeen": "2026-10-13T10:46:57.000Z",
+      "firstSeen": "2026-10-14T04:11:16.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -9820,28 +9632,28 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-          "url": "https://coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-          "date": "2026-10-13T10:46:57.000Z",
-          "summary": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate."
+          "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+          "url": "https://coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+          "date": "2026-10-14T04:11:16.000Z",
+          "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "resumo/boletim, não é notícia"
+          "fora do tema cripto"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "trezor-reduces-resellers-as-a-preventative-step-amid-ledger-tampering",
-      "headline": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "id": "ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
+      "headline": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
       "category": "blockchain",
       "tags": [],
-      "firstSeen": "2026-10-13T19:07:04.000Z",
+      "firstSeen": "2026-10-13T23:28:19.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -9853,10 +9665,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-          "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports",
-          "date": "2026-10-13T19:07:04.000Z",
-          "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1."
+          "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+          "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
+          "date": "2026-10-13T23:28:19.000Z",
+          "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred."
         }
       ],
       "validation": {
@@ -9864,549 +9676,6 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "anthropic-warns-ai-worms-may-autonomously-spread-across-devices-like",
-      "headline": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T13:55:09.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
-          "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus",
-          "date": "2026-10-13T13:55:09.000Z",
-          "summary": "Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "is-bitcoin-kidding-itself-about-the-lightning-network",
-      "headline": "Is Bitcoin kidding itself about the Lightning Network?",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "Lightning"
-      ],
-      "firstSeen": "2026-10-13T13:30:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Is Bitcoin kidding itself about the Lightning Network?",
-          "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
-          "date": "2026-10-13T13:30:00.000Z",
-          "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "digital-cash-offers-cash-like-privacy-but-bank-data-breaches-threaten",
-      "headline": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T13:17:17.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
-          "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches",
-          "date": "2026-10-13T13:17:17.000Z",
-          "summary": "BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering",
-      "headline": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T05:38:37.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-          "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering",
-          "date": "2026-10-13T05:38:37.000Z",
-          "summary": "Blur’s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "meta-claims-new-muse-wonder-ai-models-rival-openai-anthropic",
-      "headline": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T01:54:31.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-          "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals",
-          "date": "2026-10-13T01:54:31.000Z",
-          "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich",
-      "headline": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-13T00:52:52.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-          "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks",
-          "date": "2026-10-13T00:52:52.000Z",
-          "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-engineer-arrested-for-bugging-office-company-says-ai-caught-him",
-      "headline": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T21:46:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-          "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
-          "date": "2026-10-13T21:46:04.000Z",
-          "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "character-ai-files-for-bankruptcy-as-disney-bids-20-million-and-users",
-      "headline": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-13T21:16:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-          "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
-          "date": "2026-10-13T21:16:04.000Z",
-          "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ai-researchers-are-smoking-cigarettes-to-prove-ai-will-cure-cancer",
-      "headline": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T17:37:46.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-          "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
-          "date": "2026-10-13T17:37:46.000Z",
-          "summary": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitcoin-shakes-off-spooky-season-jitters-can-bulls-keep-it-going",
-      "headline": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T16:46:05.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-          "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
-          "date": "2026-10-13T16:46:05.000Z",
-          "summary": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
-      "headline": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-13T14:51:28.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
-          "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
-          "date": "2026-10-13T14:51:28.000Z",
-          "summary": "AnyPS5 is working to get any PS5 game running natively on PC—and gamers are hoping it'll work for the next instalment of Grand Theft Auto."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m",
-      "headline": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-      "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-10-13T11:53:15.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-          "date": "2026-10-13T11:53:15.000Z",
-          "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
-      "headline": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T11:40:51.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
-          "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
-          "date": "2026-10-13T11:40:51.000Z",
-          "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next",
-      "headline": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-13T09:12:45.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-          "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
-          "date": "2026-10-13T09:12:45.000Z",
-          "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ripple-stripe-owned-privy-partner-to-bring-embedded-wallets-to-xrp",
-      "headline": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-      "category": "altcoins",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-13T16:00:00.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-          "url": "https://theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
-          "date": "2026-10-13T16:00:00.000Z",
-          "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "the-amount-of-bitcoin-on-exchanges-is-shrinking-is-a-rally-imminent",
-      "headline": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T17:05:39.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
-          "url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
-          "date": "2026-10-13T17:05:39.000Z",
-          "summary": "Bitcoin Magazine The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? A CryptoQuant researcher has said that bitcoin’s supply dynamics could soon help its price. This post The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
         ]
       },
       "score": 0,
