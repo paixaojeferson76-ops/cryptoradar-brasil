@@ -1,21 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-15T12:07:48.630Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-15T17:21:24.769Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach — https://coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach (2026-10-09T12:23:54.000Z)
-
-## HSBC, Ant Digital test AI-agent payments using tokenized deposits
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Cointelegraph] HSBC, Ant Digital test AI-agent payments using tokenized deposits — https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits (2026-10-09T17:21:07.000Z)
 
 ## Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside
 
@@ -151,3 +141,13 @@ Gerada em 2026-10-15T12:07:48.630Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [The Block] EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token — https://theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637 (2026-10-15T11:10:07.000Z)
+
+## Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil — https://portaldobitcoin.uol.com.br/cade-aprova-criacao-de-stablecoin-de-visa-mastercard-coinbase-e-stripe-no-brasil (2026-10-15T12:01:00.000Z)
+
+## Sweden revisits digital krona as ECB advances digital euro plans
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Sweden revisits digital krona as ECB advances digital euro plans — https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation (2026-10-15T16:49:59.000Z)
