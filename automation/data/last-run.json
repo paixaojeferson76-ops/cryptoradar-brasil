@@ -1,31 +1,28 @@
 {
-  "at": "2026-10-14T22:00:04.293Z",
+  "at": "2026-10-15T05:12:46.644Z",
   "auto": [],
   "review": [
     {
-      "slug": "fundador-da-hex-richard-heart-e-detido-na-turquia-apos-alerta-da-interpol",
-      "title": "Fundador da Hex, Richard Heart é detido na Turquia após alerta da Interpol",
-      "confidence": "media",
+      "slug": "standard-chartered-libera-compra-direta-de-bitcoin-e-ether-para-clientes-de",
+      "title": "Standard Chartered libera compra direta de Bitcoin e Ether para clientes de alta renda nos Emirados Árabes",
+      "confidence": "alta",
       "sources": [
+        "CoinDesk",
+        "Cointelegraph",
         "Decrypt",
-        "The Block"
+        "Bitcoin Magazine"
       ]
     },
     {
-      "slug": "cvm-publica-resolucao-249-e-cria-programa-piloto-para-testar-ativos-tokenizados",
-      "title": "CVM publica Resolução 249 e cria programa piloto para testar ativos tokenizados",
+      "slug": "controladora-da-kraken-fecha-acordo-para-comprar-o-saldo-bank-na-europa",
+      "title": "Controladora da Kraken fecha acordo para comprar o Saldo Bank na Europa",
       "confidence": "media",
       "sources": [
-        "Livecoins",
-        "Portal do Bitcoin"
+        "Decrypt",
+        "Bitcoin Magazine"
       ]
     }
   ],
   "skipped": [],
-  "errors": [
-    {
-      "headline": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "error": "Gemini indisponível. gemini-3.8-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later | gemini-3.7-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later | gemini-3.6-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later | gemini-3.5-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
-    }
-  ]
+  "errors": []
 }

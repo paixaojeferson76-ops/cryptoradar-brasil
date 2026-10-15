@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-14T21:57:01.179Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-15T05:12:19.305Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients
 
@@ -9,18 +9,6 @@ Gerada em 2026-10-14T21:57:01.179Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE — https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae (2026-10-14T10:07:03.000Z)
 - [Decrypt] Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients — https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading (2026-10-14T17:46:05.000Z)
 - [Bitcoin Magazine] Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients — https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2 (2026-10-14T16:22:15.000Z)
-
-## Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 72
-- [Decrypt] Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report — https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report (2026-10-14T14:03:20.000Z)
-- [The Block] Hex and PulseChain founder Richard Heart detained in Istanbul: reports — https://theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574 (2026-10-14T15:53:15.000Z)
-
-## CVM publica resolução e cria programa piloto para testar tokenização de ativos no Brasil
-
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 61
-- [Livecoins] CVM publica resolução e cria programa piloto para testar tokenização de ativos no Brasil — https://livecoins.com.br/cvm-publica-resolucao-e-cria-programa-piloto-para-testar-tokenizacao-de-ativos-no-brasil (2026-10-14T18:12:34.000Z)
-- [Portal do Bitcoin] CVM lança programa piloto para testar negociação e liquidação de ativos tokenizados no Brasil — https://portaldobitcoin.uol.com.br/cvm-lanca-programa-piloto-para-testar-negociacao-e-liquidacao-de-ativos-tokenizados-no-brasil (2026-10-14T16:31:37.000Z)
 
 ## Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
 
@@ -143,17 +131,27 @@ Gerada em 2026-10-14T21:57:01.179Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] Patrick Witt exits White House crypto role as Clarity Act stalls — https://theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611 (2026-10-14T20:30:15.000Z)
 
-## China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express
+## Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide
 
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 38
-- [Cointelegraph] China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express — https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express (2026-10-08T22:35:00.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide — https://coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide (2026-10-15T04:25:15.000Z)
 
-## XRP Ledger adds new controls for banks, stablecoins and tokenized funds
+## Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%
 
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [CoinDesk] XRP Ledger adds new controls for banks, stablecoins and tokenized funds — https://coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds (2026-10-09T04:21:36.000Z)
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65% — https://coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65 (2026-10-15T04:13:56.000Z)
 
-## Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush
+## Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%
 
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [CoinDesk] Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush — https://coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush (2026-10-09T04:04:36.000Z)
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% — https://coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs (2026-10-15T03:57:45.000Z)
+
+## Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July
+
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July — https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july (2026-10-15T03:29:22.000Z)
+
+## Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities — https://theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623 (2026-10-15T04:38:48.000Z)
