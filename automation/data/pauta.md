@@ -1,55 +1,16 @@
 # Pauta de notícias
 
-Gerada em 2026-10-15T05:12:19.305Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients
-
-- Categoria sugerida: mercado | Confiança: alta | Pontos: 123
-- [CoinDesk] Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients — https://coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients (2026-10-14T08:10:07.000Z)
-- [Cointelegraph] Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE — https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae (2026-10-14T10:07:03.000Z)
-- [Decrypt] Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients — https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading (2026-10-14T17:46:05.000Z)
-- [Bitcoin Magazine] Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients — https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2 (2026-10-14T16:22:15.000Z)
-
-## Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
-
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 57
-- [Decrypt] Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push — https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push (2026-10-14T10:21:34.000Z)
-- [Bitcoin Magazine] Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push — https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank (2026-10-14T16:30:01.000Z)
+Gerada em 2026-10-15T12:07:48.630Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
 
-## New tech to power bitcoin lending is set to debut with $500 million in commitments
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [CoinDesk] New tech to power bitcoin lending is set to debut with $500 million in commitments — https://coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments (2026-10-09T06:40:54.000Z)
-
-## Crypto projects apply for Anthropic’s new frontier AI security scanner
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Crypto projects apply for Anthropic’s new frontier AI security scanner — https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner (2026-10-09T05:34:33.000Z)
-
-## Trump administration outlines quantum, AI initiatives in $6B science push
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Trump administration outlines quantum, AI initiatives in $6B science push — https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push (2026-10-09T05:25:27.000Z)
-
 ## DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach — https://coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach (2026-10-09T12:23:54.000Z)
-
-## UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package — https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package (2026-10-09T12:04:07.000Z)
-
-## Banco Central cria nova classificação para operações com criptomoedas no exterior
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] Banco Central cria nova classificação para operações com criptomoedas no exterior — https://portaldobitcoin.uol.com.br/banco-central-cria-nova-classificacao-para-operacoes-com-criptomoedas-no-exterior (2026-10-09T11:57:59.000Z)
 
 ## HSBC, Ant Digital test AI-agent payments using tokenized deposits
 
@@ -155,3 +116,38 @@ Gerada em 2026-10-15T05:12:19.305Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities — https://theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623 (2026-10-15T04:38:48.000Z)
+
+## Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone — https://coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone (2026-10-15T12:00:00.000Z)
+
+## Bitcoin, copper, stocks, yields all fall; gold rises
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin, copper, stocks, yields all fall; gold rises — https://coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises (2026-10-15T11:15:00.000Z)
+
+## Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower — https://coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower (2026-10-15T10:52:11.000Z)
+
+## White House crypto council chief Patrick Witt steps down
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] White House crypto council chief Patrick Witt steps down — https://cointelegraph.com/news/white-house-crypto-council-director-steps-down (2026-10-15T10:41:09.000Z)
+
+## Starknet opens vote on potential Ethereum L2 exit over quantum risks
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Starknet opens vote on potential Ethereum L2 exit over quantum risks — https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1 (2026-10-15T10:22:00.000Z)
+
+## Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data — https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data (2026-10-15T11:48:42.000Z)
+
+## EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [The Block] EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token — https://theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637 (2026-10-15T11:10:07.000Z)

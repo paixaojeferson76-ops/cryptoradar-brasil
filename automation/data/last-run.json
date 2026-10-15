@@ -1,28 +1,7 @@
 {
-  "at": "2026-10-15T05:12:46.644Z",
+  "at": "2026-10-15T12:07:50.511Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "standard-chartered-libera-compra-direta-de-bitcoin-e-ether-para-clientes-de",
-      "title": "Standard Chartered libera compra direta de Bitcoin e Ether para clientes de alta renda nos Emirados Árabes",
-      "confidence": "alta",
-      "sources": [
-        "CoinDesk",
-        "Cointelegraph",
-        "Decrypt",
-        "Bitcoin Magazine"
-      ]
-    },
-    {
-      "slug": "controladora-da-kraken-fecha-acordo-para-comprar-o-saldo-bank-na-europa",
-      "title": "Controladora da Kraken fecha acordo para comprar o Saldo Bank na Europa",
-      "confidence": "media",
-      "sources": [
-        "Decrypt",
-        "Bitcoin Magazine"
-      ]
-    }
-  ],
+  "review": [],
   "skipped": [],
   "errors": []
 }

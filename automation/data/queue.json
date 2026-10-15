@@ -1,123 +1,6 @@
 {
-  "updatedAt": "2026-10-15T05:12:19.305Z",
+  "updatedAt": "2026-10-15T12:07:48.630Z",
   "stories": [
-    {
-      "id": "standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for",
-      "headline": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-14T08:10:07.000Z",
-      "publishers": [
-        "CoinDesk",
-        "Cointelegraph",
-        "Decrypt",
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-          "url": "https://coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-          "date": "2026-10-14T08:10:07.000Z",
-          "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets."
-        },
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-          "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae",
-          "date": "2026-10-14T10:07:03.000Z",
-          "summary": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants."
-        },
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-          "date": "2026-10-14T17:46:05.000Z",
-          "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house."
-        },
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
-          "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
-          "date": "2026-10-14T16:22:15.000Z",
-          "summary": "Bitcoin Magazine Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients The service allows affluent clients to buy bitcoin via their bank accounts. This post Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 123,
-      "status": "gerada",
-      "slug": "standard-chartered-libera-compra-direta-de-bitcoin-e-ether-para-clientes-de"
-    },
-    {
-      "id": "kraken-owner-payward-to-buy-lithuania-s-saldo-bank-in-eu-push",
-      "headline": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-14T10:21:34.000Z",
-      "publishers": [
-        "Decrypt",
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
-          "url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
-          "date": "2026-10-14T10:21:34.000Z",
-          "summary": "Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit in one place, starting with lending and cards."
-        },
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push",
-          "url": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
-          "date": "2026-10-14T16:30:01.000Z",
-          "summary": "Bitcoin Magazine Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push Top crypto exchange Kraken is pushing to offer other services other than digital assets. This post Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 57,
-      "status": "gerada",
-      "slug": "controladora-da-kraken-fecha-acordo-para-comprar-o-saldo-bank-na-europa"
-    },
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
       "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -152,101 +35,6 @@
       "status": "pendente"
     },
     {
-      "id": "new-tech-to-power-bitcoin-lending-is-set-to-debut-with-500-million-in",
-      "headline": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "category": "defi",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-09T06:40:54.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-          "url": "https://coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-          "date": "2026-10-09T06:40:54.000Z",
-          "summary": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-projects-apply-for-anthropic-s-new-frontier-ai-security-scanner",
-      "headline": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-09T05:34:33.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-          "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner",
-          "date": "2026-10-09T05:34:33.000Z",
-          "summary": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "trump-administration-outlines-quantum-ai-initiatives-in-6b-science",
-      "headline": "Trump administration outlines quantum, AI initiatives in $6B science push",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-09T05:25:27.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-          "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push",
-          "date": "2026-10-09T05:25:27.000Z",
-          "summary": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
       "id": "dwf-labs-subsidiaries-sue-bitgo-for-141-million-over-alleged-token",
       "headline": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
       "category": "mercado",
@@ -267,71 +55,6 @@
           "url": "https://coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
           "date": "2026-10-09T12:23:54.000Z",
           "summary": "DWF is seeking $114 million in damages on the basis BitGo’s token sales resulted in direct losses through the fall in tokens' prices."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-      "headline": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-09T12:04:07.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "date": "2026-10-09T12:04:07.000Z",
-          "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia’s A7 network, the UK government said."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "banco-central-cria-nova-classificacao-para-operacoes-com-criptomoedas",
-      "headline": "Banco Central cria nova classificação para operações com criptomoedas no exterior",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Banco Central"
-      ],
-      "firstSeen": "2026-10-09T11:57:59.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Banco Central cria nova classificação para operações com criptomoedas no exterior",
-          "url": "https://portaldobitcoin.uol.com.br/banco-central-cria-nova-classificacao-para-operacoes-com-criptomoedas-no-exterior",
-          "date": "2026-10-09T11:57:59.000Z",
-          "summary": "Nova resolução cria código específico para identificar ajustes financeiros em negociações de criptoativos com instituições estrangeiras O post Banco Central cria nova classificação para operações com criptomoedas no exterior apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -1033,13 +756,11 @@
       "status": "pendente"
     },
     {
-      "id": "trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face",
-      "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-09T11:09:04.000Z",
+      "id": "under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet",
+      "headline": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-10-15T12:00:00.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -1051,10 +772,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-          "url": "https://coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-          "date": "2026-10-09T11:09:04.000Z",
-          "summary": "Your day-ahead look for Oct. 9, 2026"
+          "title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+          "url": "https://coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+          "date": "2026-10-15T12:00:00.000Z",
+          "summary": "Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets."
         }
       ],
       "validation": {
@@ -1062,33 +783,129 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "bitcoin-steadies-near-82-500-after-trump-rules-out-iran-strike-before",
-      "headline": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+      "id": "bitcoin-copper-stocks-yields-all-fall-gold-rises",
+      "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-15T11:15:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+          "url": "https://coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+          "date": "2026-10-15T11:15:00.000Z",
+          "summary": "Your day-ahead look for Oct. 15, 2026"
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-holds-above-80-000-as-asian-stock-rout-drags-altcoins-lower",
+      "headline": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
       "category": "bitcoin",
       "tags": [
-        "Bitcoin",
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-15T10:52:11.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+          "url": "https://coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+          "date": "2026-10-15T10:52:11.000Z",
+          "summary": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "white-house-crypto-council-chief-patrick-witt-steps-down",
+      "headline": "White House crypto council chief Patrick Witt steps down",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-15T10:41:09.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "White House crypto council chief Patrick Witt steps down",
+          "url": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down",
+          "date": "2026-10-15T10:41:09.000Z",
+          "summary": "Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "starknet-opens-vote-on-potential-ethereum-l2-exit-over-quantum-risks",
+      "headline": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+      "category": "ethereum",
+      "tags": [
         "Ethereum"
       ],
-      "firstSeen": "2026-10-09T10:44:22.000Z",
+      "firstSeen": "2026-10-15T10:22:00.000Z",
       "publishers": [
-        "CoinDesk"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-          "url": "https://coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-          "date": "2026-10-09T10:44:22.000Z",
-          "summary": "Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%."
+          "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
+          "date": "2026-10-15T10:22:00.000Z",
+          "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline."
         }
       ],
       "validation": {
@@ -1096,250 +913,17 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "headline": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-09T10:16:55.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-          "url": "https://coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "date": "2026-10-09T10:16:55.000Z",
-          "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "headline": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-09T10:14:59.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-          "url": "https://coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-          "date": "2026-10-09T10:14:59.000Z",
-          "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "dark-web-drug-market-operator-sentenced-to-40-years-forfeits-101",
-      "headline": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+      "id": "bitcoin-tests-81-000-as-rate-hike-fears-linger-after-hot-inflation",
+      "headline": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-09T09:20:16.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-          "url": "https://coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-          "date": "2026-10-09T09:20:16.000Z",
-          "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "mara-transfers-81-1-million-in-bitcoin-to-galaxy-digital-as-strategy",
-      "headline": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-10-09T09:08:09.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-          "url": "https://coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-          "date": "2026-10-09T09:08:09.000Z",
-          "summary": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "esma-seeks-evidence-tokenized-collateral-can-be-cashed-out-in-crisis",
-      "headline": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "category": "blockchain",
-      "tags": [
-        "Ethereum",
-        "regulação",
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-09T10:49:24.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-          "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
-          "date": "2026-10-09T10:49:24.000Z",
-          "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "uk-sanctions-three-crypto-exchanges-tied-to-russian-illicit-funds",
-      "headline": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-09T10:34:37.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-          "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
-          "date": "2026-10-09T10:34:37.000Z",
-          "summary": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "french-lawmakers-back-stablecoin-swap-tax-in-2027-budget-bill",
-      "headline": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "category": "regulacao",
-      "tags": [
-        "stablecoins",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-09T10:16:48.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
-          "date": "2026-10-09T10:16:48.000Z",
-          "summary": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web",
-      "headline": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-09T10:11:51.000Z",
+      "firstSeen": "2026-10-15T11:48:42.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -1351,10 +935,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-          "date": "2026-10-09T10:11:51.000Z",
-          "summary": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month."
+          "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+          "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
+          "date": "2026-10-15T11:48:42.000Z",
+          "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears."
         }
       ],
       "validation": {
@@ -1362,54 +946,17 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai",
-      "headline": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "category": "seguranca",
+      "id": "eba-designates-circle-s-usdc-as-the-eu-s-first-significant-e-money",
+      "headline": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+      "category": "altcoins",
       "tags": [
-        "segurança"
+        "stablecoins"
       ],
-      "firstSeen": "2026-10-09T08:59:31.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-          "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-          "date": "2026-10-09T08:59:31.000Z",
-          "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect",
-      "headline": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs",
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-10-09T10:40:59.000Z",
+      "firstSeen": "2026-10-15T11:10:07.000Z",
       "publishers": [
         "The Block"
       ],
@@ -1421,10 +968,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-          "url": "https://theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-          "date": "2026-10-09T10:40:59.000Z",
-          "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16."
+          "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+          "url": "https://theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+          "date": "2026-10-15T11:10:07.000Z",
+          "summary": "The EBA classified Circle’s USDC as the EU’s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12."
         }
       ],
       "validation": {
@@ -1432,7 +979,42 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "cade-aprova-criacao-de-stablecoin-de-visa-mastercard-coinbase-e",
+      "headline": "Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-15T12:01:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil",
+          "url": "https://portaldobitcoin.uol.com.br/cade-aprova-criacao-de-stablecoin-de-visa-mastercard-coinbase-e-stripe-no-brasil",
+          "date": "2026-10-15T12:01:00.000Z",
+          "summary": "Consórcio formado por Visa, Mastercard, Coinbase, Stripe e Shopify recebe aval concorrencial para desenvolver stablecoin vinculada ao dólar O post Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -2626,15 +2208,110 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-ether-etfs-october-outflows-swell-toward-1b",
-      "headline": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+      "id": "hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his",
+      "headline": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
       "category": "mercado",
       "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs"
+        "regulação"
       ],
-      "firstSeen": "2026-10-09T07:34:44.000Z",
+      "firstSeen": "2026-10-15T10:00:56.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+          "url": "https://coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+          "date": "2026-10-15T10:00:56.000Z",
+          "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto",
+      "headline": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-15T09:53:37.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+          "url": "https://coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+          "date": "2026-10-15T09:53:37.000Z",
+          "summary": "The country’s regulator, ASIC, has proposed tougher rules to protect users’ digital assets, crypto trading and to safeguard the country’s financial stability."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+      "headline": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-15T09:20:57.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+          "url": "https://coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+          "date": "2026-10-15T09:20:57.000Z",
+          "summary": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitget-liquid-exploits-push-q3-crypto-hacks-toward-1-2b",
+      "headline": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-15T10:00:00.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -2646,10 +2323,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-          "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion",
-          "date": "2026-10-09T07:34:44.000Z",
-          "summary": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million."
+          "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+          "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
+          "date": "2026-10-15T10:00:00.000Z",
+          "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken."
         }
       ],
       "validation": {
@@ -2657,7 +2334,141 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-dips-to-80-1k-as-kospi-closes-at-its-lowest-since-april",
+      "headline": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-15T09:48:07.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+          "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april",
+          "date": "2026-10-15T09:48:07.000Z",
+          "summary": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "thailand-crypto-etfs-may-see-slow-start-despite-new-rules-coinshares",
+      "headline": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-15T09:36:20.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+          "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
+          "date": "2026-10-15T09:36:20.000Z",
+          "summary": "Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "babylon-advances-native-bitcoin-lending-proposal-on-aave-v4",
+      "headline": "Babylon advances native Bitcoin lending proposal on Aave V4",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-15T09:14:28.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+          "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
+          "date": "2026-10-15T09:14:28.000Z",
+          "summary": "Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam",
+      "headline": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-15T10:01:21.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+          "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+          "date": "2026-10-15T10:01:21.000Z",
+          "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -4025,6 +3836,74 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-etfs-shed-261m-as-xrp-funds-buck-weekly-outflow-trend",
+      "headline": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-15T07:23:43.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k",
+          "date": "2026-10-15T07:23:43.000Z",
+          "summary": "Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "south-korea-plans-cybersecurity-overhaul-after-attacks-hit-banks",
+      "headline": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "category": "regulacao",
+      "tags": [
+        "DeFi"
+      ],
+      "firstSeen": "2026-10-15T05:52:21.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+          "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges",
+          "date": "2026-10-15T05:52:21.000Z",
+          "summary": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "banco-central-do-brasil-define-regras-para-cobranca-hibrida-no-pix-e",
       "headline": "Banco Central do Brasil define regras para cobrança híbrida no Pix e combate pagamento em duplicidade",
       "category": "regulacao",
@@ -5096,6 +4975,39 @@
           "url": "https://theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
           "date": "2026-10-14T13:00:00.000Z",
           "summary": "Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027",
+      "headline": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-10-15T05:00:40.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+          "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout",
+          "date": "2026-10-15T05:00:40.000Z",
+          "summary": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, custody and trading standards for crypto platforms."
         }
       ],
       "validation": {
@@ -6565,40 +6477,6 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-hoje-btc-tenta-recuperacao-apos-cair-a-us-80-mil-com-alivio",
-      "headline": "Bitcoin hoje: BTC tenta recuperação após cair a US$ 80 mil com alívio nas tensões entre EUA e Irã",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-09T10:46:25.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitcoin hoje: BTC tenta recuperação após cair a US$ 80 mil com alívio nas tensões entre EUA e Irã",
-          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-tenta-recuperacao-apos-cair-a-us-80-mil-com-alivio-nas-tensoes-entre-eua-e-ira",
-          "date": "2026-10-09T10:46:25.000Z",
-          "summary": "Bitcoin volta a superar os US$ 82 mil após Trump afastar novos ataques ao Irã, mas saídas de ETFs e liquidações ainda pressionam o mercado O post Bitcoin hoje: BTC tenta recuperação após cair a US$ 80 mil com alívio nas tensões entre EUA e Irã apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-etfs-shed-729m-in-two-days-as-investors-reverse-course",
       "headline": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
       "category": "mercado",
@@ -7368,13 +7246,48 @@
       "status": "pendente"
     },
     {
-      "id": "policia-faz-maior-apreensao-da-historia-em-carteiras-de-criptomoedas",
-      "headline": "Polícia faz maior apreensão da história em carteiras de criptomoedas e confisca R$ 8,8 milhões",
+      "id": "ripple-e-meritz-securities-firmam-parceria-para-levar-custodia",
+      "headline": "Ripple e Meritz Securities firmam parceria para levar custódia institucional e tokenização aos mercados de capitais da Coreia",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "tokenização",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-15T10:14:00.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Ripple e Meritz Securities firmam parceria para levar custódia institucional e tokenização aos mercados de capitais da Coreia",
+          "url": "https://livecoins.com.br/ripple-e-meritz-securities-firmam-parceria-para-levar-custodia-institucional-e-tokenizacao-aos-mercados-de-capitais-da-coreia",
+          "date": "2026-10-15T10:14:00.000Z",
+          "summary": "A primeira parceria da Ripple com uma corretora de valores mobiliários sul-coreana amplia sua presença institucional nos setores bancário, de seguros e de mercados de capitais da Coreia Fonte: Ripple e Meritz Securities firmam parceria para levar custódia institucional e tokenização aos mercados de capitais da Coreia Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-hoje-btc-cai-abaixo-de-us-81-mil-com-inflacao-dos-eua-e-tombo",
+      "headline": "Bitcoin hoje: BTC cai abaixo de US$ 81 mil com inflação dos EUA e tombo das ações de tecnologia",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-09T10:01:00.000Z",
+      "firstSeen": "2026-10-15T10:46:53.000Z",
       "publishers": [
         "Portal do Bitcoin"
       ],
@@ -7386,10 +7299,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Polícia faz maior apreensão da história em carteiras de criptomoedas e confisca R$ 8,8 milhões",
-          "url": "https://portaldobitcoin.uol.com.br/policia-faz-maior-apreensao-da-historia-em-carteiras-de-criptomoedas-e-confisca-r-88-milhoes",
-          "date": "2026-10-09T10:01:00.000Z",
-          "summary": "Operação em Santa Catarina resultou na apreensão recorde de Bitcoin e outras criptomoedas mantidas em carteiras de autocustódia O post Polícia faz maior apreensão da história em carteiras de criptomoedas e confisca R$ 8,8 milhões apareceu primeiro em Portal do Bitcoin ."
+          "title": "Bitcoin hoje: BTC cai abaixo de US$ 81 mil com inflação dos EUA e tombo das ações de tecnologia",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-cai-abaixo-de-us-81-mil-com-inflacao-dos-eua-e-tombo-das-acoes-de-tecnologia",
+          "date": "2026-10-15T10:46:53.000Z",
+          "summary": "Bitcoin cai mais de 2% após inflação nos EUA, enquanto incerteza sobre juros e forte queda das ações de tecnologia pressionam o mercado cripto O post Bitcoin hoje: BTC cai abaixo de US$ 81 mil com inflação dos EUA e tombo das ações de tecnologia apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -7397,7 +7310,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -9102,29 +9015,61 @@
       "status": "pendente"
     },
     {
-      "id": "vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
-      "headline": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "id": "live-updates-bitcoin-trades-near-81-000-as-south-korea-s-chip-heavy",
+      "headline": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
       "category": "mercado",
       "tags": [
-        "Ethereum",
-        "ETFs"
+        "Bitcoin"
       ],
-      "firstSeen": "2026-10-15T01:21:52.000Z",
+      "firstSeen": "2026-10-15T10:16:15.000Z",
       "publishers": [
-        "Cointelegraph"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-          "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
-          "date": "2026-10-15T01:21:52.000Z",
-          "summary": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year."
+          "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+          "url": "https://coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+          "date": "2026-10-15T10:16:15.000Z",
+          "summary": "Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "blackrock-s-fink-names-a-u-s-recession-trigger-sounds-alarm-over-40",
+      "headline": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-15T06:17:58.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+          "url": "https://coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+          "date": "2026-10-15T06:17:58.000Z",
+          "summary": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession."
         }
       ],
       "validation": {
@@ -9138,26 +9083,64 @@
       "status": "descartada"
     },
     {
-      "id": "polygon-gains-us-payments-licenses-after-closing-coinme-deal",
-      "headline": "Polygon gains US payments licenses after closing Coinme deal",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-15T00:55:21.000Z",
+      "id": "morning-minute-solana-is-about-to-get-faster",
+      "headline": "Morning Minute: Solana Is About To Get Faster",
+      "category": "altcoins",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-15T12:07:08.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Polygon gains US payments licenses after closing Coinme deal",
-          "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal",
-          "date": "2026-10-15T00:55:21.000Z",
-          "summary": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions."
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "url": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
+          "date": "2026-10-15T12:07:08.000Z",
+          "summary": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds—some 85 times faster."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto",
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "ledger-unveils-atom-android-device-with-solana-mobile-integration-and",
+      "headline": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+      "category": "altcoins",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-15T12:00:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+          "url": "https://theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+          "date": "2026-10-15T12:00:00.000Z",
+          "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections."
         }
       ],
       "validation": {
