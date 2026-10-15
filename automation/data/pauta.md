@@ -1,16 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-15T17:21:24.769Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-15T21:46:47.357Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside — https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside (2026-10-09T17:36:26.000Z)
 
 ## Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-15T17:21:24.769Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Sweden revisits digital krona as ECB advances digital euro plans — https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation (2026-10-15T16:49:59.000Z)
+
+## Mastercard brings stablecoin balances into traditional banking and card payments
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Mastercard brings stablecoin balances into traditional banking and card payments — https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins (2026-10-15T15:46:05.000Z)
