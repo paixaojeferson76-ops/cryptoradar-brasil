@@ -1,32 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-16T11:55:04.084Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task
-
-- Categoria sugerida: ethereum | Confiança: media | Pontos: 77
-- [Decrypt] OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task — https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task (2026-10-16T10:39:08.000Z)
-- [The Block] OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task — https://theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798 (2026-10-16T11:34:54.000Z)
+Gerada em 2026-10-16T16:57:50.534Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [CoinDesk] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks — https://coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks (2026-10-10T12:00:00.000Z)
-
-## Tokenized commodities look beyond gold as lending and oil open new markets
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Tokenized commodities look beyond gold as lending and oil open new markets — https://coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets (2026-10-10T12:00:00.000Z)
-
-## French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget — https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax (2026-10-10T13:01:03.000Z)
 
 ## IMF finds demand for tokenized stocks, says the market is still volatile, illiquid
 
@@ -152,3 +131,23 @@ Gerada em 2026-10-16T11:55:04.084Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [Decrypt] Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins — https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins (2026-10-15T16:28:50.000Z)
+
+## CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat — https://theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686 (2026-10-15T16:06:00.000Z)
+
+## Multiliquid, a settlement platform for tokenized assets, raises $8 million
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [The Block] Multiliquid, a settlement platform for tokenized assets, raises $8 million — https://theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693 (2026-10-15T16:00:02.000Z)
+
+## DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [The Block] DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings — https://theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694 (2026-10-15T15:48:32.000Z)
+
+## Binance.US seeks $1B valuation in potential $100M funding round: Report
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance.US seeks $1B valuation in potential $100M funding round: Report — https://cointelegraph.com/news/binance-us-funding-valuation-billion (2026-10-15T20:21:11.000Z)
