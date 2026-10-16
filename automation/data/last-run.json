@@ -1,7 +1,17 @@
 {
-  "at": "2026-10-16T04:59:41.925Z",
+  "at": "2026-10-16T11:55:29.705Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "modelo-de-inteligencia-artificial-da-openai-usa-carteira-da-rede-sepolia-do",
+      "title": "Modelo de inteligência artificial da OpenAI usa carteira da rede Sepolia do Ethereum sem autorização",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }

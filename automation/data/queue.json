@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-16T04:59:39.137Z",
+  "updatedAt": "2026-10-16T11:55:04.084Z",
   "stories": [
+    {
+      "id": "openai-model-used-testnet-ethereum-wallet-without-permission-to",
+      "headline": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-16T10:39:08.000Z",
+      "publishers": [
+        "Decrypt",
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+          "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+          "date": "2026-10-16T10:39:08.000Z",
+          "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report."
+        },
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
+          "url": "https://theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
+          "date": "2026-10-16T11:34:54.000Z",
+          "summary": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "media",
+        "reasons": []
+      },
+      "score": 77,
+      "status": "gerada",
+      "slug": "modelo-de-inteligencia-artificial-da-openai-usa-carteira-da-rede-sepolia-do"
+    },
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
       "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -32,39 +78,6 @@
         "reasons": []
       },
       "score": 50,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more",
-      "headline": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-10T05:43:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-          "url": "https://coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-          "date": "2026-10-10T05:43:00.000Z",
-          "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -124,37 +137,6 @@
           "url": "https://coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
           "date": "2026-10-10T12:00:00.000Z",
           "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "justin-sun-says-tron-s-post-quantum-cryptography-has-gone-live-on",
-      "headline": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-10-10T11:52:14.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-          "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
-          "date": "2026-10-10T11:52:14.000Z",
-          "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X."
         }
       ],
       "validation": {
@@ -1241,6 +1223,207 @@
           "url": "https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
           "date": "2026-10-16T04:14:22.000Z",
           "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "headline": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "category": "mercado",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-16T10:54:35.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+          "url": "https://coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+          "date": "2026-10-16T10:54:35.000Z",
+          "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "quantum-alliance-forms-amid-warnings-6-4-million-bitcoin-face-future",
+      "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-16T10:52:26.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+          "url": "https://coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+          "date": "2026-10-16T10:52:26.000Z",
+          "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "tokenized-tesla-surges-as-elon-musk-unveils-spacex-powered-flying",
+      "headline": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-16T10:48:49.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+          "url": "https://coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+          "date": "2026-10-16T10:48:49.000Z",
+          "summary": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on",
+      "headline": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-16T10:41:03.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+          "url": "https://coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+          "date": "2026-10-16T10:41:03.000Z",
+          "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-5",
+      "headline": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-16T10:24:30.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+          "url": "https://coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+          "date": "2026-10-16T10:24:30.000Z",
+          "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "connect-recap-liquidity-is-tokenization-s-next-challenge-everyday",
+      "headline": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "category": "blockchain",
+      "tags": [
+        "stablecoins",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-16T10:27:18.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+          "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
+          "date": "2026-10-16T10:27:18.000Z",
+          "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors."
         }
       ],
       "validation": {
@@ -2709,13 +2892,44 @@
       "status": "pendente"
     },
     {
-      "id": "sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
-      "headline": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "id": "u-s-judge-rejects-gemini-s-appeal-to-void-5-million-settlement",
+      "headline": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-16T09:36:21.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+          "url": "https://coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+          "date": "2026-10-16T09:36:21.000Z",
+          "summary": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-may-seek-20-month-trend-line-reclaim-before-new-record-highs",
+      "headline": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-10T07:10:43.000Z",
+      "firstSeen": "2026-10-16T09:22:13.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -2727,10 +2941,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
-          "date": "2026-10-10T07:10:43.000Z",
-          "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability."
+          "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+          "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant",
+          "date": "2026-10-16T09:22:13.000Z",
+          "summary": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs."
         }
       ],
       "validation": {
@@ -2738,7 +2952,107 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "capital-b-reports-78m-h1-loss-driven-by-bitcoin-impairment-charge",
+      "headline": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-16T07:59:46.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+          "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment",
+          "date": "2026-10-16T07:59:46.000Z",
+          "summary": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "what-is-a-hardware-wallet-crypto-cold-storage-explained",
+      "headline": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-16T09:10:48.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+          "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+          "date": "2026-10-16T09:10:48.000Z",
+          "summary": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "capital-b-posts-wider-h1-net-loss-of-78-million-on-bitcoin-impairment",
+      "headline": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-16T09:30:21.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+          "url": "https://theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+          "date": "2026-10-16T09:30:21.000Z",
+          "summary": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -4187,6 +4501,74 @@
           "url": "https://theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
           "date": "2026-10-15T22:15:56.000Z",
           "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+      "headline": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-16T05:53:58.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+          "url": "https://coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+          "date": "2026-10-16T05:53:58.000Z",
+          "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "openai-model-helped-itself-to-testnet-crypto-then-kept-quiet-about-it",
+      "headline": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "category": "tecnologia",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-16T06:11:22.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+          "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization",
+          "date": "2026-10-16T06:11:22.000Z",
+          "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary."
         }
       ],
       "validation": {
@@ -7540,6 +7922,40 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-hoje-btc-sobe-e-recupera-os-us-82-mil-com-melhora-das-bolsas",
+      "headline": "Bitcoin hoje: BTC sobe e recupera os US$ 82 mil com melhora das bolsas e volta dos compradores",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-16T10:50:39.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin hoje: BTC sobe e recupera os US$ 82 mil com melhora das bolsas e volta dos compradores",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-sobe-e-recupera-os-us-82-mil-com-melhora-das-bolsas-e-volta-dos-compradores",
+          "date": "2026-10-16T10:50:39.000Z",
+          "summary": "Criptomoeda volta aos US$ 82 mil, impulsionada pela recuperação das bolsas, mas saídas de ETFs e incertezas sobre juros ainda preocupam O post Bitcoin hoje: BTC sobe e recupera os US$ 82 mil com melhora das bolsas e volta dos compradores apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "criptomoeda-meme-que-apoiava-campanha-de-flavio-bolsonaro-deixa",
       "headline": "Criptomoeda meme que apoiava campanha de Flávio Bolsonaro deixa prejuízos; vídeo de crianças é retirado do ar e site removido pelo TSE",
       "category": "bitcoin",
@@ -9175,26 +9591,65 @@
       "status": "pendente"
     },
     {
-      "id": "msci-adopts-index-exclusion-rules-that-could-oust-strategy",
-      "headline": "MSCI adopts index exclusion rules that could oust Strategy",
-      "category": "defi",
-      "tags": [],
-      "firstSeen": "2026-10-16T00:48:20.000Z",
+      "id": "bitcoin-optech-newsletter-427",
+      "headline": "Bitcoin Optech Newsletter #427",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Lightning"
+      ],
+      "firstSeen": "2026-10-16T00:00:00.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Bitcoin Optech"
+      ],
+      "official": true,
+      "items": [
+        {
+          "feed": "bitcoin-optech",
+          "publisher": "Bitcoin Optech",
+          "type": "official",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin Optech Newsletter #427",
+          "url": "https://bitcoinops.org/en/newsletters/2026/10/16",
+          "date": "2026-10-16T00:00:00.000Z",
+          "summary": "This week’s newsletter summarizes the disclosure of two denial-of-service vulnerabilities in older versions of Eclair and describes a proposed scheme for running complex multi-round contracts inside Lightning channels. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and",
+      "headline": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-16T11:15:00.000Z",
+      "publishers": [
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "MSCI adopts index exclusion rules that could oust Strategy",
-          "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
-          "date": "2026-10-16T00:48:20.000Z",
-          "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11."
+          "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+          "url": "https://coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+          "date": "2026-10-16T11:15:00.000Z",
+          "summary": "Your day-ahead look for Oct. 16, 2026"
         }
       ],
       "validation": {
@@ -9208,11 +9663,183 @@
       "status": "descartada"
     },
     {
-      "id": "hidden-text-a-fake-mailbox-how-researchers-got-rogue-ai-agents-to-talk",
-      "headline": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+      "id": "live-updates-bitcoin-steady-near-82-000-after-fed-s-warsh-comments",
+      "headline": "Live updates: Bitcoin steady near $82,000 after Fed's Warsh comments",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-16T09:48:14.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Live updates: Bitcoin steady near $82,000 after Fed's Warsh comments",
+          "url": "https://coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+          "date": "2026-10-16T09:48:14.000Z",
+          "summary": "Crypto held to its bounce following bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity",
+      "headline": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+      "category": "defi",
+      "tags": [],
+      "firstSeen": "2026-10-16T08:34:48.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+          "url": "https://coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+          "date": "2026-10-16T08:34:48.000Z",
+          "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "solana-s-liu-says-shanghai-event-postponed-over-registration-surge",
+      "headline": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "category": "altcoins",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-16T11:22:47.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+          "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap",
+          "date": "2026-10-16T11:22:47.000Z",
+          "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "judge-rejects-cftc-gemini-bid-to-undo-5m-settlement",
+      "headline": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-16T07:43:29.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+          "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal",
+          "date": "2026-10-16T07:43:29.000Z",
+          "summary": "Judge ruled changes in CFTC enforcement priorities and allegations of misconduct by its enforcement division were insufficient to overturn Gemini’s January 2025 settlement."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "balaji-s-singapore-of-social-media-begins-with-a-wave-of-bans",
+      "headline": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-15T22:16:03.000Z",
+      "firstSeen": "2026-10-16T05:16:11.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+          "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans",
+          "date": "2026-10-16T05:16:11.000Z",
+          "summary": "Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
+      "headline": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-16T11:46:54.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -9224,10 +9851,146 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-          "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
-          "date": "2026-10-15T22:16:03.000Z",
-          "summary": "Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure."
+          "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+          "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
+          "date": "2026-10-16T11:46:54.000Z",
+          "summary": "Plus, crypto majors rebound despite hot PPI and Saylor’s Strategy is at risk of removal from a major index."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2-900",
+      "headline": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
+      "category": "altcoins",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-16T10:16:06.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
+          "url": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
+          "date": "2026-10-16T10:16:06.000Z",
+          "summary": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "visa-direct-moves-usdc-prefunding-into-commercial-production-with",
+      "headline": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-16T11:25:12.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+          "url": "https://theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+          "date": "2026-10-16T11:25:12.000Z",
+          "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "google-demonstrates-quantum-computing-breakthrough-as-observers-weigh",
+      "headline": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-16T10:13:32.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+          "url": "https://theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+          "date": "2026-10-16T10:13:32.000Z",
+          "summary": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "us-federal-judge-denies-joint-gemini-cftc-bid-to-undo-5-million",
+      "headline": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-16T05:44:05.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+          "url": "https://theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+          "date": "2026-10-16T05:44:05.000Z",
+          "summary": "The court noted that Gemini voluntarily settled three weeks before trial and that policy changes do not warrant reopening the judgment."
         }
       ],
       "validation": {

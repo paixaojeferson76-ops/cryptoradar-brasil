@@ -1,16 +1,17 @@
 # Pauta de notícias
 
-Gerada em 2026-10-16T04:59:39.137Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-16T11:55:04.084Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 77
+- [Decrypt] OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task — https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task (2026-10-16T10:39:08.000Z)
+- [The Block] OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task — https://theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798 (2026-10-16T11:34:54.000Z)
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018 — https://coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018 (2026-10-10T05:43:00.000Z)
 
 ## One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks
 
@@ -21,11 +22,6 @@ Gerada em 2026-10-16T04:59:39.137Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
 - [CoinDesk] Tokenized commodities look beyond gold as lending and oil open new markets — https://coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets (2026-10-10T12:00:00.000Z)
-
-## Justin Sun says Tron’s post-quantum cryptography has gone live on testnet
-
-- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Justin Sun says Tron’s post-quantum cryptography has gone live on testnet — https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet (2026-10-10T11:52:14.000Z)
 
 ## French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget
 
@@ -151,3 +147,8 @@ Gerada em 2026-10-16T04:59:39.137Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Mastercard brings stablecoin balances into traditional banking and card payments — https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins (2026-10-15T15:46:05.000Z)
+
+## Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Decrypt] Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins — https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins (2026-10-15T16:28:50.000Z)
