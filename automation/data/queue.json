@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:46:47.357Z",
+  "updatedAt": "2026-10-16T04:59:39.137Z",
   "stories": [
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
@@ -1186,13 +1186,13 @@
       "status": "pendente"
     },
     {
-      "id": "visa-survey-says-nearly-half-of-apac-consumers-open-to-using",
-      "headline": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "category": "altcoins",
+      "id": "an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it",
+      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "category": "ethereum",
       "tags": [
-        "stablecoins"
+        "Ethereum"
       ],
-      "firstSeen": "2026-10-10T03:00:00.000Z",
+      "firstSeen": "2026-10-16T04:29:19.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -1204,10 +1204,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-          "url": "https://coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-          "date": "2026-10-10T03:00:00.000Z",
-          "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work."
+          "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+          "url": "https://coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+          "date": "2026-10-16T04:29:19.000Z",
+          "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway."
         }
       ],
       "validation": {
@@ -1215,7 +1215,40 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-buyers-snap-up-a-brief-drop-below-80-000-as-asian-stocks",
+      "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-16T04:14:22.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+          "url": "https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+          "date": "2026-10-16T04:14:22.000Z",
+          "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4056,6 +4089,104 @@
           "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
           "date": "2026-10-15T17:14:45.000Z",
           "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting",
+      "headline": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-15T23:34:19.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+          "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework",
+          "date": "2026-10-15T23:34:19.000Z",
+          "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "scammer-loses-4-8m-stored-on-tampered-ledgers-asia-express",
+      "headline": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETFs",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-15T22:42:58.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+          "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
+          "date": "2026-10-15T22:42:58.000Z",
+          "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "msci-finalizes-index-rules-that-put-strategy-crypto-treasury-firms-at",
+      "headline": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-15T22:15:56.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+          "url": "https://theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+          "date": "2026-10-15T22:15:56.000Z",
+          "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11."
         }
       ],
       "validation": {
@@ -7409,40 +7540,6 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-life-insurer-meanwhile-raises-37-5m-as-wealthy-families-look",
-      "headline": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-10T00:53:09.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
-          "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
-          "date": "2026-10-10T00:53:09.000Z",
-          "summary": "Bitcoin Magazine Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC The Bermuda-regulated startup, whose backers include Bain Capital Crypto and Sam Altman, has now raised more than $180 million. This post Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
       "id": "criptomoeda-meme-que-apoiava-campanha-de-flavio-bolsonaro-deixa",
       "headline": "Criptomoeda meme que apoiava campanha de Flávio Bolsonaro deixa prejuízos; vídeo de crianças é retirado do ar e site removido pelo TSE",
       "category": "bitcoin",
@@ -8279,6 +8376,40 @@
       "status": "pendente"
     },
     {
+      "id": "brooklyn-da-pulls-the-plug-on-crypto-scam-network",
+      "headline": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-15T23:03:27.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+          "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
+          "date": "2026-10-15T23:03:27.000Z",
+          "summary": "Bitcoin Magazine Brooklyn DA Pulls the Plug on Crypto Scam Network 112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor. This post Brooklyn DA Pulls the Plug on Crypto Scam Network first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "coinbase-critica-regra-do-bc-que-permite-reter-transferencias-de",
       "headline": "Coinbase critica regra do BC que permite reter transferências de criptomoedas por até 24 horas",
       "category": "bitcoin",
@@ -9044,26 +9175,26 @@
       "status": "pendente"
     },
     {
-      "id": "google-says-it-just-cracked-one-of-quantum-computing-s-biggest",
-      "headline": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-      "category": "bitcoin",
+      "id": "msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+      "headline": "MSCI adopts index exclusion rules that could oust Strategy",
+      "category": "defi",
       "tags": [],
-      "firstSeen": "2026-10-15T21:46:04.000Z",
+      "firstSeen": "2026-10-16T00:48:20.000Z",
       "publishers": [
-        "Decrypt"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-          "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
-          "date": "2026-10-15T21:46:04.000Z",
-          "summary": "Google's Willow chip cut errors 40x on the scarce “magic states” quantum computers burn through, a step toward smaller, useful machines—and toward ones that could threaten today's encryption."
+          "title": "MSCI adopts index exclusion rules that could oust Strategy",
+          "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+          "date": "2026-10-16T00:48:20.000Z",
+          "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11."
         }
       ],
       "validation": {
@@ -9077,11 +9208,11 @@
       "status": "descartada"
     },
     {
-      "id": "blackrock-s-larry-fink-warns-ai-data-center-halt-could-tip-us-into",
-      "headline": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+      "id": "hidden-text-a-fake-mailbox-how-researchers-got-rogue-ai-agents-to-talk",
+      "headline": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-15T18:16:04.000Z",
+      "firstSeen": "2026-10-15T22:16:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -9093,76 +9224,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-          "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
-          "date": "2026-10-15T18:16:04.000Z",
-          "summary": "Speaking after BlackRock’s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous—calling the backlash “misinformation” as data centers become a midterm flashpoint."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "google-says-ai-isn-t-building-itself-yet-even-though-it-writes-75-of",
-      "headline": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-15T17:36:05.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
-          "url": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
-          "date": "2026-10-15T17:36:05.000Z",
-          "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "farcaster-acquired-by-balaji-s-network-school-with-new-social-smart",
-      "headline": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-15T21:41:14.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
-          "url": "https://theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
-          "date": "2026-10-15T21:41:14.000Z",
-          "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access."
+          "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+          "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+          "date": "2026-10-15T22:16:03.000Z",
+          "summary": "Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure."
         }
       ],
       "validation": {

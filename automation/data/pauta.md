@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-15T21:46:47.357Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-16T04:59:39.137Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
