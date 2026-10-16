@@ -1,6 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-16T16:57:50.534Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-16T21:43:27.566Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Glamsterdam Hoodi Testnet Announcement
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 58
+- [Ethereum Foundation Blog] Glamsterdam Hoodi Testnet Announcement — https://blog.ethereum.org/en/2026/10/16/glamsterdam-hoodi-announcement (2026-10-16T00:00:00.000Z)
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
@@ -146,8 +151,3 @@ Gerada em 2026-10-16T16:57:50.534Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 39
 - [The Block] DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings — https://theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694 (2026-10-15T15:48:32.000Z)
-
-## Binance.US seeks $1B valuation in potential $100M funding round: Report
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance.US seeks $1B valuation in potential $100M funding round: Report — https://cointelegraph.com/news/binance-us-funding-valuation-billion (2026-10-15T20:21:11.000Z)

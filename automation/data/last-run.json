@@ -1,7 +1,16 @@
 {
-  "at": "2026-10-16T16:57:53.152Z",
+  "at": "2026-10-16T21:45:13.404Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "ethereum-agenda-ativacao-da-atualizacao-glamsterdam-na-rede-de-testes-hoodi",
+      "title": "Ethereum agenda ativação da atualização Glamsterdam na rede de testes Hoodi para 26 de outubro",
+      "confidence": "alta",
+      "sources": [
+        "Ethereum Foundation Blog"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
