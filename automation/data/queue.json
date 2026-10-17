@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-17T04:59:46.592Z",
+  "updatedAt": "2026-10-17T11:10:53.299Z",
   "stories": [
+    {
+      "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T06:39:48.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+          "url": "https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+          "date": "2026-10-17T06:39:48.000Z",
+          "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 51,
+      "status": "pendente"
+    },
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
       "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -1478,6 +1511,39 @@
           "url": "https://livecoins.com.br/brasil-aparece-entre-os-paises-mais-violentos-para-investidores-de-criptomoedas-apos-atualizacao-de-lista",
           "date": "2026-10-16T21:01:42.000Z",
           "summary": "Brasil aparece com 35 ataques físicos contra investidores de criptomoedas, ficando atrás somente de França, EUA e Taiwan Fonte: Brasil aparece entre os países mais violentos para investidores de criptomoedas após atualização de lista Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "circle-s-allaire-says-stablecoin-issuer-looking-to-enter-40",
+      "headline": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "category": "mercado",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-17T10:00:07.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+          "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
+          "date": "2026-10-17T10:00:07.000Z",
+          "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins."
         }
       ],
       "validation": {
@@ -9567,39 +9633,6 @@
       "status": "pendente"
     },
     {
-      "id": "coldcard-tem-conta-no-x-invadida-em-ataque-de-phishing-contra",
-      "headline": "Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-11T06:31:54.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin",
-          "url": "https://livecoins.com.br/coldcard-tem-conta-no-x-invadida-em-ataque-de-phishing-contra-usuarios-de-bitcoin",
-          "date": "2026-10-11T06:31:54.000Z",
-          "summary": "Na madrugada deste domingo (11), por volta das 2 horas da manhã, a conta oficial da ColdCard (@COLDCARDwallet) no X (Twitter) foi comprometida e publicou um post de phishing mirando investidores de Bitcoin. O post falso usava o título “ATUALIZAÇÃO DE SEGURANÇA URGENTE” e afirmava ter identificado “uma nova vulnerabilidade crítica afetando a geração de […] Fonte: Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 23,
-      "status": "pendente"
-    },
-    {
       "id": "ledger-investigates-fund-losses-tied-to-southeast-asian-reseller",
       "headline": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
       "category": "blockchain",
@@ -10297,6 +10330,72 @@
       },
       "score": 22,
       "status": "pendente"
+    },
+    {
+      "id": "lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent",
+      "headline": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-17T08:32:11.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+          "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent",
+          "date": "2026-10-17T08:32:11.000Z",
+          "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "bitget-to-discontinue-services-for-some-users-in-one-off-exercise",
+      "headline": "Bitget to discontinue services for some users in one-off exercise",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-17T07:26:57.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitget to discontinue services for some users in one-off exercise",
+          "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise",
+          "date": "2026-10-17T07:26:57.000Z",
+          "summary": "Bitget says user funds are safe and exchange will continue to operate during the change."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }

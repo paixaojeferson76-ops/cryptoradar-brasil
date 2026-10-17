@@ -1,6 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-17T04:59:46.592Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-17T11:10:53.299Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
+
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
+- [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
 
 ## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
 
@@ -146,8 +151,3 @@ Gerada em 2026-10-17T04:59:46.592Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 39
 - [The Block] DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings — https://theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694 (2026-10-15T15:48:32.000Z)
-
-## Binance.US seeks $1B valuation in potential $100M funding round: Report
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance.US seeks $1B valuation in potential $100M funding round: Report — https://cointelegraph.com/news/binance-us-funding-valuation-billion (2026-10-15T20:21:11.000Z)
