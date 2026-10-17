@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:10:53.299Z",
+  "updatedAt": "2026-10-17T15:56:23.974Z",
   "stories": [
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -65,39 +65,6 @@
         "reasons": []
       },
       "score": 50,
-      "status": "pendente"
-    },
-    {
-      "id": "imf-finds-demand-for-tokenized-stocks-says-the-market-is-still",
-      "headline": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-11T13:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-          "url": "https://coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-          "date": "2026-10-11T13:00:00.000Z",
-          "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1555,15 +1522,47 @@
       "status": "pendente"
     },
     {
-      "id": "presidente-da-cvm-apresenta-novidades-durante-encontro-de-grupo-de",
-      "headline": "Presidente da CVM apresenta novidades durante encontro de Grupo de Tokenização",
-      "category": "regulacao",
+      "id": "citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "headline": "Citrini sees a tokenization boom. The harder question is who profits",
+      "category": "blockchain",
       "tags": [
-        "Bitcoin",
-        "regulação",
         "tokenização"
       ],
-      "firstSeen": "2026-10-11T11:40:12.000Z",
+      "firstSeen": "2026-10-17T15:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Citrini sees a tokenization boom. The harder question is who profits",
+          "url": "https://coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+          "date": "2026-10-17T15:00:00.000Z",
+          "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "tem-mais-brasileiro-no-cripto-do-que-na-bolsa-mas-quase-metade-admite",
+      "headline": "Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-17T14:30:24.000Z",
       "publishers": [
         "Livecoins"
       ],
@@ -1575,10 +1574,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Presidente da CVM apresenta novidades durante encontro de Grupo de Tokenização",
-          "url": "https://livecoins.com.br/presidente-da-cvm-apresenta-novidades-durante-encontro-de-grupo-de-tokenizacao",
-          "date": "2026-10-11T11:40:12.000Z",
-          "summary": "A Comissão de Valores Mobiliários (CVM) reuniu lideranças do setor financeiro para apresentar os avanços do Grupo de Trabalho de Tokenização (GTT). O debate ocorreu na sede da FGV Direito em São Paulo durante a quinta-feira (8). O encontro detalhou a nova estrutura regulatória voltada para ativos digitais no país e representantes de diversas entidades […] Fonte: Presidente da CVM apresenta novidades durante encontro de Grupo de Tokenização Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "title": "Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou",
+          "url": "https://livecoins.com.br/tem-mais-brasileiro-no-cripto-do-que-na-bolsa-mas-quase-metade-admite-nao-entender-o-que-comprou",
+          "date": "2026-10-17T14:30:24.000Z",
+          "summary": "Escrito por Tiago Piassum, especialista em ativos digitais e CEO da Rivool Fonte: Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -1586,7 +1585,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -3425,6 +3424,70 @@
           "url": "https://coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
           "date": "2026-10-17T02:30:00.000Z",
           "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper",
+      "headline": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-17T12:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+          "url": "https://coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+          "date": "2026-10-17T12:00:00.000Z",
+          "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "tokenmaxxing-how-to-get-the-most-out-of-your-ai-models",
+      "headline": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-17T13:01:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+          "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+          "date": "2026-10-17T13:01:04.000Z",
+          "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent."
         }
       ],
       "validation": {
@@ -7363,40 +7426,6 @@
       "status": "pendente"
     },
     {
-      "id": "ia-pode-quebrar-seguranca-do-bitcoin-e-ethereum-antes-da-computacao",
-      "headline": "IA pode quebrar segurança do Bitcoin e Ethereum antes da computação quântica, alerta pesquisador",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-11T12:13:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "IA pode quebrar segurança do Bitcoin e Ethereum antes da computação quântica, alerta pesquisador",
-          "url": "https://portaldobitcoin.uol.com.br/ia-pode-quebrar-seguranca-do-bitcoin-e-ethereum-antes-da-computacao-quantica-alerta-pesquisador",
-          "date": "2026-10-11T12:13:00.000Z",
-          "summary": "Pesquisador alerta que avanços da IA podem antecipar riscos à criptografia das principais criptomoedas, como Bitcoin e Ethereum O post IA pode quebrar segurança do Bitcoin e Ethereum antes da computação quântica, alerta pesquisador apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "strategy-smash-buys-21-5m-in-bitcoin-as-it-continues-btc-accumulation",
       "headline": "Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation",
       "category": "bitcoin",
@@ -8531,6 +8560,72 @@
       "status": "pendente"
     },
     {
+      "id": "analista-descarta-queda-do-bitcoin-para-us-10-mil-e-explica-por-que",
+      "headline": "Analista descarta queda do Bitcoin para US$ 10 mil e explica por que considera isso improvável",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T15:36:24.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Analista descarta queda do Bitcoin para US$ 10 mil e explica por que considera isso improvável",
+          "url": "https://livecoins.com.br/analista-descarta-queda-do-bitcoin-para-us-10-mil-e-explica-por-que-considera-isso-improvavel",
+          "date": "2026-10-17T15:36:24.000Z",
+          "summary": "Analista afirma que o MVRV precisaria chegar a 0,2 para isso acontecer, mas que o pior fundo foi em 0,6 Fonte: Analista descarta queda do Bitcoin para US$ 10 mil e explica por que considera isso improvável Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "ia-pode-afetar-40-dos-empregos-no-mundo-com-jovens-entre-os-mais",
+      "headline": "IA pode afetar 40% dos empregos no mundo, com jovens entre os mais prejudicados, alerta FMI",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T15:08:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "IA pode afetar 40% dos empregos no mundo, com jovens entre os mais prejudicados, alerta FMI",
+          "url": "https://portaldobitcoin.uol.com.br/ia-pode-afetar-40-dos-empregos-no-mundo-com-jovens-entre-os-mais-prejudicados-alerta-fmi",
+          "date": "2026-10-17T15:08:00.000Z",
+          "summary": "FMI diz que investimento em IA ajuda o crescimento global enquanto alerta para um \"tsunami silencioso\" que afetará os jovens trabalhadores O post IA pode afetar 40% dos empregos no mundo, com jovens entre os mais prejudicados, alerta FMI apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "de-olho-no-criptojud-tribunal-do-trabalho-aprende-tecnicas-de",
       "headline": "De olho no CriptoJud, Tribunal do Trabalho aprende técnicas de rastreio de criptomoedas",
       "category": "bitcoin",
@@ -9633,6 +9728,39 @@
       "status": "pendente"
     },
     {
+      "id": "cientistas-de-ia-estao-fumando-para-provar-que-inteligencia",
+      "headline": "Cientistas de IA estão fumando para provar que inteligência artificial vai curar câncer, diz executivo",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T12:04:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Cientistas de IA estão fumando para provar que inteligência artificial vai curar câncer, diz executivo",
+          "url": "https://portaldobitcoin.uol.com.br/cientistas-de-ia-estao-fumando-para-provar-que-inteligencia-artificial-vai-curar-cancer-diz-executivo",
+          "date": "2026-10-17T12:04:00.000Z",
+          "summary": "Diretor de tecnologia da Palantir afirma que muitos pesquisadores de IA começaram a fumar para demonstrar sua fé na inteligência artificial O post Cientistas de IA estão fumando para provar que inteligência artificial vai curar câncer, diz executivo apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "ledger-investigates-fund-losses-tied-to-southeast-asian-reseller",
       "headline": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
       "category": "blockchain",
@@ -10332,26 +10460,26 @@
       "status": "pendente"
     },
     {
-      "id": "lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent",
-      "headline": "Lagarde says euro-area economy is resilient, digital euro imminent",
-      "category": "bitcoin",
+      "id": "polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated",
+      "headline": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-10-17T08:32:11.000Z",
+      "firstSeen": "2026-10-17T14:00:00.000Z",
       "publishers": [
-        "Cointelegraph"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-          "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent",
-          "date": "2026-10-17T08:32:11.000Z",
-          "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president."
+          "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+          "url": "https://coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+          "date": "2026-10-17T14:00:00.000Z",
+          "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries."
         }
       ],
       "validation": {
@@ -10365,11 +10493,13 @@
       "status": "descartada"
     },
     {
-      "id": "bitget-to-discontinue-services-for-some-users-in-one-off-exercise",
-      "headline": "Bitget to discontinue services for some users in one-off exercise",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-17T07:26:57.000Z",
+      "id": "solana-shows-resilience-but-some-areas-need-continued-observation",
+      "headline": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "category": "tecnologia",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-17T12:58:03.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -10381,10 +10511,43 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitget to discontinue services for some users in one-off exercise",
-          "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise",
-          "date": "2026-10-17T07:26:57.000Z",
-          "summary": "Bitget says user funds are safe and exchange will continue to operate during the change."
+          "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+          "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+          "date": "2026-10-17T12:58:03.000Z",
+          "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "chinese-startup-stepfun-launches-a-phone-built-around-an-ai-agent-not",
+      "headline": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-17T15:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+          "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+          "date": "2026-10-17T15:01:03.000Z",
+          "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app."
         }
       ],
       "validation": {

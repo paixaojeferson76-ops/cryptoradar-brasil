@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-17T11:10:53.299Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-17T15:56:23.974Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
@@ -11,11 +11,6 @@ Gerada em 2026-10-17T11:10:53.299Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
-
-## IMF finds demand for tokenized stocks, says the market is still volatile, illiquid
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid — https://coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid (2026-10-11T13:00:00.000Z)
 
 ## Tokenized catastrophe bonds target the disaster-insurance gap
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-17T11:10:53.299Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 39
 - [The Block] DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings — https://theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694 (2026-10-15T15:48:32.000Z)
+
+## Binance.US seeks $1B valuation in potential $100M funding round: Report
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance.US seeks $1B valuation in potential $100M funding round: Report — https://cointelegraph.com/news/binance-us-funding-valuation-billion (2026-10-15T20:21:11.000Z)
