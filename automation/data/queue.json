@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-10-16T21:43:27.566Z",
+  "updatedAt": "2026-10-17T04:59:46.592Z",
   "stories": [
-    {
-      "id": "glamsterdam-hoodi-testnet-announcement",
-      "headline": "Glamsterdam Hoodi Testnet Announcement",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-16T00:00:00.000Z",
-      "publishers": [
-        "Ethereum Foundation Blog"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "ethereum-blog",
-          "publisher": "Ethereum Foundation Blog",
-          "type": "official",
-          "weight": 3,
-          "lang": "en",
-          "title": "Glamsterdam Hoodi Testnet Announcement",
-          "url": "https://blog.ethereum.org/en/2026/10/16/glamsterdam-hoodi-announcement",
-          "date": "2026-10-16T00:00:00.000Z",
-          "summary": "Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and changes to gas pricing that better reflect the cost of execution and state growth. The Glamsterdam..."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 58,
-      "status": "gerada",
-      "slug": "ethereum-agenda-ativacao-da-atualizacao-glamsterdam-na-rede-de-testes-hoodi"
-    },
     {
       "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
       "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -3371,6 +3337,39 @@
       "status": "pendente"
     },
     {
+      "id": "satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new",
+      "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T02:30:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+          "url": "https://coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+          "date": "2026-10-17T02:30:00.000Z",
+          "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "clarity-s-failure-could-speed-crypto-innovation-while-shielding",
       "headline": "Clarity's failure could speed crypto innovation while shielding incumbents",
       "category": "regulacao",
@@ -4815,6 +4814,40 @@
           "url": "https://portaldobitcoin.uol.com.br/emissora-da-stablecoin-brlv-crown-pede-licenca-cripto-ao-banco-central",
           "date": "2026-10-16T12:23:00.000Z",
           "summary": "Empresa solicita autorização para atuar como corretora de criptoativos e oferecer serviços de câmbio, contas de pagamento e Pix O post Emissora da stablecoin BRLV, Crown pede licença cripto ao Banco Central apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "brasil-bitcoin-pede-autorizacao-ao-bacen-com-cnpj-da-corretora-brasil",
+      "headline": "Brasil Bitcoin pede autorização ao Bacen com CNPJ da corretora Brasil 8, em meio a tensa disputa de sócios",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-16T23:00:27.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Brasil Bitcoin pede autorização ao Bacen com CNPJ da corretora Brasil 8, em meio a tensa disputa de sócios",
+          "url": "https://livecoins.com.br/brasil-bitcoin-pede-autorizacao-ao-bacen-com-cnpj-da-corretora-brasil-8-em-meio-a-tensa-disputa-de-socios",
+          "date": "2026-10-16T23:00:27.000Z",
+          "summary": "Corretora pede autorização com outro CNPJ, mas administradores garantem funcionamento normal para os investidores: \"vamos resolver a disputa societária rápido e continuaremos com foco nos clientes\" Fonte: Brasil Bitcoin pede autorização ao Bacen com CNPJ da corretora Brasil 8, em meio a tensa disputa de sócios Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -9500,6 +9533,40 @@
       "status": "pendente"
     },
     {
+      "id": "poetic-justice-scammer-lost-5m-in-bitcoin-after-being-targeted-by",
+      "headline": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-16T22:12:36.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+          "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+          "date": "2026-10-16T22:12:36.000Z",
+          "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last week’s Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "coldcard-tem-conta-no-x-invadida-em-ataque-de-phishing-contra",
       "headline": "Coldcard tem conta no X invadida em ataque de phishing contra usuários de Bitcoin",
       "category": "seguranca",
@@ -10230,109 +10297,6 @@
       },
       "score": 22,
       "status": "pendente"
-    },
-    {
-      "id": "tesla-roadster-rocket-is-the-cool-flying-car-you-can-t-have",
-      "headline": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-16T20:16:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
-          "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-          "date": "2026-10-16T20:16:04.000Z",
-          "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "hackers-jailbreak-iphone-18-pro-on-stage-and-it-survives-a-reboot",
-      "headline": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "category": "seguranca",
-      "tags": [
-        "Ethereum",
-        "stablecoins",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-16T19:36:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-          "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-          "date": "2026-10-16T19:36:04.000Z",
-          "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "india-s-cyber-agency-says-ai-agents-read-confidential-business",
-      "headline": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-16T17:48:06.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-          "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
-          "date": "2026-10-16T17:48:06.000Z",
-          "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }
