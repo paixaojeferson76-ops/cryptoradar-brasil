@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T15:56:23.974Z",
+  "updatedAt": "2026-10-17T20:58:17.823Z",
   "stories": [
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -32,39 +32,6 @@
         "reasons": []
       },
       "score": 51,
-      "status": "pendente"
-    },
-    {
-      "id": "tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid",
-      "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-11T17:11:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-          "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
-          "date": "2026-10-11T17:11:03.000Z",
-          "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 50,
       "status": "pendente"
     },
     {
@@ -1589,28 +1556,28 @@
       "status": "pendente"
     },
     {
-      "id": "everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "headline": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-      "category": "mercado",
+      "id": "coreweave-broadcom-verizon-among-nine-companies-objecting-to",
+      "headline": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+      "category": "blockchain",
       "tags": [
-        "Ethereum"
+        "tokenização"
       ],
-      "firstSeen": "2026-10-11T18:30:00.000Z",
+      "firstSeen": "2026-10-17T19:56:25.000Z",
       "publishers": [
-        "CoinDesk"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-          "url": "https://coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-          "date": "2026-10-11T18:30:00.000Z",
-          "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal."
+          "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+          "url": "https://theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+          "date": "2026-10-17T19:56:25.000Z",
+          "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
         }
       ],
       "validation": {
@@ -1618,42 +1585,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "corretora-brasil-bitcoin-diz-que-investiga-suposto-vazamento-de-dados",
-      "headline": "Corretora Brasil Bitcoin diz que investiga suposto vazamento de dados de 657 mil clientes acusado por hackers",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-11T18:12:36.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Corretora Brasil Bitcoin diz que investiga suposto vazamento de dados de 657 mil clientes acusado por hackers",
-          "url": "https://livecoins.com.br/corretora-brasil-bitcoin-diz-que-investiga-suposto-vazamento-de-dados-de-657-mil-clientes-acusado-por-hackers",
-          "date": "2026-10-11T18:12:36.000Z",
-          "summary": "No sábado (10) a corretora Brasil Bitcoin foi vinculada a um possível vazamento de dados de seus clientes, com a base contendo CPF, nome e outras informações de 657 mil investidores brasileiros. O combo do ainda não confirmado incidente indica que os dados de transações dos clientes também vazaram, e o criminoso pede um pagamento […] Fonte: Corretora Brasil Bitcoin diz que investiga suposto vazamento de dados de 657 mil clientes acusado por hackers Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -3499,15 +3431,13 @@
       "status": "pendente"
     },
     {
-      "id": "clarity-s-failure-could-speed-crypto-innovation-while-shielding",
-      "headline": "Clarity's failure could speed crypto innovation while shielding incumbents",
-      "category": "regulacao",
+      "id": "goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play",
+      "headline": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "category": "blockchain",
       "tags": [
-        "regulação",
-        "DeFi",
         "tokenização"
       ],
-      "firstSeen": "2026-10-11T16:00:00.000Z",
+      "firstSeen": "2026-10-17T17:00:00.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -3519,10 +3449,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-          "url": "https://coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-          "date": "2026-10-11T16:00:00.000Z",
-          "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved."
+          "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+          "url": "https://coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+          "date": "2026-10-17T17:00:00.000Z",
+          "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street."
         }
       ],
       "validation": {
@@ -3530,53 +3460,15 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
-      "id": "saylor-teases-strategy-bitcoin-buying-after-ending-september-with",
-      "headline": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "id": "crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod",
+      "headline": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
       "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-11T17:11:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-          "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
-          "date": "2026-10-11T17:11:00.000Z",
-          "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-ethereum-and-solana-etfs-all-in-the-red-for-october",
-      "headline": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs",
-        "Solana"
-      ],
-      "firstSeen": "2026-10-11T16:01:03.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-17T17:01:03.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -3588,10 +3480,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-          "date": "2026-10-11T16:01:03.000Z",
-          "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses."
+          "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+          "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+          "date": "2026-10-17T17:01:03.000Z",
+          "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million—days after the PAC expanded its map to 32 House races."
         }
       ],
       "validation": {
@@ -3599,19 +3491,19 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
-      "id": "brasil-lidera-ataques-de-mineracao-ilegal-de-criptomoedas-na-america",
-      "headline": "Brasil lidera ataques de mineração ilegal de criptomoedas na América Latina, aponta estudo",
-      "category": "mineracao",
+      "id": "nova-regulacao-cripto-cria-desafio-tecnologico-para-bancos-e",
+      "headline": "Nova regulação cripto cria desafio tecnológico para bancos e exchanges no Brasil, diz especialista",
+      "category": "regulacao",
       "tags": [
         "Bitcoin",
-        "mineração",
+        "regulação",
         "Brasil"
       ],
-      "firstSeen": "2026-10-11T16:38:00.000Z",
+      "firstSeen": "2026-10-17T18:04:00.000Z",
       "publishers": [
         "Portal do Bitcoin"
       ],
@@ -3623,10 +3515,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Brasil lidera ataques de mineração ilegal de criptomoedas na América Latina, aponta estudo",
-          "url": "https://portaldobitcoin.uol.com.br/brasil-lidera-ataques-de-mineracao-ilegal-de-criptomoedas-na-america-latina-aponta-estudo",
-          "date": "2026-10-11T16:38:00.000Z",
-          "summary": "Estudo identificou 69 mil tentativas de mineração ilegal de criptomoedas no Brasil, com governos, universidades e data centers como principais alvos O post Brasil lidera ataques de mineração ilegal de criptomoedas na América Latina, aponta estudo apareceu primeiro em Portal do Bitcoin ."
+          "title": "Nova regulação cripto cria desafio tecnológico para bancos e exchanges no Brasil, diz especialista",
+          "url": "https://portaldobitcoin.uol.com.br/nova-regulacao-cripto-cria-desafio-tecnologico-para-bancos-e-exchanges-no-brasil-diz-especialista",
+          "date": "2026-10-17T18:04:00.000Z",
+          "summary": "Com o prazo chegando ao fim, bancos e exchanges precisam adaptar sistemas para monitorar transações e cumprir novas exigências do BC O post Nova regulação cripto cria desafio tecnológico para bancos e exchanges no Brasil, diz especialista apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -3634,7 +3526,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -4977,6 +4869,39 @@
           "url": "https://livecoins.com.br/brasil-bitcoin-pede-autorizacao-ao-bacen-com-cnpj-da-corretora-brasil-8-em-meio-a-tensa-disputa-de-socios",
           "date": "2026-10-16T23:00:27.000Z",
           "summary": "Corretora pede autorização com outro CNPJ, mas administradores garantem funcionamento normal para os investidores: \"vamos resolver a disputa societária rápido e continuaremos com foco nos clientes\" Fonte: Brasil Bitcoin pede autorização ao Bacen com CNPJ da corretora Brasil 8, em meio a tensa disputa de sócios Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T16:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+          "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+          "date": "2026-10-17T16:01:03.000Z",
+          "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s."
         }
       ],
       "validation": {
@@ -9761,6 +9686,73 @@
       "status": "pendente"
     },
     {
+      "id": "binance-us-busca-investimento-de-us-100-milhoes-mirando-avaliacao-de",
+      "headline": "Binance US busca investimento de US$ 100 milhões, mirando avaliação de US$ 1 bilhão, diz Bloomberg",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-17T18:06:01.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Binance US busca investimento de US$ 100 milhões, mirando avaliação de US$ 1 bilhão, diz Bloomberg",
+          "url": "https://livecoins.com.br/binance-us-busca-investimento-de-us-100-milhoes-mirando-avaliacao-de-us-1-bilhao-diz-bloomberg",
+          "date": "2026-10-17T18:06:01.000Z",
+          "summary": "Empresa ligada ao presidente americano Donald Trump estaria entre os possíveis investidores Fonte: Binance US busca investimento de US$ 100 milhões, mirando avaliação de US$ 1 bilhão, diz Bloomberg Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "cade-aprova-uniao-de-coinbase-visa-mastercard-shopify-e-stripe-para",
+      "headline": "Cade aprova união de Coinbase, Visa, Mastercard, Shopify e Stripe para lançar nova stablecoin global de Dólar",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-17T16:54:47.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Cade aprova união de Coinbase, Visa, Mastercard, Shopify e Stripe para lançar nova stablecoin global de Dólar",
+          "url": "https://livecoins.com.br/cade-aprova-uniao-de-coinbase-visa-mastercard-shopify-e-stripe-para-lancar-nova-stablecoin-global-de-dolar",
+          "date": "2026-10-17T16:54:47.000Z",
+          "summary": "Projeto batizado de Open Standard promete infraestrutura neutra para o comércio eletrônico mundial Fonte: Cade aprova união de Coinbase, Visa, Mastercard, Shopify e Stripe para lançar nova stablecoin global de Dólar Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "ledger-investigates-fund-losses-tied-to-southeast-asian-reseller",
       "headline": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
       "category": "blockchain",
@@ -10460,94 +10452,26 @@
       "status": "pendente"
     },
     {
-      "id": "polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated",
-      "headline": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-17T14:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-          "url": "https://coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-          "date": "2026-10-17T14:00:00.000Z",
-          "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "solana-shows-resilience-but-some-areas-need-continued-observation",
-      "headline": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-      "category": "tecnologia",
-      "tags": [
-        "Solana"
-      ],
-      "firstSeen": "2026-10-17T12:58:03.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-          "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
-          "date": "2026-10-17T12:58:03.000Z",
-          "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "chinese-startup-stepfun-launches-a-phone-built-around-an-ai-agent-not",
-      "headline": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "id": "turkey-confirms-hex-founder-richard-heart-s-arrest-says-police-seized",
+      "headline": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-17T15:01:03.000Z",
+      "firstSeen": "2026-10-17T18:14:43.000Z",
       "publishers": [
-        "Decrypt"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-          "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
-          "date": "2026-10-17T15:01:03.000Z",
-          "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app."
+          "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
+          "url": "https://theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+          "date": "2026-10-17T18:14:43.000Z",
+          "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses."
         }
       ],
       "validation": {

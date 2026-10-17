@@ -1,16 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-17T15:56:23.974Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-17T20:58:17.823Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
-
-## Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
-- [Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds — https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds (2026-10-11T17:11:03.000Z)
 
 ## Tokenized catastrophe bonds target the disaster-insurance gap
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-17T15:56:23.974Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Binance.US seeks $1B valuation in potential $100M funding round: Report — https://cointelegraph.com/news/binance-us-funding-valuation-billion (2026-10-15T20:21:11.000Z)
+
+## Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms — https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading (2026-10-15T20:31:04.000Z)
