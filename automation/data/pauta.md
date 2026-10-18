@@ -1,26 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-18T11:43:19.873Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-18T16:08:27.999Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
-
-## Tokenized catastrophe bonds target the disaster-insurance gap
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Tokenized catastrophe bonds target the disaster-insurance gap — https://coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap (2026-10-12T15:00:00.000Z)
-
-## XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Decrypt] XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015 — https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding (2026-10-12T15:56:35.000Z)
-
-## DeFi Development grows SOL holdings 12% as CHAD hits record highs
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [The Block] DeFi Development grows SOL holdings 12% as CHAD hits record highs — https://theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307 (2026-10-12T14:53:25.000Z)
 
 ## BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing
 
@@ -151,3 +136,18 @@ Gerada em 2026-10-18T11:43:19.873Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [Decrypt] Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms — https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading (2026-10-15T20:31:04.000Z)
+
+## An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own — https://coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own (2026-10-16T04:29:19.000Z)
+
+## Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound — https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound (2026-10-16T04:14:22.000Z)
+
+## Circle targets 40 new markets as stablecoin demand grows globally
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Circle targets 40 new markets as stablecoin demand grows globally — https://coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally (2026-10-16T10:54:35.000Z)
