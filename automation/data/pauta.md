@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-18T16:08:27.999Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-18T21:02:28.796Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
