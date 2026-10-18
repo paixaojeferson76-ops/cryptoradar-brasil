@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T05:09:29.432Z",
+  "updatedAt": "2026-10-18T11:43:19.873Z",
   "stories": [
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -1578,6 +1578,37 @@
           "url": "https://theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
           "date": "2026-10-17T19:56:25.000Z",
           "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
+      "headline": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "category": "tecnologia",
+      "tags": [],
+      "firstSeen": "2026-10-18T10:43:12.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+          "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
+          "date": "2026-10-18T10:43:12.000Z",
+          "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems."
         }
       ],
       "validation": {
@@ -3563,178 +3594,11 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-falls-below-83-000-as-dollar-strength-keeps-markets-on-edge",
-      "headline": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T11:21:11.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-          "url": "https://coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-          "date": "2026-10-12T11:21:11.000Z",
-          "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "global-financial-watchdog-calls-for-cross-border-information-sharing",
-      "headline": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-12T11:02:38.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-          "url": "https://coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-          "date": "2026-10-12T11:02:38.000Z",
-          "summary": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "south-korea-just-got-its-first-traditional-bank-loans-backed-by",
-      "headline": "South Korea just got its first traditional bank loans backed by bitcoin",
+      "id": "chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+      "headline": "Chinese suspect in $75M international crime network arrested in Bangkok",
       "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T10:57:37.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-          "url": "https://coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-          "date": "2026-10-12T10:57:37.000Z",
-          "summary": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "swi-raises-894-million-to-repurpose-former-ftx-bitcoin-miner-genesis",
-      "headline": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-10-12T10:27:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-          "url": "https://coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-          "date": "2026-10-12T10:27:00.000Z",
-          "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "altcoins-rally-on-thin-trading-as-bitcoin-holds-below-83-500",
-      "headline": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-12T10:20:54.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-          "url": "https://coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-          "date": "2026-10-12T10:20:54.000Z",
-          "summary": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "australia-proposes-leverage-caps-for-crypto-settled-derivatives",
-      "headline": "Australia proposes leverage caps for crypto-settled derivatives",
-      "category": "mineracao",
       "tags": [],
-      "firstSeen": "2026-10-12T11:41:58.000Z",
+      "firstSeen": "2026-10-18T09:14:26.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -3746,10 +3610,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Australia proposes leverage caps for crypto-settled derivatives",
-          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
-          "date": "2026-10-12T11:41:58.000Z",
-          "summary": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets."
+          "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+          "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+          "date": "2026-10-18T09:14:26.000Z",
+          "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts."
         }
       ],
       "validation": {
@@ -3757,205 +3621,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "btc-price-support-holds-ahead-of-us-cpi-data-three-things-bitcoin",
-      "headline": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T11:14:10.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-          "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week",
-          "date": "2026-10-12T11:14:10.000Z",
-          "summary": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "kraken-parent-clears-dubai-s-final-hurdle-for-dirham-trading-rollout",
-      "headline": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-12T09:41:17.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-          "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion",
-          "date": "2026-10-12T09:41:17.000Z",
-          "summary": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "standard-chartered-adds-ripple-usd-custody-eyes-lmax-collateral-deal",
-      "headline": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins",
-        "XRP"
-      ],
-      "firstSeen": "2026-10-12T09:30:57.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-          "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal",
-          "date": "2026-10-12T09:30:57.000Z",
-          "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
-      "headline": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T11:41:50.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
-          "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
-          "date": "2026-10-12T11:41:50.000Z",
-          "summary": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-      "headline": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-12T10:12:48.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-          "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-          "date": "2026-10-12T10:12:48.000Z",
-          "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "morgan-stanley-expects-to-support-tokenized-equities-in-q1-2027",
-      "headline": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-12T10:10:13.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-          "url": "https://theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-          "date": "2026-10-12T10:10:13.000Z",
-          "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -4981,103 +4647,6 @@
       "status": "pendente"
     },
     {
-      "id": "u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "headline": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-12T08:58:24.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-          "url": "https://coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-          "date": "2026-10-12T08:58:24.000Z",
-          "summary": "Your look at what's coming in the week starting Oct. 12."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
-      "status": "pendente"
-    },
-    {
-      "id": "ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by",
-      "headline": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "category": "blockchain",
-      "tags": [],
-      "firstSeen": "2026-10-12T07:49:40.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-          "url": "https://coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-          "date": "2026-10-12T07:49:40.000Z",
-          "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
-      "status": "pendente"
-    },
-    {
-      "id": "south-korean-bank-launches-bitcoin-backed-business-loans-report",
-      "headline": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T08:45:58.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-          "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans",
-          "date": "2026-10-12T08:45:58.000Z",
-          "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-miners-face-widening-ai-financing-costs-as-lenders-scrutinize",
       "headline": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
       "category": "mineracao",
@@ -6057,39 +5626,6 @@
         "reasons": []
       },
       "score": 36,
-      "status": "pendente"
-    },
-    {
-      "id": "global-watchdog-flags-stablecoin-risks-ai-threats-ahead-of-g20",
-      "headline": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-12T06:30:21.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-          "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting",
-          "date": "2026-10-12T06:30:21.000Z",
-          "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 35,
       "status": "pendente"
     },
     {
@@ -10418,6 +9954,75 @@
       },
       "score": 22,
       "status": "pendente"
+    },
+    {
+      "id": "chip-stock-bets-lost-52-million-in-10-minutes-with-wall-street-shut",
+      "headline": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-10-18T07:13:32.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+          "url": "https://coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+          "date": "2026-10-18T07:13:32.000Z",
+          "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "tether-backs-aisa-as-strategic-investor-completing-seed-extension",
+      "headline": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-18T06:26:53.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+          "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+          "date": "2026-10-18T06:26:53.000Z",
+          "summary": "The round brings AIsa’s total funding to more than $9 million."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
