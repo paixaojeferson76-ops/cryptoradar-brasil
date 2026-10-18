@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T20:58:17.823Z",
+  "updatedAt": "2026-10-18T05:09:29.432Z",
   "stories": [
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -3530,6 +3530,39 @@
       "status": "pendente"
     },
     {
+      "id": "circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners",
+      "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-18T01:06:35.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+          "url": "https://coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+          "date": "2026-10-18T01:06:35.000Z",
+          "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-falls-below-83-000-as-dollar-strength-keeps-markets-on-edge",
       "headline": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "category": "mercado",
@@ -4913,6 +4946,41 @@
       "status": "pendente"
     },
     {
+      "id": "rede-blockchain-brasil-organiza-encontro-para-discutir-regulacao-e",
+      "headline": "Rede Blockchain Brasil organiza encontro para discutir regulação e tecnologia governamental na sede do BNDES",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-17T22:44:35.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Rede Blockchain Brasil organiza encontro para discutir regulação e tecnologia governamental na sede do BNDES",
+          "url": "https://livecoins.com.br/rede-blockchain-brasil-organiza-encontro-para-discutir-regulacao-e-tecnologia-governamental-na-sede-do-bndes",
+          "date": "2026-10-17T22:44:35.000Z",
+          "summary": "Evento BlockchainGov 2026 promove painéis sobre infraestrutura digital e inteligência artificial Fonte: Rede Blockchain Brasil organiza encontro para discutir regulação e tecnologia governamental na sede do BNDES Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
       "headline": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
       "category": "ethereum",
@@ -5992,40 +6060,6 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-pulls-back-from-84-000-as-oil-recovers-etfs-bleed-over-600",
-      "headline": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-12T04:49:30.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
-          "url": "https://coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-          "date": "2026-10-12T04:49:30.000Z",
-          "summary": "Bitcoin reversed early gains as oil bounced back to over $92. Analysts express concerns over large outflows from spot ETFs last week."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 35,
-      "status": "pendente"
-    },
-    {
       "id": "global-watchdog-flags-stablecoin-risks-ai-threats-ahead-of-g20",
       "headline": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
       "category": "altcoins",
@@ -6048,72 +6082,6 @@
           "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting",
           "date": "2026-10-12T06:30:21.000Z",
           "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 35,
-      "status": "pendente"
-    },
-    {
-      "id": "french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k",
-      "headline": "French lawmakers back reporting rule for crypto wallets over $112K",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-12T04:45:15.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-          "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k",
-          "date": "2026-10-12T04:45:15.000Z",
-          "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 35,
-      "status": "pendente"
-    },
-    {
-      "id": "former-acting-chair-caroline-pham-says-cftc-can-regulate-almost",
-      "headline": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-12T04:33:57.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
-          "url": "https://theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-          "date": "2026-10-12T04:33:57.000Z",
-          "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States."
         }
       ],
       "validation": {
@@ -10450,39 +10418,6 @@
       },
       "score": 22,
       "status": "pendente"
-    },
-    {
-      "id": "turkey-confirms-hex-founder-richard-heart-s-arrest-says-police-seized",
-      "headline": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-17T18:14:43.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
-          "url": "https://theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-          "date": "2026-10-17T18:14:43.000Z",
-          "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }
