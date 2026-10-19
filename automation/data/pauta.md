@@ -1,6 +1,18 @@
 # Pauta de notícias
 
-Gerada em 2026-10-19T05:20:10.134Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-19T13:57:26.883Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Strategy buys $22M in Bitcoin, repurchases $193M in STRC
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 77
+- [Cointelegraph] Strategy buys $22M in Bitcoin, repurchases $193M in STRC — https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million (2026-10-19T12:30:00.000Z)
+- [Decrypt] Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC — https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc (2026-10-19T13:04:48.000Z)
+
+## JPMorgan takes JPM Coin to Ethereum for institutional clients: Report
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 74
+- [Cointelegraph] JPMorgan takes JPM Coin to Ethereum for institutional clients: Report — https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients (2026-10-19T08:58:45.000Z)
+- [The Block] JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients — https://theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874 (2026-10-19T08:31:31.000Z)
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
@@ -141,13 +153,3 @@ Gerada em 2026-10-19T05:20:10.134Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
 - [CoinDesk] An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own — https://coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own (2026-10-16T04:29:19.000Z)
-
-## Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound — https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound (2026-10-16T04:14:22.000Z)
-
-## Circle targets 40 new markets as stablecoin demand grows globally
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Circle targets 40 new markets as stablecoin demand grows globally — https://coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally (2026-10-16T10:54:35.000Z)
