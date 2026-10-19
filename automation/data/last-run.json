@@ -1,26 +1,7 @@
 {
-  "at": "2026-10-19T13:59:49.916Z",
+  "at": "2026-10-19T22:38:32.945Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "strategy-adquire-us-22-milhoes-em-bitcoin-e-recompra-us-193-milhoes-em-acoes",
-      "title": "Strategy adquire US$ 22 milhões em Bitcoin e recompra US$ 193 milhões em ações preferenciais",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
-        "Decrypt"
-      ]
-    },
-    {
-      "slug": "jpmorgan-expande-token-de-deposito-jpm-coin-para-a-rede-ethereum-para-clientes",
-      "title": "JPMorgan expande token de depósito JPM Coin para a rede Ethereum para clientes institucionais",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
-        "The Block"
-      ]
-    }
-  ],
+  "review": [],
   "skipped": [],
   "errors": []
 }
