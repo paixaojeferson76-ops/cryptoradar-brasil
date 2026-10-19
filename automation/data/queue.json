@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T21:02:28.796Z",
+  "updatedAt": "2026-10-19T05:20:10.134Z",
   "stories": [
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -1652,93 +1652,28 @@
       "status": "pendente"
     },
     {
-      "id": "ftx-s-crypto-mining-venture-is-now-used-to-advance-ai",
-      "headline": "FTX’s crypto mining venture is now used to advance AI",
-      "category": "mineracao",
-      "tags": [
-        "mineração"
-      ],
-      "firstSeen": "2026-10-12T21:11:26.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FTX’s crypto mining venture is now used to advance AI",
-          "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
-          "date": "2026-10-12T21:11:26.000Z",
-          "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "standard-chartered-will-hold-ripple-s-stablecoin-in-dubai-and-let",
-      "headline": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins",
-        "XRP"
-      ],
-      "firstSeen": "2026-10-12T21:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-          "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-          "date": "2026-10-12T21:16:03.000Z",
-          "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "blur-to-shut-down-frontend-next-month-as-nft-trading-volume-dwindles",
-      "headline": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "id": "bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats",
+      "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
       "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-12T21:49:02.000Z",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-19T03:36:58.000Z",
       "publishers": [
-        "The Block"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
-          "url": "https://theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
-          "date": "2026-10-12T21:49:02.000Z",
-          "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."
+          "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+          "url": "https://coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+          "date": "2026-10-19T03:36:58.000Z",
+          "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite."
         }
       ],
       "validation": {
@@ -1746,7 +1681,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -3558,6 +3493,72 @@
       "status": "pendente"
     },
     {
+      "id": "deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german",
+      "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-19T02:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+          "url": "https://coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+          "date": "2026-10-19T02:00:00.000Z",
+          "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "qubic-freezes-chain-after-attacker-drains-1-4k-wallets-with-weak-seeds",
+      "headline": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-10-19T01:03:27.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+          "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
+          "date": "2026-10-19T01:03:27.000Z",
+          "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "how-the-sec-s-lack-of-leadership-could-facilitate-crypto-rulemaking",
       "headline": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
       "category": "regulacao",
@@ -4503,6 +4504,72 @@
           "url": "https://coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
           "date": "2026-10-18T16:33:00.000Z",
           "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom",
+      "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "category": "blockchain",
+      "tags": [
+        "regulação",
+        "SEC",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-18T23:28:06.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+          "url": "https://coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+          "date": "2026-10-18T23:28:06.000Z",
+          "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "richard-heart-caught-off-guard-qday-gets-even-closer-hodler-s-digest",
+      "headline": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-18T22:58:17.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
+          "date": "2026-10-18T22:58:17.000Z",
+          "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring."
         }
       ],
       "validation": {
@@ -6328,72 +6395,6 @@
       "status": "pendente"
     },
     {
-      "id": "once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after",
-      "headline": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-13T04:43:18.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-          "url": "https://coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-          "date": "2026-10-13T04:43:18.000Z",
-          "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-rebounds-above-83-000-decoupling-from-tumbling-korean-stocks",
-      "headline": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T04:18:20.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
-          "url": "https://coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-          "date": "2026-10-13T04:18:20.000Z",
-          "summary": "Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday’s US CPI report."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
-      "status": "pendente"
-    },
-    {
       "id": "binance-vip-head-says-hedge-funds-are-actively-exploring-arbitrage",
       "headline": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
       "category": "mercado",
@@ -6422,169 +6423,6 @@
         "reasons": []
       },
       "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-whale-moves-378-million-in-btc-after-six-years-of-dormancy",
-      "headline": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T04:18:30.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
-          "url": "https://theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
-          "date": "2026-10-13T04:18:30.000Z",
-          "summary": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc",
-      "headline": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "category": "mineracao",
-      "tags": [],
-      "firstSeen": "2026-10-13T02:41:30.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-          "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc",
-          "date": "2026-10-13T02:41:30.000Z",
-          "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 31,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-slides-below-82-000-as-crypto-liquidations-surge-past-770",
-      "headline": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T01:57:49.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
-          "url": "https://theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
-          "date": "2026-10-13T01:57:49.000Z",
-          "summary": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 31,
-      "status": "pendente"
-    },
-    {
-      "id": "moscow-exchange-to-launch-bitcoin-trading-testing-underway",
-      "headline": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T22:10:39.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
-          "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
-          "date": "2026-10-12T22:10:39.000Z",
-          "summary": "Bitcoin Magazine Moscow Exchange to Launch Bitcoin Trading, Testing Underway Russia in recent months has paved the way to allow its citizens to trade bitcoin. This post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-de-graca-entenda-como-holders-estao-ganhando-copia-do-bitcoin",
-      "headline": "“Bitcoin de graça”? Entenda como holders estão ganhando cópia do bitcoin após o fork de agosto",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T23:26:33.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "“Bitcoin de graça”? Entenda como holders estão ganhando cópia do bitcoin após o fork de agosto",
-          "url": "https://livecoins.com.br/bitcoin-de-graca-entenda-como-holders-estao-ganhando-copia-do-bitcoin-apos-o-fork-de-agosto",
-          "date": "2026-10-12T23:26:33.000Z",
-          "summary": "Entenda o fork BIP 110, como funciona a divisão da rede Bitcoin e como holders podem verificar a elegibilidade para recuperar ativos. Fonte: “Bitcoin de graça”? Entenda como holders estão ganhando cópia do bitcoin após o fork de agosto Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
       "status": "pendente"
     },
     {
@@ -7685,39 +7523,6 @@
         "reasons": []
       },
       "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "south-korean-lender-jeonbuk-bank-to-offer-bitcoin-backed-loans",
-      "headline": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-12T22:06:36.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
-          "url": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
-          "date": "2026-10-12T22:06:36.000Z",
-          "summary": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
       "status": "pendente"
     },
     {
@@ -9555,26 +9360,61 @@
       "status": "pendente"
     },
     {
-      "id": "mapquest-now-shows-drivers-where-flock-cameras-are-watching",
-      "headline": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-18T16:31:03.000Z",
+      "id": "xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+      "headline": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "category": "defi",
+      "tags": [
+        "XRP"
+      ],
+      "firstSeen": "2026-10-19T04:54:31.000Z",
       "publishers": [
-        "Decrypt"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
-          "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
-          "date": "2026-10-18T16:31:03.000Z",
-          "summary": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows."
+          "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+          "url": "https://coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+          "date": "2026-10-19T04:54:31.000Z",
+          "summary": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "world-launches-world-id-suite-for-banks-makes-zoom-deepfake-check",
+      "headline": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-10-19T01:10:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+          "url": "https://theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+          "date": "2026-10-19T01:10:00.000Z",
+          "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls."
         }
       ],
       "validation": {
