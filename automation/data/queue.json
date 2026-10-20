@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:38:30.147Z",
+  "updatedAt": "2026-10-20T05:18:07.075Z",
   "stories": [
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -32,39 +32,6 @@
         "reasons": []
       },
       "score": 51,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-climbs-toward-84-000-after-fed-s-williams-sees-no-rate-hikes",
-      "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-14T03:50:54.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-          "url": "https://coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-          "date": "2026-10-14T03:50:54.000Z",
-          "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1948,44 +1915,14 @@
       "status": "pendente"
     },
     {
-      "id": "bitwise-s-hougan-says-q3-charts-point-to-crypto-spring",
-      "headline": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-14T02:19:56.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-          "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring",
-          "date": "2026-10-14T02:19:56.000Z",
-          "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "coinbase-lays-out-flexible-designs-as-key-priority-for-bitcoin-s-post",
-      "headline": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
-      "category": "bitcoin",
+      "id": "blockchain-association-says-treasury-s-genius-act-rollout-needs",
+      "headline": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
+      "category": "regulacao",
       "tags": [
-        "Bitcoin"
+        "stablecoins",
+        "DeFi"
       ],
-      "firstSeen": "2026-10-14T02:49:34.000Z",
+      "firstSeen": "2026-10-20T04:07:41.000Z",
       "publishers": [
         "The Block"
       ],
@@ -1997,10 +1934,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
-          "url": "https://theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
-          "date": "2026-10-14T02:49:34.000Z",
-          "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration."
+          "title": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
+          "url": "https://theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
+          "date": "2026-10-20T04:07:41.000Z",
+          "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins."
         }
       ],
       "validation": {
@@ -2008,7 +1945,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4214,61 +4151,28 @@
       "status": "pendente"
     },
     {
-      "id": "largest-philippines-crypto-exchange-coins-ph-said-to-face-central",
-      "headline": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "id": "bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
+      "headline": "Bitcoin rally could revive treasury buying, but easy-money days over",
       "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-14T01:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-          "url": "https://coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-          "date": "2026-10-14T01:00:00.000Z",
-          "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "strive-raising-500-million-to-buy-additional-bitcoin-with-new",
-      "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-13T23:23:05.000Z",
+      "firstSeen": "2026-10-20T01:35:00.000Z",
       "publishers": [
-        "CoinDesk"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-          "url": "https://coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-          "date": "2026-10-13T23:23:05.000Z",
-          "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%)."
+          "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+          "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
+          "date": "2026-10-20T01:35:00.000Z",
+          "summary": "“A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner."
         }
       ],
       "validation": {
@@ -4276,7 +4180,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -6725,73 +6629,6 @@
       "status": "pendente"
     },
     {
-      "id": "kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-      "headline": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-13T22:52:10.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
-          "url": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-          "date": "2026-10-13T22:52:10.000Z",
-          "summary": "Bitcoin Magazine Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch Kraken currently has more than 100 licenses and registrations worldwide. This post Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "researchers-build-first-working-post-quantum-defense-for-bitcoin-s",
-      "headline": "Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "Lightning"
-      ],
-      "firstSeen": "2026-10-13T22:49:07.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network",
-          "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
-          "date": "2026-10-13T22:49:07.000Z",
-          "summary": "Bitcoin Magazine Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network Second-layer solutions like Lightning may also need protection from quantum computers. Here’s how a research team appears to have cracked it. This post Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "russia-s-central-bank-authorizes-sberbank-to-exchange-cryptocurrencies",
       "headline": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
       "category": "bitcoin",
@@ -8047,6 +7884,40 @@
           "url": "https://livecoins.com.br/binance-anuncia-distribuicao-de-dividendos-da-dell-por-meio-de-acoes-tokenizadas",
           "date": "2026-10-19T20:23:13.000Z",
           "summary": "Corretora fará captura de saldos do token DELLB na terça-feira (20) Fonte: Binance anuncia distribuição de dividendos da Dell por meio de ações tokenizadas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "now-accepting-bitcoin-gyros-cocas-and-219-arizona-bitcoin-merchants",
+      "headline": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Lightning"
+      ],
+      "firstSeen": "2026-10-20T03:54:15.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+          "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+          "date": "2026-10-20T03:54:15.000Z",
+          "summary": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond ."
         }
       ],
       "validation": {
@@ -9795,13 +9666,11 @@
       "status": "pendente"
     },
     {
-      "id": "solana-treasury-firm-skyai-sells-all-sol-holdings-launches-201m",
-      "headline": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "id": "us-bans-deepseek-from-civilian-agency-it-systems",
+      "headline": "US bans DeepSeek from civilian agency IT systems",
       "category": "regulacao",
-      "tags": [
-        "Solana"
-      ],
-      "firstSeen": "2026-10-19T21:04:34.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-20T04:07:58.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -9813,214 +9682,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-          "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback",
-          "date": "2026-10-19T21:04:34.000Z",
-          "summary": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "anthropic-gives-5-of-itself-to-the-public-musk-answers-by-giving-away",
-      "headline": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-19T21:15:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-          "url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
-          "date": "2026-10-19T21:15:04.000Z",
-          "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "xrp-ledger-repairs-its-lending-protocol-before-it-goes-live",
-      "headline": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "category": "defi",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-10-19T20:46:05.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-          "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-          "date": "2026-10-19T20:46:05.000Z",
-          "summary": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "hackers-are-running-apple-s-ios-on-android-phones-for-the-first-time",
-      "headline": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-19T19:46:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-          "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
-          "date": "2026-10-19T19:46:04.000Z",
-          "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "us-orders-civilian-agencies-to-rip-deepseek-out-of-government-systems",
-      "headline": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-19T18:16:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
-          "url": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
-          "date": "2026-10-19T18:16:04.000Z",
-          "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "galaxy-s-ai-data-center-business-is-undervalued-amid-coreweave-debt",
-      "headline": "Galaxy’s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-19T15:53:42.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Galaxy’s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
-          "url": "https://theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045",
-          "date": "2026-10-19T15:53:42.000Z",
-          "summary": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "skyai-sells-off-entire-solana-treasury-as-it-launches-201-million",
-      "headline": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-      "category": "regulacao",
-      "tags": [
-        "Solana"
-      ],
-      "firstSeen": "2026-10-19T15:28:43.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-          "url": "https://theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
-          "date": "2026-10-19T15:28:43.000Z",
-          "summary": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29."
+          "title": "US bans DeepSeek from civilian agency IT systems",
+          "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems",
+          "date": "2026-10-20T04:07:58.000Z",
+          "summary": "The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China."
         }
       ],
       "validation": {

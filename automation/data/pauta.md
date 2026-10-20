@@ -1,16 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-19T22:38:30.147Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-20T05:18:07.075Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
-
-## Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027 — https://coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027 (2026-10-14T03:50:54.000Z)
 
 ## Organizations join forces to fight Illinois crypto tax, after 6-month pause
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-19T22:38:30.147Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [CoinDesk] Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat — https://coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next (2026-10-16T10:52:26.000Z)
+
+## Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype — https://coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed (2026-10-16T10:48:49.000Z)
