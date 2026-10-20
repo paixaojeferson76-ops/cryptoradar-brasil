@@ -1,7 +1,26 @@
 {
-  "at": "2026-10-20T05:18:09.945Z",
+  "at": "2026-10-20T17:39:25.743Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "suica-aprova-primeiro-etf-de-bitcoin-a-vista-para-investidores-de-varejo",
+      "title": "Suíça aprova primeiro ETF de Bitcoin à vista para investidores de varejo",
+      "confidence": "media",
+      "sources": [
+        "Cointelegraph",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
-  "errors": []
+  "errors": [
+    {
+      "headline": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
 }

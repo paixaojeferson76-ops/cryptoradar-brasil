@@ -1,6 +1,24 @@
 # Pauta de notícias
 
-Gerada em 2026-10-20T05:18:07.075Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-20T17:31:47.189Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading
+
+- Categoria sugerida: blockchain | Confiança: media | Pontos: 75
+- [CoinDesk] Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading — https://coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading (2026-10-20T12:40:17.000Z)
+- [Cointelegraph] Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform — https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock (2026-10-20T16:23:17.000Z)
+
+## FINMA approves Switzerland’s first Bitcoin ETF for retail investors
+
+- Categoria sugerida: mercado | Confiança: media | Pontos: 74
+- [Cointelegraph] FINMA approves Switzerland’s first Bitcoin ETF for retail investors — https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail (2026-10-20T13:10:00.000Z)
+- [The Block] Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors — https://theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127 (2026-10-20T12:15:05.000Z)
+
+## JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 72
+- [CoinDesk] JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade — https://coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade (2026-10-20T11:10:40.000Z)
+- [Cointelegraph] JPMorgan projects Bitcoin to outperform US stocks and gold over next decade — https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns (2026-10-20T08:54:27.000Z)
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
@@ -136,18 +154,3 @@ Gerada em 2026-10-20T05:18:07.075Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [CoinDesk] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound — https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound (2026-10-16T04:14:22.000Z)
-
-## Circle targets 40 new markets as stablecoin demand grows globally
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Circle targets 40 new markets as stablecoin demand grows globally — https://coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally (2026-10-16T10:54:35.000Z)
-
-## Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat — https://coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next (2026-10-16T10:52:26.000Z)
-
-## Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype — https://coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed (2026-10-16T10:48:49.000Z)
