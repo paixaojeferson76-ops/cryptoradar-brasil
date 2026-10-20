@@ -1,26 +1,26 @@
 {
-  "at": "2026-10-20T17:39:25.743Z",
+  "at": "2026-10-20T21:54:44.589Z",
   "auto": [],
   "review": [
     {
-      "slug": "suica-aprova-primeiro-etf-de-bitcoin-a-vista-para-investidores-de-varejo",
-      "title": "Suíça aprova primeiro ETF de Bitcoin à vista para investidores de varejo",
+      "slug": "microsoft-alphabet-e-goldman-sachs-rejeitam-negociacao-de-acoes-tokenizadas-na",
+      "title": "Microsoft, Alphabet e Goldman Sachs rejeitam negociação de ações tokenizadas na OKX-ICE",
       "confidence": "media",
       "sources": [
-        "Cointelegraph",
-        "The Block"
+        "CoinDesk",
+        "Cointelegraph"
+      ]
+    },
+    {
+      "slug": "jpmorgan-projeta-retorno-anual-de-10-para-o-bitcoin-e-supera-acoes-e-ouro-na",
+      "title": "JPMorgan projeta retorno anual de 10% para o Bitcoin e supera ações e ouro na próxima década",
+      "confidence": "media",
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph"
       ]
     }
   ],
   "skipped": [],
-  "errors": [
-    {
-      "headline": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
-      "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "error": "The operation was aborted due to timeout"
-    }
-  ]
+  "errors": []
 }

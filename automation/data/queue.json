@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:31:47.189Z",
+  "updatedAt": "2026-10-20T21:52:46.848Z",
   "stories": [
     {
       "id": "microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice",
@@ -24,8 +24,7 @@
           "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
           "url": "https://coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
           "date": "2026-10-20T12:40:17.000Z",
-          "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
-          "fullText": "Microsoft MSFT $533.70 , Alphabet (GOOG, GOOGL) and Goldman Sachs (GS) have objected to having tokenized versions of their shares traded on OKXICE, adding to issuer resistance against the planned stock-trading venue from crypto exchange OKX and New York Stock Exchange parent Intercontinental Exchange (ICE).\nThe companies appear among seven additional objecting issuers in the joint venture’s updated public notice dated Oct. 19 . Qualcomm (QCOM), Caterpillar (CAT), McDonald’s (MCD) and Western Digital (WDC) also joined the list.\nThe additions bring the disclosed tally to 16 companies, up from nine in last week’s notice. The document does not explain their reasons or specify when they submitted their objections.\nRead more: SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing\nThe growing list highlights a hurdle for the SEC’s new framework for tokenized stock trading, which was unveiled last month.\nOKXICE’s original notice identified 63 tickers representing 62 companies, with Alphabet appearing through both share classes. Fifteen of those companies have now objected, leaving 47 without a disclosed objection. Cerebras Systems (CBRS), the other objecting issuer, was outside the original proposed trading roster.\nPrevious objectors also included Broadcom (AVGO), Verizon (VZ), UnitedHealth (UNH), CoreWeave (CRWV), AppLovin (APP), Applied Digital (APLD), Rocket Lab (RKLB) and Applied Optoelectronics (AAOI).\nOKXICE announced its plans on Oct. 5, seeking to operate under the SEC’s five-year “Innovation Exemption.” The framework allows qualifying venues to trade tokenized U.S. stocks through automated market makers and liquidity pools, while giving issuers an opportunity to object.\nDiversified RWA stablecoins sustain 5-7% yield from real credit as crypto funding compresses to ~4%. GENIUS pushes yield off-chain; TAM grows to $4B in 3 years.\nDiversified RWA stablecoins sustain 5-7% yield from real credit as crypto funding compresses to ~4%. GENIUS pushes yield off-chain; TAM grows to $4B in 3 years.\nDiversified RWA stablecoins sustain 5-7% yield from real credit as crypto funding compresses to ~4%. GENIUS pushes yield off-chain; TAM grows to $4B in 3 years."
+          "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16."
         },
         {
           "feed": "cointelegraph",
@@ -36,8 +35,7 @@
           "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
           "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock",
           "date": "2026-10-20T16:23:17.000Z",
-          "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
-          "fullText": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.\nMore companies are formally objecting to having tokenized versions of their shares available on the stock platform proposed by cryptocurrency exchange OKX and the New York Stock Exchange’s parent, the Intercontinental Exchange.\nIn a notice updated Monday, the joint venture between OKX and the Intercontinental Exchange (ICE), called OKXICE, reported receiving 16 notices of issuer objection from companies including Microsoft, Google’s parent company Alphabet and Goldman Sachs. The objections did not include specific reasons for the notice to OKX, but one expert told Cointelegraph that they could relate to “not knowing what happens to their price” on the proposed platform.\nSpeaking to Cointelegraph on Tuesday, OKXICE co-chair and former New York Governor Andrew Cuomo said that these notices were “not objections,” citing the Securities and Exchange Commission (SEC) “opening up to a global 24/7 marketplace.” He characterized objections as some companies standing on the side of a pool while letting others jump in and test the waters for OKXICE’s tokenized stock model.\nCuomo said earlier this month, when OKX and ICE filed with the SEC, that the proposed tokenized stock trading platform would offer shares for more than 60 companies listed on US exchanges. Of the 62 proposed companies, about 25% have issued objections.\nAccording to OKXICE, the proposed platform would operate 24/7 using permissioned Uniswap v4 liquidity pools deployed on XLayer. Each tokenized stock would be paired with one of three payment stablecoins: Tether’s USDt (USDT), Circle’s USDC (USDC) or Global Dollar (USDG).\nRelated: JPMorgan projects Bitcoin to outperform US stocks and gold over next decade"
+          "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture."
         }
       ],
       "validation": {
@@ -46,55 +44,8 @@
         "reasons": []
       },
       "score": 75,
-      "status": "pendente"
-    },
-    {
-      "id": "finma-approves-switzerland-s-first-bitcoin-etf-for-retail-investors",
-      "headline": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-20T12:15:05.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-          "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
-          "date": "2026-10-20T13:10:00.000Z",
-          "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
-          "url": "https://theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-          "date": "2026-10-20T12:15:05.000Z",
-          "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 74,
       "status": "gerada",
-      "slug": "suica-aprova-primeiro-etf-de-bitcoin-a-vista-para-investidores-de-varejo"
+      "slug": "microsoft-alphabet-e-goldman-sachs-rejeitam-negociacao-de-acoes-tokenizadas-na"
     },
     {
       "id": "jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold",
@@ -119,8 +70,7 @@
           "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
           "url": "https://coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
           "date": "2026-10-20T11:10:40.000Z",
-          "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.",
-          "fullText": "JPMorgan’s (JPM) asset management division expects bitcoin BTC $82,640.56 to outperform U.S. stocks, bonds and gold over the next 10 years.\nThe asset manager forecasted a base case of 10% annualized returns for bitcoin over the next 10 years in its 2027 Long-Term Capital Market Assumptions report on Tuesday. The bank also set a bear case of -9.7% and a bull case of 17%.\nThe figure compared to projected 5.6%-6.6% growth in U.S. bonds, 7.5% and 7.7% in U.S. large and small-cap equities respectively and 5.5% in gold.\nThe report marks the first time JPMorgan has put a range on bitcoin returns in its research.\nThe New York based banking group has a complicated history with cryptocurrency, largely due to the association of CEO Jamie Dimon’s widely publicized views of bitcoin. Dimon famously described the world’s largest crypto as a “fraud” in 2017, a skeptical position he has reiterated with somewhat softer verbiage in recent years.\nJPMorgan Asset Management maintained a cautious view of bitcoin in Tuesday’s report, saying its “volatility and unstable correlation to other asset classes…remain an obstacle to [its] widespread inclusion in portfolios.”\nFurthermore, JPMorgan does not make a case for bitcoin as a portfolio diversifier, instead viewing it as a “speculative asset and a hedge against monetary easing,” according to comments by portfolio manager Dr Sheena Shah and head of digital asset strategy Dennis Cristallo.\n“It lacks a strategic role in portfolios other than as a bet on fiat currency expansion or future asset trading on blockchains,” they added.\n“BTC mostly trades like a high beta risk asset that tracks global money supply growth, but it is sometimes treated as ‘digital gold.’ Unstable correlations with other assets present a modeling hurdle. A further challenge is forecasting an asset whose fundamentals are not cash flows and whose economics may be as much about adoption, regulation and liquidity as technology.”\nUPDATE (Oct. 20, 13:15 UTC): Updates to specify report is published by JPMorgan Asset Management.\nDiversified RWA stablecoins sustain 5-7% yield from real credit as crypto funding compresses to ~4%. GENIUS pushes yield off-chain; TAM grows to $4B in 3 years.\nDiversified RWA stablecoins sustain 5-7% yield from real credit as crypto funding compresses to ~4%. GENIUS pushes yield off-chain; TAM grows to $4B in 3 years.\nDiversified RWA stablecoins sustain 5-7% yield from real credit as crypto funding compresses to ~4%. GENIUS pushes yield off-chain; TAM grows to $4B in 3 years."
+          "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios."
         },
         {
           "feed": "cointelegraph",
@@ -131,8 +81,7 @@
           "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
           "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns",
           "date": "2026-10-20T08:54:27.000Z",
-          "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
-          "fullText": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.\nJPMorgan Asset Management projects Bitcoin (BTC) will outperform stocks and gold over the next decade, but cautions that its volatility makes it unsuitable for diversifying portfolios for now.\nOn Monday, JPMorgan published its 2027 Long-Term Capital Market Assumptions report, projecting a 10% annualized return for Bitcoin, compared with 7.5% for large-cap US stocks and 5.5% for gold.\nThe projections are part of JPMorgan’s annual outlook covering more than 200 assets to help investors plan their portfolios.\n“At the moment, we do not make a case for Bitcoin as a diversifier in portfolios due to its unstable market correlations,” the report said. “We see Bitcoin as a speculative asset and a hedge against monetary easing.”\nJPMorgan’s projected Bitcoin returns compared with traditional assets. Source: JPMorgan\nJPMorgan’s bull case puts Bitcoin’s annualized return at 16.6%, while its bear case projects an annualized loss of 11.2%. The calculations considered BTC supply growth relative to money supply, its potential role alongside gold and network adoption.\nRelated: JPMorgan takes JPM Coin to Ethereum for institutional clients\nBitwise Chief Investment Officer Matt Hougan welcomed Bitcoin’s inclusion in the report.\n“First they ignore you, then they laugh at you, then they fight at you, then they add you to their Long-Term Capital Markets Assumptions paper and predict you’ll be the best-performing asset of the next decade,” he wrote on X.\nHougan’s firm has published a more bullish forecast . In August 2025, Bitwise projected Bitcoin could reach $1.3 million by 2035 with a base-case annualized return of 28.3%.\nMagazine: Made an ‘honest’ mistake with crypto taxes? New bill offers way out"
+          "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
         }
       ],
       "validation": {
@@ -141,7 +90,8 @@
         "reasons": []
       },
       "score": 72,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "jpmorgan-projeta-retorno-anual-de-10-para-o-bitcoin-e-supera-acoes-e-ouro-na"
     },
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
@@ -174,99 +124,6 @@
         "reasons": []
       },
       "score": 51,
-      "status": "pendente"
-    },
-    {
-      "id": "organizations-join-forces-to-fight-illinois-crypto-tax-after-6-month",
-      "headline": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-14T20:56:22.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-          "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause",
-          "date": "2026-10-14T20:56:22.000Z",
-          "summary": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "ai-agents-made-138-million-crypto-payments-in-a-year-most-were-tiny",
-      "headline": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "category": "defi",
-      "tags": [],
-      "firstSeen": "2026-10-14T20:16:05.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-          "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
-          "date": "2026-10-14T20:16:05.000Z",
-          "summary": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "patrick-witt-exits-white-house-crypto-role-as-clarity-act-stalls",
-      "headline": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-14T20:30:15.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-          "url": "https://theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-          "date": "2026-10-14T20:30:15.000Z",
-          "summary": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2395,13 +2252,14 @@
       "status": "pendente"
     },
     {
-      "id": "eu-authority-classifies-circle-s-usdc-as-significant-under-mica",
-      "headline": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "category": "regulacao",
+      "id": "bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
+      "headline": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "category": "mercado",
       "tags": [
-        "stablecoins"
+        "regulação",
+        "SEC"
       ],
-      "firstSeen": "2026-10-14T19:03:52.000Z",
+      "firstSeen": "2026-10-20T20:38:00.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -2413,10 +2271,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-          "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica",
-          "date": "2026-10-14T19:03:52.000Z",
-          "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“"
+          "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+          "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
+          "date": "2026-10-20T20:38:00.000Z",
+          "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close."
         }
       ],
       "validation": {
@@ -2424,53 +2282,17 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "us-authorities-dismantle-crypto-scam-network-that-stole-tens-of",
-      "headline": "US authorities dismantle crypto scam network that stole tens of millions",
-      "category": "seguranca",
+      "id": "jpmorgan-puts-a-number-on-bitcoin-for-the-first-time-10-a-year-with-a",
+      "headline": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "category": "bitcoin",
       "tags": [
-        "segurança"
+        "Bitcoin"
       ],
-      "firstSeen": "2026-10-14T17:56:45.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US authorities dismantle crypto scam network that stole tens of millions",
-          "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
-          "date": "2026-10-14T17:56:45.000Z",
-          "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "russia-s-biggest-bank-sberbank-wins-approval-to-trade-bitcoin",
-      "headline": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "stablecoins",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-14T19:46:03.000Z",
+      "firstSeen": "2026-10-20T21:16:04.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -2482,10 +2304,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-          "date": "2026-10-14T19:46:03.000Z",
-          "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients."
+          "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+          "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+          "date": "2026-10-20T21:16:04.000Z",
+          "summary": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn’t adding it to its main portfolio models."
         }
       ],
       "validation": {
@@ -2493,7 +2315,74 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "wallet-linked-to-drift-exploit-sends-61-million-in-ethereum-to",
+      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-20T20:46:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+          "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+          "date": "2026-10-20T20:46:04.000Z",
+          "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "microsoft-alphabet-goldman-sachs-join-growing-list-of-companies",
+      "headline": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-20T20:16:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+          "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+          "date": "2026-10-20T20:16:04.000Z",
+          "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4831,6 +4720,240 @@
       "status": "pendente"
     },
     {
+      "id": "okx-ice-co-chair-andrew-cuomo-calls-corporate-objections-a-natural",
+      "headline": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-20T18:26:29.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+          "url": "https://coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+          "date": "2026-10-20T18:26:29.000Z",
+          "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
+      "headline": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-20T17:40:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+          "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
+          "date": "2026-10-20T17:40:00.000Z",
+          "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "swiss-regulator-approves-first-retail-fund-that-holds-bitcoin-directly",
+      "headline": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-20T19:31:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+          "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+          "date": "2026-10-20T19:31:04.000Z",
+          "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-post-their-best-day-in-nearly-a-month-as-blackrock-does",
+      "headline": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-20T18:31:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+          "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+          "date": "2026-10-20T18:31:04.000Z",
+          "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-s-next-move-here-s-what-to-watch",
+      "headline": "Bitcoin's Next Move: Here's What to Watch",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-20T17:45:04.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin's Next Move: Here's What to Watch",
+          "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+          "date": "2026-10-20T17:45:04.000Z",
+          "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-firms-wall-street-push-sec-to-revise-regulation-crypto-assets",
+      "headline": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "SEC"
+      ],
+      "firstSeen": "2026-10-20T19:19:54.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+          "url": "https://theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+          "date": "2026-10-20T19:19:54.000Z",
+          "summary": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "jpmorgan-issues-first-long-term-bitcoin-return-forecast-projecting-10",
+      "headline": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-20T18:14:28.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+          "url": "https://theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+          "date": "2026-10-20T18:14:28.000Z",
+          "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-etfs-shed-261m-as-xrp-funds-buck-weekly-outflow-trend",
       "headline": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
       "category": "mercado",
@@ -6761,140 +6884,6 @@
       "status": "pendente"
     },
     {
-      "id": "russia-s-central-bank-authorizes-sberbank-to-exchange-cryptocurrencies",
-      "headline": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-14T21:30:14.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
-          "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
-          "date": "2026-10-14T21:30:14.000Z",
-          "summary": "Bitcoin Magazine Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies Sberbank will debut its bitcoin-related products in December. This post Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "bingx-eu-obtem-licenca-micar-e-avanca-na-oferta-de-servicos-cripto",
-      "headline": "BingX EU obtém licença MiCAR e avança na oferta de serviços cripto regulados em toda a Europa",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-14T20:09:41.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "BingX EU obtém licença MiCAR e avança na oferta de serviços cripto regulados em toda a Europa",
-          "url": "https://livecoins.com.br/bingx-eu-obtem-licenca-micar-e-avanca-na-oferta-de-servicos-cripto-regulados-em-toda-a-europa",
-          "date": "2026-10-14T20:09:41.000Z",
-          "summary": "“Nossa prioridade é oferecer aos usuários europeus uma experiência de trading confiável e regulada localmente”, disse Daniel Lai, Chief Executive Officer da BingX EU Fonte: BingX EU obtém licença MiCAR e avança na oferta de serviços cripto regulados em toda a Europa Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "fsb-alerta-para-riscos-ligados-ao-mercado-de-stablecoins-hoje",
-      "headline": "FSB alerta para riscos ligados ao mercado de stablecoins, hoje avaliado em US$ 300 bilhões",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-14T20:03:44.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "FSB alerta para riscos ligados ao mercado de stablecoins, hoje avaliado em US$ 300 bilhões",
-          "url": "https://livecoins.com.br/fsb-alerta-para-riscos-ligados-ao-mercado-de-stablecoins-hoje-avaliado-em-us-300-bilhoes",
-          "date": "2026-10-14T20:03:44.000Z",
-          "summary": "Estudo menciona que uma corrida de resgates poderia afetar até mesmo o sistema financeiro tradicional Fonte: FSB alerta para riscos ligados ao mercado de stablecoins, hoje avaliado em US$ 300 bilhões Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "eua-prendem-suspeitos-de-esquema-que-infiltrou-falsos-profissionais",
-      "headline": "EUA prendem suspeitos de esquema que infiltrou falsos profissionais da Coreia do Norte em 70 empresas",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-14T19:14:29.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "EUA prendem suspeitos de esquema que infiltrou falsos profissionais da Coreia do Norte em 70 empresas",
-          "url": "https://livecoins.com.br/eua-prendem-suspeitos-de-esquema-que-infiltrou-falsos-profissionais-da-coreia-do-norte-em-70-empresas",
-          "date": "2026-10-14T19:14:29.000Z",
-          "summary": "EUA afirmam que esquema é usado para financiar programas armamentistas da Coreia do Norte Fonte: EUA prendem suspeitos de esquema que infiltrou falsos profissionais da Coreia do Norte em 70 empresas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "ripple-e-meritz-securities-firmam-parceria-para-levar-custodia",
       "headline": "Ripple e Meritz Securities firmam parceria para levar custódia institucional e tokenização aos mercados de capitais da Coreia",
       "category": "regulacao",
@@ -8330,13 +8319,116 @@
       "status": "pendente"
     },
     {
-      "id": "criptomoeda-hex-cai-40-apos-fundador-ser-preso-na-turquia",
-      "headline": "Criptomoeda HEX cai 40% após fundador ser preso na Turquia",
-      "category": "bitcoin",
+      "id": "liquid-network-announces-final-stages-of-recovery-following-massive",
+      "headline": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-20T21:10:58.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+          "url": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
+          "date": "2026-10-20T21:10:58.000Z",
+          "summary": "Bitcoin Magazine Liquid Network Announces Final Stages of Recovery Following Massive Hack One month after hackers pinched 4,000 bitcoins, the Liquid Network is up and running again. This post Liquid Network Announces Final Stages of Recovery Following Massive Hack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "swiss-financial-regulator-gives-green-light-to-country-s-first",
+      "headline": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "ETFs",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-20T20:53:32.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
+          "url": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
+          "date": "2026-10-20T20:53:32.000Z",
+          "summary": "Bitcoin Magazine Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF Bitcoin exchange-traded funds were only available to institutional investors — until now. This post Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-treasury-strive-debuts-new-preferred-stock-with-15-dividend",
+      "headline": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
+      "category": "regulacao",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-14T17:40:33.000Z",
+      "firstSeen": "2026-10-20T20:13:19.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
+          "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
+          "date": "2026-10-20T20:13:19.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend Strive’s second preferred stock offering, SATS, debuted Tuesday on the Nasdaq. This post Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "stablecoins-movimentam-us-400-milhoes-por-hora-e-estao-transformando",
+      "headline": "Stablecoins movimentam US$ 400 milhões por hora e estão transformando os pagamentos digitais, revela relatório",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-20T19:12:51.000Z",
       "publishers": [
         "Livecoins"
       ],
@@ -8348,10 +8440,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Criptomoeda HEX cai 40% após fundador ser preso na Turquia",
-          "url": "https://livecoins.com.br/criptomoeda-hex-cai-40-apos-fundador-ser-preso-na-turquia",
-          "date": "2026-10-14T17:40:33.000Z",
-          "summary": "Polícia turca apreendeu diversos objetos durante a operação, incluindo armas de fogo e equipamentos eletrônicos Fonte: Criptomoeda HEX cai 40% após fundador ser preso na Turquia Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "title": "Stablecoins movimentam US$ 400 milhões por hora e estão transformando os pagamentos digitais, revela relatório",
+          "url": "https://livecoins.com.br/stablecoins-movimentam-us-400-milhoes-por-hora-e-estao-transformando-os-pagamentos-digitais-revela-relatorio",
+          "date": "2026-10-20T19:12:51.000Z",
+          "summary": "Estudo mostra crescimento das stablecoins, adoção por bancos e uso por agentes de IA Fonte: Stablecoins movimentam US$ 400 milhões por hora e estão transformando os pagamentos digitais, revela relatório Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -8359,40 +8451,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "coinbase-alerta-para-ameaca-quantica-ao-bitcoin-e-pede-mudancas",
-      "headline": "Coinbase alerta para ameaça quântica ao Bitcoin e pede mudanças urgentes na rede",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-14T18:46:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Coinbase alerta para ameaça quântica ao Bitcoin e pede mudanças urgentes na rede",
-          "url": "https://portaldobitcoin.uol.com.br/coinbase-alerta-para-ameaca-quantica-ao-bitcoin-e-pede-mudancas-urgentes-na-rede",
-          "date": "2026-10-14T18:46:00.000Z",
-          "summary": "Exchange alerta que a migração para uma criptografia resistente à computação quântica pode levar anos e defende o preparo imediato O post Coinbase alerta para ameaça quântica ao Bitcoin e pede mudanças urgentes na rede apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -9833,6 +9892,107 @@
       "status": "pendente"
     },
     {
+      "id": "binance-research-projeta-mercado-cripto-em-us-12-trilhoes-em-cenario",
+      "headline": "Binance Research projeta mercado cripto em US$ 12 trilhões em cenário otimista para 2028",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-20T18:00:23.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Binance Research projeta mercado cripto em US$ 12 trilhões em cenário otimista para 2028",
+          "url": "https://livecoins.com.br/binance-research-projeta-mercado-cripto-em-us-12-trilhoes-em-cenario-otimista-para-2028",
+          "date": "2026-10-20T18:00:23.000Z",
+          "summary": "Analistas acreditam que a tokenização pode ajudar no crescimento do mercado de criptomoedas Fonte: Binance Research projeta mercado cripto em US$ 12 trilhões em cenário otimista para 2028 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-vai-superar-ouro-acoes-e-titulos-nos-proximos-10-anos-preve",
+      "headline": "Bitcoin vai superar ouro, ações e títulos nos próximos 10 anos, prevê JPMorgan",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-20T19:02:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin vai superar ouro, ações e títulos nos próximos 10 anos, prevê JPMorgan",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-vai-superar-ouro-acoes-e-titulos-nos-proximos-10-anos-preve-jpmorgan",
+          "date": "2026-10-20T19:02:00.000Z",
+          "summary": "Maior banco dos EUA projeta retorno médio de 10% ao ano para o Bitcoin na próxima década, acima de ações, ouro e renda fixa O post Bitcoin vai superar ouro, ações e títulos nos próximos 10 anos, prevê JPMorgan apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "xrp-ledger-encontra-falhas-em-novo-sistema-de-emprestimos-antes-mesmo",
+      "headline": "XRP Ledger encontra falhas em novo sistema de empréstimos antes mesmo do lançamento",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-20T17:57:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "XRP Ledger encontra falhas em novo sistema de empréstimos antes mesmo do lançamento",
+          "url": "https://portaldobitcoin.uol.com.br/xrp-ledger-encontra-falhas-em-novo-sistema-de-emprestimos-antes-mesmo-do-lancamento",
+          "date": "2026-10-20T17:57:00.000Z",
+          "summary": "Desenvolvedores do XRP publicaram uma segunda emenda para corrigir o novo recurso de empréstimo sem garantia do livro-razão O post XRP Ledger encontra falhas em novo sistema de empréstimos antes mesmo do lançamento apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "bnb-foundation-anuncia-queima-de-us-1-2-bilhao-em-tokens",
       "headline": "BNB Foundation anuncia queima de US$ 1,2 bilhão em tokens",
       "category": "altcoins",
@@ -9900,28 +10060,28 @@
       "status": "pendente"
     },
     {
-      "id": "live-updates-bitcoin-cuts-losses-as-stocks-edge-higher",
-      "headline": "Live updates: Bitcoin cuts losses as stocks edge higher",
+      "id": "bitcoin-optech-newsletter-427-recap-podcast",
+      "headline": "Bitcoin Optech Newsletter #427 Recap Podcast",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-20T10:14:19.000Z",
+      "firstSeen": "2026-10-20T00:00:00.000Z",
       "publishers": [
-        "CoinDesk"
+        "Bitcoin Optech"
       ],
-      "official": false,
+      "official": true,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
+          "feed": "bitcoin-optech",
+          "publisher": "Bitcoin Optech",
+          "type": "official",
           "weight": 2,
           "lang": "en",
-          "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
-          "url": "https://coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-          "date": "2026-10-20T10:14:19.000Z",
-          "summary": "Oil quickly plunged, but then reversed higher, on conflicting reports about the state of the war in Iran."
+          "title": "Bitcoin Optech Newsletter #427 Recap Podcast",
+          "url": "https://bitcoinops.org/en/podcast/2026/10/20",
+          "date": "2026-10-20T00:00:00.000Z",
+          "summary": "Mark “Murch” Erhardt, Gustavo Flores Echaiz, and Mike Schmidt are joined by Erick Cestari and Adam Gibson to discuss Newsletter #427."
         }
       ],
       "validation": {
@@ -9935,11 +10095,11 @@
       "status": "descartada"
     },
     {
-      "id": "south-korean-ipo-slump-adds-to-ai-market-jitters-as-brent-crude-tops",
-      "headline": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+      "id": "u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic",
+      "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
       "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-10-20T09:32:24.000Z",
+      "firstSeen": "2026-10-20T21:12:21.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -9951,10 +10111,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-          "url": "https://coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-          "date": "2026-10-20T09:32:24.000Z",
-          "summary": "Elice’s debut slump added to concerns over AI infrastructure valuations, while rising oil prices compounded market uncertainty."
+          "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+          "url": "https://coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+          "date": "2026-10-20T21:12:21.000Z",
+          "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets."
         }
       ],
       "validation": {
@@ -9968,11 +10128,11 @@
       "status": "descartada"
     },
     {
-      "id": "agents-can-trade-24-7-but-yat-siu-warns-you-could-lose-access-at-any",
-      "headline": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-      "category": "bitcoin",
+      "id": "utah-ag-sues-kalshi-pursues-profits-from-prediction-market-company",
+      "headline": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-10-20T13:30:00.000Z",
+      "firstSeen": "2026-10-20T21:19:15.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -9984,10 +10144,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-          "url": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent",
-          "date": "2026-10-20T13:30:00.000Z",
-          "summary": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots."
+          "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+          "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets",
+          "date": "2026-10-20T21:19:15.000Z",
+          "summary": "Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and substantial ongoing harm“ to state residents."
         }
       ],
       "validation": {
@@ -10001,49 +10161,13 @@
       "status": "descartada"
     },
     {
-      "id": "drift-exploiter-sends-61m-eth-to-tornado-cash-holds-194m",
-      "headline": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "category": "seguranca",
-      "tags": [
-        "Ethereum",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-20T12:38:28.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-          "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
-          "date": "2026-10-20T12:38:28.000Z",
-          "summary": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "netflix-ftx-trailer-was-enough-to-upset-me-in-first-30-seconds-former",
-      "headline": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
+      "id": "crypto-s-2026-shutdown-wave-claims-82-projects-what-went-wrong",
+      "headline": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
       "category": "regulacao",
       "tags": [
-        "ETFs"
+        "DeFi"
       ],
-      "firstSeen": "2026-10-20T11:23:00.000Z",
+      "firstSeen": "2026-10-20T19:59:39.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -10055,63 +10179,28 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
-          "url": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo",
-          "date": "2026-10-20T11:23:00.000Z",
-          "summary": "Constance Wang criticized the streamer’s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison."
+          "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+          "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
+          "date": "2026-10-20T19:59:39.000Z",
+          "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto"
+          "parece rumor/especulação"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "mt-gox-pushes-creditor-repayment-deadline-to-2027-in-sixth-extension",
-      "headline": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+      "id": "openai-buys-orchestra-bio-to-put-ai-agents-in-charge-of-drug",
+      "headline": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-20T10:20:13.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-          "url": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027",
-          "date": "2026-10-20T10:20:13.000Z",
-          "summary": "Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
-      "headline": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-      "category": "mercado",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-20T16:26:58.000Z",
+      "firstSeen": "2026-10-20T21:46:04.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -10123,10 +10212,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-          "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
-          "date": "2026-10-20T16:26:58.000Z",
-          "summary": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side."
+          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+          "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+          "date": "2026-10-20T21:46:04.000Z",
+          "summary": "The ChatGPT maker is folding Orchestra’s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients."
         }
       ],
       "validation": {
@@ -10140,91 +10229,13 @@
       "status": "descartada"
     },
     {
-      "id": "mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo",
-      "headline": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-20T16:00:00.000Z",
-      "publishers": [
-        "Decrypt",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-          "url": "https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo",
-          "date": "2026-10-20T16:01:04.000Z",
-          "summary": "At Cloudflare Connect, the company demoed an AI agent running a sample ad campaign across nine payments to two merchants on a single approved budget."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
-          "url": "https://theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
-          "date": "2026-10-20T16:00:00.000Z",
-          "summary": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
-      "headline": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-      "category": "blockchain",
+      "id": "utah-likens-kalshi-to-a-back-alley-gambling-den-in-lawsuit-naming",
+      "headline": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+      "category": "regulacao",
       "tags": [
-        "tokenização"
+        "regulação"
       ],
-      "firstSeen": "2026-10-20T12:06:44.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-          "url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
-          "date": "2026-10-20T12:06:44.000Z",
-          "summary": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "okx-is-putting-its-money-where-its-mouth-is-with-new-protection-plan",
-      "headline": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-20T16:20:40.000Z",
+      "firstSeen": "2026-10-20T19:12:38.000Z",
       "publishers": [
         "The Block"
       ],
@@ -10236,10 +10247,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
-          "url": "https://theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
-          "date": "2026-10-20T16:20:40.000Z",
-          "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust."
+          "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+          "url": "https://theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+          "date": "2026-10-20T19:12:38.000Z",
+          "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture."
         }
       ],
       "validation": {

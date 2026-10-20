@@ -1,18 +1,12 @@
 # Pauta de notícias
 
-Gerada em 2026-10-20T17:31:47.189Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-20T21:52:46.848Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading
 
 - Categoria sugerida: blockchain | Confiança: media | Pontos: 75
 - [CoinDesk] Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading — https://coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading (2026-10-20T12:40:17.000Z)
 - [Cointelegraph] Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform — https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock (2026-10-20T16:23:17.000Z)
-
-## FINMA approves Switzerland’s first Bitcoin ETF for retail investors
-
-- Categoria sugerida: mercado | Confiança: media | Pontos: 74
-- [Cointelegraph] FINMA approves Switzerland’s first Bitcoin ETF for retail investors — https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail (2026-10-20T13:10:00.000Z)
-- [The Block] Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors — https://theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127 (2026-10-20T12:15:05.000Z)
 
 ## JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade
 
@@ -24,21 +18,6 @@ Gerada em 2026-10-20T17:31:47.189Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
-
-## Organizations join forces to fight Illinois crypto tax, after 6-month pause
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Organizations join forces to fight Illinois crypto tax, after 6-month pause — https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause (2026-10-14T20:56:22.000Z)
-
-## AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [Decrypt] AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny — https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year (2026-10-14T20:16:05.000Z)
-
-## Patrick Witt exits White House crypto role as Clarity Act stalls
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] Patrick Witt exits White House crypto role as Clarity Act stalls — https://theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611 (2026-10-14T20:30:15.000Z)
 
 ## Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide
 
@@ -154,3 +133,23 @@ Gerada em 2026-10-20T17:31:47.189Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [CoinDesk] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound — https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound (2026-10-16T04:14:22.000Z)
+
+## Circle targets 40 new markets as stablecoin demand grows globally
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Circle targets 40 new markets as stablecoin demand grows globally — https://coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally (2026-10-16T10:54:35.000Z)
+
+## Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat — https://coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next (2026-10-16T10:52:26.000Z)
+
+## Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype — https://coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed (2026-10-16T10:48:49.000Z)
+
+## Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans — https://coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans (2026-10-16T10:41:03.000Z)
