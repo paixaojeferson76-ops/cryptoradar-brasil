@@ -1,51 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-21T05:19:19.222Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-21T12:25:45.482Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
-
-## Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone — https://coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone (2026-10-15T12:00:00.000Z)
-
-## Bitcoin, copper, stocks, yields all fall; gold rises
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin, copper, stocks, yields all fall; gold rises — https://coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises (2026-10-15T11:15:00.000Z)
-
-## Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower — https://coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower (2026-10-15T10:52:11.000Z)
-
-## White House crypto council chief Patrick Witt steps down
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] White House crypto council chief Patrick Witt steps down — https://cointelegraph.com/news/white-house-crypto-council-director-steps-down (2026-10-15T10:41:09.000Z)
-
-## Starknet opens vote on potential Ethereum L2 exit over quantum risks
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Starknet opens vote on potential Ethereum L2 exit over quantum risks — https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1 (2026-10-15T10:22:00.000Z)
-
-## Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data — https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data (2026-10-15T11:48:42.000Z)
-
-## EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [The Block] EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token — https://theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637 (2026-10-15T11:10:07.000Z)
-
-## Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] Cade aprova criação de stablecoin de Visa, Mastercard, Coinbase e Stripe no Brasil — https://portaldobitcoin.uol.com.br/cade-aprova-criacao-de-stablecoin-de-visa-mastercard-coinbase-e-stripe-no-brasil (2026-10-15T12:01:00.000Z)
 
 ## Sweden revisits digital krona as ECB advances digital euro plans
 
@@ -151,3 +111,43 @@ Gerada em 2026-10-21T05:19:19.222Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen — https://theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839 (2026-10-16T20:22:57.000Z)
+
+## Brasil aparece entre os países mais violentos para investidores de criptomoedas após atualização de lista
+
+- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
+- [Livecoins] Brasil aparece entre os países mais violentos para investidores de criptomoedas após atualização de lista — https://livecoins.com.br/brasil-aparece-entre-os-paises-mais-violentos-para-investidores-de-criptomoedas-apos-atualizacao-de-lista (2026-10-16T21:01:42.000Z)
+
+## Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report — https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report (2026-10-17T10:00:07.000Z)
+
+## Citrini sees a tokenization boom. The harder question is who profits
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Citrini sees a tokenization boom. The harder question is who profits — https://coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits (2026-10-17T15:00:00.000Z)
+
+## Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Livecoins] Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou — https://livecoins.com.br/tem-mais-brasileiro-no-cripto-do-que-na-bolsa-mas-quase-metade-admite-nao-entender-o-que-comprou (2026-10-17T14:30:24.000Z)
+
+## CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [The Block] CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE — https://theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859 (2026-10-17T19:56:25.000Z)
+
+## Cysic crypto bridge halted after unauthorized mint of 10M CYS
+
+- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Cysic crypto bridge halted after unauthorized mint of 10M CYS — https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys (2026-10-18T10:43:12.000Z)
+
+## Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation — https://coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation (2026-10-18T16:00:00.000Z)
+
+## Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red — https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red (2026-10-18T15:01:04.000Z)
