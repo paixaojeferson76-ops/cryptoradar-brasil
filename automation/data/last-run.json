@@ -1,26 +1,7 @@
 {
-  "at": "2026-10-20T21:54:44.589Z",
+  "at": "2026-10-21T05:19:22.826Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "microsoft-alphabet-e-goldman-sachs-rejeitam-negociacao-de-acoes-tokenizadas-na",
-      "title": "Microsoft, Alphabet e Goldman Sachs rejeitam negociação de ações tokenizadas na OKX-ICE",
-      "confidence": "media",
-      "sources": [
-        "CoinDesk",
-        "Cointelegraph"
-      ]
-    },
-    {
-      "slug": "jpmorgan-projeta-retorno-anual-de-10-para-o-bitcoin-e-supera-acoes-e-ouro-na",
-      "title": "JPMorgan projeta retorno anual de 10% para o Bitcoin e supera ações e ouro na próxima década",
-      "confidence": "media",
-      "sources": [
-        "CoinDesk",
-        "Cointelegraph"
-      ]
-    }
-  ],
+  "review": [],
   "skipped": [],
   "errors": []
 }

@@ -1,98 +1,6 @@
 {
-  "updatedAt": "2026-10-20T21:52:46.848Z",
+  "updatedAt": "2026-10-21T05:19:19.222Z",
   "stories": [
-    {
-      "id": "microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice",
-      "headline": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-20T12:40:17.000Z",
-      "publishers": [
-        "CoinDesk",
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-          "url": "https://coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-          "date": "2026-10-20T12:40:17.000Z",
-          "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16."
-        },
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-          "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock",
-          "date": "2026-10-20T16:23:17.000Z",
-          "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 75,
-      "status": "gerada",
-      "slug": "microsoft-alphabet-e-goldman-sachs-rejeitam-negociacao-de-acoes-tokenizadas-na"
-    },
-    {
-      "id": "jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold",
-      "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-20T08:54:27.000Z",
-      "publishers": [
-        "CoinDesk",
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-          "url": "https://coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-          "date": "2026-10-20T11:10:40.000Z",
-          "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios."
-        },
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-          "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns",
-          "date": "2026-10-20T08:54:27.000Z",
-          "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 72,
-      "status": "gerada",
-      "slug": "jpmorgan-projeta-retorno-anual-de-10-para-o-bitcoin-e-supera-acoes-e-ouro-na"
-    },
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
       "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
@@ -124,175 +32,6 @@
         "reasons": []
       },
       "score": 51,
-      "status": "pendente"
-    },
-    {
-      "id": "nearly-1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp",
-      "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "XRP"
-      ],
-      "firstSeen": "2026-10-15T04:25:15.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-          "url": "https://coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-          "date": "2026-10-15T04:25:15.000Z",
-          "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate",
-      "headline": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-10-15T04:13:56.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-          "url": "https://coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-          "date": "2026-10-15T04:13:56.000Z",
-          "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-wilts-as-fed-rate-uncertainty-weighs-kospi-plunges-8",
-      "headline": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-15T03:57:45.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-          "url": "https://coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-          "date": "2026-10-15T03:57:45.000Z",
-          "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-miners-plunge-up-to-13-in-wall-street-s-worst-selloff-since",
-      "headline": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-10-15T03:29:22.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
-          "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
-          "date": "2026-10-15T03:29:22.000Z",
-          "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-drops-below-81-000-as-risk-off-sentiment-weighs-on-asian",
-      "headline": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-15T04:38:48.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-          "url": "https://theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
-          "date": "2026-10-15T04:38:48.000Z",
-          "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2375,6 +2114,39 @@
           "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
           "date": "2026-10-20T20:16:04.000Z",
           "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-hovers-around-83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-21T04:07:07.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+          "url": "https://coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+          "date": "2026-10-21T04:07:07.000Z",
+          "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade."
         }
       ],
       "validation": {
@@ -4954,6 +4726,40 @@
       "status": "pendente"
     },
     {
+      "id": "moonpay-upbit-parent-dunamu-explore-collaboration-on-stablecoin",
+      "headline": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-21T02:30:08.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+          "url": "https://theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+          "date": "2026-10-21T02:30:08.000Z",
+          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-etfs-shed-261m-as-xrp-funds-buck-weekly-outflow-trend",
       "headline": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
       "category": "mercado",
@@ -6315,13 +6121,13 @@
       "status": "pendente"
     },
     {
-      "id": "australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027",
-      "headline": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-      "category": "regulacao",
+      "id": "qubic-restarts-blockchain-opens-recovery-claims-after-1-4m-hack",
+      "headline": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "category": "seguranca",
       "tags": [
-        "regulação"
+        "segurança"
       ],
-      "firstSeen": "2026-10-15T05:00:40.000Z",
+      "firstSeen": "2026-10-20T23:26:02.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -6333,10 +6139,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-          "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout",
-          "date": "2026-10-15T05:00:40.000Z",
-          "summary": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, custody and trading standards for crypto platforms."
+          "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+          "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack",
+          "date": "2026-10-20T23:26:02.000Z",
+          "summary": "The network’s validators approved a recovery plan and opened claims until May 1, 2027."
         }
       ],
       "validation": {
@@ -6344,7 +6150,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 36,
+      "score": 37,
       "status": "pendente"
     },
     {
@@ -10060,46 +9866,46 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-optech-newsletter-427-recap-podcast",
-      "headline": "Bitcoin Optech Newsletter #427 Recap Podcast",
-      "category": "bitcoin",
+      "id": "golpista-rouba-us-1-1-milhao-em-criptomoedas-de-investidores-e-perde",
+      "headline": "Golpista rouba US$ 1,1 milhão em criptomoedas de investidores e perde tudo em bet",
+      "category": "seguranca",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-20T00:00:00.000Z",
+      "firstSeen": "2026-10-20T22:09:33.000Z",
       "publishers": [
-        "Bitcoin Optech"
+        "Livecoins"
       ],
-      "official": true,
+      "official": false,
       "items": [
         {
-          "feed": "bitcoin-optech",
-          "publisher": "Bitcoin Optech",
-          "type": "official",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Optech Newsletter #427 Recap Podcast",
-          "url": "https://bitcoinops.org/en/podcast/2026/10/20",
-          "date": "2026-10-20T00:00:00.000Z",
-          "summary": "Mark “Murch” Erhardt, Gustavo Flores Echaiz, and Mike Schmidt are joined by Erick Cestari and Adam Gibson to discuss Newsletter #427."
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Golpista rouba US$ 1,1 milhão em criptomoedas de investidores e perde tudo em bet",
+          "url": "https://livecoins.com.br/golpista-rouba-us-11-milhao-em-criptomoedas-de-investidores-e-perde-tudo-em-bet",
+          "date": "2026-10-20T22:09:33.000Z",
+          "summary": "Réu confessa lavagem internacional de dinheiro após transferir bitcoins de clientes para casa de apostas Fonte: Golpista rouba US$ 1,1 milhão em criptomoedas de investidores e perde tudo em bet Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
-        "ok": false,
+        "ok": true,
         "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
+        "reasons": []
       },
-      "score": 0,
-      "status": "descartada"
+      "score": 23,
+      "status": "pendente"
     },
     {
-      "id": "u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic",
-      "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-20T21:12:21.000Z",
+      "id": "solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live",
+      "headline": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "category": "altcoins",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-21T04:35:52.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -10111,10 +9917,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-          "url": "https://coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-          "date": "2026-10-20T21:12:21.000Z",
-          "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets."
+          "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+          "url": "https://coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+          "date": "2026-10-21T04:35:52.000Z",
+          "summary": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback."
         }
       ],
       "validation": {
@@ -10128,79 +9934,77 @@
       "status": "descartada"
     },
     {
-      "id": "utah-ag-sues-kalshi-pursues-profits-from-prediction-market-company",
-      "headline": "Utah AG sues Kalshi, pursues profits from prediction market company",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-20T21:19:15.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-          "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets",
-          "date": "2026-10-20T21:19:15.000Z",
-          "summary": "Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and substantial ongoing harm“ to state residents."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "crypto-s-2026-shutdown-wave-claims-82-projects-what-went-wrong",
-      "headline": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "id": "a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of",
+      "headline": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
       "category": "regulacao",
-      "tags": [
-        "DeFi"
-      ],
-      "firstSeen": "2026-10-20T19:59:39.000Z",
+      "tags": [],
+      "firstSeen": "2026-10-21T04:11:58.000Z",
       "publishers": [
-        "Cointelegraph"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-          "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
-          "date": "2026-10-20T19:59:39.000Z",
-          "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming."
+          "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+          "url": "https://coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+          "date": "2026-10-21T04:11:58.000Z",
+          "summary": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "parece rumor/especulação"
+          "fora do tema cripto"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "openai-buys-orchestra-bio-to-put-ai-agents-in-charge-of-drug",
-      "headline": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+      "id": "musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold",
+      "headline": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-20T21:46:04.000Z",
+      "firstSeen": "2026-10-21T01:19:14.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+          "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold",
+          "date": "2026-10-21T01:19:14.000Z",
+          "summary": "A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "people-are-vibe-coding-the-ads-out-of-their-smart-tvs-here-s-how",
+      "headline": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+      "category": "tecnologia",
+      "tags": [],
+      "firstSeen": "2026-10-20T22:16:04.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -10212,52 +10016,18 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-          "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-          "date": "2026-10-20T21:46:04.000Z",
-          "summary": "The ChatGPT maker is folding Orchestra’s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients."
+          "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+          "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+          "date": "2026-10-20T22:16:04.000Z",
+          "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "utah-likens-kalshi-to-a-back-alley-gambling-den-in-lawsuit-naming",
-      "headline": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-20T19:12:38.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
-          "url": "https://theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
-          "date": "2026-10-20T19:12:38.000Z",
-          "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
+          "fora do tema cripto",
+          "conteúdo promocional"
         ]
       },
       "score": 0,

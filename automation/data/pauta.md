@@ -1,48 +1,11 @@
 # Pauta de notícias
 
-Gerada em 2026-10-20T21:52:46.848Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading
-
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 75
-- [CoinDesk] Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading — https://coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading (2026-10-20T12:40:17.000Z)
-- [Cointelegraph] Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform — https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock (2026-10-20T16:23:17.000Z)
-
-## JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 72
-- [CoinDesk] JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade — https://coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade (2026-10-20T11:10:40.000Z)
-- [Cointelegraph] JPMorgan projects Bitcoin to outperform US stocks and gold over next decade — https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns (2026-10-20T08:54:27.000Z)
+Gerada em 2026-10-21T05:19:19.222Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
-
-## Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide — https://coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide (2026-10-15T04:25:15.000Z)
-
-## Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%
-
-- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65% — https://coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65 (2026-10-15T04:13:56.000Z)
-
-## Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% — https://coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs (2026-10-15T03:57:45.000Z)
-
-## Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July
-
-- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July — https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july (2026-10-15T03:29:22.000Z)
-
-## Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities — https://theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623 (2026-10-15T04:38:48.000Z)
 
 ## Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone
 
@@ -153,3 +116,38 @@ Gerada em 2026-10-20T21:52:46.848Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [CoinDesk] Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans — https://coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans (2026-10-16T10:41:03.000Z)
+
+## Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [CoinDesk] Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin — https://coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin (2026-10-16T10:24:30.000Z)
+
+## CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Cointelegraph] CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins — https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says (2026-10-16T10:27:18.000Z)
+
+## Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading — https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz (2026-10-16T15:52:28.000Z)
+
+## Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints — https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints (2026-10-16T15:45:43.000Z)
+
+## Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say — https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts (2026-10-16T16:06:05.000Z)
+
+## Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner — https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner (2026-10-16T15:43:58.000Z)
+
+## Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen — https://theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839 (2026-10-16T20:22:57.000Z)
