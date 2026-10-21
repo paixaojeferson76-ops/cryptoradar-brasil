@@ -1,51 +1,27 @@
 # Pauta de notícias
 
-Gerada em 2026-10-21T12:25:45.482Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-21T21:59:10.092Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## v32.0: Bitcoin Core 32.0 final
+
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 68
+- [Bitcoin Core (GitHub)] v32.0: Bitcoin Core 32.0 final — https://github.com/bitcoin/bitcoin/releases/tag/v32.0 (2026-10-21T13:27:27.000Z)
+
+## Standard Chartered signs definitive agreements to acquire Zodia Custody
+
+- Categoria sugerida: defi | Confiança: media | Pontos: 58
+- [The Block] Standard Chartered signs definitive agreements to acquire Zodia Custody — https://theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535 (2026-10-21T12:44:53.000Z)
+- [Bitcoin Magazine] Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody — https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian (2026-10-21T17:28:34.000Z)
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
 - [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
 
-## Sweden revisits digital krona as ECB advances digital euro plans
+## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Sweden revisits digital krona as ECB advances digital euro plans — https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation (2026-10-15T16:49:59.000Z)
-
-## Mastercard brings stablecoin balances into traditional banking and card payments
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Mastercard brings stablecoin balances into traditional banking and card payments — https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins (2026-10-15T15:46:05.000Z)
-
-## Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Decrypt] Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins — https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins (2026-10-15T16:28:50.000Z)
-
-## CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat — https://theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686 (2026-10-15T16:06:00.000Z)
-
-## Multiliquid, a settlement platform for tokenized assets, raises $8 million
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [The Block] Multiliquid, a settlement platform for tokenized assets, raises $8 million — https://theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693 (2026-10-15T16:00:02.000Z)
-
-## DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [The Block] DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings — https://theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694 (2026-10-15T15:48:32.000Z)
-
-## Binance.US seeks $1B valuation in potential $100M funding round: Report
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance.US seeks $1B valuation in potential $100M funding round: Report — https://cointelegraph.com/news/binance-us-funding-valuation-billion (2026-10-15T20:21:11.000Z)
-
-## Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Decrypt] Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms — https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading (2026-10-15T20:31:04.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 50
+- [CoinDesk] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — https://coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain (2026-10-21T15:00:53.000Z)
 
 ## An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own
 
@@ -151,3 +127,28 @@ Gerada em 2026-10-21T12:25:45.482Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Decrypt] Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red — https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red (2026-10-18T15:01:04.000Z)
+
+## Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [The Block] Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum — https://theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863 (2026-10-18T16:07:43.000Z)
+
+## Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off — https://theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866 (2026-10-18T19:50:28.000Z)
+
+## Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates — https://coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates (2026-10-19T03:36:58.000Z)
+
+## Cardano founder Charles Hoskinson is building a new programming language for the network
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Cardano founder Charles Hoskinson is building a new programming language for the network — https://coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network (2026-10-19T12:16:58.000Z)
+
+## Made an ‘honest’ mistake with crypto taxes? New bill offers way out
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Made an ‘honest’ mistake with crypto taxes? New bill offers way out — https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out (2026-10-19T13:30:00.000Z)
