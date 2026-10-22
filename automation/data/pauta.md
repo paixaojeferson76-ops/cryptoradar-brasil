@@ -1,17 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-21T21:59:10.092Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## v32.0: Bitcoin Core 32.0 final
-
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 68
-- [Bitcoin Core (GitHub)] v32.0: Bitcoin Core 32.0 final — https://github.com/bitcoin/bitcoin/releases/tag/v32.0 (2026-10-21T13:27:27.000Z)
-
-## Standard Chartered signs definitive agreements to acquire Zodia Custody
-
-- Categoria sugerida: defi | Confiança: media | Pontos: 58
-- [The Block] Standard Chartered signs definitive agreements to acquire Zodia Custody — https://theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535 (2026-10-21T12:44:53.000Z)
-- [Bitcoin Magazine] Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody — https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian (2026-10-21T17:28:34.000Z)
+Gerada em 2026-10-22T05:22:13.924Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
@@ -22,16 +11,6 @@ Gerada em 2026-10-21T21:59:10.092Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 50
 - [CoinDesk] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — https://coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain (2026-10-21T15:00:53.000Z)
-
-## An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [CoinDesk] An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own — https://coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own (2026-10-16T04:29:19.000Z)
-
-## Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound — https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound (2026-10-16T04:14:22.000Z)
 
 ## Circle targets 40 new markets as stablecoin demand grows globally
 
@@ -152,3 +131,23 @@ Gerada em 2026-10-21T21:59:10.092Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Made an ‘honest’ mistake with crypto taxes? New bill offers way out — https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out (2026-10-19T13:30:00.000Z)
+
+## Public companies object to OKX-ICE’s tokenized stock plan
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Public companies object to OKX-ICE’s tokenized stock plan — https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock (2026-10-19T13:13:53.000Z)
+
+## Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC — https://theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020 (2026-10-19T13:45:41.000Z)
+
+## Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [The Block] Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens — https://theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018 (2026-10-19T13:36:46.000Z)
+
+## ‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] ‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million — https://theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895 (2026-10-19T12:10:14.000Z)

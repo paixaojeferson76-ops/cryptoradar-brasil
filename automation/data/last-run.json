@@ -1,22 +1,7 @@
 {
-  "at": "2026-10-21T22:02:27.473Z",
+  "at": "2026-10-22T05:22:16.453Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "standard-chartered-assina-acordo-definitivo-para-adquirir-a-custodiante-zodia",
-      "title": "Standard Chartered assina acordo definitivo para adquirir a custodiante Zodia Custody",
-      "confidence": "media",
-      "sources": [
-        "The Block",
-        "Bitcoin Magazine"
-      ]
-    }
-  ],
-  "skipped": [
-    {
-      "headline": "v32.0: Bitcoin Core 32.0 final",
-      "reason": "A fonte traz apenas o identificador da versão (Bitcoin Core 32.0) e uma hash de integridade (Tree-SHA512), sem notas de lançamento, detalhes de alterações ou contexto factual suficiente para produzir um artigo de 300 a 600 palavras sem especulação ou invenção de dados."
-    }
-  ],
+  "review": [],
+  "skipped": [],
   "errors": []
 }

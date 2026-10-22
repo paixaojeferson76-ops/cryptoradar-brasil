@@ -1,88 +1,6 @@
 {
-  "updatedAt": "2026-10-21T21:59:10.092Z",
+  "updatedAt": "2026-10-22T05:22:13.924Z",
   "stories": [
-    {
-      "id": "v32-0-bitcoin-core-32-0-final",
-      "headline": "v32.0: Bitcoin Core 32.0 final",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-21T13:27:27.000Z",
-      "publishers": [
-        "Bitcoin Core (GitHub)"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "bitcoin-core",
-          "publisher": "Bitcoin Core (GitHub)",
-          "type": "official",
-          "weight": 3,
-          "lang": "en",
-          "title": "v32.0: Bitcoin Core 32.0 final",
-          "url": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0",
-          "date": "2026-10-21T13:27:27.000Z",
-          "summary": "Tree-SHA512: b84b19500b6a6529a910b594b160876377b915655e6a7fd0ff97cb63ae891647626934ebcd2d49132078f93abf105e8e7eecde8b8cc2d27f991c4cb7bf14db01",
-          "fullText": ""
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 68,
-      "status": "pulada",
-      "note": "A fonte traz apenas o identificador da versão (Bitcoin Core 32.0) e uma hash de integridade (Tree-SHA512), sem notas de lançamento, detalhes de alterações ou contexto factual suficiente para produzir um artigo de 300 a 600 palavras sem especulação ou invenção de dados."
-    },
-    {
-      "id": "standard-chartered-signs-definitive-agreements-to-acquire-zodia",
-      "headline": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "category": "defi",
-      "tags": [
-        "regulação",
-        "DeFi"
-      ],
-      "firstSeen": "2026-10-21T12:44:53.000Z",
-      "publishers": [
-        "The Block",
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-          "url": "https://theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
-          "date": "2026-10-21T12:44:53.000Z",
-          "summary": "Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval."
-        },
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
-          "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
-          "date": "2026-10-21T17:28:34.000Z",
-          "summary": "Bitcoin Magazine Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody British bank Standard Chartered will integrate Zodia Custody’s bitcoin and crypto services into its own. This post Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 58,
-      "status": "gerada",
-      "slug": "standard-chartered-assina-acordo-definitivo-para-adquirir-a-custodiante-zodia"
-    },
     {
       "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
       "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
@@ -147,72 +65,6 @@
         "reasons": []
       },
       "score": 50,
-      "status": "pendente"
-    },
-    {
-      "id": "an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it",
-      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-16T04:29:19.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-          "url": "https://coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-          "date": "2026-10-16T04:29:19.000Z",
-          "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-buyers-snap-up-a-brief-drop-below-80-000-as-asian-stocks",
-      "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-16T04:14:22.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-          "url": "https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-          "date": "2026-10-16T04:14:22.000Z",
-          "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2232,6 +2084,73 @@
           "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures",
           "date": "2026-10-21T20:19:39.000Z",
           "summary": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-attract-1-08-billion-in-3-days-but-it-may-not-be-enough",
+      "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-22T04:41:59.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+          "url": "https://coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+          "date": "2026-10-22T04:41:59.000Z",
+          "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-gives-back-its-run-at-85-000-as-tesla-and-meta-fail-to-calm",
+      "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-22T03:51:34.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+          "url": "https://coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+          "date": "2026-10-22T03:51:34.000Z",
+          "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
         }
       ],
       "validation": {
@@ -4422,104 +4341,6 @@
       "status": "pendente"
     },
     {
-      "id": "australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting",
-      "headline": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-15T23:34:19.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-          "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework",
-          "date": "2026-10-15T23:34:19.000Z",
-          "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "scammer-loses-4-8m-stored-on-tampered-ledgers-asia-express",
-      "headline": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-15T22:42:58.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-          "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
-          "date": "2026-10-15T22:42:58.000Z",
-          "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "msci-finalizes-index-rules-that-put-strategy-crypto-treasury-firms-at",
-      "headline": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-15T22:15:56.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
-          "url": "https://theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
-          "date": "2026-10-15T22:15:56.000Z",
-          "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
       "id": "xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
       "headline": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
       "category": "ethereum",
@@ -5985,6 +5806,73 @@
       "status": "pendente"
     },
     {
+      "id": "aerodrome-and-velodrome-merge-to-launch-aero-across-seven-blockchain",
+      "headline": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-22T00:00:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+          "url": "https://theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "date": "2026-10-22T00:00:00.000Z",
+          "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "corretora-ripio-anuncia-fim-do-suporte-ao-pix-e-vai-encerrar",
+      "headline": "Corretora Ripio anuncia fim do suporte ao Pix e vai encerrar negociações de clientes dia 29 de outubro, mas CEO indica que exchange segue “firme no Brasil”",
+      "category": "tecnologia",
+      "tags": [
+        "Bitcoin",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-21T22:41:05.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Corretora Ripio anuncia fim do suporte ao Pix e vai encerrar negociações de clientes dia 29 de outubro, mas CEO indica que exchange segue “firme no Brasil”",
+          "url": "https://livecoins.com.br/corretora-ripio-anuncia-fim-do-suporte-ao-pix-e-vai-encerrar-negociacoes-de-clientes-dia-29-de-outubro-mas-ceo-indica-que-exchange-segue-firme-no-brasil",
+          "date": "2026-10-21T22:41:05.000Z",
+          "summary": "Todas as negociações am aberto na Ripio Brasil serão encerradas no dia 29 de outubro, data que encerra suporte ao Pix Fonte: Corretora Ripio anuncia fim do suporte ao Pix e vai encerrar negociações de clientes dia 29 de outubro, mas CEO indica que exchange segue “firme no Brasil” Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-whale-moves-34-million-in-btc-it-got-in-2013-when-coins",
       "headline": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
       "category": "bitcoin",
@@ -6579,6 +6467,40 @@
           "url": "https://livecoins.com.br/tether-anuncia-investimento-na-fintech-peso-para-expandir-pagamentos-com-usdt-no-brasil-e-america-latina",
           "date": "2026-10-21T14:30:19.000Z",
           "summary": "Rodada de investimento divulgada nesta quarta-feira (21) acelera rampas de conversão no Brasil, Bolívia, Colômbia e Argentina Fonte: Tether anuncia investimento na fintech Peso para expandir pagamentos com USDT no Brasil e América Latina Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "american-bankers-association-occ-s-genius-rules-undermine-us-congress",
+      "headline": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "category": "regulacao",
+      "tags": [
+        "stablecoins",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-21T21:53:48.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+          "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins",
+          "date": "2026-10-21T21:53:48.000Z",
+          "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield."
         }
       ],
       "validation": {
@@ -8125,40 +8047,6 @@
         "reasons": []
       },
       "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "brooklyn-da-pulls-the-plug-on-crypto-scam-network",
-      "headline": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-15T23:03:27.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
-          "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
-          "date": "2026-10-15T23:03:27.000Z",
-          "summary": "Bitcoin Magazine Brooklyn DA Pulls the Plug on Crypto Scam Network 112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor. This post Brooklyn DA Pulls the Plug on Crypto Scam Network first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
       "status": "pendente"
     },
     {
@@ -10099,11 +9987,13 @@
       "status": "pendente"
     },
     {
-      "id": "bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in",
-      "headline": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-21T15:09:22.000Z",
+      "id": "xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped",
+      "headline": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "category": "altcoins",
+      "tags": [
+        "XRP"
+      ],
+      "firstSeen": "2026-10-22T04:36:20.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -10115,10 +10005,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-          "url": "https://coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-          "date": "2026-10-21T15:09:22.000Z",
-          "summary": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou."
+          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+          "url": "https://coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+          "date": "2026-10-22T04:36:20.000Z",
+          "summary": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31."
         }
       ],
       "validation": {
@@ -10132,13 +10022,11 @@
       "status": "descartada"
     },
     {
-      "id": "solana-s-alpenglow-launches-on-mainnet-targets-99-faster-finality",
-      "headline": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-      "category": "tecnologia",
-      "tags": [
-        "Solana"
-      ],
-      "firstSeen": "2026-10-21T13:57:14.000Z",
+      "id": "php-foundation-admits-structural-failure-delayed-critical-security-fix",
+      "headline": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-22T00:44:00.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -10150,10 +10038,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-          "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
-          "date": "2026-10-21T13:57:14.000Z",
-          "summary": "Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
+          "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+          "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
+          "date": "2026-10-22T00:44:00.000Z",
+          "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers."
         }
       ],
       "validation": {
@@ -10161,307 +10049,6 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ken-griffin-says-ai-is-almost-certainly-in-a-bubble-and-compares-gpus",
-      "headline": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-21T21:31:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
-          "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-          "date": "2026-10-21T21:31:02.000Z",
-          "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nvidia-unveils-its-full-stack-blueprint-to-contain-and-monitor-ai",
-      "headline": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-10-21T20:16:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-          "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
-          "date": "2026-10-21T20:16:02.000Z",
-          "summary": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "who-found-the-php-bug-that-made-governments-unplug-their-websites",
-      "headline": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-21T18:46:08.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-          "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
-          "date": "2026-10-21T18:46:08.000Z",
-          "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "how-a-spacex-and-tesla-merger-would-reshape-musk-s-ai-empire",
-      "headline": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-21T18:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-          "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
-          "date": "2026-10-21T18:16:03.000Z",
-          "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof—and under one man's control."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "dogecoin-gets-a-dedicated-company-to-build-out-its-ecosystem",
-      "headline": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-      "category": "altcoins",
-      "tags": [],
-      "firstSeen": "2026-10-21T16:46:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-          "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-          "date": "2026-10-21T16:46:04.000Z",
-          "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "php-panic-two-critical-bugs-put-70-of-the-internet-at-risk-and",
-      "headline": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-      "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-10-21T15:35:16.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-          "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
-          "date": "2026-10-21T15:35:16.000Z",
-          "summary": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "robinhood-single-stock-perps-could-be-a-strong-positive-for-hood",
-      "headline": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-21T18:54:36.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
-          "url": "https://theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
-          "date": "2026-10-21T18:54:36.000Z",
-          "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "anza-s-alpenglow-goes-live-on-solana-cutting-finality-to-150",
-      "headline": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-      "category": "regulacao",
-      "tags": [
-        "Solana"
-      ],
-      "firstSeen": "2026-10-21T14:24:39.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-          "url": "https://theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-          "date": "2026-10-21T14:24:39.000Z",
-          "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitunix-reune-mais-de-300-convidados-em-rooftop-em-singapura-e",
-      "headline": "Bitunix reúne mais de 300 convidados em rooftop em Singapura e apresenta novidades da plataforma",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-21T17:50:58.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitunix reúne mais de 300 convidados em rooftop em Singapura e apresenta novidades da plataforma",
-          "url": "https://livecoins.com.br/bitunix-reune-mais-de-300-convidados-em-rooftop-em-singapura-e-apresenta-novidades-da-plataforma",
-          "date": "2026-10-21T17:50:58.000Z",
-          "summary": "A Bitunix reuniu mais de 300 convidados em uma festa com vista para a Marina Bay, em Singapura, no dia 7 de outubro, primeiro dia do TOKEN2049. Com apresentação de produtos, shows ao vivo, networking e sorteios, o evento destacou as novidades da plataforma e reuniu traders, influenciadores do mercado cripto (KOLs) e parceiros do […] Fonte: Bitunix reúne mais de 300 convidados em rooftop em Singapura e apresenta novidades da plataforma Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "conteúdo promocional"
         ]
       },
       "score": 0,
