@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-22T05:22:13.924Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-22T12:26:27.772Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
@@ -11,36 +11,6 @@ Gerada em 2026-10-22T05:22:13.924Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 50
 - [CoinDesk] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — https://coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain (2026-10-21T15:00:53.000Z)
-
-## Circle targets 40 new markets as stablecoin demand grows globally
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Circle targets 40 new markets as stablecoin demand grows globally — https://coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally (2026-10-16T10:54:35.000Z)
-
-## Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat — https://coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next (2026-10-16T10:52:26.000Z)
-
-## Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype — https://coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed (2026-10-16T10:48:49.000Z)
-
-## Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans — https://coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans (2026-10-16T10:41:03.000Z)
-
-## Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [CoinDesk] Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin — https://coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin (2026-10-16T10:24:30.000Z)
-
-## CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Cointelegraph] CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins — https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says (2026-10-16T10:27:18.000Z)
 
 ## Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading
 
@@ -151,3 +121,33 @@ Gerada em 2026-10-22T05:22:13.924Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] ‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million — https://theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895 (2026-10-19T12:10:14.000Z)
+
+## Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million — https://decrypt.co/381382/strive-buys-335-million-bitcoin (2026-10-19T21:46:05.000Z)
+
+## BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT — https://theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087 (2026-10-19T22:00:53.000Z)
+
+## Autoridades do Brasil na França debatem sobre rastreio e apreensão de criptomoedas
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Livecoins] Autoridades do Brasil na França debatem sobre rastreio e apreensão de criptomoedas — https://livecoins.com.br/autoridades-do-brasil-na-franca-debatem-sobre-rastreio-e-apreensao-de-criptomoedas (2026-10-19T21:00:32.000Z)
+
+## Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [The Block] Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules — https://theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092 (2026-10-20T04:07:41.000Z)
+
+## The Coinbase allegations expose Bitcoin's corporate governance gap
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] The Coinbase allegations expose Bitcoin's corporate governance gap — https://coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap (2026-10-20T17:02:31.000Z)
+
+## Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets — https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets (2026-10-20T16:47:48.000Z)
