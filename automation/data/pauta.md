@@ -1,18 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-23T05:23:02.744Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Fireblocks disputes report of $2.5B Visa acquisition talks
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 87
-- [Cointelegraph] Fireblocks disputes report of $2.5B Visa acquisition talks — https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks (2026-10-22T14:41:00.000Z)
-- [The Block] Fireblocks denies report of $2.5 billion acquisition talks with Visa — https://theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926 (2026-10-22T13:27:54.000Z)
-- [Bitcoin Magazine] Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks — https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover (2026-10-22T14:38:25.000Z)
-
-## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
-
-- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 51
-- [CoinDesk] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery (2026-10-17T06:39:48.000Z)
+Gerada em 2026-10-23T12:07:40.955Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -23,11 +11,6 @@ Gerada em 2026-10-23T05:23:02.744Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report — https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report (2026-10-17T10:00:07.000Z)
 
 ## Citrini sees a tokenization boom. The harder question is who profits
 
@@ -153,3 +136,18 @@ Gerada em 2026-10-23T05:23:02.744Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Decrypt] What Is Strategy (MSTR)? The Bitcoin Treasury Company — https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company (2026-10-20T16:17:02.000Z)
+
+## Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation — https://theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430 (2026-10-20T17:11:47.000Z)
+
+## Ethereum staking hits record as yields fall and Solana activity grows: Bitwise
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [The Block] Ethereum staking hits record as yields fall and Solana activity grows: Bitwise — https://theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414 (2026-10-20T16:31:24.000Z)
+
+## Bybit entra com pedido de licença cripto ao Banco Central
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Portal do Bitcoin] Bybit entra com pedido de licença cripto ao Banco Central — https://portaldobitcoin.uol.com.br/bybit-entra-com-pedido-de-licenca-cripto-ao-banco-central (2026-10-20T17:12:05.000Z)

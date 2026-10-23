@@ -1,95 +1,6 @@
 {
-  "updatedAt": "2026-10-23T05:23:02.744Z",
+  "updatedAt": "2026-10-23T12:07:40.955Z",
   "stories": [
-    {
-      "id": "fireblocks-disputes-report-of-2-5b-visa-acquisition-talks",
-      "headline": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-22T13:27:54.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "The Block",
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-          "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks",
-          "date": "2026-10-22T14:41:00.000Z",
-          "summary": "Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at present time,” while Visa declined to comment on the reported talks."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-          "url": "https://theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-          "date": "2026-10-22T13:27:54.000Z",
-          "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion."
-        },
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-          "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-          "date": "2026-10-22T14:38:25.000Z",
-          "summary": "Bitcoin Magazine Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion. This post Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 87,
-      "status": "gerada",
-      "slug": "fireblocks-nega-negociacoes-para-suposta-aquisicao-de-us-2-5-bilhoes-pela-visa"
-    },
-    {
-      "id": "wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-17T06:39:48.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-          "url": "https://coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-          "date": "2026-10-17T06:39:48.000Z",
-          "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 51,
-      "status": "pendente"
-    },
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
       "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
@@ -154,39 +65,6 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
-    },
-    {
-      "id": "circle-s-allaire-says-stablecoin-issuer-looking-to-enter-40",
-      "headline": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "category": "mercado",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-17T10:00:07.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-          "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
-          "date": "2026-10-17T10:00:07.000Z",
-          "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2314,13 +2192,13 @@
       "status": "pendente"
     },
     {
-      "id": "banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper",
-      "headline": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "category": "altcoins",
+      "id": "bitcoin-s-price-is-as-jumpy-as-nvidia-s-and-eight-times-more",
+      "headline": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+      "category": "mercado",
       "tags": [
-        "stablecoins"
+        "Bitcoin"
       ],
-      "firstSeen": "2026-10-17T12:00:00.000Z",
+      "firstSeen": "2026-10-23T11:22:33.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -2332,10 +2210,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-          "url": "https://coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-          "date": "2026-10-17T12:00:00.000Z",
-          "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%."
+          "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+          "url": "https://coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+          "date": "2026-10-23T11:22:33.000Z",
+          "summary": "Your day-ahead look for Oct. 23, 2026"
         }
       ],
       "validation": {
@@ -2343,7 +2221,208 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-steadies-near-81-700-as-altcoins-rebound-pepe-climbs-13",
+      "headline": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-23T10:54:41.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "url": "https://coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "date": "2026-10-23T10:54:41.000Z",
+          "summary": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-appears-to-have-decoupled-from-midterm-cycle-bottom-history",
+      "headline": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-23T10:53:09.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+          "url": "https://coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+          "date": "2026-10-23T10:53:09.000Z",
+          "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app",
+      "headline": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-23T10:22:56.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+          "url": "https://coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+          "date": "2026-10-23T10:22:56.000Z",
+          "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+      "headline": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-23T11:49:37.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+          "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+          "date": "2026-10-23T11:49:37.000Z",
+          "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "heatbit-s-899-water-heater-element-mines-bitcoin-while-it-heats-your",
+      "headline": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-23T10:54:35.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+          "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+          "date": "2026-10-23T10:54:35.000Z",
+          "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-swing-back-to-net-outflows-as-636-million-in-withdrawals",
+      "headline": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-23T11:39:45.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+          "url": "https://theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+          "date": "2026-10-23T11:39:45.000Z",
+          "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4434,6 +4513,174 @@
       "status": "pendente"
     },
     {
+      "id": "sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and",
+      "headline": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-23T08:57:34.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+          "url": "https://coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+          "date": "2026-10-23T08:57:34.000Z",
+          "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "cysic-dangles-a-10-bounty-hacker-pours-loot-into-tornado-cash",
+      "headline": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+      "category": "seguranca",
+      "tags": [
+        "Ethereum",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-23T10:13:06.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer",
+          "date": "2026-10-23T10:13:06.000Z",
+          "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "hsbc-launches-hong-kong-dollar-stablecoin-for-retail-payments",
+      "headline": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-23T08:47:34.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+          "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
+          "date": "2026-10-23T08:47:34.000Z",
+          "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+      "headline": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-23T08:55:35.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+          "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+          "date": "2026-10-23T08:55:35.000Z",
+          "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "south-korea-to-amend-forex-law-to-regulate-stablecoins-as-payment",
+      "headline": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+      "category": "regulacao",
+      "tags": [
+        "stablecoins",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-23T09:52:44.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+          "url": "https://theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+          "date": "2026-10-23T09:52:44.000Z",
+          "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
       "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
       "category": "bitcoin",
@@ -5988,6 +6235,74 @@
           "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
           "date": "2026-10-22T22:50:22.000Z",
           "summary": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "malaysia-thailand-join-singapore-s-cross-border-stablecoin-push",
+      "headline": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-23T07:15:53.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+          "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push",
+          "date": "2026-10-23T07:15:53.000Z",
+          "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-bleed-635m-as-october-slides-back-into-the-red",
+      "headline": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-10-23T07:09:39.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+          "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
+          "date": "2026-10-23T07:09:39.000Z",
+          "summary": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
         }
       ],
       "validation": {
@@ -8602,13 +8917,46 @@
       "status": "pendente"
     },
     {
-      "id": "cientistas-de-ia-estao-fumando-para-provar-que-inteligencia",
-      "headline": "Cientistas de IA estão fumando para provar que inteligência artificial vai curar câncer, diz executivo",
+      "id": "argentina-tera-primeira-estatua-em-homenagem-a-satoshi-nakamoto-da",
+      "headline": "Argentina terá primeira estátua em homenagem a Satoshi Nakamoto da América Latina",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-17T12:04:00.000Z",
+      "firstSeen": "2026-10-23T11:02:46.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Argentina terá primeira estátua em homenagem a Satoshi Nakamoto da América Latina",
+          "url": "https://livecoins.com.br/argentina-tera-primeira-estatua-em-homenagem-a-satoshi-nakamoto-da-america-latina",
+          "date": "2026-10-23T11:02:46.000Z",
+          "summary": "País latino inaugura a \"maior\" estátua em homenagem a Satoshi Nakamoto do mundo e a primeira da região Fonte: Argentina terá primeira estátua em homenagem a Satoshi Nakamoto da América Latina Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-hoje-btc-tenta-recuperar-os-us-82-mil-mas-petroleo-e-juros",
+      "headline": "Bitcoin hoje: BTC tenta recuperar os US$ 82 mil, mas petróleo e juros preocupam mercado",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-23T10:53:28.000Z",
       "publishers": [
         "Portal do Bitcoin"
       ],
@@ -8620,10 +8968,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Cientistas de IA estão fumando para provar que inteligência artificial vai curar câncer, diz executivo",
-          "url": "https://portaldobitcoin.uol.com.br/cientistas-de-ia-estao-fumando-para-provar-que-inteligencia-artificial-vai-curar-cancer-diz-executivo",
-          "date": "2026-10-17T12:04:00.000Z",
-          "summary": "Diretor de tecnologia da Palantir afirma que muitos pesquisadores de IA começaram a fumar para demonstrar sua fé na inteligência artificial O post Cientistas de IA estão fumando para provar que inteligência artificial vai curar câncer, diz executivo apareceu primeiro em Portal do Bitcoin ."
+          "title": "Bitcoin hoje: BTC tenta recuperar os US$ 82 mil, mas petróleo e juros preocupam mercado",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-tenta-recuperar-os-us-82-mil-mas-petroleo-e-juros-preocupam-mercado",
+          "date": "2026-10-23T10:53:28.000Z",
+          "summary": "Bitcoin segue em US$ 81 mil e tenta se recuperar em meio à alta do petróleo e à cautela antes da decisão de juros do Fed O post Bitcoin hoje: BTC tenta recuperar os US$ 82 mil, mas petróleo e juros preocupam mercado apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -8631,7 +8979,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -10909,26 +11257,99 @@
       "status": "pendente"
     },
     {
-      "id": "glamsterdam-on-hoodi-postponed",
-      "headline": "Glamsterdam on Hoodi Postponed",
-      "category": "ethereum",
-      "tags": [],
-      "firstSeen": "2026-10-22T00:00:00.000Z",
+      "id": "bitcoin-optech-newsletter-428",
+      "headline": "Bitcoin Optech Newsletter #428",
+      "category": "tecnologia",
+      "tags": [
+        "Bitcoin",
+        "regulação"
+      ],
+      "firstSeen": "2026-10-23T00:00:00.000Z",
       "publishers": [
-        "Ethereum Foundation Blog"
+        "Bitcoin Optech"
       ],
       "official": true,
       "items": [
         {
-          "feed": "ethereum-blog",
-          "publisher": "Ethereum Foundation Blog",
+          "feed": "bitcoin-optech",
+          "publisher": "Bitcoin Optech",
           "type": "official",
-          "weight": 3,
+          "weight": 2,
           "lang": "en",
-          "title": "Glamsterdam on Hoodi Postponed",
-          "url": "https://blog.ethereum.org/en/2026/10/22/glamsterdam-hoodi-delay",
-          "date": "2026-10-22T00:00:00.000Z",
-          "summary": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch 132,352), has been postponed. A new activation date has not been set. This update supersedes the schedule and activation instructions in the Hoodi testnet announcement...."
+          "title": "Bitcoin Optech Newsletter #428",
+          "url": "https://bitcoinops.org/en/newsletters/2026/10/23",
+          "date": "2026-10-23T00:00:00.000Z",
+          "summary": "This week’s newsletter describes a design for a single-issuer layer 2 whose users can redeem their bitcoin onchain without the issuer’s cooperation and summarizes a proposal for including hash preimages in output script descriptors. Also included are our regular sections describing recent changes to services and client software, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "live-updates-bitcoin-holds-above-81-000-as-the-ai-rout-fades-and-oil",
+      "headline": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-23T11:13:01.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+          "url": "https://coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+          "date": "2026-10-23T11:13:01.000Z",
+          "summary": "Bitcoin went quiet after a week of big swings, with tech futures steadying and Brent hitting its highest level since early May. The Fed meets next week."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "resumo/boletim, não é notícia"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "india-s-largest-exchange-denies-hack-after-sleuths-pointed-to-16",
+      "headline": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "category": "mercado",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-23T08:02:35.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+          "url": "https://coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+          "date": "2026-10-23T08:02:35.000Z",
+          "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange."
         }
       ],
       "validation": {
@@ -10942,33 +11363,34 @@
       "status": "descartada"
     },
     {
-      "id": "polymarket-has-reportedly-fired-its-marketing-chief-also-a-close",
-      "headline": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-23T05:01:19.000Z",
+      "id": "was-crypto-self-custody-ever-designed-for-beginners",
+      "headline": "Was crypto self-custody ever designed for beginners?",
+      "category": "regulacao",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-10-23T11:47:47.000Z",
       "publishers": [
-        "CoinDesk"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-          "url": "https://coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-          "date": "2026-10-23T05:01:19.000Z",
-          "summary": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post."
+          "title": "Was crypto self-custody ever designed for beginners?",
+          "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption",
+          "date": "2026-10-23T11:47:47.000Z",
+          "summary": "Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto",
           "parece rumor/especulação"
         ]
       },
@@ -10976,44 +11398,13 @@
       "status": "descartada"
     },
     {
-      "id": "irish-central-bank-fines-coinbase-ireland-3-6-million-over-fund",
-      "headline": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-22T15:40:25.000Z",
-      "publishers": [
-        "CoinDesk"
+      "id": "bybit-secures-first-full-dubai-license-for-spot-trading-services",
+      "headline": "Bybit secures first full Dubai license for spot trading services",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
       ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-          "url": "https://coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-          "date": "2026-10-22T15:40:25.000Z",
-          "summary": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction",
-      "headline": "Pentagon bans US forces from using military info to bet in prediction markets",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-22T23:50:42.000Z",
+      "firstSeen": "2026-10-23T09:50:04.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -11025,10 +11416,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Pentagon bans US forces from using military info to bet in prediction markets",
-          "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets",
-          "date": "2026-10-22T23:50:42.000Z",
-          "summary": "Hegseth warned that prediction market wagers could expose military operations to adversaries."
+          "title": "Bybit secures first full Dubai license for spot trading services",
+          "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license",
+          "date": "2026-10-23T09:50:04.000Z",
+          "summary": "Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching."
         }
       ],
       "validation": {
@@ -11042,275 +11433,11 @@
       "status": "descartada"
     },
     {
-      "id": "irish-cenbank-fines-coinbase-arm-3-6m-for-oversight-safeguard-failures",
-      "headline": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+      "id": "new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple",
+      "headline": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
       "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-10-22T16:48:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-          "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure",
-          "date": "2026-10-22T16:48:00.000Z",
-          "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "chatgpt-teaches-messi-chess-on-a-board-it-set-up-wrong-with-an",
-      "headline": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-22T20:39:18.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
-          "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
-          "date": "2026-10-22T20:39:18.000Z",
-          "summary": "Lionel Messi’s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "meta-creates-non-voting-stock-to-fund-ai-buildout-keeping-zuckerberg",
-      "headline": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-22T19:06:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
-          "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
-          "date": "2026-10-22T19:06:02.000Z",
-          "summary": "Meta will hand shareholders a free non-voting share for every share they own in January, giving it a way to raise equity for AI spending without diluting Zuckerberg's 60.6% vote."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "coinbase-fined-again-in-ireland-this-time-3-6m-over-fund-safeguarding",
-      "headline": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-22T18:36:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-          "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
-          "date": "2026-10-22T18:36:03.000Z",
-          "summary": "The Central Bank of Ireland penalized Coinbase Ireland €3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded—its second hit to the exchange’s European arm in the last year."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "tesla-s-profit-drops-43-as-musk-starts-building-robots-and-plans-to",
-      "headline": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-22T18:06:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-          "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
-          "date": "2026-10-22T18:06:02.000Z",
-          "summary": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "oil-climbs-above-111-as-ai-stocks-slide-dragging-the-s-e-p-500-and",
-      "headline": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&P 500 and Global Markets With Them",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-22T17:33:38.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&P 500 and Global Markets With Them",
-          "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
-          "date": "2026-10-22T17:33:38.000Z",
-          "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "major-banks-find-rogue-ai-agents-inside-customer-accounts-and-they-re",
-      "headline": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-22T15:24:18.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-          "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-          "date": "2026-10-22T15:24:18.000Z",
-          "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the",
-      "headline": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-22T14:04:48.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-          "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
-          "date": "2026-10-22T14:04:48.000Z",
-          "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "coinbase-ireland-fined-3-6-million-over-customer-fund-segregation",
-      "headline": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-22T14:03:40.000Z",
+      "firstSeen": "2026-10-23T10:12:02.000Z",
       "publishers": [
         "The Block"
       ],
@@ -11322,10 +11449,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
-          "url": "https://theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
-          "date": "2026-10-22T14:03:40.000Z",
-          "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts."
+          "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+          "url": "https://theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
+          "date": "2026-10-23T10:12:02.000Z",
+          "summary": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it."
         }
       ],
       "validation": {
