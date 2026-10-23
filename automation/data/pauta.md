@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-23T12:07:40.955Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-23T17:26:48.360Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,16 +11,6 @@ Gerada em 2026-10-23T12:07:40.955Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Citrini sees a tokenization boom. The harder question is who profits
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Citrini sees a tokenization boom. The harder question is who profits — https://coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits (2026-10-17T15:00:00.000Z)
-
-## Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Livecoins] Tem mais brasileiro no cripto do que na bolsa, mas quase metade admite não entender o que comprou — https://livecoins.com.br/tem-mais-brasileiro-no-cripto-do-que-na-bolsa-mas-quase-metade-admite-nao-entender-o-que-comprou (2026-10-17T14:30:24.000Z)
 
 ## CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE
 
@@ -151,3 +141,13 @@ Gerada em 2026-10-23T12:07:40.955Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Portal do Bitcoin] Bybit entra com pedido de licença cripto ao Banco Central — https://portaldobitcoin.uol.com.br/bybit-entra-com-pedido-de-licenca-cripto-ao-banco-central (2026-10-20T17:12:05.000Z)
+
+## Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops — https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops (2026-10-20T20:38:00.000Z)
+
+## JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat — https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold (2026-10-20T21:16:04.000Z)
