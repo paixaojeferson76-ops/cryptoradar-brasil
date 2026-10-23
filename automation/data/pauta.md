@@ -1,6 +1,13 @@
 # Pauta de notícias
 
-Gerada em 2026-10-22T12:26:27.772Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-23T05:23:02.744Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Fireblocks disputes report of $2.5B Visa acquisition talks
+
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 87
+- [Cointelegraph] Fireblocks disputes report of $2.5B Visa acquisition talks — https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks (2026-10-22T14:41:00.000Z)
+- [The Block] Fireblocks denies report of $2.5 billion acquisition talks with Visa — https://theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926 (2026-10-22T13:27:54.000Z)
+- [Bitcoin Magazine] Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks — https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover (2026-10-22T14:38:25.000Z)
 
 ## ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
@@ -12,35 +19,10 @@ Gerada em 2026-10-22T12:26:27.772Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 50
 - [CoinDesk] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — https://coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain (2026-10-21T15:00:53.000Z)
 
-## Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading
+## Dune launches real-time data feeds covering 200 onchain trading venues
 
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading — https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz (2026-10-16T15:52:28.000Z)
-
-## Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints — https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints (2026-10-16T15:45:43.000Z)
-
-## Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say — https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts (2026-10-16T16:06:05.000Z)
-
-## Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner — https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner (2026-10-16T15:43:58.000Z)
-
-## Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen — https://theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839 (2026-10-16T20:22:57.000Z)
-
-## Brasil aparece entre os países mais violentos para investidores de criptomoedas após atualização de lista
-
-- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
-- [Livecoins] Brasil aparece entre os países mais violentos para investidores de criptomoedas após atualização de lista — https://livecoins.com.br/brasil-aparece-entre-os-paises-mais-violentos-para-investidores-de-criptomoedas-apos-atualizacao-de-lista (2026-10-16T21:01:42.000Z)
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
+- [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
 
 ## Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report
 
@@ -151,3 +133,23 @@ Gerada em 2026-10-22T12:26:27.772Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets — https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets (2026-10-20T16:47:48.000Z)
+
+## Stablecoin transfers quadruple to $891B as US banks expand adoption: Report
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Stablecoin transfers quadruple to $891B as US banks expand adoption: Report — https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report (2026-10-20T16:38:13.000Z)
+
+## Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls — https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls (2026-10-20T16:14:09.000Z)
+
+## Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000 — https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims (2026-10-20T17:03:26.000Z)
+
+## What Is Strategy (MSTR)? The Bitcoin Treasury Company
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] What Is Strategy (MSTR)? The Bitcoin Treasury Company — https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company (2026-10-20T16:17:02.000Z)

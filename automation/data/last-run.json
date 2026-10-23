@@ -1,7 +1,18 @@
 {
-  "at": "2026-10-22T12:26:31.076Z",
+  "at": "2026-10-23T05:24:44.147Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "fireblocks-nega-negociacoes-para-suposta-aquisicao-de-us-2-5-bilhoes-pela-visa",
+      "title": "Fireblocks nega negociações para suposta aquisição de US$ 2,5 bilhões pela Visa",
+      "confidence": "alta",
+      "sources": [
+        "Cointelegraph",
+        "The Block",
+        "Bitcoin Magazine"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
