@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-24T11:38:36.122Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-24T16:14:57.014Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,21 +11,6 @@ Gerada em 2026-10-24T11:38:36.122Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation — https://coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation (2026-10-18T16:00:00.000Z)
-
-## Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red — https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red (2026-10-18T15:01:04.000Z)
-
-## Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [The Block] Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum — https://theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863 (2026-10-18T16:07:43.000Z)
 
 ## Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off
 
@@ -151,3 +136,18 @@ Gerada em 2026-10-24T11:38:36.122Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
 - [Decrypt] Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks — https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks (2026-10-20T20:16:04.000Z)
+
+## Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% — https://coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11 (2026-10-21T04:07:07.000Z)
+
+## Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity — https://coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity (2026-10-21T12:12:36.000Z)
+
+## Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact — https://coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact (2026-10-21T12:10:39.000Z)

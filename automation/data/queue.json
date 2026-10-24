@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T11:38:36.122Z",
+  "updatedAt": "2026-10-24T16:14:57.014Z",
   "stories": [
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
@@ -65,106 +65,6 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
-    },
-    {
-      "id": "latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls",
-      "headline": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-18T16:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-          "url": "https://coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-          "date": "2026-10-18T16:00:00.000Z",
-          "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-etfs-shed-nearly-1-billion-in-two-weeks-as-uptober-stays-red",
-      "headline": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-18T15:01:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-          "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-          "date": "2026-10-18T15:01:04.000Z",
-          "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727-000",
-      "headline": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-18T16:07:43.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-          "url": "https://theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
-          "date": "2026-10-18T16:07:43.000Z",
-          "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2499,13 +2399,14 @@
       "status": "pendente"
     },
     {
-      "id": "stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and",
-      "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-      "category": "altcoins",
+      "id": "strategy-strive-face-balancing-act-between-bitcoin-buying-and",
+      "headline": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "category": "mercado",
       "tags": [
-        "stablecoins"
+        "Bitcoin",
+        "ETFs"
       ],
-      "firstSeen": "2026-10-18T14:00:00.000Z",
+      "firstSeen": "2026-10-24T16:00:00.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -2517,10 +2418,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-          "url": "https://coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-          "date": "2026-10-18T14:00:00.000Z",
-          "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails."
+          "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+          "url": "https://coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+          "date": "2026-10-24T16:00:00.000Z",
+          "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
         }
       ],
       "validation": {
@@ -2528,17 +2429,17 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "bitcoin-s-100-000-year-end-hope-divides-analysts-as-inflation-clouds",
-      "headline": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "category": "mercado",
+      "id": "crypto-under-weekend-pressure-bitcoin-slides-below-80-000-on-u-s",
+      "headline": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-18T13:00:00.000Z",
+      "firstSeen": "2026-10-24T15:11:24.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -2550,10 +2451,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-          "url": "https://coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-          "date": "2026-10-18T13:00:00.000Z",
-          "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market."
+          "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+          "url": "https://coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+          "date": "2026-10-24T15:11:24.000Z",
+          "summary": "Bitcoin has sunk to its weakest level in more than one month."
         }
       ],
       "validation": {
@@ -2561,17 +2462,51 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost",
-      "headline": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "id": "why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn",
+      "headline": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-24T15:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+          "url": "https://coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+          "date": "2026-10-24T15:00:00.000Z",
+          "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "argentina-drops-criminal-probe-into-president-milei-over-crashed",
+      "headline": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
       "category": "regulacao",
       "tags": [
+        "regulação",
         "segurança"
       ],
-      "firstSeen": "2026-10-18T13:00:00.000Z",
+      "firstSeen": "2026-10-24T14:38:47.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -2583,10 +2518,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-          "url": "https://coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-          "date": "2026-10-18T13:00:00.000Z",
-          "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
+          "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+          "url": "https://coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+          "date": "2026-10-24T14:38:47.000Z",
+          "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
         }
       ],
       "validation": {
@@ -2594,73 +2529,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that",
-      "headline": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-18T12:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-          "url": "https://coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-          "date": "2026-10-18T12:00:00.000Z",
-          "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
-      "headline": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-18T13:01:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-          "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
-          "date": "2026-10-18T13:01:04.000Z",
-          "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4682,6 +4551,137 @@
           "url": "https://livecoins.com.br/brasileiro-pede-que-tether-trave-valores-em-carteira-de-criptomoedas-e-justica-aceita-bloqueio-de-r-300-mil-em-usdt",
           "date": "2026-10-23T15:17:18.000Z",
           "summary": "Justiça determinou que empresa emissora do USDT efetue o bloqueio de saldo e devolva a brasileiro, sob pena de multa diária. Fonte: Brasileiro pede que Tether trave valores em carteira de criptomoedas e justiça aceita bloqueio de R$ 300 mil em USDT Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s",
+      "headline": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-24T14:06:24.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+          "url": "https://coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+          "date": "2026-10-24T14:06:24.000Z",
+          "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment",
+      "headline": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-24T14:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+          "url": "https://coindesk.com",
+          "date": "2026-10-24T14:00:00.000Z",
+          "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge",
+      "headline": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-24T12:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+          "url": "https://coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+          "date": "2026-10-24T12:00:00.000Z",
+          "summary": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "hong-kong-s-biggest-bank-puts-a-stablecoin-in-3-million-wallets",
+      "headline": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "category": "altcoins",
+      "tags": [
+        "Ethereum",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-24T13:01:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+          "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+          "date": "2026-10-24T13:01:02.000Z",
+          "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."
         }
       ],
       "validation": {
@@ -8121,73 +8121,6 @@
       "status": "pendente"
     },
     {
-      "id": "ceo-da-falida-mt-gox-critica-executivo-da-ledger-apos-falha-em",
-      "headline": "CEO da falida Mt. Gox critica executivo da Ledger após falha em comunicação sobre ataque hacker",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-18T15:39:48.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "CEO da falida Mt. Gox critica executivo da Ledger após falha em comunicação sobre ataque hacker",
-          "url": "https://livecoins.com.br/ceo-da-falida-mt-gox-critica-executivo-da-ledger-apos-falha-em-comunicacao-sobre-ataque-hacker",
-          "date": "2026-10-18T15:39:48.000Z",
-          "summary": "Mark Karpelès e Pascal Gauthier trocam farpas na rede social X sobre a exposição de carteiras físicas a chips maliciosos Fonte: CEO da falida Mt. Gox critica executivo da Ledger após falha em comunicação sobre ataque hacker Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "apos-recriar-photoshop-com-ia-desenvolvedor-faz-versoes-gratuitas-de",
-      "headline": "Após recriar Photoshop com IA, desenvolvedor faz versões gratuitas de Word, Excel e PowerPoint",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-18T14:59:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Após recriar Photoshop com IA, desenvolvedor faz versões gratuitas de Word, Excel e PowerPoint",
-          "url": "https://portaldobitcoin.uol.com.br/apos-recriar-photoshop-com-ia-desenvolvedor-faz-versoes-gratuitas-de-word-excel-e-powerpoint",
-          "date": "2026-10-18T14:59:00.000Z",
-          "summary": "Desenvolvedor usou o Claude da Anthropic para criar réplicas gratuitas e de código aberto do Word, Excel e PowerPoint O post Após recriar Photoshop com IA, desenvolvedor faz versões gratuitas de Word, Excel e PowerPoint apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "michael-saylor-sugere-nova-compra-de-bitcoin-mas-strc-falha-em-bater",
       "headline": "Michael Saylor sugere nova compra de Bitcoin, mas STRC falha em bater US$ 100 enquanto reservas de dólar diminuem",
       "category": "bitcoin",
@@ -9464,46 +9397,13 @@
       "status": "pendente"
     },
     {
-      "id": "policia-do-canada-prende-tres-militares-do-exercito-por-sequestro-de",
-      "headline": "Polícia do Canadá prende três militares do exército por sequestro de dono de corretora de criptomoedas",
+      "id": "internet-esta-segura-novamente-apos-falhas-graves-veja-o-que-dizem",
+      "headline": "Internet está segura novamente após falhas graves? Veja o que dizem especialistas",
       "category": "bitcoin",
       "tags": [
         "Bitcoin"
       ],
-      "firstSeen": "2026-10-18T12:55:07.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Polícia do Canadá prende três militares do exército por sequestro de dono de corretora de criptomoedas",
-          "url": "https://livecoins.com.br/policia-do-canada-prende-tres-militares-do-exercito-por-sequestro-de-dono-de-corretora-de-criptomoedas",
-          "date": "2026-10-18T12:55:07.000Z",
-          "summary": "Arsenal bélico das Forças Armadas foi recuperado após resgate de empresário do setor de ativos digitais Fonte: Polícia do Canadá prende três militares do exército por sequestro de dono de corretora de criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "gta-6-no-pc-ja-no-lancamento-projeto-com-inteligencia-artificial-pode",
-      "headline": "GTA 6 no PC já no lançamento? Projeto com inteligência artificial pode tornar isso possível",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-18T12:21:00.000Z",
+      "firstSeen": "2026-10-24T15:07:00.000Z",
       "publishers": [
         "Portal do Bitcoin"
       ],
@@ -9515,10 +9415,10 @@
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "GTA 6 no PC já no lançamento? Projeto com inteligência artificial pode tornar isso possível",
-          "url": "https://portaldobitcoin.uol.com.br/gta-6-no-pc-ja-no-lancamento-projeto-com-inteligencia-artificial-pode-tornar-isso-possivel",
-          "date": "2026-10-18T12:21:00.000Z",
-          "summary": "O AnyPS5 está trabalhando para que qualquer jogo de PS5 rode nativamente no PC, e os jogadores esperam que funcione também para o GTA 6 O post GTA 6 no PC já no lançamento? Projeto com inteligência artificial pode tornar isso possível apareceu primeiro em Portal do Bitcoin ."
+          "title": "Internet está segura novamente após falhas graves? Veja o que dizem especialistas",
+          "url": "https://portaldobitcoin.uol.com.br/internet-esta-segura-novamente-apos-falhas-graves-veja-o-que-dizem-especialistas",
+          "date": "2026-10-24T15:07:00.000Z",
+          "summary": "PHP lançou sua correção, os atacantes fizeram milhões de tentativas e os governos afirmam que ninguém conseguiu invadir o sistema ainda O post Internet está segura novamente após falhas graves? Veja o que dizem especialistas apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -9526,7 +9426,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -10868,6 +10768,72 @@
       "status": "pendente"
     },
     {
+      "id": "governo-trump-destina-us-5-milhoes-para-treinar-policiais-no",
+      "headline": "Governo Trump destina US$ 5 milhões para treinar policiais no rastreamento de criptomoedas",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-24T13:04:40.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Governo Trump destina US$ 5 milhões para treinar policiais no rastreamento de criptomoedas",
+          "url": "https://livecoins.com.br/governo-trump-destina-us-5-milhoes-para-treinar-policiais-no-rastreamento-de-criptomoedas",
+          "date": "2026-10-24T13:04:40.000Z",
+          "summary": "Iniciativa integra plano de US$ 44 milhões liderado por Donald Trump e Marco Rubio para frear cartéis internacionais Fonte: Governo Trump destina US$ 5 milhões para treinar policiais no rastreamento de criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-o-termometro-mais-sensivel-do-mercado-financeiro",
+      "headline": "Bitcoin: o termômetro mais sensível do mercado financeiro",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-24T12:02:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Bitcoin: o termômetro mais sensível do mercado financeiro",
+          "url": "https://portaldobitcoin.uol.com.br/bitcoin-o-termometro-mais-sensivel-do-mercado-financeiro",
+          "date": "2026-10-24T12:02:00.000Z",
+          "summary": "O Bitcoin é a única válvula de escape aberta, com liquidez para absorver o fluxo de capital e precificar o choque no instante exato em que ele ocorre O post Bitcoin: o termômetro mais sensível do mercado financeiro apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "bnb-foundation-anuncia-queima-de-us-1-2-bilhao-em-tokens",
       "headline": "BNB Foundation anuncia queima de US$ 1,2 bilhão em tokens",
       "category": "altcoins",
@@ -12076,6 +12042,107 @@
       },
       "score": 21,
       "status": "pendente"
+    },
+    {
+      "id": "block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-24T15:21:06.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+          "url": "https://coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+          "date": "2026-10-24T15:21:06.000Z",
+          "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "sweden-s-government-offices-block-chatgpt-and-claude-keep-microsoft",
+      "headline": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-24T16:01:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+          "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+          "date": "2026-10-24T16:01:03.000Z",
+          "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward",
+      "headline": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-24T15:01:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+          "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
+          "date": "2026-10-24T15:01:02.000Z",
+          "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
