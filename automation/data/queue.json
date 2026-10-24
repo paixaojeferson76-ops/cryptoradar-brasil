@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:14:57.014Z",
+  "updatedAt": "2026-10-24T21:11:13.386Z",
   "stories": [
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
@@ -65,37 +65,6 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi",
-      "headline": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-10-18T19:50:28.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
-          "url": "https://theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
-          "date": "2026-10-18T19:50:28.000Z",
-          "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2533,73 +2502,6 @@
       "status": "pendente"
     },
     {
-      "id": "the-white-house-s-crypto-chief-departs-state-of-crypto",
-      "headline": "The White House's crypto chief departs: State of Crypto",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-18T18:30:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "The White House's crypto chief departs: State of Crypto",
-          "url": "https://coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-          "date": "2026-10-18T18:30:00.000Z",
-          "summary": "Patrick Witt announced his departure from the White House last week."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "quanto-custa-ter-uma-empresa-cripto-no-brasil-com-a-nova-regulacao-do",
-      "headline": "Quanto custa ter uma empresa cripto no Brasil com a nova regulação do Banco Central",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "Banco Central",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-18T17:52:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Quanto custa ter uma empresa cripto no Brasil com a nova regulação do Banco Central",
-          "url": "https://portaldobitcoin.uol.com.br/quanto-custa-ter-uma-empresa-cripto-no-brasil-com-a-nova-regulacao-do-banco-central",
-          "date": "2026-10-18T17:52:00.000Z",
-          "summary": "Capital parte de R$ 10,8 milhões, mas tecnologia, equipe e outras atividades podem elevar em milhões o custo para manter uma empresa regulada O post Quanto custa ter uma empresa cripto no Brasil com a nova regulação do Banco Central apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
       "id": "deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german",
       "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
       "category": "altcoins",
@@ -4693,28 +4595,29 @@
       "status": "pendente"
     },
     {
-      "id": "wall-street-freaked-out-friday-vix-and-bitcoin-say-the-fear-may-fade",
-      "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-      "category": "bitcoin",
+      "id": "crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips",
+      "headline": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "category": "mercado",
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "ETFs"
       ],
-      "firstSeen": "2026-10-18T16:33:00.000Z",
+      "firstSeen": "2026-10-24T17:44:36.000Z",
       "publishers": [
-        "CoinDesk"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-          "url": "https://coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-          "date": "2026-10-18T16:33:00.000Z",
-          "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+          "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+          "url": "https://theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+          "date": "2026-10-24T17:44:36.000Z",
+          "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
         }
       ],
       "validation": {
@@ -4722,7 +4625,77 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "justica-de-sp-manda-administradores-devolverem-site-chave-pix-e",
+      "headline": "Justiça de SP manda administradores devolverem site, chave Pix e depósitos para a corretora Brasil Bitcoin em 48 horas",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Banco Central",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-24T17:58:06.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Justiça de SP manda administradores devolverem site, chave Pix e depósitos para a corretora Brasil Bitcoin em 48 horas",
+          "url": "https://livecoins.com.br/justica-de-sp-manda-administradores-devolverem-site-chave-pix-e-depositos-para-a-corretora-brasil-bitcoin-em-48-horas",
+          "date": "2026-10-24T17:58:06.000Z",
+          "summary": "Decisão altera pedido enviado ao Banco Central do Brasil de funcionamento e prazo final é até o dia 30 de outubro Fonte: Justiça de SP manda administradores devolverem site, chave Pix e depósitos para a corretora Brasil Bitcoin em 48 horas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "como-a-nova-regulacao-cripto-vai-proteger-o-investidor-entenda-o-que",
+      "headline": "Como a nova regulação cripto vai proteger o investidor? Entenda o que muda com as regras do Banco Central",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Banco Central"
+      ],
+      "firstSeen": "2026-10-24T18:13:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Como a nova regulação cripto vai proteger o investidor? Entenda o que muda com as regras do Banco Central",
+          "url": "https://portaldobitcoin.uol.com.br/como-a-nova-regulacao-cripto-vai-proteger-o-investidor-entenda-o-que-muda-com-as-regras-do-banco-central",
+          "date": "2026-10-24T18:13:00.000Z",
+          "summary": "Exchanges terão que cumprir exigências de segurança, separar o patrimônio dos clientes e prestar mais informações sobre suas operações O post Como a nova regulação cripto vai proteger o investidor? Entenda o que muda com as regras do Banco Central apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -6430,6 +6403,40 @@
       "status": "pendente"
     },
     {
+      "id": "argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no",
+      "headline": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-24T16:24:13.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+          "url": "https://theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+          "date": "2026-10-24T16:24:13.000Z",
+          "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-whale-moves-34-million-in-btc-it-got-in-2013-when-coins",
       "headline": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
       "category": "bitcoin",
@@ -8118,39 +8125,6 @@
         "reasons": []
       },
       "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "michael-saylor-sugere-nova-compra-de-bitcoin-mas-strc-falha-em-bater",
-      "headline": "Michael Saylor sugere nova compra de Bitcoin, mas STRC falha em bater US$ 100 enquanto reservas de dólar diminuem",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-18T18:30:47.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Michael Saylor sugere nova compra de Bitcoin, mas STRC falha em bater US$ 100 enquanto reservas de dólar diminuem",
-          "url": "https://livecoins.com.br/michael-saylor-sugere-nova-compra-de-bitcoin-mas-strc-falha-em-bater-us-100-enquanto-reservas-de-dolar-diminuem",
-          "date": "2026-10-18T18:30:47.000Z",
-          "summary": "STRC chegou a US$ 99,94 na última quarta-feira (14), mas fechou a semana abaixo dos US$ 98 Fonte: Michael Saylor sugere nova compra de Bitcoin, mas STRC falha em bater US$ 100 enquanto reservas de dólar diminuem Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
       "status": "pendente"
     },
     {
@@ -12044,79 +12018,11 @@
       "status": "pendente"
     },
     {
-      "id": "block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-      "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-24T15:21:06.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-          "url": "https://coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-          "date": "2026-10-24T15:21:06.000Z",
-          "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "sweden-s-government-offices-block-chatgpt-and-claude-keep-microsoft",
-      "headline": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-10-24T16:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-          "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
-          "date": "2026-10-24T16:01:03.000Z",
-          "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward",
-      "headline": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+      "id": "google-quietly-updates-privacy-policy-to-let-gmail-and-photos-data",
+      "headline": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-24T15:01:02.000Z",
+      "firstSeen": "2026-10-24T17:01:02.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -12128,10 +12034,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
-          "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
-          "date": "2026-10-24T15:01:02.000Z",
-          "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago."
+          "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+          "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+          "date": "2026-10-24T17:01:02.000Z",
+          "summary": "A policy change effective Oct. 16 carves out an exception to Google’s long-standing pledge—letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features."
         }
       ],
       "validation": {

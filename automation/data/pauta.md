@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-24T16:14:57.014Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-24T21:11:13.386Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,11 +11,6 @@ Gerada em 2026-10-24T16:14:57.014Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off — https://theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866 (2026-10-18T19:50:28.000Z)
 
 ## Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-24T16:14:57.014Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [CoinDesk] Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact — https://coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact (2026-10-21T12:10:39.000Z)
+
+## Bitcoin risk management grows more popular as the 'just bet on price' era fades
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin risk management grows more popular as the 'just bet on price' era fades — https://coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades (2026-10-21T11:15:00.000Z)
