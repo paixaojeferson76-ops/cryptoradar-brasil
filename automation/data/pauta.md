@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-24T05:02:22.070Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm
-
-- Categoria sugerida: ethereum | Confiança: media | Pontos: 70
-- [Decrypt] Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm — https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser (2026-10-23T20:16:02.000Z)
-- [The Block] Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser — https://theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785 (2026-10-23T17:46:09.000Z)
+Gerada em 2026-10-24T11:38:36.122Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -17,11 +11,6 @@ Gerada em 2026-10-24T05:02:22.070Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Cysic crypto bridge halted after unauthorized mint of 10M CYS
-
-- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Cysic crypto bridge halted after unauthorized mint of 10M CYS — https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys (2026-10-18T10:43:12.000Z)
 
 ## Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation
 
@@ -152,3 +141,13 @@ Gerada em 2026-10-24T05:02:22.070Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Decrypt] JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat — https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold (2026-10-20T21:16:04.000Z)
+
+## Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Decrypt] Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash — https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash (2026-10-20T20:46:04.000Z)
+
+## Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Decrypt] Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks — https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks (2026-10-20T20:16:04.000Z)
