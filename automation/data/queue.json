@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-10-23T17:26:48.360Z",
+  "updatedAt": "2026-10-24T05:02:22.070Z",
   "stories": [
+    {
+      "id": "senate-democrat-probes-tether-payments-to-ex-white-house-crypto",
+      "headline": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-23T17:46:09.000Z",
+      "publishers": [
+        "Decrypt",
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+          "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+          "date": "2026-10-23T20:16:02.000Z",
+          "summary": "Sen. Richard Blumenthal demanded Tether’s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines."
+        },
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+          "url": "https://theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+          "date": "2026-10-23T17:46:09.000Z",
+          "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "media",
+        "reasons": []
+      },
+      "score": 70,
+      "status": "gerada",
+      "slug": "senador-dos-eua-cobra-explicacoes-da-tether-sobre-pagamentos-a-firma-de-ex"
+    },
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
       "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
@@ -65,39 +112,6 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
-    },
-    {
-      "id": "coreweave-broadcom-verizon-among-nine-companies-objecting-to",
-      "headline": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
-      "category": "blockchain",
-      "tags": [
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-17T19:56:25.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
-          "url": "https://theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
-          "date": "2026-10-17T19:56:25.000Z",
-          "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2530,48 +2544,13 @@
       "status": "pendente"
     },
     {
-      "id": "nova-regulacao-cripto-cria-desafio-tecnologico-para-bancos-e",
-      "headline": "Nova regulação cripto cria desafio tecnológico para bancos e exchanges no Brasil, diz especialista",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-17T18:04:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Nova regulação cripto cria desafio tecnológico para bancos e exchanges no Brasil, diz especialista",
-          "url": "https://portaldobitcoin.uol.com.br/nova-regulacao-cripto-cria-desafio-tecnologico-para-bancos-e-exchanges-no-brasil-diz-especialista",
-          "date": "2026-10-17T18:04:00.000Z",
-          "summary": "Com o prazo chegando ao fim, bancos e exchanges precisam adaptar sistemas para monitorar transações e cumprir novas exigências do BC O post Nova regulação cripto cria desafio tecnológico para bancos e exchanges no Brasil, diz especialista apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners",
-      "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "id": "franklin-templeton-adds-150-million-in-fund-shares-to-xrp-ledger-all",
+      "headline": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
       "category": "altcoins",
       "tags": [
-        "stablecoins"
+        "XRP"
       ],
-      "firstSeen": "2026-10-18T01:06:35.000Z",
+      "firstSeen": "2026-10-24T04:45:43.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -2583,10 +2562,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-          "url": "https://coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-          "date": "2026-10-18T01:06:35.000Z",
-          "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "url": "https://coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "date": "2026-10-24T04:45:43.000Z",
+          "summary": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
         }
       ],
       "validation": {
@@ -2594,7 +2573,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4820,41 +4799,6 @@
         "reasons": []
       },
       "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "rede-blockchain-brasil-organiza-encontro-para-discutir-regulacao-e",
-      "headline": "Rede Blockchain Brasil organiza encontro para discutir regulação e tecnologia governamental na sede do BNDES",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-17T22:44:35.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Rede Blockchain Brasil organiza encontro para discutir regulação e tecnologia governamental na sede do BNDES",
-          "url": "https://livecoins.com.br/rede-blockchain-brasil-organiza-encontro-para-discutir-regulacao-e-tecnologia-governamental-na-sede-do-bndes",
-          "date": "2026-10-17T22:44:35.000Z",
-          "summary": "Evento BlockchainGov 2026 promove painéis sobre infraestrutura digital e inteligência artificial Fonte: Rede Blockchain Brasil organiza encontro para discutir regulação e tecnologia governamental na sede do BNDES Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
       "status": "pendente"
     },
     {
@@ -7333,6 +7277,101 @@
       "status": "pendente"
     },
     {
+      "id": "wells-fargo-and-five-others-object-to-okx-ice-tokenized-stock",
+      "headline": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-23T21:32:16.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+          "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+          "date": "2026-10-23T21:32:16.000Z",
+          "summary": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "irs-plans-lower-tax-disclosure-penalties-including-for-crypto-forbes",
+      "headline": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-23T20:54:17.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+          "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
+          "date": "2026-10-23T20:54:17.000Z",
+          "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "netanyahu-considering-crypto-plan-to-dodge-banking-sanctions-on-israel",
+      "headline": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-23T21:16:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+          "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+          "date": "2026-10-23T21:16:03.000Z",
+          "summary": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
       "id": "us-bitcoin-etfs-draw-527m-in-biggest-showing-since-september",
       "headline": "US Bitcoin ETFs draw $527M in biggest showing since September",
       "category": "mercado",
@@ -7647,6 +7686,106 @@
           "url": "https://livecoins.com.br/corretora-bitso-emite-alerta-para-clientes-no-brasil-sacarem-reais-e-criptomoedas-ate-segunda-feira-26",
           "date": "2026-10-22T18:32:02.000Z",
           "summary": "A corretora Bitso emitiu um alerta urgente nesta quinta-feira (22) para que os clientes institucionais no Brasil retirem todos os saldos da plataforma até segunda-feira (26). O aviso oficial informa que as funções de depósito e saque via PIX serão desativadas nessa data por conta da transição das operações locais para o Mercado Bitcoin (MB). […] Fonte: Corretora Bitso emite alerta para clientes no Brasil sacarem reais e criptomoedas até segunda-feira (26) Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "us-senator-probes-tether-after-reported-deal-with-ex-trump-crypto",
+      "headline": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum",
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-23T17:42:12.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+          "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
+          "date": "2026-10-23T17:42:12.000Z",
+          "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "sec-flags-ai-super-intelligence-and-tokenization-as-systemic-market",
+      "headline": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "SEC",
+        "tokenização"
+      ],
+      "firstSeen": "2026-10-23T18:54:55.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+          "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+          "date": "2026-10-23T18:54:55.000Z",
+          "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "netanyahu-seeking-blockchain-plan-to-prepare-for-possible-sanctions",
+      "headline": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-10-23T18:15:55.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+          "url": "https://theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+          "date": "2026-10-23T18:15:55.000Z",
+          "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
         }
       ],
       "validation": {
@@ -9434,39 +9573,6 @@
       "status": "pendente"
     },
     {
-      "id": "binance-us-busca-investimento-de-us-100-milhoes-mirando-avaliacao-de",
-      "headline": "Binance US busca investimento de US$ 100 milhões, mirando avaliação de US$ 1 bilhão, diz Bloomberg",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-17T18:06:01.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Binance US busca investimento de US$ 100 milhões, mirando avaliação de US$ 1 bilhão, diz Bloomberg",
-          "url": "https://livecoins.com.br/binance-us-busca-investimento-de-us-100-milhoes-mirando-avaliacao-de-us-1-bilhao-diz-bloomberg",
-          "date": "2026-10-17T18:06:01.000Z",
-          "summary": "Empresa ligada ao presidente americano Donald Trump estaria entre os possíveis investidores Fonte: Binance US busca investimento de US$ 100 milhões, mirando avaliação de US$ 1 bilhão, diz Bloomberg Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
       "id": "policia-do-canada-prende-tres-militares-do-exercito-por-sequestro-de",
       "headline": "Polícia do Canadá prende três militares do exército por sequestro de dono de corretora de criptomoedas",
       "category": "bitcoin",
@@ -10835,6 +10941,42 @@
       "status": "pendente"
     },
     {
+      "id": "anbima-anuncia-debate-sobre-liquidacao-com-stablecoins-e-ativos",
+      "headline": "ANBIMA anuncia debate sobre liquidação com stablecoins e ativos tokenizados",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "tokenização",
+        "Solana"
+      ],
+      "firstSeen": "2026-10-24T01:05:31.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "ANBIMA anuncia debate sobre liquidação com stablecoins e ativos tokenizados",
+          "url": "https://livecoins.com.br/anbima-anuncia-debate-sobre-liquidacao-com-stablecoins-e-ativos-tokenizados",
+          "date": "2026-10-24T01:05:31.000Z",
+          "summary": "Encontro virtual agendado para quarta-feira (28) reúne executivos da Solana Foundation, GoLedger e projeto BRL1 Fonte: ANBIMA anuncia debate sobre liquidação com stablecoins e ativos tokenizados Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "bnb-foundation-anuncia-queima-de-us-1-2-bilhao-em-tokens",
       "headline": "BNB Foundation anuncia queima de US$ 1,2 bilhão em tokens",
       "category": "altcoins",
@@ -11337,6 +11479,108 @@
       "status": "pendente"
     },
     {
+      "id": "ny-seeks-1-37-billion-judgment-against-operators-of-novatech-crypto",
+      "headline": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-23T21:21:46.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+          "url": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
+          "date": "2026-10-23T21:21:46.000Z",
+          "summary": "Bitcoin Magazine NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme Two successive crypto frauds took investors for more than $1.1 billion. Now New York's attorney general is asking a court to make the operators pay it back—with interest. This post NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "blockstream-launches-institutional-consulting-services-opens-lugano",
+      "headline": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-10-23T21:20:39.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+          "url": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+          "date": "2026-10-23T21:20:39.000Z",
+          "summary": "Bitcoin Magazine Blockstream Launches Institutional Consulting Services, Opens Lugano Office Blockstream will offer its engineering expertise to banks and asset managers from a new Swiss base. This post Blockstream Launches Institutional Consulting Services, Opens Lugano Office first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "interpol-prende-1-462-suspeitos-em-operacao-contra-fraude-em",
+      "headline": "Interpol prende 1.462 suspeitos em operação contra fraude em investimentos, mineração ilegal de criptomoedas, ransomware e outros crimes",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "segurança",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-23T18:52:21.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Interpol prende 1.462 suspeitos em operação contra fraude em investimentos, mineração ilegal de criptomoedas, ransomware e outros crimes",
+          "url": "https://livecoins.com.br/interpol-prende-1-462-suspeitos-em-operacao-contra-fraude-em-investimentos-mineracao-ilegal-de-criptomoedas-ransomware-e-outros-crimes",
+          "date": "2026-10-23T18:52:21.000Z",
+          "summary": "Operação contou com o apoio de empresas privadas, como Meta, Kaspersky e Cybercrime Atlas Fonte: Interpol prende 1.462 suspeitos em operação contra fraude em investimentos, mineração ilegal de criptomoedas, ransomware e outros crimes Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "china-moves-to-confiscate-5-billion-in-bitcoin-from-fraudster-who",
       "headline": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
       "category": "regulacao",
@@ -11708,6 +11952,74 @@
       "status": "pendente"
     },
     {
+      "id": "contadora-e-acusada-de-inventar-prejuizos-com-criptomoedas-para",
+      "headline": "Contadora é acusada de inventar prejuízos com criptomoedas para fraudar imposto de renda nos EUA",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-23T18:01:26.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Contadora é acusada de inventar prejuízos com criptomoedas para fraudar imposto de renda nos EUA",
+          "url": "https://livecoins.com.br/contadora-e-acusada-de-inventar-prejuizos-com-criptomoedas-para-fraudar-imposto-de-renda-nos-eua",
+          "date": "2026-10-23T18:01:26.000Z",
+          "summary": "Acusada responde em liberdade após pagar fiança de US$ 50 mil e pode pegar até três anos de prisão por cada uma das 19 infrações Fonte: Contadora é acusada de inventar prejuízos com criptomoedas para fraudar imposto de renda nos EUA Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
+      "id": "empresa-lanca-aquecedor-de-agua-que-minera-bitcoin",
+      "headline": "Empresa lança aquecedor de água que minera Bitcoin",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-10-23T17:30:51.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Empresa lança aquecedor de água que minera Bitcoin",
+          "url": "https://livecoins.com.br/empresa-lanca-aquecedor-de-agua-que-minera-bitcoin",
+          "date": "2026-10-23T17:30:51.000Z",
+          "summary": "Solução criativa da Heatbit atraiu a atenção da comunidade e anúncio do Bitwater já ultrapassou a faixa de 1,2 milhão de visualizações nas redes sociais Fonte: Empresa lança aquecedor de água que minera Bitcoin Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
       "id": "arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown",
       "headline": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet",
       "category": "bitcoin",
@@ -11875,11 +12187,14 @@
       "status": "pendente"
     },
     {
-      "id": "new-york-ag-seeks-1-37b-from-novatech-founders-over-ponzi-scheme",
-      "headline": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-23T12:33:37.000Z",
+      "id": "initia-halts-blockchain-after-exploit-reportedly-drains-over-2-6m",
+      "headline": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "category": "seguranca",
+      "tags": [
+        "Ethereum",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-23T18:39:02.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -11891,10 +12206,43 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-          "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi",
-          "date": "2026-10-23T12:33:37.000Z",
-          "summary": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters."
+          "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+          "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+          "date": "2026-10-23T18:39:02.000Z",
+          "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "spacex-filing-gives-elon-musk-the-final-word-on-tesla-merger-he-says",
+      "headline": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-10-23T19:36:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+          "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+          "date": "2026-10-23T19:36:02.000Z",
+          "summary": "SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its “controlling shareholder.”"
         }
       ],
       "validation": {
@@ -11908,11 +12256,11 @@
       "status": "descartada"
     },
     {
-      "id": "morning-minute-a16z-drops-crypto-from-its-fund",
-      "headline": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+      "id": "how-i-vibe-coded-my-smart-tv-and-claude-killed-it",
+      "headline": "How I Vibe Coded My Smart TV—And Claude Killed It",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-10-23T13:29:21.000Z",
+      "firstSeen": "2026-10-23T17:53:29.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -11924,52 +12272,17 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
-          "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
-          "date": "2026-10-23T13:29:21.000Z",
-          "summary": "The name change is symbolic of the fund’s future investing focus, though the firm will continue investing in crypto."
+          "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+          "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+          "date": "2026-10-23T17:53:29.000Z",
+          "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "initia-halts-network-after-security-incident-as-attacker-reportedly",
-      "headline": "Initia halts network after security incident as attacker reportedly mints tokens",
-      "category": "regulacao",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-23T17:03:56.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Initia halts network after security incident as attacker reportedly mints tokens",
-          "url": "https://theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-          "date": "2026-10-23T17:03:56.000Z",
-          "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
+          "fora do tema cripto"
         ]
       },
       "score": 0,

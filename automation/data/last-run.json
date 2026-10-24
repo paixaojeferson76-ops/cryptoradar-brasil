@@ -1,7 +1,17 @@
 {
-  "at": "2026-10-23T17:26:50.538Z",
+  "at": "2026-10-24T05:04:02.024Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "senador-dos-eua-cobra-explicacoes-da-tether-sobre-pagamentos-a-firma-de-ex",
+      "title": "Senador dos EUA cobra explicações da Tether sobre pagamentos a firma de ex-assessor da Casa Branca",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }

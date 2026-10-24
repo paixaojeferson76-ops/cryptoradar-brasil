@@ -1,6 +1,12 @@
 # Pauta de notícias
 
-Gerada em 2026-10-23T17:26:48.360Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-24T05:02:22.070Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 70
+- [Decrypt] Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm — https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser (2026-10-23T20:16:02.000Z)
+- [The Block] Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser — https://theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785 (2026-10-23T17:46:09.000Z)
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,11 +17,6 @@ Gerada em 2026-10-23T17:26:48.360Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [The Block] CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE — https://theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859 (2026-10-17T19:56:25.000Z)
 
 ## Cysic crypto bridge halted after unauthorized mint of 10M CYS
 
