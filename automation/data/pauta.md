@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-25T05:19:03.025Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-25T11:59:48.484Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 

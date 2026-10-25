@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T05:19:03.025Z",
+  "updatedAt": "2026-10-25T11:59:48.484Z",
   "stories": [
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
@@ -2469,257 +2469,26 @@
       "status": "pendente"
     },
     {
-      "id": "strategy-s-price-chart-is-about-to-flash-a-major-bullish-signal-weeks",
-      "headline": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T11:15:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-          "url": "https://coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-          "date": "2026-10-19T11:15:00.000Z",
-          "summary": "Your day-ahead look for Oct. 19, 2026"
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-extends-bounce-above-82-000-as-stocks-rebound-defi-tokens",
-      "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-      "category": "defi",
-      "tags": [
-        "Bitcoin",
-        "DeFi"
-      ],
-      "firstSeen": "2026-10-19T10:26:33.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-          "url": "https://coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-          "date": "2026-10-19T10:26:33.000Z",
-          "summary": "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum",
-      "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-19T10:03:47.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum",
-          "url": "https://coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-          "date": "2026-10-19T10:03:47.000Z",
-          "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "world-liberty-s-usd1-stablecoin-sheds-400m-in-market-cap-in-two-weeks",
-      "headline": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-      "category": "altcoins",
-      "tags": [
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-19T11:57:58.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-          "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
-          "date": "2026-10-19T11:57:58.000Z",
-          "summary": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "france-advances-stablecoin-tax-eyes-self-custodial-wallets-and-exit",
-      "headline": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
-      "category": "regulacao",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-19T10:22:30.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
-          "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax",
-          "date": "2026-10-19T10:22:30.000Z",
-          "summary": "France’s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin",
-      "headline": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T10:20:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
-          "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week",
-          "date": "2026-10-19T10:20:00.000Z",
-          "summary": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week’s losses."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-      "headline": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-19T10:31:09.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-          "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-          "date": "2026-10-19T10:31:09.000Z",
-          "summary": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "revolut-secures-gibraltar-crypto-licence-to-support-international",
-      "headline": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+      "id": "netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial",
+      "headline": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-10-19T10:42:07.000Z",
+      "firstSeen": "2026-10-25T11:42:00.000Z",
       "publishers": [
-        "The Block"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
-          "url": "https://theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
-          "date": "2026-10-19T10:42:07.000Z",
-          "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy."
+          "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+          "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
+          "date": "2026-10-25T11:42:00.000Z",
+          "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker."
         }
       ],
       "validation": {
@@ -2727,7 +2496,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4600,141 +4369,6 @@
       "status": "pendente"
     },
     {
-      "id": "crypto-vault-deposits-top-10-billion-as-lending-risks-draw-regulatory",
-      "headline": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-19T09:32:38.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-          "url": "https://coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-          "date": "2026-10-19T09:32:38.000Z",
-          "summary": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay",
-      "headline": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-10-19T09:15:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-          "url": "https://coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-          "date": "2026-10-19T09:15:00.000Z",
-          "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-      "headline": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "category": "defi",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T09:12:39.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-          "url": "https://coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-          "date": "2026-10-19T09:12:39.000Z",
-          "summary": "Your look at what's coming in the week starting Oct. 19."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-ether-etfs-shed-549m-as-october-eth-outflows-near-1b",
-      "headline": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-19T07:54:13.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-          "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
-          "date": "2026-10-19T07:54:13.000Z",
-          "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
       "id": "u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over",
       "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
       "category": "regulacao",
@@ -6269,39 +5903,6 @@
         "reasons": []
       },
       "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-whale-moves-34-million-in-btc-it-got-in-2013-when-coins",
-      "headline": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T06:23:16.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-          "url": "https://coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-          "date": "2026-10-19T06:23:16.000Z",
-          "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
       "status": "pendente"
     },
     {
@@ -9203,73 +8804,6 @@
         "reasons": []
       },
       "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "justica-do-parana-anula-contrato-de-aluguel-de-criptomoedas-e-condena",
-      "headline": "Justiça do Paraná anula contrato de aluguel de criptomoedas e condena sócios por golpe pump and dump",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-19T10:01:38.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Justiça do Paraná anula contrato de aluguel de criptomoedas e condena sócios por golpe pump and dump",
-          "url": "https://livecoins.com.br/justica-do-parana-anula-contrato-de-aluguel-de-criptomoedas-e-condena-socios-por-golpe-pump-and-dump",
-          "date": "2026-10-19T10:01:38.000Z",
-          "summary": "Decisão do Tribunal de Justiça aponta criação de token sem valor monetário para lesar investidores em Curitiba (PR) Fonte: Justiça do Paraná anula contrato de aluguel de criptomoedas e condena sócios por golpe pump and dump Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-hoje-btc-recupera-os-us-82-mil-com-alta-das-bolsas-apos-dados",
-      "headline": "Bitcoin hoje: BTC recupera os US$ 82 mil com alta das bolsas após dados positivos da China",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T10:51:43.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Bitcoin hoje: BTC recupera os US$ 82 mil com alta das bolsas após dados positivos da China",
-          "url": "https://portaldobitcoin.uol.com.br/bitcoin-hoje-btc-recupera-os-us-82-mil-com-alta-das-bolsas-apos-dados-positivos-da-china",
-          "date": "2026-10-19T10:51:43.000Z",
-          "summary": "Bitcoin se mantém acima dos US$ 82 mil após dados econômicos positivos da China impulsionarem as bolsas globais O post Bitcoin hoje: BTC recupera os US$ 82 mil com alta das bolsas após dados positivos da China apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
       "status": "pendente"
     },
     {
