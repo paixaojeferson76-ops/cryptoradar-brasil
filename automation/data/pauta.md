@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-25T16:49:34.849Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-25T21:14:42.707Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -21,11 +21,6 @@ Gerada em 2026-10-25T16:49:34.849Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT — https://theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087 (2026-10-19T22:00:53.000Z)
-
-## Autoridades do Brasil na França debatem sobre rastreio e apreensão de criptomoedas
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Livecoins] Autoridades do Brasil na França debatem sobre rastreio e apreensão de criptomoedas — https://livecoins.com.br/autoridades-do-brasil-na-franca-debatem-sobre-rastreio-e-apreensao-de-criptomoedas (2026-10-19T21:00:32.000Z)
 
 ## Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-25T16:49:34.849Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [The Block] Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand — https://theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469 (2026-10-21T12:00:00.000Z)
+
+## Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms — https://theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524 (2026-10-21T11:55:08.000Z)
