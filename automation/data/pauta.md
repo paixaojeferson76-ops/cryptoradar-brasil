@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-25T11:59:48.484Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-25T16:49:34.849Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,36 +11,6 @@ Gerada em 2026-10-25T11:59:48.484Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Cardano founder Charles Hoskinson is building a new programming language for the network
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Cardano founder Charles Hoskinson is building a new programming language for the network — https://coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network (2026-10-19T12:16:58.000Z)
-
-## Made an ‘honest’ mistake with crypto taxes? New bill offers way out
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Made an ‘honest’ mistake with crypto taxes? New bill offers way out — https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out (2026-10-19T13:30:00.000Z)
-
-## Public companies object to OKX-ICE’s tokenized stock plan
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Public companies object to OKX-ICE’s tokenized stock plan — https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock (2026-10-19T13:13:53.000Z)
-
-## Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC — https://theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020 (2026-10-19T13:45:41.000Z)
-
-## Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens — https://theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018 (2026-10-19T13:36:46.000Z)
-
-## ‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] ‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million — https://theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895 (2026-10-19T12:10:14.000Z)
 
 ## Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million
 
@@ -151,3 +121,33 @@ Gerada em 2026-10-25T11:59:48.484Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [CoinDesk] OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban — https://coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban (2026-10-21T11:00:00.000Z)
+
+## Standard Chartered signs definitive deal to acquire Zodia Custody
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Standard Chartered signs definitive deal to acquire Zodia Custody — https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk (2026-10-21T12:06:23.000Z)
+
+## PancakeSwap TVL tops $380M as major fee overhaul heads to vote
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [Cointelegraph] PancakeSwap TVL tops $380M as major fee overhaul heads to vote — https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul (2026-10-21T10:50:52.000Z)
+
+## France proposes liability for crypto exchanges offering DeFi access
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [Cointelegraph] France proposes liability for crypto exchanges offering DeFi access — https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access (2026-10-21T10:46:00.000Z)
+
+## Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode — https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode (2026-10-21T10:39:13.000Z)
+
+## OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Decrypt] OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline — https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline (2026-10-21T11:52:23.000Z)
+
+## Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [The Block] Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand — https://theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469 (2026-10-21T12:00:00.000Z)
