@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T21:11:13.386Z",
+  "updatedAt": "2026-10-25T05:19:03.025Z",
   "stories": [
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
@@ -65,39 +65,6 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats",
-      "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T03:36:58.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-          "url": "https://coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-          "date": "2026-10-19T03:36:58.000Z",
-          "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2502,72 +2469,6 @@
       "status": "pendente"
     },
     {
-      "id": "deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german",
-      "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "category": "altcoins",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-19T02:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-          "url": "https://coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-          "date": "2026-10-19T02:00:00.000Z",
-          "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "qubic-freezes-chain-after-attacker-drains-1-4k-wallets-with-weak-seeds",
-      "headline": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-      "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-10-19T01:03:27.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-          "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
-          "date": "2026-10-19T01:03:27.000Z",
-          "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
       "id": "strategy-s-price-chart-is-about-to-flash-a-major-bullish-signal-weeks",
       "headline": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
       "category": "mercado",
@@ -4699,72 +4600,6 @@
       "status": "pendente"
     },
     {
-      "id": "sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom",
-      "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "category": "blockchain",
-      "tags": [
-        "regulação",
-        "SEC",
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-18T23:28:06.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-          "url": "https://coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-          "date": "2026-10-18T23:28:06.000Z",
-          "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "richard-heart-caught-off-guard-qday-gets-even-closer-hodler-s-digest",
-      "headline": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-18T22:58:17.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-          "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-          "date": "2026-10-18T22:58:17.000Z",
-          "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
       "id": "crypto-vault-deposits-top-10-billion-as-lending-risks-draw-regulatory",
       "headline": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
       "category": "regulacao",
@@ -6459,39 +6294,6 @@
           "url": "https://coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
           "date": "2026-10-19T06:23:16.000Z",
           "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
-      "status": "pendente"
-    },
-    {
-      "id": "south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay",
-      "headline": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-10-19T05:14:06.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-          "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay",
-          "date": "2026-10-19T05:14:06.000Z",
-          "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years."
         }
       ],
       "validation": {
@@ -12016,39 +11818,6 @@
       },
       "score": 21,
       "status": "pendente"
-    },
-    {
-      "id": "google-quietly-updates-privacy-policy-to-let-gmail-and-photos-data",
-      "headline": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-10-24T17:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-          "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
-          "date": "2026-10-24T17:01:02.000Z",
-          "summary": "A policy change effective Oct. 16 carves out an exception to Google’s long-standing pledge—letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }

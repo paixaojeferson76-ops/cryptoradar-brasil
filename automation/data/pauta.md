@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-24T21:11:13.386Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-25T05:19:03.025Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,11 +11,6 @@ Gerada em 2026-10-24T21:11:13.386Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates — https://coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates (2026-10-19T03:36:58.000Z)
 
 ## Cardano founder Charles Hoskinson is building a new programming language for the network
 
@@ -151,3 +146,8 @@ Gerada em 2026-10-24T21:11:13.386Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] Bitcoin risk management grows more popular as the 'just bet on price' era fades — https://coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades (2026-10-21T11:15:00.000Z)
+
+## OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban — https://coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban (2026-10-21T11:00:00.000Z)
