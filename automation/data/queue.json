@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:14:42.707Z",
+  "updatedAt": "2026-10-26T05:18:05.636Z",
   "stories": [
     {
       "id": "crypto-long-e-short-why-real-world-assets-need-fixed-rate-loans",
@@ -65,107 +65,6 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
-    },
-    {
-      "id": "strive-buys-335-million-in-bitcoin-after-investors-pour-in-369-million",
-      "headline": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T21:46:05.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-          "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
-          "date": "2026-10-19T21:46:05.000Z",
-          "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "blackrock-files-for-bitcoin-etf-offering-downside-protection-and",
-      "headline": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-10-19T22:00:53.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-          "url": "https://theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-          "date": "2026-10-19T22:00:53.000Z",
-          "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "blockchain-association-says-treasury-s-genius-act-rollout-needs",
-      "headline": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-      "category": "regulacao",
-      "tags": [
-        "stablecoins",
-        "DeFi"
-      ],
-      "firstSeen": "2026-10-20T04:07:41.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-          "url": "https://theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
-          "date": "2026-10-20T04:07:41.000Z",
-          "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -2304,28 +2203,29 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
-      "headline": "Bitcoin rally could revive treasury buying, but easy-money days over",
-      "category": "regulacao",
+      "id": "bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to",
+      "headline": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "category": "bitcoin",
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "regulação"
       ],
-      "firstSeen": "2026-10-20T01:35:00.000Z",
+      "firstSeen": "2026-10-26T05:15:20.000Z",
       "publishers": [
-        "Cointelegraph"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-          "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
-          "date": "2026-10-20T01:35:00.000Z",
-          "summary": "“A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner."
+          "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+          "url": "https://coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+          "date": "2026-10-26T05:15:20.000Z",
+          "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
         }
       ],
       "validation": {
@@ -2333,7 +2233,42 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-slips-under-80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "headline": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "XRP"
+      ],
+      "firstSeen": "2026-10-26T04:37:02.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+          "url": "https://coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+          "date": "2026-10-26T04:37:02.000Z",
+          "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -4075,6 +4010,39 @@
       "status": "pendente"
     },
     {
+      "id": "keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+      "headline": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-10-26T02:24:04.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+          "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+          "date": "2026-10-26T02:24:04.000Z",
+          "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "france-s-parliament-approves-vote-to-hit-stablecoin-trades-with-31",
       "headline": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
       "category": "regulacao",
@@ -5282,6 +5250,74 @@
       "status": "pendente"
     },
     {
+      "id": "standard-chartered-led-anchorpoint-says-it-s-not-rushing-retail",
+      "headline": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-10-26T00:13:29.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+          "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
+          "date": "2026-10-26T00:13:29.000Z",
+          "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "ai-agents-help-rescue-eth-s-glamsterdam-fork-steal-my-bitcoin-site",
+      "headline": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "segurança"
+      ],
+      "firstSeen": "2026-10-25T22:48:40.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
+          "date": "2026-10-25T22:48:40.000Z",
+          "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-drops-to-81-400-as-asian-chip-stocks-tumble-options-traders",
       "headline": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
       "category": "bitcoin",
@@ -6342,37 +6378,6 @@
       "status": "pendente"
     },
     {
-      "id": "sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown",
-      "headline": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-10-20T05:14:11.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-          "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown",
-          "date": "2026-10-20T05:14:11.000Z",
-          "summary": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 34,
-      "status": "pendente"
-    },
-    {
       "id": "crypto-for-advisors-stablecoins-are-ready-for-prime-time",
       "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
       "category": "altcoins",
@@ -6772,73 +6777,6 @@
         "reasons": []
       },
       "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "anchorwatch-launches-nevada-trust-company-caps-bitcoin-custody-fees",
-      "headline": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-19T22:28:17.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
-          "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
-          "date": "2026-10-19T22:28:17.000Z",
-          "summary": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch’s AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "now-accepting-bitcoin-gyros-cocas-and-219-arizona-bitcoin-merchants",
-      "headline": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "Lightning"
-      ],
-      "firstSeen": "2026-10-20T03:54:15.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-          "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
-          "date": "2026-10-20T03:54:15.000Z",
-          "summary": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
       "status": "pendente"
     },
     {
@@ -8822,6 +8760,41 @@
       "status": "pendente"
     },
     {
+      "id": "dolar-dispara-apos-reeleicao-de-lula-usdt-chega-a-r-5-42",
+      "headline": "Dólar dispara após reeleição de Lula; USDT chega a R$ 5,42",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "Brasil"
+      ],
+      "firstSeen": "2026-10-26T01:52:01.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Dólar dispara após reeleição de Lula; USDT chega a R$ 5,42",
+          "url": "https://livecoins.com.br/dolar-dispara-apos-reeleicao-de-lula-usdt-chega-a-r-542",
+          "date": "2026-10-26T01:52:01.000Z",
+          "summary": "Real recua no mercado futuro após resultado eleitoral, USDT chega a R$ 5,42 e Bridge pausa temporariamente operações de entrada e saída de reais no Brasil. Fonte: Dólar dispara após reeleição de Lula; USDT chega a R$ 5,42 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "golpista-rouba-us-1-1-milhao-em-criptomoedas-de-investidores-e-perde",
       "headline": "Golpista rouba US$ 1,1 milhão em criptomoedas de investidores e perde tudo em bet",
       "category": "seguranca",
@@ -9965,26 +9938,61 @@
       "status": "pendente"
     },
     {
-      "id": "coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo",
-      "headline": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "category": "bitcoin",
+      "id": "elon-musk-issues-a-warning-for-ai-neoclouds-as-spacex-borrows-40",
+      "headline": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-10-25T18:46:21.000Z",
+      "firstSeen": "2026-10-26T03:11:39.000Z",
       "publishers": [
-        "The Block"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-          "url": "https://theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-          "date": "2026-10-25T18:46:21.000Z",
-          "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\""
+          "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+          "url": "https://coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+          "date": "2026-10-26T03:11:39.000Z",
+          "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
+      "headline": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "category": "altcoins",
+      "tags": [
+        "Solana"
+      ],
+      "firstSeen": "2026-10-26T03:21:26.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+          "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
+          "date": "2026-10-26T03:21:26.000Z",
+          "summary": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
         }
       ],
       "validation": {

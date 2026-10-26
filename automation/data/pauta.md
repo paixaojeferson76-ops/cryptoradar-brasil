@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-25T21:14:42.707Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-26T05:18:05.636Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
 
@@ -11,21 +11,6 @@ Gerada em 2026-10-25T21:14:42.707Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
-## Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million — https://decrypt.co/381382/strive-buys-335-million-bitcoin (2026-10-19T21:46:05.000Z)
-
-## BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT — https://theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087 (2026-10-19T22:00:53.000Z)
-
-## Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules — https://theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092 (2026-10-20T04:07:41.000Z)
 
 ## The Coinbase allegations expose Bitcoin's corporate governance gap
 
@@ -151,3 +136,18 @@ Gerada em 2026-10-25T21:14:42.707Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms — https://theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524 (2026-10-21T11:55:08.000Z)
+
+## First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [The Block] First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act — https://theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470 (2026-10-21T11:01:02.000Z)
+
+## BitGo launches innovation unit to design crypto’s next breakout application
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [The Block] BitGo launches innovation unit to design crypto’s next breakout application — https://theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502 (2026-10-21T11:00:00.000Z)
+
+## Tether backs Bolivian fintech bringing USDT payments to food delivery and banking
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Tether backs Bolivian fintech bringing USDT payments to food delivery and banking — https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking (2026-10-21T20:26:07.000Z)
