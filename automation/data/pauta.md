@@ -1,153 +1,162 @@
 # Pauta de notícias
 
-Gerada em 2026-10-26T05:18:05.636Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-27T18:20:34.449Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Crypto Long & Short: Why real-world assets need fixed-rate loans onchain
+## v32.1: Bitcoin Core 32.1 final
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 50
-- [CoinDesk] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — https://coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain (2026-10-21T15:00:53.000Z)
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 152
+- [Bitcoin Core (GitHub)] v32.1: Bitcoin Core 32.1 final — https://github.com/bitcoin/bitcoin/releases/tag/v32.1 (2026-10-26T18:04:03.000Z)
+- [Bitcoin Core (GitHub)] v31.2: Bitcoin Core 31.2 final — https://github.com/bitcoin/bitcoin/releases/tag/v31.2 (2026-10-26T19:36:53.000Z)
+- [Bitcoin Core (GitHub)] v30.4: Bitcoin Core 30.4 final — https://github.com/bitcoin/bitcoin/releases/tag/v30.4 (2026-10-26T20:59:30.000Z)
+- [Bitcoin Core (GitHub)] v29.5: Bitcoin Core 29.5 final — https://github.com/bitcoin/bitcoin/releases/tag/v29.5 (2026-10-26T22:08:49.000Z)
+
+## Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push
+
+- Categoria sugerida: mineracao | Confiança: alta | Pontos: 98
+- [Decrypt] Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push — https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute (2026-10-27T13:01:08.000Z)
+- [The Block] Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business — https://theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858 (2026-10-27T14:32:08.000Z)
+- [Bitcoin Magazine] Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware — https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million (2026-10-27T13:53:32.000Z)
+
+## Ripple wins final US approval for national trust bank
+
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 64
+- [Cointelegraph] Ripple wins final US approval for national trust bank — https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank (2026-10-27T00:06:41.000Z)
+- [Decrypt] Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin — https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin (2026-10-27T10:16:46.000Z)
+
+## OCC calls on community banks to enter the stablecoin payments market
+
+- Categoria sugerida: mercado | Confiança: media | Pontos: 58
+- [CoinDesk] OCC calls on community banks to enter the stablecoin payments market — https://coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market (2026-10-26T15:45:51.000Z)
+- [Cointelegraph] US OCC calls on community banks to become payment stablecoin issuers — https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act (2026-10-26T21:38:30.000Z)
+
+## South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029
+
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 57
+- [CoinDesk] South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029 — https://coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029 (2026-10-26T14:51:07.000Z)
+- [Cointelegraph] South Korea lawmakers mull pushing crypto tax implementation to 2029 — https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029 (2026-10-26T16:18:09.000Z)
+
+## Strategy skips Bitcoin purchases, spends $205M on STRC buybacks
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 56
+- [Cointelegraph] Strategy skips Bitcoin purchases, spends $205M on STRC buybacks — https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback (2026-10-26T13:27:38.000Z)
+- [Decrypt] Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC — https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc (2026-10-26T13:24:38.000Z)
+
+## Brazilian companies turned to stablecoins on election day to dodge a currency crash
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 52
+- [CoinDesk] Brazilian companies turned to stablecoins on election day to dodge a currency crash — https://coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash (2026-10-27T16:59:07.000Z)
 
 ## Dune launches real-time data feeds covering 200 onchain trading venues
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
 - [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
 
-## The Coinbase allegations expose Bitcoin's corporate governance gap
+## Binance files for Brazil crypto license ahead of Friday deadline
 
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] The Coinbase allegations expose Bitcoin's corporate governance gap — https://coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap (2026-10-20T17:02:31.000Z)
-
-## Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets — https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets (2026-10-20T16:47:48.000Z)
-
-## Stablecoin transfers quadruple to $891B as US banks expand adoption: Report
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Stablecoin transfers quadruple to $891B as US banks expand adoption: Report — https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report (2026-10-20T16:38:13.000Z)
-
-## Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls — https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls (2026-10-20T16:14:09.000Z)
-
-## Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Decrypt] Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000 — https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims (2026-10-20T17:03:26.000Z)
-
-## What Is Strategy (MSTR)? The Bitcoin Treasury Company
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] What Is Strategy (MSTR)? The Bitcoin Treasury Company — https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company (2026-10-20T16:17:02.000Z)
-
-## Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation — https://theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430 (2026-10-20T17:11:47.000Z)
-
-## Ethereum staking hits record as yields fall and Solana activity grows: Bitwise
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [The Block] Ethereum staking hits record as yields fall and Solana activity grows: Bitwise — https://theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414 (2026-10-20T16:31:24.000Z)
-
-## Bybit entra com pedido de licença cripto ao Banco Central
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Portal do Bitcoin] Bybit entra com pedido de licença cripto ao Banco Central — https://portaldobitcoin.uol.com.br/bybit-entra-com-pedido-de-licenca-cripto-ao-banco-central (2026-10-20T17:12:05.000Z)
-
-## Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops — https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops (2026-10-20T20:38:00.000Z)
-
-## JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat — https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold (2026-10-20T21:16:04.000Z)
-
-## Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Decrypt] Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash — https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash (2026-10-20T20:46:04.000Z)
-
-## Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Decrypt] Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks — https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks (2026-10-20T20:16:04.000Z)
-
-## Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% — https://coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11 (2026-10-21T04:07:07.000Z)
-
-## Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity — https://coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity (2026-10-21T12:12:36.000Z)
-
-## Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact — https://coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact (2026-10-21T12:10:39.000Z)
-
-## Bitcoin risk management grows more popular as the 'just bet on price' era fades
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin risk management grows more popular as the 'just bet on price' era fades — https://coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades (2026-10-21T11:15:00.000Z)
-
-## OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban — https://coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban (2026-10-21T11:00:00.000Z)
-
-## Standard Chartered signs definitive deal to acquire Zodia Custody
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Standard Chartered signs definitive deal to acquire Zodia Custody — https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk (2026-10-21T12:06:23.000Z)
-
-## PancakeSwap TVL tops $380M as major fee overhaul heads to vote
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [Cointelegraph] PancakeSwap TVL tops $380M as major fee overhaul heads to vote — https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul (2026-10-21T10:50:52.000Z)
-
-## France proposes liability for crypto exchanges offering DeFi access
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [Cointelegraph] France proposes liability for crypto exchanges offering DeFi access — https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access (2026-10-21T10:46:00.000Z)
-
-## Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode — https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode (2026-10-21T10:39:13.000Z)
-
-## OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Decrypt] OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline — https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline (2026-10-21T11:52:23.000Z)
-
-## Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [The Block] Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand — https://theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469 (2026-10-21T12:00:00.000Z)
-
-## Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms — https://theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524 (2026-10-21T11:55:08.000Z)
-
-## First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [The Block] First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act — https://theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470 (2026-10-21T11:01:02.000Z)
-
-## BitGo launches innovation unit to design crypto’s next breakout application
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] BitGo launches innovation unit to design crypto’s next breakout application — https://theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502 (2026-10-21T11:00:00.000Z)
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 48
+- [Cointelegraph] Binance files for Brazil crypto license ahead of Friday deadline — https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline (2026-10-27T08:04:21.000Z)
 
 ## Tether backs Bolivian fintech bringing USDT payments to food delivery and banking
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Tether backs Bolivian fintech bringing USDT payments to food delivery and banking — https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking (2026-10-21T20:26:07.000Z)
+
+## Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable — https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures (2026-10-21T20:19:39.000Z)
+
+## Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally — https://coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally (2026-10-22T04:41:59.000Z)
+
+## Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves — https://coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves (2026-10-22T03:51:34.000Z)
+
+## Ethereum’s four-minute settlement plan could lower the cost of moving crypto
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] Ethereum’s four-minute settlement plan could lower the cost of moving crypto — https://coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto (2026-10-22T12:14:29.000Z)
+
+## Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble — https://coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble (2026-10-22T11:20:04.000Z)
+
+## Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines — https://coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines (2026-10-22T10:50:04.000Z)
+
+## The UK needs a workable route to regulated DeFi access
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] The UK needs a workable route to regulated DeFi access — https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access (2026-10-22T12:00:00.000Z)
+
+## Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls — https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls (2026-10-22T10:38:51.000Z)
+
+## SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Decrypt] SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin — https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin (2026-10-22T12:01:03.000Z)
+
+## Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M — https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m (2026-10-22T10:45:13.000Z)
+
+## Dune launches onchain trading data feeds as tokenized markets expand
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [The Block] Dune launches onchain trading data feeds as tokenized markets expand — https://theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889 (2026-10-22T12:00:00.000Z)
+
+## SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [The Block] SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users — https://theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916 (2026-10-22T12:00:00.000Z)
+
+## Ethereum delays Glamsterdam test after security devs flag risk to existing contracts
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] Ethereum delays Glamsterdam test after security devs flag risk to existing contracts — https://coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts (2026-10-23T04:59:34.000Z)
+
+## Cardano holders are being asked to bet $5 million on copper hitting a new record
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Cardano holders are being asked to bet $5 million on copper hitting a new record — https://coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record (2026-10-23T04:36:51.000Z)
+
+## Ethereum delays Glamsterdam Hoodi testnet launch over security risks
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Ethereum delays Glamsterdam Hoodi testnet launch over security risks — https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks (2026-10-23T05:09:41.000Z)
+
+## Bitcoin Core changes security policy as AI makes bugs easier to find
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin Core changes security policy as AI makes bugs easier to find — https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find (2026-10-23T04:34:14.000Z)
+
+## HSBC rolls out its first HKD stablecoin RedCoin to retail users
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [The Block] HSBC rolls out its first HKD stablecoin RedCoin to retail users — https://theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018 (2026-10-23T04:03:09.000Z)
+
+## Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro — https://coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s (2026-10-23T11:22:33.000Z)
+
+## Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% — https://coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13 (2026-10-23T10:54:41.000Z)
+
+## Bitcoin appears to have decoupled from midterm cycle bottom history
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin appears to have decoupled from midterm cycle bottom history — https://coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern (2026-10-23T10:53:09.000Z)
