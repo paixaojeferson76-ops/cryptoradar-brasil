@@ -1,14 +1,15 @@
 {
-  "at": "2026-10-27T18:30:28.234Z",
+  "at": "2026-10-28T06:24:15.769Z",
   "auto": [],
   "review": [
     {
-      "slug": "ripple-recebe-aprovacao-bancaria-final-do-occ-nos-eua-para-operar-banco",
-      "title": "Ripple recebe aprovação bancária final do OCC nos EUA para operar banco nacional de custódia",
-      "confidence": "media",
+      "slug": "luxor-capta-us-16-milhoes-para-expandir-negocios-de-computacao-e-inteligencia",
+      "title": "Luxor capta US$ 16 milhões para expandir negócios de computação e inteligência artificial",
+      "confidence": "alta",
       "sources": [
-        "Cointelegraph",
-        "Decrypt"
+        "Decrypt",
+        "The Block",
+        "Bitcoin Magazine"
       ]
     }
   ],
@@ -19,7 +20,7 @@
       "error": "The operation was aborted due to timeout"
     },
     {
-      "headline": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+      "headline": "OCC calls on community banks to enter the stablecoin payments market",
       "error": "The operation was aborted due to timeout"
     }
   ]
