@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-28T06:17:44.766Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-28T22:51:53.562Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## v32.1: Bitcoin Core 32.1 final
 
@@ -10,12 +10,12 @@ Gerada em 2026-10-28T06:17:44.766Z. Fontes servem só para descobrir o fato: esc
 - [Bitcoin Core (GitHub)] v30.4: Bitcoin Core 30.4 final — https://github.com/bitcoin/bitcoin/releases/tag/v30.4 (2026-10-26T20:59:30.000Z)
 - [Bitcoin Core (GitHub)] v29.5: Bitcoin Core 29.5 final — https://github.com/bitcoin/bitcoin/releases/tag/v29.5 (2026-10-26T22:08:49.000Z)
 
-## Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push
+## Strategy shareholders approve daily dividends for four preferred stocks
 
-- Categoria sugerida: mineracao | Confiança: alta | Pontos: 98
-- [Decrypt] Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push — https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute (2026-10-27T13:01:08.000Z)
-- [The Block] Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business — https://theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858 (2026-10-27T14:32:08.000Z)
-- [Bitcoin Magazine] Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware — https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million (2026-10-27T13:53:32.000Z)
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 96
+- [Cointelegraph] Strategy shareholders approve daily dividends for four preferred stocks — https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks (2026-10-28T18:00:54.000Z)
+- [Decrypt] Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor — https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor (2026-10-28T17:03:32.000Z)
+- [Bitcoin Magazine] Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks — https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends (2026-10-28T15:32:08.000Z)
 
 ## OCC calls on community banks to enter the stablecoin payments market
 
@@ -40,60 +40,15 @@ Gerada em 2026-10-28T06:17:44.766Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 52
 - [CoinDesk] Brazilian companies turned to stablecoins on election day to dodge a currency crash — https://coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash (2026-10-27T16:59:07.000Z)
 
-## Dune launches real-time data feeds covering 200 onchain trading venues
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 49
-- [Cointelegraph] Dune launches real-time data feeds covering 200 onchain trading venues — https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues (2026-10-22T20:36:00.000Z)
-
 ## Binance files for Brazil crypto license ahead of Friday deadline
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 48
 - [Cointelegraph] Binance files for Brazil crypto license ahead of Friday deadline — https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline (2026-10-27T08:04:21.000Z)
 
-## Ethereum’s four-minute settlement plan could lower the cost of moving crypto
+## Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules
 
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [CoinDesk] Ethereum’s four-minute settlement plan could lower the cost of moving crypto — https://coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto (2026-10-22T12:14:29.000Z)
-
-## Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble — https://coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble (2026-10-22T11:20:04.000Z)
-
-## Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines — https://coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines (2026-10-22T10:50:04.000Z)
-
-## The UK needs a workable route to regulated DeFi access
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] The UK needs a workable route to regulated DeFi access — https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access (2026-10-22T12:00:00.000Z)
-
-## Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls — https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls (2026-10-22T10:38:51.000Z)
-
-## SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Decrypt] SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin — https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin (2026-10-22T12:01:03.000Z)
-
-## Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M — https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m (2026-10-22T10:45:13.000Z)
-
-## Dune launches onchain trading data feeds as tokenized markets expand
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [The Block] Dune launches onchain trading data feeds as tokenized markets expand — https://theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889 (2026-10-22T12:00:00.000Z)
-
-## SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [The Block] SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users — https://theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916 (2026-10-22T12:00:00.000Z)
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
+- [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
 
 ## Ethereum delays Glamsterdam test after security devs flag risk to existing contracts
 
@@ -159,3 +114,48 @@ Gerada em 2026-10-28T06:17:44.766Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] SEC flags tokenization as high-risk area in 2027 market examinations — https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities (2026-10-23T16:08:40.000Z)
+
+## Bitcoin seeks support above $81K as Brent crude oil hits highest level since March
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin seeks support above $81K as Brent crude oil hits highest level since March — https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march (2026-10-23T15:39:17.000Z)
+
+## Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt — https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats (2026-10-23T17:16:03.000Z)
+
+## Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Decrypt] Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York — https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york (2026-10-23T16:31:03.000Z)
+
+## Bitcoin ETFs Bleed $636 Million as October Turns Red Again
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin ETFs Bleed $636 Million as October Turns Red Again — https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again (2026-10-23T15:50:41.000Z)
+
+## Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet — https://coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet (2026-10-24T04:45:43.000Z)
+
+## Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends — https://coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends (2026-10-24T16:00:00.000Z)
+
+## Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations — https://coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations (2026-10-24T15:11:24.000Z)
+
+## Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker — https://coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker (2026-10-24T15:00:00.000Z)
+
+## Argentina drops criminal probe into President Milei over crashed memecoin LIBRA
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Argentina drops criminal probe into President Milei over crashed memecoin LIBRA — https://coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra (2026-10-24T14:38:47.000Z)

@@ -1,26 +1,26 @@
 {
-  "at": "2026-10-28T06:24:15.769Z",
+  "at": "2026-10-28T22:56:55.595Z",
   "auto": [],
   "review": [
     {
-      "slug": "luxor-capta-us-16-milhoes-para-expandir-negocios-de-computacao-e-inteligencia",
-      "title": "Luxor capta US$ 16 milhões para expandir negócios de computação e inteligência artificial",
-      "confidence": "alta",
+      "slug": "occ-incentiva-bancos-comunitarios-dos-eua-a-emitirem-stablecoins-de-pagamento",
+      "title": "OCC incentiva bancos comunitários dos EUA a emitirem stablecoins de pagamento",
+      "confidence": "media",
       "sources": [
-        "Decrypt",
-        "The Block",
-        "Bitcoin Magazine"
+        "CoinDesk",
+        "Cointelegraph"
       ]
     }
   ],
-  "skipped": [],
-  "errors": [
+  "skipped": [
     {
       "headline": "v32.1: Bitcoin Core 32.1 final",
-      "error": "The operation was aborted due to timeout"
-    },
+      "reason": "As fontes fornecidas contêm apenas hashes criptográficas e links para notas de lançamento que não possuem conteúdo descrito no texto, tornando as informações insuficientes para a produção de uma matéria jornalística factual e detalhada sem inferências ou invenções."
+    }
+  ],
+  "errors": [
     {
-      "headline": "OCC calls on community banks to enter the stablecoin payments market",
+      "headline": "Strategy shareholders approve daily dividends for four preferred stocks",
       "error": "The operation was aborted due to timeout"
     }
   ]
