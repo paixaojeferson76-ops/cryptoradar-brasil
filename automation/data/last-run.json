@@ -1,23 +1,27 @@
 {
-  "at": "2026-10-28T22:56:55.595Z",
+  "at": "2026-10-29T06:34:01.474Z",
   "auto": [],
   "review": [
     {
-      "slug": "occ-incentiva-bancos-comunitarios-dos-eua-a-emitirem-stablecoins-de-pagamento",
-      "title": "OCC incentiva bancos comunitários dos EUA a emitirem stablecoins de pagamento",
+      "slug": "coreia-do-sul-avalia-adiar-imposto-sobre-ganhos-com-criptomoedas-para-2029",
+      "title": "Coreia do Sul avalia adiar imposto sobre ganhos com criptomoedas para 2029",
       "confidence": "media",
       "sources": [
         "CoinDesk",
         "Cointelegraph"
       ]
-    }
-  ],
-  "skipped": [
+    },
     {
-      "headline": "v32.1: Bitcoin Core 32.1 final",
-      "reason": "As fontes fornecidas contêm apenas hashes criptográficas e links para notas de lançamento que não possuem conteúdo descrito no texto, tornando as informações insuficientes para a produção de uma matéria jornalística factual e detalhada sem inferências ou invenções."
+      "slug": "strategy-interrompe-compras-de-bitcoin-e-gasta-us-205-milhoes-na-recompra-de",
+      "title": "Strategy interrompe compras de Bitcoin e gasta US$ 205 milhões na recompra de ações STRC",
+      "confidence": "media",
+      "sources": [
+        "Cointelegraph",
+        "Decrypt"
+      ]
     }
   ],
+  "skipped": [],
   "errors": [
     {
       "headline": "Strategy shareholders approve daily dividends for four preferred stocks",

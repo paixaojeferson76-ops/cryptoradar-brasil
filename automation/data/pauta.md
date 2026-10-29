@@ -1,14 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-28T22:51:53.562Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## v32.1: Bitcoin Core 32.1 final
-
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 152
-- [Bitcoin Core (GitHub)] v32.1: Bitcoin Core 32.1 final — https://github.com/bitcoin/bitcoin/releases/tag/v32.1 (2026-10-26T18:04:03.000Z)
-- [Bitcoin Core (GitHub)] v31.2: Bitcoin Core 31.2 final — https://github.com/bitcoin/bitcoin/releases/tag/v31.2 (2026-10-26T19:36:53.000Z)
-- [Bitcoin Core (GitHub)] v30.4: Bitcoin Core 30.4 final — https://github.com/bitcoin/bitcoin/releases/tag/v30.4 (2026-10-26T20:59:30.000Z)
-- [Bitcoin Core (GitHub)] v29.5: Bitcoin Core 29.5 final — https://github.com/bitcoin/bitcoin/releases/tag/v29.5 (2026-10-26T22:08:49.000Z)
+Gerada em 2026-10-29T06:28:26.560Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Strategy shareholders approve daily dividends for four preferred stocks
 
@@ -16,12 +8,6 @@ Gerada em 2026-10-28T22:51:53.562Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Strategy shareholders approve daily dividends for four preferred stocks — https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks (2026-10-28T18:00:54.000Z)
 - [Decrypt] Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor — https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor (2026-10-28T17:03:32.000Z)
 - [Bitcoin Magazine] Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks — https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends (2026-10-28T15:32:08.000Z)
-
-## OCC calls on community banks to enter the stablecoin payments market
-
-- Categoria sugerida: mercado | Confiança: media | Pontos: 58
-- [CoinDesk] OCC calls on community banks to enter the stablecoin payments market — https://coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market (2026-10-26T15:45:51.000Z)
-- [Cointelegraph] US OCC calls on community banks to become payment stablecoin issuers — https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act (2026-10-26T21:38:30.000Z)
 
 ## South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029
 
@@ -49,31 +35,6 @@ Gerada em 2026-10-28T22:51:53.562Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Ethereum delays Glamsterdam test after security devs flag risk to existing contracts
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [CoinDesk] Ethereum delays Glamsterdam test after security devs flag risk to existing contracts — https://coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts (2026-10-23T04:59:34.000Z)
-
-## Cardano holders are being asked to bet $5 million on copper hitting a new record
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Cardano holders are being asked to bet $5 million on copper hitting a new record — https://coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record (2026-10-23T04:36:51.000Z)
-
-## Ethereum delays Glamsterdam Hoodi testnet launch over security risks
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Ethereum delays Glamsterdam Hoodi testnet launch over security risks — https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks (2026-10-23T05:09:41.000Z)
-
-## Bitcoin Core changes security policy as AI makes bugs easier to find
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin Core changes security policy as AI makes bugs easier to find — https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find (2026-10-23T04:34:14.000Z)
-
-## HSBC rolls out its first HKD stablecoin RedCoin to retail users
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [The Block] HSBC rolls out its first HKD stablecoin RedCoin to retail users — https://theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018 (2026-10-23T04:03:09.000Z)
 
 ## Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro
 
@@ -159,3 +120,38 @@ Gerada em 2026-10-28T22:51:53.562Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [CoinDesk] Argentina drops criminal probe into President Milei over crashed memecoin LIBRA — https://coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra (2026-10-24T14:38:47.000Z)
+
+## Netanyahu floats use of blockchain as solution to potential financial sanctions
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Netanyahu floats use of blockchain as solution to potential financial sanctions — https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions (2026-10-25T11:42:00.000Z)
+
+## Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Decrypt] Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks — https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks (2026-10-25T16:01:03.000Z)
+
+## Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments — https://coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments (2026-10-26T05:15:20.000Z)
+
+## Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting — https://coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting (2026-10-26T04:37:02.000Z)
+
+## Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [CoinDesk] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans — https://coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans (2026-10-27T18:13:02.000Z)
+
+## Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG — https://coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform (2026-10-27T16:35:29.000Z)
+
+## Majority of Americans want candidates who support US-based financial technology: Poll
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Majority of Americans want candidates who support US-based financial technology: Poll — https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll (2026-10-27T18:08:00.000Z)
