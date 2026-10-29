@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-29T06:28:26.560Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-29T22:58:30.070Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Strategy shareholders approve daily dividends for four preferred stocks
 
@@ -9,17 +9,17 @@ Gerada em 2026-10-29T06:28:26.560Z. Fontes servem só para descobrir o fato: esc
 - [Decrypt] Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor — https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor (2026-10-28T17:03:32.000Z)
 - [Bitcoin Magazine] Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks — https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends (2026-10-28T15:32:08.000Z)
 
-## South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029
+## NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.
 
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 57
-- [CoinDesk] South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029 — https://coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029 (2026-10-26T14:51:07.000Z)
-- [Cointelegraph] South Korea lawmakers mull pushing crypto tax implementation to 2029 — https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029 (2026-10-26T16:18:09.000Z)
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 69
+- [CoinDesk] NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S. — https://coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s (2026-10-29T11:11:25.000Z)
+- [Decrypt] Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US — https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us (2026-10-29T15:59:48.000Z)
 
-## Strategy skips Bitcoin purchases, spends $205M on STRC buybacks
+## Crypto exchange HTX exits the UK after settling with the FCA
 
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 56
-- [Cointelegraph] Strategy skips Bitcoin purchases, spends $205M on STRC buybacks — https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback (2026-10-26T13:27:38.000Z)
-- [Decrypt] Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC — https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc (2026-10-26T13:24:38.000Z)
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 59
+- [CoinDesk] Crypto exchange HTX exits the UK after settling with the FCA — https://coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca (2026-10-29T16:11:18.000Z)
+- [Bitcoin Magazine] Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA — https://bitcoinmagazine.com/news/crypto-exchange-htx-agrees-to-leave-uk (2026-10-29T13:49:03.000Z)
 
 ## Brazilian companies turned to stablecoins on election day to dodge a currency crash
 
@@ -31,70 +31,20 @@ Gerada em 2026-10-29T06:28:26.560Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 48
 - [Cointelegraph] Binance files for Brazil crypto license ahead of Friday deadline — https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline (2026-10-27T08:04:21.000Z)
 
+## Brazil’s Halloween eve crypto deadline brings more tricks than treats
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 48
+- [Cointelegraph] Brazil’s Halloween eve crypto deadline brings more tricks than treats — https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty (2026-10-29T13:30:00.000Z)
+
+## Coinbase seeks Brazil crypto license, expects no service disruption
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 47
+- [Cointelegraph] Coinbase seeks Brazil crypto license, expects no service disruption — https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected (2026-10-29T12:00:00.000Z)
+
 ## Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro — https://coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s (2026-10-23T11:22:33.000Z)
-
-## Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% — https://coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13 (2026-10-23T10:54:41.000Z)
-
-## Bitcoin appears to have decoupled from midterm cycle bottom history
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin appears to have decoupled from midterm cycle bottom history — https://coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern (2026-10-23T10:53:09.000Z)
-
-## HSBC rolls out its first stablecoin to over 3 million everyday app users
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] HSBC rolls out its first stablecoin to over 3 million everyday app users — https://coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users (2026-10-23T10:22:56.000Z)
-
-## Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Decrypt] Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws — https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws (2026-10-23T11:49:37.000Z)
-
-## Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank — https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank (2026-10-23T10:54:35.000Z)
-
-## Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows — https://theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483 (2026-10-23T11:39:45.000Z)
-
-## SEC flags tokenization as high-risk area in 2027 market examinations
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] SEC flags tokenization as high-risk area in 2027 market examinations — https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities (2026-10-23T16:08:40.000Z)
-
-## Bitcoin seeks support above $81K as Brent crude oil hits highest level since March
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin seeks support above $81K as Brent crude oil hits highest level since March — https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march (2026-10-23T15:39:17.000Z)
-
-## Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt — https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats (2026-10-23T17:16:03.000Z)
-
-## Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Decrypt] Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York — https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york (2026-10-23T16:31:03.000Z)
-
-## Bitcoin ETFs Bleed $636 Million as October Turns Red Again
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin ETFs Bleed $636 Million as October Turns Red Again — https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again (2026-10-23T15:50:41.000Z)
 
 ## Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet
 
@@ -155,3 +105,53 @@ Gerada em 2026-10-29T06:28:26.560Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Majority of Americans want candidates who support US-based financial technology: Poll — https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll (2026-10-27T18:08:00.000Z)
+
+## Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes — https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key (2026-10-27T18:16:02.000Z)
+
+## OpenAI Proves ETH Is False, and Crypto Twitter Has Questions
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Decrypt] OpenAI Proves ETH Is False, and Crypto Twitter Has Questions — https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions (2026-10-27T16:53:13.000Z)
+
+## Crypto.com and OG.com launch US crypto perps with up to 5x leverage
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Crypto.com and OG.com launch US crypto perps with up to 5x leverage — https://theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902 (2026-10-27T17:07:10.000Z)
+
+## Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation — https://theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906 (2026-10-27T16:59:10.000Z)
+
+## Após a eleição no Brasil, procura por orientação migratória para os Estados Unidos aumenta 30 vezes
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Livecoins] Após a eleição no Brasil, procura por orientação migratória para os Estados Unidos aumenta 30 vezes — https://livecoins.com.br/apos-a-eleicao-no-brasil-procura-por-orientacao-migratoria-para-os-estados-unidos-aumenta-30-vezes (2026-10-27T16:50:00.000Z)
+
+## Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC — https://coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc (2026-10-28T05:28:13.000Z)
+
+## Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost — https://coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost (2026-10-28T21:13:44.000Z)
+
+## Canadian ‘crypto king’ case to go to jury as criminal trial winds down
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Canadian ‘crypto king’ case to go to jury as criminal trial winds down — https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing (2026-10-28T21:35:52.000Z)
+
+## Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks — https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc (2026-10-28T21:46:02.000Z)
+
+## AI found a way to crash bitcoin nodes on Windows and Macs. It's now public
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] AI found a way to crash bitcoin nodes on Windows and Macs. It's now public — https://coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public (2026-10-29T05:54:39.000Z)
