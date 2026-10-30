@@ -1,14 +1,23 @@
 {
-  "at": "2026-10-30T06:31:24.245Z",
+  "at": "2026-10-30T22:45:35.788Z",
   "auto": [],
   "review": [
     {
-      "slug": "acionistas-da-strategy-aprovam-pagamento-de-dividendos-diarios-para-acoes",
-      "title": "Acionistas da Strategy aprovam pagamento de dividendos diários para ações preferenciais",
+      "slug": "trezor-alerta-sobre-suspeita-de-chip-espiao-em-carteiras-vendidas-pela",
+      "title": "Trezor alerta sobre suspeita de chip espião em carteiras vendidas pela CryptoBilis",
       "confidence": "alta",
       "sources": [
         "Cointelegraph",
         "Decrypt",
+        "The Block"
+      ]
+    },
+    {
+      "slug": "htx-deixa-o-reino-unido-apos-firmar-acordo-com-a-autoridade-financeira-britanica",
+      "title": "HTX deixa o Reino Unido após firmar acordo com a autoridade financeira britânica",
+      "confidence": "media",
+      "sources": [
+        "CoinDesk",
         "Bitcoin Magazine"
       ]
     }
@@ -16,7 +25,7 @@
   "skipped": [],
   "errors": [
     {
-      "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "headline": "Binance arranges $6.34 billion to cover losses from record crypto hack",
       "error": "The operation was aborted due to timeout"
     }
   ]

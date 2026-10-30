@@ -1,13 +1,25 @@
 # Pauta de notícias
 
-Gerada em 2026-10-30T06:27:29.053Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-30T22:39:05.520Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Strategy shareholders approve daily dividends for four preferred stocks
+## Trezor warns CryptoBilis buyers to move funds over suspected implant
 
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 96
-- [Cointelegraph] Strategy shareholders approve daily dividends for four preferred stocks — https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks (2026-10-28T18:00:54.000Z)
-- [Decrypt] Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor — https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor (2026-10-28T17:03:32.000Z)
-- [Bitcoin Magazine] Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks — https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends (2026-10-28T15:32:08.000Z)
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 102
+- [Cointelegraph] Trezor warns CryptoBilis buyers to move funds over suspected implant — https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning (2026-10-30T09:26:45.000Z)
+- [Decrypt] Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5 — https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5 (2026-10-30T10:07:29.000Z)
+- [The Block] Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis — https://theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196 (2026-10-30T08:55:39.000Z)
+
+## Binance arranges $6.34 billion to cover losses from record crypto hack
+
+- Categoria sugerida: seguranca | Confiança: media | Pontos: 70
+- [CoinDesk] Binance arranges $6.34 billion to cover losses from record crypto hack — https://coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack (2026-10-30T12:13:02.000Z)
+- [The Block] Binance says it has $6.34 billion ready to cover hack losses — https://theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208 (2026-10-30T13:14:56.000Z)
+
+## Recap: How Binance’s record $6.3B hack unfolded
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 63
+- [Cointelegraph] Recap: How Binance’s record $6.3B hack unfolded — https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded (2026-10-30T16:53:46.000Z)
+- [Cointelegraph] As it happened: Binance’s record $6.3B crypto hack — https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor (2026-10-30T16:49:50.000Z)
 
 ## Crypto exchange HTX exits the UK after settling with the FCA
 
@@ -39,26 +51,6 @@ Gerada em 2026-10-30T06:27:29.053Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends — https://coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends (2026-10-24T16:00:00.000Z)
-
-## Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations — https://coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations (2026-10-24T15:11:24.000Z)
-
-## Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker — https://coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker (2026-10-24T15:00:00.000Z)
-
-## Argentina drops criminal probe into President Milei over crashed memecoin LIBRA
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Argentina drops criminal probe into President Milei over crashed memecoin LIBRA — https://coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra (2026-10-24T14:38:47.000Z)
 
 ## Netanyahu floats use of blockchain as solution to potential financial sanctions
 
@@ -154,3 +146,13 @@ Gerada em 2026-10-30T06:27:29.053Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [CoinDesk] Binance loses $5.7 billion in largest crypto hack to date — https://coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets (2026-10-29T21:12:45.000Z)
+
+## Tampered Ledger reported in Singapore a month before news broke: Asia Express
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Tampered Ledger reported in Singapore a month before news broke: Asia Express — https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express (2026-10-29T22:31:07.000Z)
+
+## Binance hit by $5.8B hack as Tether and Circle freeze billions
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance hit by $5.8B hack as Tether and Circle freeze billions — https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns (2026-10-29T21:24:36.000Z)
