@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-29T22:58:30.070Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-10-30T06:27:29.053Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Strategy shareholders approve daily dividends for four preferred stocks
 
@@ -8,12 +8,6 @@ Gerada em 2026-10-29T22:58:30.070Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Strategy shareholders approve daily dividends for four preferred stocks — https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks (2026-10-28T18:00:54.000Z)
 - [Decrypt] Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor — https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor (2026-10-28T17:03:32.000Z)
 - [Bitcoin Magazine] Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks — https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends (2026-10-28T15:32:08.000Z)
-
-## NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.
-
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 69
-- [CoinDesk] NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S. — https://coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s (2026-10-29T11:11:25.000Z)
-- [Decrypt] Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US — https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us (2026-10-29T15:59:48.000Z)
 
 ## Crypto exchange HTX exits the UK after settling with the FCA
 
@@ -45,11 +39,6 @@ Gerada em 2026-10-29T22:58:30.070Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet — https://coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet (2026-10-24T04:45:43.000Z)
 
 ## Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends
 
@@ -155,3 +144,13 @@ Gerada em 2026-10-29T22:58:30.070Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [CoinDesk] AI found a way to crash bitcoin nodes on Windows and Macs. It's now public — https://coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public (2026-10-29T05:54:39.000Z)
+
+## Security failure at Indian certificate firm bites Ethereum as developers rush out fixes
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] Security failure at Indian certificate firm bites Ethereum as developers rush out fixes — https://coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards (2026-10-29T05:30:34.000Z)
+
+## Binance loses $5.7 billion in largest crypto hack to date
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Binance loses $5.7 billion in largest crypto hack to date — https://coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets (2026-10-29T21:12:45.000Z)

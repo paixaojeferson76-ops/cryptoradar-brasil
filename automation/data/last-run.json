@@ -1,23 +1,20 @@
 {
-  "at": "2026-10-29T23:06:00.757Z",
+  "at": "2026-10-30T06:31:24.245Z",
   "auto": [],
   "review": [
     {
-      "slug": "dona-da-bolsa-de-ny-fecha-parceria-para-lancar-futuros-perpetuos-da-hyperliquid",
-      "title": "Dona da Bolsa de NY fecha parceria para lançar futuros perpétuos da Hyperliquid nos EUA",
-      "confidence": "media",
+      "slug": "acionistas-da-strategy-aprovam-pagamento-de-dividendos-diarios-para-acoes",
+      "title": "Acionistas da Strategy aprovam pagamento de dividendos diários para ações preferenciais",
+      "confidence": "alta",
       "sources": [
-        "CoinDesk",
-        "Decrypt"
+        "Cointelegraph",
+        "Decrypt",
+        "Bitcoin Magazine"
       ]
     }
   ],
   "skipped": [],
   "errors": [
-    {
-      "headline": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "error": "The operation was aborted due to timeout"
-    },
     {
       "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
       "error": "The operation was aborted due to timeout"
