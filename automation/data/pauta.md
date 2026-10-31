@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-31T13:04:52.276Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Binance arranges $6.34 billion to cover losses from record crypto hack
-
-- Categoria sugerida: seguranca | Confiança: media | Pontos: 70
-- [CoinDesk] Binance arranges $6.34 billion to cover losses from record crypto hack — https://coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack (2026-10-30T12:13:02.000Z)
-- [The Block] Binance says it has $6.34 billion ready to cover hack losses — https://theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208 (2026-10-30T13:14:56.000Z)
+Gerada em 2026-10-31T21:53:14.737Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Recap: How Binance’s record $6.3B hack unfolded
 
@@ -38,11 +32,6 @@ Gerada em 2026-10-31T13:04:52.276Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [Decrypt] Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks — https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks (2026-10-25T16:01:03.000Z)
 
 ## Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments
 
@@ -153,3 +142,13 @@ Gerada em 2026-10-31T13:04:52.276Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [CoinDesk] Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets — https://coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets (2026-10-30T06:22:00.000Z)
+
+## XRP Ledger developers tighten the rules for who can hold 'restricted' tokens
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
+- [CoinDesk] XRP Ledger developers tighten the rules for who can hold 'restricted' tokens — https://coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens (2026-10-30T05:45:27.000Z)
+
+## Binance hack bites India's largest crypto exchange as it curbs futures trading
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Binance hack bites India's largest crypto exchange as it curbs futures trading — https://coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity (2026-10-30T05:43:07.000Z)
