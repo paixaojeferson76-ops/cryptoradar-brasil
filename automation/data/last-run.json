@@ -1,32 +1,12 @@
 {
-  "at": "2026-10-30T22:45:35.788Z",
+  "at": "2026-10-31T13:06:20.763Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "trezor-alerta-sobre-suspeita-de-chip-espiao-em-carteiras-vendidas-pela",
-      "title": "Trezor alerta sobre suspeita de chip espião em carteiras vendidas pela CryptoBilis",
-      "confidence": "alta",
-      "sources": [
-        "Cointelegraph",
-        "Decrypt",
-        "The Block"
-      ]
-    },
-    {
-      "slug": "htx-deixa-o-reino-unido-apos-firmar-acordo-com-a-autoridade-financeira-britanica",
-      "title": "HTX deixa o Reino Unido após firmar acordo com a autoridade financeira britânica",
-      "confidence": "media",
-      "sources": [
-        "CoinDesk",
-        "Bitcoin Magazine"
-      ]
-    }
-  ],
-  "skipped": [],
-  "errors": [
+  "review": [],
+  "skipped": [
     {
       "headline": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-      "error": "The operation was aborted due to timeout"
+      "reason": "As fontes fornecidas são insuficientes para a elaboração de uma matéria jornalística completa de 300 a 600 palavras, limitando-se a resumos de duas frases sem informações essenciais sobre o ocorrido (como a data da invasão, os sistemas atingidos, os métodos utilizados ou os procedimentos de suporte aos clientes), o que violaria a regra de utilizar exclusivamente os fatos relatados."
     }
-  ]
+  ],
+  "errors": []
 }

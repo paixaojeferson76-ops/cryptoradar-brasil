@@ -1,13 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-30T22:39:05.520Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Trezor warns CryptoBilis buyers to move funds over suspected implant
-
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 102
-- [Cointelegraph] Trezor warns CryptoBilis buyers to move funds over suspected implant — https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning (2026-10-30T09:26:45.000Z)
-- [Decrypt] Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5 — https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5 (2026-10-30T10:07:29.000Z)
-- [The Block] Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis — https://theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196 (2026-10-30T08:55:39.000Z)
+Gerada em 2026-10-31T13:04:52.276Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Binance arranges $6.34 billion to cover losses from record crypto hack
 
@@ -20,12 +13,6 @@ Gerada em 2026-10-30T22:39:05.520Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 63
 - [Cointelegraph] Recap: How Binance’s record $6.3B hack unfolded — https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded (2026-10-30T16:53:46.000Z)
 - [Cointelegraph] As it happened: Binance’s record $6.3B crypto hack — https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor (2026-10-30T16:49:50.000Z)
-
-## Crypto exchange HTX exits the UK after settling with the FCA
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 59
-- [CoinDesk] Crypto exchange HTX exits the UK after settling with the FCA — https://coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca (2026-10-29T16:11:18.000Z)
-- [Bitcoin Magazine] Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA — https://bitcoinmagazine.com/news/crypto-exchange-htx-agrees-to-leave-uk (2026-10-29T13:49:03.000Z)
 
 ## Brazilian companies turned to stablecoins on election day to dodge a currency crash
 
@@ -51,11 +38,6 @@ Gerada em 2026-10-30T22:39:05.520Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Netanyahu floats use of blockchain as solution to potential financial sanctions
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Netanyahu floats use of blockchain as solution to potential financial sanctions — https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions (2026-10-25T11:42:00.000Z)
 
 ## Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks
 
@@ -156,3 +138,18 @@ Gerada em 2026-10-30T22:39:05.520Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Binance hit by $5.8B hack as Tether and Circle freeze billions — https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns (2026-10-29T21:24:36.000Z)
+
+## Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets — https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum (2026-10-29T22:57:48.000Z)
+
+## Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion — https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto (2026-10-29T21:36:24.000Z)
+
+## Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets — https://coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets (2026-10-30T06:22:00.000Z)
