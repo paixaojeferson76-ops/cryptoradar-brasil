@@ -1,28 +1,5 @@
 {
   "urls": {
-    "https://sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal": "2026-10-02T00:57:40.347Z",
-    "https://blog.ethereum.org/en/2026/10/01/introducing-zkapi": "2026-10-02T00:57:40.347Z",
-    "https://coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda": "2026-10-02T00:57:40.347Z",
-    "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express": "2026-10-02T00:57:40.347Z",
-    "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury": "2026-10-02T00:57:40.347Z",
-    "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims": "2026-10-02T00:57:40.347Z",
-    "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally": "2026-10-02T00:57:40.347Z",
-    "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto": "2026-10-02T00:57:40.347Z",
-    "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers": "2026-10-02T00:57:40.347Z",
-    "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning": "2026-10-02T00:57:40.347Z",
-    "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission": "2026-10-02T00:57:40.347Z",
-    "https://theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": "2026-10-02T00:57:40.347Z",
-    "https://theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498": "2026-10-02T00:57:40.347Z",
-    "https://theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign": "2026-10-02T00:57:40.347Z",
-    "https://bitcoinmagazine.com/news/republican-releases-crypto-tax-plan": "2026-10-02T00:57:40.347Z",
-    "https://livecoins.com.br/drift-protocol-anuncia-distribuicao-de-fundos-para-vitimas-de-ataque-mas-valor-representa-somente-11-das-perdas": "2026-10-02T00:57:40.347Z",
-    "https://portaldobitcoin.uol.com.br/citi-projeta-bitcoin-a-us-113-mil-e-ethereum-a-us-3-mil-em-12-meses": "2026-10-02T00:57:40.347Z",
     "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent": "2026-10-02T06:58:13.805Z",
     "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027": "2026-10-02T06:58:13.805Z",
     "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback": "2026-10-02T06:58:13.805Z",
@@ -2098,6 +2075,7 @@
     "https://livecoins.com.br/chainalysis-sofre-vazamento-de-dados-apos-ataque": "2026-10-31T21:53:14.737Z",
     "https://livecoins.com.br/policia-civil-do-rs-contrata-rastreamento-de-bitcoin-e-criptomoedas-por-r-382-mil": "2026-10-31T21:53:14.737Z",
     "https://portaldobitcoin.uol.com.br/9-criptomoedas-que-podem-disparar-em-novembro-segundo-analistas": "2026-10-31T21:53:14.737Z",
-    "https://portaldobitcoin.uol.com.br/como-uma-atualizacao-do-ethereum-ajudou-hacker-no-roubo-de-us-6-bilhoes-da-binance": "2026-10-31T21:53:14.737Z"
+    "https://portaldobitcoin.uol.com.br/como-uma-atualizacao-do-ethereum-ajudou-hacker-no-roubo-de-us-6-bilhoes-da-binance": "2026-10-31T21:53:14.737Z",
+    "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": "2026-11-01T06:51:59.947Z"
   }
 }

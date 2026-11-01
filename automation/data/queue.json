@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:53:14.737Z",
+  "updatedAt": "2026-11-01T06:51:59.947Z",
   "stories": [
     {
       "id": "recap-how-binance-s-record-6-3b-hack-unfolded",
@@ -212,75 +212,6 @@
         "reasons": []
       },
       "score": 46,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to",
-      "headline": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-10-26T05:15:20.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-          "url": "https://coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-          "date": "2026-10-26T05:15:20.000Z",
-          "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-slips-under-80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "headline": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "XRP"
-      ],
-      "firstSeen": "2026-10-26T04:37:02.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-          "url": "https://coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-          "date": "2026-10-26T04:37:02.000Z",
-          "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
       "status": "pendente"
     },
     {
@@ -1318,39 +1249,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
-      "headline": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-10-26T02:24:04.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-          "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
-          "date": "2026-10-26T02:24:04.000Z",
-          "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -2418,74 +2316,6 @@
         "reasons": []
       },
       "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "standard-chartered-led-anchorpoint-says-it-s-not-rushing-retail",
-      "headline": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-26T00:13:29.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-          "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
-          "date": "2026-10-26T00:13:29.000Z",
-          "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "ai-agents-help-rescue-eth-s-glamsterdam-fork-steal-my-bitcoin-site",
-      "headline": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-25T22:48:40.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-          "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
-          "date": "2026-10-25T22:48:40.000Z",
-          "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
       "status": "pendente"
     },
     {
@@ -4068,6 +3898,41 @@
           "url": "https://theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
           "date": "2026-10-31T15:26:27.000Z",
           "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "fbi-confirms-north-korea-s-role-in-6-billion-binance-hack-asks-defi",
+      "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-01T01:10:05.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "date": "2026-11-01T01:10:05.000Z",
+          "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
         }
       ],
       "validation": {
@@ -8190,41 +8055,6 @@
       "status": "pendente"
     },
     {
-      "id": "dolar-dispara-apos-reeleicao-de-lula-usdt-chega-a-r-5-42",
-      "headline": "Dólar dispara após reeleição de Lula; USDT chega a R$ 5,42",
-      "category": "altcoins",
-      "tags": [
-        "Bitcoin",
-        "stablecoins",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-26T01:52:01.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Dólar dispara após reeleição de Lula; USDT chega a R$ 5,42",
-          "url": "https://livecoins.com.br/dolar-dispara-apos-reeleicao-de-lula-usdt-chega-a-r-542",
-          "date": "2026-10-26T01:52:01.000Z",
-          "summary": "Real recua no mercado futuro após resultado eleitoral, USDT chega a R$ 5,42 e Bridge pausa temporariamente operações de entrada e saída de reais no Brasil. Fonte: Dólar dispara após reeleição de Lula; USDT chega a R$ 5,42 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
       "id": "crypto-midterm-election-spending-reaches-176-million-as-industry",
       "headline": "Crypto Midterm Election Spending Reaches $176 Million as Industry Builds for the Next Congress",
       "category": "regulacao",
@@ -11184,80 +11014,6 @@
       },
       "score": 17,
       "status": "pendente"
-    },
-    {
-      "id": "here-s-what-happened-in-crypto-today",
-      "headline": "Here’s what happened in crypto today",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "DeFi",
-        "Brasil"
-      ],
-      "firstSeen": "2026-10-31T15:09:55.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-          "date": "2026-10-31T15:09:55.000Z",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitcoin-turns-18-has-the-original-rebel-grown-up",
-      "headline": "Bitcoin turns 18: Has the original rebel grown up?",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-31T14:27:52.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin turns 18: Has the original rebel grown up?",
-          "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
-          "date": "2026-10-31T14:27:52.000Z",
-          "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }

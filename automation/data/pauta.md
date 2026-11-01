@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-10-31T21:53:14.737Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-01T06:51:59.947Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Recap: How Binance’s record $6.3B hack unfolded
 
@@ -32,16 +32,6 @@ Gerada em 2026-10-31T21:53:14.737Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments — https://coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments (2026-10-26T05:15:20.000Z)
-
-## Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting — https://coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting (2026-10-26T04:37:02.000Z)
 
 ## Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans
 
@@ -152,3 +142,13 @@ Gerada em 2026-10-31T21:53:14.737Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] Binance hack bites India's largest crypto exchange as it curbs futures trading — https://coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity (2026-10-30T05:43:07.000Z)
+
+## Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze — https://coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze (2026-10-30T04:50:42.000Z)
+
+## Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity — https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys (2026-10-30T05:53:07.000Z)
