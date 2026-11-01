@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:07:24.574Z",
+  "updatedAt": "2026-11-01T22:26:46.631Z",
   "stories": [
     {
       "id": "recap-how-binance-s-record-6-3b-hack-unfolded",
@@ -2501,6 +2501,72 @@
           "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
           "date": "2026-11-01T16:01:02.000Z",
           "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-11-01T19:30:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+          "url": "https://coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+          "date": "2026-11-01T19:30:00.000Z",
+          "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as",
+      "headline": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-11-01T18:25:48.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+          "url": "https://theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+          "date": "2026-11-01T18:25:48.000Z",
+          "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
         }
       ],
       "validation": {
@@ -7319,139 +7385,6 @@
       "status": "pendente"
     },
     {
-      "id": "canada-s-draft-stablecoin-rules-cap-redemption-fees-at-1-and-ban-yield",
-      "headline": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "category": "defi",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-26T22:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-          "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
-          "date": "2026-10-26T22:16:03.000Z",
-          "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 31,
-      "status": "pendente"
-    },
-    {
-      "id": "canada-opens-consultation-on-stablecoins-citing-us-genius-act",
-      "headline": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-26T19:47:40.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-          "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act",
-          "date": "2026-10-26T19:47:40.000Z",
-          "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 30,
-      "status": "pendente"
-    },
-    {
-      "id": "cz-pitches-bnb-chain-s-role-in-ai-as-bnb-standard-rings-nasdaq-bell",
-      "headline": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
-      "category": "altcoins",
-      "tags": [],
-      "firstSeen": "2026-10-26T19:43:47.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
-          "url": "https://theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
-          "date": "2026-10-26T19:43:47.000Z",
-          "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 30,
-      "status": "pendente"
-    },
-    {
-      "id": "criptomoedas-mais-seguras-veja-7-riscos-que-a-nova-regulacao-do-banco",
-      "headline": "Criptomoedas mais seguras? Veja 7 riscos que a nova regulação do Banco Central não elimina",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "Banco Central",
-        "segurança"
-      ],
-      "firstSeen": "2026-10-26T19:27:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Criptomoedas mais seguras? Veja 7 riscos que a nova regulação do Banco Central não elimina",
-          "url": "https://portaldobitcoin.uol.com.br/criptomoedas-mais-seguras-veja-7-riscos-que-a-nova-regulacao-do-banco-central-nao-elimina",
-          "date": "2026-10-26T19:27:00.000Z",
-          "summary": "Mesmo com as novas regras do BC, investidores continuam expostos a quedas de preço, golpes, ataques hackers e falências de exchanges O post Criptomoedas mais seguras? Veja 7 riscos que a nova regulação do Banco Central não elimina apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 30,
-      "status": "pendente"
-    },
-    {
       "id": "next-week-s-midterms-could-stall-the-clarity-act-and-test-crypto-s",
       "headline": "Next Week's Midterms Could Stall the CLARITY Act and Test Crypto’s Political Clout: TD Cowen",
       "category": "regulacao",
@@ -9134,6 +9067,40 @@
       "status": "pendente"
     },
     {
+      "id": "como-as-eleicoes-nos-eua-podem-impactar-o-bitcoin-e-o-mercado-cripto",
+      "headline": "Como as eleições nos EUA podem impactar o Bitcoin e o mercado cripto",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "regulação"
+      ],
+      "firstSeen": "2026-11-01T18:11:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Como as eleições nos EUA podem impactar o Bitcoin e o mercado cripto",
+          "url": "https://portaldobitcoin.uol.com.br/como-as-eleicoes-nos-eua-podem-impactar-o-bitcoin-e-o-mercado-cripto",
+          "date": "2026-11-01T18:11:00.000Z",
+          "summary": "Disputa pelo controle do Congresso americano pode mudar os rumos da regulação das criptomoedas e provocar volatilidade no preço do Bitcoin O post Como as eleições nos EUA podem impactar o Bitcoin e o mercado cripto apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "now-accepting-bitcoin-425-los-angeles-bitcoin-merchants-featuring",
       "headline": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Café de Leche",
       "category": "bitcoin",
@@ -10714,208 +10681,6 @@
       },
       "score": 21,
       "status": "pendente"
-    },
-    {
-      "id": "senado-coloca-pacote-de-projetos-sobre-pix-criptomoedas-e-fintechs-na",
-      "headline": "Senado coloca pacote de projetos sobre Pix, criptomoedas e fintechs na pauta de 2027",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-26T21:08:10.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Senado coloca pacote de projetos sobre Pix, criptomoedas e fintechs na pauta de 2027",
-          "url": "https://livecoins.com.br/senado-coloca-pacote-de-projetos-sobre-pix-criptomoedas-e-fintechs-na-pauta-de-2027",
-          "date": "2026-10-26T21:08:10.000Z",
-          "summary": "Texto já aprovado pelos deputados exige segregação patrimonial e contas individualizadas para clientes de plataformas digitais Fonte: Senado coloca pacote de projetos sobre Pix, criptomoedas e fintechs na pauta de 2027 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 20,
-      "status": "pendente"
-    },
-    {
-      "id": "vendi-tudo-diz-arthur-hayes-sobre-ethereum-ethena-uniswap-e-outras",
-      "headline": "“Vendi tudo”, diz Arthur Hayes sobre Ethereum, Ethena, Uniswap e outras criptomoedas",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-10-26T19:00:36.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "“Vendi tudo”, diz Arthur Hayes sobre Ethereum, Ethena, Uniswap e outras criptomoedas",
-          "url": "https://livecoins.com.br/vendi-tudo-diz-arthur-hayes-sobre-ethereum-ethena-uniswap-e-outras-criptomoedas",
-          "date": "2026-10-26T19:00:36.000Z",
-          "summary": "Conforme Arthur Hayes é famoso por estar sempre otimista em relação ao Bitcoin e outras criptomoedas, a sua decisão de vender diversos projetos pegou muitos de seus seguidores de surpresa Fonte: “Vendi tudo”, diz Arthur Hayes sobre Ethereum, Ethena, Uniswap e outras criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 19,
-      "status": "pendente"
-    },
-    {
-      "id": "oranjebtc-realiza-evento-em-sao-paulo-que-contara-com-a-presenca-de",
-      "headline": "OranjeBTC realiza evento em São Paulo que contará com a presença de Michael Saylor",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-26T18:18:17.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "OranjeBTC realiza evento em São Paulo que contará com a presença de Michael Saylor",
-          "url": "https://livecoins.com.br/oranjebtc-realiza-evento-em-sao-paulo-que-contara-com-a-presenca-de-michael-saylor",
-          "date": "2026-10-26T18:18:17.000Z",
-          "summary": "Presença do fundador da Strategy é destaque na segunda edição do OranjeBTC Summit Fonte: OranjeBTC realiza evento em São Paulo que contará com a presença de Michael Saylor Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 19,
-      "status": "pendente"
-    },
-    {
-      "id": "deepseek-developing-ai-agent-requiring-less-human-input-report",
-      "headline": "DeepSeek developing AI agent requiring less human input: Report",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-01T13:40:33.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DeepSeek developing AI agent requiring less human input: Report",
-          "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report",
-          "date": "2026-11-01T13:40:33.000Z",
-          "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "how-to-run-an-ai-model-locally-and-why-you-might-want-to",
-      "headline": "How to Run an AI Model Locally—And Why You Might Want To",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-01T14:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "How to Run an AI Model Locally—And Why You Might Want To",
-          "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
-          "date": "2026-11-01T14:01:02.000Z",
-          "summary": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals",
-      "headline": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "category": "regulacao",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-11-01T16:32:31.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-          "url": "https://theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-          "date": "2026-11-01T16:32:31.000Z",
-          "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto",
-          "previsão de preço"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
     }
   ]
 }

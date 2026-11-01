@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-01T18:07:24.574Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-01T22:26:46.631Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Recap: How Binance’s record $6.3B hack unfolded
 
