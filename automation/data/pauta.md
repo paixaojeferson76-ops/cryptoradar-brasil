@@ -1,6 +1,12 @@
 # Pauta de notícias
 
-Gerada em 2026-11-02T06:50:45.626Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-02T21:56:54.326Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains
+
+- Categoria sugerida: seguranca | Confiança: media | Pontos: 87
+- [CoinDesk] Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains — https://coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains (2026-11-02T15:53:29.000Z)
+- [Decrypt] Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack — https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack (2026-11-02T16:46:03.000Z)
 
 ## Recap: How Binance’s record $6.3B hack unfolded
 
@@ -8,15 +14,10 @@ Gerada em 2026-11-02T06:50:45.626Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Recap: How Binance’s record $6.3B hack unfolded — https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded (2026-10-30T16:53:46.000Z)
 - [Cointelegraph] As it happened: Binance’s record $6.3B crypto hack — https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor (2026-10-30T16:49:50.000Z)
 
-## Brazilian companies turned to stablecoins on election day to dodge a currency crash
+## Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach
 
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 52
-- [CoinDesk] Brazilian companies turned to stablecoins on election day to dodge a currency crash — https://coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash (2026-10-27T16:59:07.000Z)
-
-## Binance files for Brazil crypto license ahead of Friday deadline
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 48
-- [Cointelegraph] Binance files for Brazil crypto license ahead of Friday deadline — https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline (2026-10-27T08:04:21.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 52
+- [The Block] Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach — https://theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333 (2026-11-02T20:19:49.000Z)
 
 ## Brazil’s Halloween eve crypto deadline brings more tricks than treats
 
@@ -32,46 +33,6 @@ Gerada em 2026-11-02T06:50:45.626Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 46
 - [CoinDesk] Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules — https://coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules (2026-10-28T10:07:54.000Z)
-
-## Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
-- [CoinDesk] Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans — https://coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans (2026-10-27T18:13:02.000Z)
-
-## Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [CoinDesk] Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG — https://coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform (2026-10-27T16:35:29.000Z)
-
-## Majority of Americans want candidates who support US-based financial technology: Poll
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Majority of Americans want candidates who support US-based financial technology: Poll — https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll (2026-10-27T18:08:00.000Z)
-
-## Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes — https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key (2026-10-27T18:16:02.000Z)
-
-## OpenAI Proves ETH Is False, and Crypto Twitter Has Questions
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Decrypt] OpenAI Proves ETH Is False, and Crypto Twitter Has Questions — https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions (2026-10-27T16:53:13.000Z)
-
-## Crypto.com and OG.com launch US crypto perps with up to 5x leverage
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Crypto.com and OG.com launch US crypto perps with up to 5x leverage — https://theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902 (2026-10-27T17:07:10.000Z)
-
-## Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation — https://theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906 (2026-10-27T16:59:10.000Z)
-
-## Após a eleição no Brasil, procura por orientação migratória para os Estados Unidos aumenta 30 vezes
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Livecoins] Após a eleição no Brasil, procura por orientação migratória para os Estados Unidos aumenta 30 vezes — https://livecoins.com.br/apos-a-eleicao-no-brasil-procura-por-orientacao-migratoria-para-os-estados-unidos-aumenta-30-vezes (2026-10-27T16:50:00.000Z)
 
 ## Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC
 
@@ -152,3 +113,43 @@ Gerada em 2026-11-02T06:50:45.626Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity — https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys (2026-10-30T05:53:07.000Z)
+
+## Binance hackers raced to move billions before it could be frozen
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance hackers raced to move billions before it could be frozen — https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen (2026-10-30T22:00:00.000Z)
+
+## Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [The Block] Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion — https://theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225 (2026-10-30T21:20:23.000Z)
+
+## President Trump says they’re looking into Binance hack as calls grow for crypto rules
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [The Block] President Trump says they’re looking into Binance hack as calls grow for crypto rules — https://theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236 (2026-10-30T21:06:03.000Z)
+
+## O3 Trade se junta a Coinbase, Ripple e Nubank na corrida pela licença cripto do Banco Central
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Livecoins] O3 Trade se junta a Coinbase, Ripple e Nubank na corrida pela licença cripto do Banco Central — https://livecoins.com.br/o3-trade-se-junta-a-coinbase-ripple-e-nubank-na-corrida-pela-licenca-cripto-do-banco-central (2026-10-30T22:23:25.000Z)
+
+## A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears — https://coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears (2026-10-31T12:49:47.000Z)
+
+## The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion — https://coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion (2026-10-31T12:00:00.000Z)
+
+## Blockchain investigator Chainalysis hit by cybersecurity incident
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Blockchain investigator Chainalysis hit by cybersecurity incident — https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident (2026-10-31T11:22:49.000Z)
+
+## AI agents bypassed crypto spending limits without human approval, researchers find in a new test
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] AI agents bypassed crypto spending limits without human approval, researchers find in a new test — https://coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test (2026-11-01T17:00:00.000Z)

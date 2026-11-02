@@ -1,7 +1,17 @@
 {
-  "at": "2026-11-02T06:50:48.272Z",
+  "at": "2026-11-02T22:03:37.988Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "mercado-bitcoin-suspende-saques-apos-incidente-de-seguranca-e-suspeita-de-us-40",
+      "title": "Mercado Bitcoin suspende saques após incidente de segurança e suspeita de US$ 40 milhões drenados",
+      "confidence": "media",
+      "sources": [
+        "CoinDesk",
+        "Decrypt"
+      ]
+    }
+  ],
   "skipped": [],
   "errors": []
 }
