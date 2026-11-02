@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:26:46.631Z",
+  "updatedAt": "2026-11-02T06:50:45.626Z",
   "stories": [
     {
       "id": "recap-how-binance-s-record-6-3b-hack-unfolded",
@@ -1317,6 +1317,108 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-etfs-lost-643-million-in-outflows-friday-and-2026-is-barely",
+      "headline": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-02T06:46:41.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+          "url": "https://coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+          "date": "2026-11-02T06:46:41.000Z",
+          "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro",
+      "headline": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-02T05:18:12.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+          "url": "https://coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+          "date": "2026-11-02T05:18:12.000Z",
+          "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "btcpay-server-warns-of-hot-wallet-thefts-running-on-outdated-software",
+      "headline": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-02T05:34:02.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+          "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
+          "date": "2026-11-02T05:34:02.000Z",
+          "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
       "id": "cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain",
       "headline": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
       "category": "blockchain",
@@ -2567,6 +2669,140 @@
           "url": "https://theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
           "date": "2026-11-01T18:25:48.000Z",
           "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-claws-back-toward-79-000-as-markets-shake-off-crypto-s",
+      "headline": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-02T04:42:22.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+          "url": "https://coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+          "date": "2026-11-02T04:42:22.000Z",
+          "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers",
+      "headline": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-02T04:41:16.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+          "url": "https://coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+          "date": "2026-11-02T04:41:16.000Z",
+          "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
+      "headline": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-02T03:55:50.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+          "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
+          "date": "2026-11-02T03:55:50.000Z",
+          "summary": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "spot-bitcoin-etfs-see-largest-daily-outflows-in-four-months-following",
+      "headline": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-02T04:11:05.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+          "url": "https://theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+          "date": "2026-11-02T04:11:05.000Z",
+          "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack."
         }
       ],
       "validation": {
@@ -4260,6 +4496,42 @@
           "url": "https://livecoins.com.br/corretora-uphold-sai-do-brasil-define-data-para-saques-e-pressiona-usuarios-do-navegador-brave-a-obter-recompensas",
           "date": "2026-11-01T13:43:39.000Z",
           "summary": "Comunicado enviado aos clientes aponta novas exigências de autorização para prestadores de serviços de criptoativos como motivo do encerramento Fonte: Corretora Uphold sai do Brasil, define data para saques e pressiona usuários do navegador Brave a obter recompensas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
+      "headline": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "segurança",
+        "Solana"
+      ],
+      "firstSeen": "2026-11-02T01:51:48.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+          "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
+          "date": "2026-11-02T01:51:48.000Z",
+          "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
         }
       ],
       "validation": {
@@ -6854,72 +7126,6 @@
       "status": "pendente"
     },
     {
-      "id": "redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg",
-      "headline": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-10-27T04:26:51.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-          "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg",
-          "date": "2026-10-27T04:26:51.000Z",
-          "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 34,
-      "status": "pendente"
-    },
-    {
-      "id": "stonex-lifts-strive-price-target-34-as-new-stock-offering-bolsters",
-      "headline": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-10-27T03:58:07.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
-          "url": "https://theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
-          "date": "2026-10-27T03:58:07.000Z",
-          "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 34,
-      "status": "pendente"
-    },
-    {
       "id": "nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed",
       "headline": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "category": "blockchain",
@@ -7348,40 +7554,6 @@
         "reasons": []
       },
       "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "blackrock-joins-sbi-and-startale-to-link-tokenized-mmfs-with-japanese",
-      "headline": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-      "category": "blockchain",
-      "tags": [
-        "stablecoins",
-        "tokenização"
-      ],
-      "firstSeen": "2026-10-27T01:00:00.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-          "url": "https://theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-          "date": "2026-10-27T01:00:00.000Z",
-          "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 32,
       "status": "pendente"
     },
     {
@@ -10650,37 +10822,74 @@
       "status": "pendente"
     },
     {
-      "id": "cold-storage-goes-south-bitcoin-announces-antarctica-edition",
-      "headline": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
-      "category": "bitcoin",
+      "id": "binance-net-outflows-surge-to-5-8b-as-withdrawals-resume-after-record",
+      "headline": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "category": "mercado",
       "tags": [
-        "Bitcoin"
+        "segurança"
       ],
-      "firstSeen": "2026-10-27T00:00:04.000Z",
+      "firstSeen": "2026-11-01T23:59:27.000Z",
       "publishers": [
-        "Bitcoin Magazine"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
-          "weight": 1,
+          "weight": 2,
           "lang": "en",
-          "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
-          "url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
-          "date": "2026-10-27T00:00:04.000Z",
-          "summary": "Bitcoin Magazine Cold Storage Goes South: bitcoin++ Announces Antarctica Edition bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula. This post Cold Storage Goes South: bitcoin++ Announces Antarctica Edition first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+          "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+          "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack",
+          "date": "2026-11-01T23:59:27.000Z",
+          "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets."
         }
       ],
       "validation": {
-        "ok": true,
+        "ok": false,
         "confidence": "baixa",
-        "reasons": []
+        "reasons": [
+          "fora do tema cripto"
+        ]
       },
-      "score": 21,
-      "status": "pendente"
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "thorchain-founder-rejects-freeze-request-cz-thanks-secret-service",
+      "headline": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
+      "category": "regulacao",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-11-01T23:09:13.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest",
+          "date": "2026-11-01T23:09:13.000Z",
+          "summary": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
     }
   ]
 }
