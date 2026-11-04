@@ -1,17 +1,31 @@
 {
-  "at": "2026-11-02T22:03:37.988Z",
+  "at": "2026-11-04T07:08:14.151Z",
   "auto": [],
   "review": [
     {
-      "slug": "mercado-bitcoin-suspende-saques-apos-incidente-de-seguranca-e-suspeita-de-us-40",
-      "title": "Mercado Bitcoin suspende saques após incidente de segurança e suspeita de US$ 40 milhões drenados",
+      "slug": "justin-sun-pede-sancoes-contra-world-liberty-financial-por-ocultar-lacos-com",
+      "title": "Justin Sun pede sanções contra World Liberty Financial por ocultar laços com Emirados Árabes",
       "confidence": "media",
       "sources": [
         "CoinDesk",
-        "Decrypt"
+        "The Block"
+      ]
+    },
+    {
+      "slug": "cftc-aprova-negociacao-de-futuros-perpetuos-de-acoes-em-bolsas-dos-eua",
+      "title": "CFTC aprova negociação de futuros perpétuos de ações em bolsas dos EUA",
+      "confidence": "media",
+      "sources": [
+        "Cointelegraph",
+        "The Block"
       ]
     }
   ],
   "skipped": [],
-  "errors": []
+  "errors": [
+    {
+      "headline": "South Korea's ruling party wants to delay its crypto tax again",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
 }
