@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-05T07:25:06.100Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-05T20:16:59.147Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## South Korea's ruling party wants to delay its crypto tax again
 
@@ -14,23 +14,11 @@ Gerada em 2026-11-05T07:25:06.100Z. Fontes servem só para descobrir o fato: esc
 - [CoinDesk] Morgan Stanley says it is among the first banks to tokenize real world assets — https://coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain (2026-11-04T09:22:58.000Z)
 - [The Block] Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service — https://theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633 (2026-11-04T09:37:45.000Z)
 
-## Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft
-
-- Categoria sugerida: seguranca | Confiança: media | Pontos: 66
-- [Decrypt] Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft — https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft (2026-11-04T15:30:31.000Z)
-- [The Block] Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses — https://theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372 (2026-11-05T04:01:16.000Z)
-
 ## U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December
 
 - Categoria sugerida: altcoins | Confiança: media | Pontos: 65
 - [CoinDesk] U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December — https://coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december (2026-11-04T05:14:12.000Z)
 - [Cointelegraph] Moscow Exchange to launch Bitcoin, Ether and USDT trading in December — https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december (2026-11-03T13:15:47.000Z)
-
-## Recap: How Binance’s record $6.3B hack unfolded
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 63
-- [Cointelegraph] Recap: How Binance’s record $6.3B hack unfolded — https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded (2026-10-30T16:53:46.000Z)
-- [Cointelegraph] As it happened: Binance’s record $6.3B crypto hack — https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor (2026-10-30T16:49:50.000Z)
 
 ## Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit
 
@@ -162,3 +150,13 @@ Gerada em 2026-11-05T07:25:06.100Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Decrypt] Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack — https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack (2026-11-02T21:16:03.000Z)
+
+## Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades — https://coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades (2026-11-04T06:16:40.000Z)
+
+## Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50% — https://coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50 (2026-11-04T06:06:04.000Z)

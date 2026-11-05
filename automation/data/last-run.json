@@ -1,13 +1,13 @@
 {
-  "at": "2026-11-05T07:32:10.164Z",
+  "at": "2026-11-05T20:26:00.617Z",
   "auto": [],
   "review": [
     {
-      "slug": "banco-frances-credit-mutuel-arkea-confirma-ataque-cibernetico-apos-acusacao-de",
-      "title": "Banco francês Crédit Mutuel Arkéa confirma ataque cibernético após acusação de roubo de US$ 133 milhões",
+      "slug": "partido-governista-da-coreia-do-sul-propoe-adiamento-do-imposto-sobre",
+      "title": "Partido governista da Coreia do Sul propõe adiamento do imposto sobre criptomoedas por dois anos",
       "confidence": "media",
       "sources": [
-        "Decrypt",
+        "CoinDesk",
         "The Block"
       ]
     }
@@ -15,11 +15,11 @@
   "skipped": [],
   "errors": [
     {
-      "headline": "South Korea's ruling party wants to delay its crypto tax again",
+      "headline": "Morgan Stanley says it is among the first banks to tokenize real world assets",
       "error": "The operation was aborted due to timeout"
     },
     {
-      "headline": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+      "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
       "error": "The operation was aborted due to timeout"
     }
   ]
