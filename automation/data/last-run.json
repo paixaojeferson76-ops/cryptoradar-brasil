@@ -1,22 +1,13 @@
 {
-  "at": "2026-11-04T07:08:14.151Z",
+  "at": "2026-11-05T07:32:10.164Z",
   "auto": [],
   "review": [
     {
-      "slug": "justin-sun-pede-sancoes-contra-world-liberty-financial-por-ocultar-lacos-com",
-      "title": "Justin Sun pede sanções contra World Liberty Financial por ocultar laços com Emirados Árabes",
+      "slug": "banco-frances-credit-mutuel-arkea-confirma-ataque-cibernetico-apos-acusacao-de",
+      "title": "Banco francês Crédit Mutuel Arkéa confirma ataque cibernético após acusação de roubo de US$ 133 milhões",
       "confidence": "media",
       "sources": [
-        "CoinDesk",
-        "The Block"
-      ]
-    },
-    {
-      "slug": "cftc-aprova-negociacao-de-futuros-perpetuos-de-acoes-em-bolsas-dos-eua",
-      "title": "CFTC aprova negociação de futuros perpétuos de ações em bolsas dos EUA",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
+        "Decrypt",
         "The Block"
       ]
     }
@@ -25,6 +16,10 @@
   "errors": [
     {
       "headline": "South Korea's ruling party wants to delay its crypto tax again",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "headline": "Morgan Stanley says it is among the first banks to tokenize real world assets",
       "error": "The operation was aborted due to timeout"
     }
   ]
