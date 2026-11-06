@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-05T20:16:59.147Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## South Korea's ruling party wants to delay its crypto tax again
-
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 75
-- [CoinDesk] South Korea's ruling party wants to delay its crypto tax again — https://coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again (2026-11-04T05:09:40.000Z)
-- [The Block] South Korea’s ruling party formally proposes deferral of crypto income tax — https://theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580 (2026-11-04T02:51:52.000Z)
+Gerada em 2026-11-06T07:25:00.563Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Morgan Stanley says it is among the first banks to tokenize real world assets
 
@@ -76,26 +70,6 @@ Gerada em 2026-11-05T20:16:59.147Z. Fontes servem só para descobrir o fato: esc
 - [Livecoins] Banco francês confirma ter sofrido ataque hacker; especialistas falam em perdas de US$ 133 milhões em criptomoedas — https://livecoins.com.br/banco-frances-confirma-ter-sofrido-ataque-hacker-especialistas-falam-em-perdas-de-us-133-milhoes-em-criptomoedas (2026-11-04T17:54:24.000Z)
 - [Portal do Bitcoin] Banco francês sofre ataque hacker e perde US$ 133 milhões em criptomoedas — https://portaldobitcoin.uol.com.br/banco-frances-sofre-ataque-hacker-e-perde-us-133-milhoes-em-criptomoedas (2026-11-04T12:32:00.000Z)
 
-## Binance hackers raced to move billions before it could be frozen
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance hackers raced to move billions before it could be frozen — https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen (2026-10-30T22:00:00.000Z)
-
-## Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [The Block] Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion — https://theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225 (2026-10-30T21:20:23.000Z)
-
-## President Trump says they’re looking into Binance hack as calls grow for crypto rules
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [The Block] President Trump says they’re looking into Binance hack as calls grow for crypto rules — https://theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236 (2026-10-30T21:06:03.000Z)
-
-## O3 Trade se junta a Coinbase, Ripple e Nubank na corrida pela licença cripto do Banco Central
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Livecoins] O3 Trade se junta a Coinbase, Ripple e Nubank na corrida pela licença cripto do Banco Central — https://livecoins.com.br/o3-trade-se-junta-a-coinbase-ripple-e-nubank-na-corrida-pela-licenca-cripto-do-banco-central (2026-10-30T22:23:25.000Z)
-
 ## A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
@@ -160,3 +134,28 @@ Gerada em 2026-11-05T20:16:59.147Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50% — https://coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50 (2026-11-04T06:06:04.000Z)
+
+## US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate — https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto (2026-11-04T06:40:13.000Z)
+
+## Ethereum dev targets 2028 for quantum resistance, a year early
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Ethereum dev targets 2028 for quantum resistance, a year early — https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target (2026-11-04T05:46:33.000Z)
+
+## Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto — https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery (2026-11-05T06:02:29.000Z)
+
+## Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full' — https://coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full (2026-11-05T18:48:40.000Z)
+
+## Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack — https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack (2026-11-05T19:02:19.000Z)
