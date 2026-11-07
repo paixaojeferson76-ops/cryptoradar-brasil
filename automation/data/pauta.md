@@ -1,24 +1,13 @@
 # Pauta de notícias
 
-Gerada em 2026-11-06T07:25:00.563Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-07T13:34:05.184Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Morgan Stanley says it is among the first banks to tokenize real world assets
+## Greece approves 10% tax on crypto gains and 15% levy on DeFi income
 
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 72
-- [CoinDesk] Morgan Stanley says it is among the first banks to tokenize real world assets — https://coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain (2026-11-04T09:22:58.000Z)
-- [The Block] Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service — https://theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633 (2026-11-04T09:37:45.000Z)
-
-## U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December
-
-- Categoria sugerida: altcoins | Confiança: media | Pontos: 65
-- [CoinDesk] U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December — https://coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december (2026-11-04T05:14:12.000Z)
-- [Cointelegraph] Moscow Exchange to launch Bitcoin, Ether and USDT trading in December — https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december (2026-11-03T13:15:47.000Z)
-
-## Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit
-
-- Categoria sugerida: seguranca | Confiança: media | Pontos: 63
-- [Decrypt] Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit — https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit (2026-11-03T11:22:10.000Z)
-- [The Block] Liquid Network restores full bitcoin backing following $320 million exploit — https://theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387 (2026-11-03T11:49:20.000Z)
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 84
+- [CoinDesk] Greece approves 10% tax on crypto gains and 15% levy on DeFi income — https://coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income (2026-11-06T08:47:42.000Z)
+- [Cointelegraph] Greece approves 10% tax on crypto gains starting in 2027 — https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027 (2026-11-06T11:05:36.000Z)
+- [Decrypt] Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi — https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi (2026-11-06T20:36:03.000Z)
 
 ## SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers
 
@@ -37,6 +26,12 @@ Gerada em 2026-11-06T07:25:00.563Z. Fontes servem só para descobrir o fato: esc
 - [CoinDesk] Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months' — https://coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says (2026-11-03T14:53:19.000Z)
 - [Bitcoin Magazine] Binance Says $6.34 Billion Hack Began With Fake Job Interview — https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job (2026-11-03T16:44:20.000Z)
 
+## US Treasury cuts off MEXC over alleged $16B in illicit transactions
+
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 54
+- [Cointelegraph] US Treasury cuts off MEXC over alleged $16B in illicit transactions — https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions (2026-11-06T21:05:25.000Z)
+- [Bitcoin Magazine] U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows — https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system (2026-11-06T21:28:56.000Z)
+
 ## Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 52
@@ -52,6 +47,17 @@ Gerada em 2026-11-06T07:25:00.563Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: blockchain | Confiança: media | Pontos: 51
 - [CoinDesk] ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft — https://coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft (2026-11-04T10:18:50.000Z)
 - [Bitcoin Magazine] French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million — https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million (2026-11-04T20:57:01.000Z)
+
+## EIP-8037/EIP-8038 Glamsterdam
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 47
+- [Ethereum Foundation Blog] EIP-8037/EIP-8038 Glamsterdam — https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038 (2026-11-06T00:00:00.000Z)
+
+## Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations
+
+- Categoria sugerida: seguranca | Confiança: media | Pontos: 47
+- [Decrypt] Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations — https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations (2026-11-06T10:57:06.000Z)
+- [Bitcoin Magazine] Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations — https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft (2026-11-06T17:00:00.000Z)
 
 ## Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack
 
@@ -69,21 +75,6 @@ Gerada em 2026-11-06T07:25:00.563Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: media | Pontos: 41
 - [Livecoins] Banco francês confirma ter sofrido ataque hacker; especialistas falam em perdas de US$ 133 milhões em criptomoedas — https://livecoins.com.br/banco-frances-confirma-ter-sofrido-ataque-hacker-especialistas-falam-em-perdas-de-us-133-milhoes-em-criptomoedas (2026-11-04T17:54:24.000Z)
 - [Portal do Bitcoin] Banco francês sofre ataque hacker e perde US$ 133 milhões em criptomoedas — https://portaldobitcoin.uol.com.br/banco-frances-sofre-ataque-hacker-e-perde-us-133-milhoes-em-criptomoedas (2026-11-04T12:32:00.000Z)
-
-## A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears — https://coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears (2026-10-31T12:49:47.000Z)
-
-## The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion — https://coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion (2026-10-31T12:00:00.000Z)
-
-## Blockchain investigator Chainalysis hit by cybersecurity incident
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Blockchain investigator Chainalysis hit by cybersecurity incident — https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident (2026-10-31T11:22:49.000Z)
 
 ## AI agents bypassed crypto spending limits without human approval, researchers find in a new test
 
@@ -159,3 +150,13 @@ Gerada em 2026-11-06T07:25:00.563Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack — https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack (2026-11-05T19:02:19.000Z)
+
+## Fed, OCC check US banks after Binance hack as experts flag security risks
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Fed, OCC check US banks after Binance hack as experts flag security risks — https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks (2026-11-05T18:32:45.000Z)
+
+## Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story — https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data (2026-11-05T20:16:03.000Z)

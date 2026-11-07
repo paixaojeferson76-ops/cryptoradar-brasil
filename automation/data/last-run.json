@@ -1,35 +1,27 @@
 {
-  "at": "2026-11-06T07:30:32.295Z",
+  "at": "2026-11-07T13:40:47.477Z",
   "auto": [],
   "review": [
     {
-      "slug": "morgan-stanley-tokeniza-acoes-e-titulos-do-tesouro-dos-eua-por-meio-de-novo",
-      "title": "Morgan Stanley tokeniza ações e títulos do Tesouro dos EUA por meio de novo serviço da DTCC",
-      "confidence": "media",
+      "slug": "grecia-aprova-imposto-de-10-sobre-ganhos-com-criptomoedas-e-tributacao-para",
+      "title": "Grécia aprova imposto de 10% sobre ganhos com criptomoedas e tributação para DeFi a partir de 2027",
+      "confidence": "alta",
       "sources": [
         "CoinDesk",
-        "The Block"
-      ]
-    },
-    {
-      "slug": "bolsa-de-moscou-planeja-lancar-negociacao-de-bitcoin-ether-e-usdt-em-dezembro",
-      "title": "Bolsa de Moscou planeja lançar negociação de Bitcoin, Ether e USDT em dezembro",
-      "confidence": "media",
-      "sources": [
-        "CoinDesk",
-        "Cointelegraph"
-      ]
-    },
-    {
-      "slug": "liquid-network-restaura-reservas-em-bitcoin-dois-meses-apos-ataque-de-us-320",
-      "title": "Liquid Network restaura reservas em Bitcoin dois meses após ataque de US$ 320 milhões",
-      "confidence": "media",
-      "sources": [
-        "Decrypt",
-        "The Block"
+        "Cointelegraph",
+        "Decrypt"
       ]
     }
   ],
   "skipped": [],
-  "errors": []
+  "errors": [
+    {
+      "headline": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "headline": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
 }
