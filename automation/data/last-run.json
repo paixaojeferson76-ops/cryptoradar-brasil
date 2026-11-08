@@ -1,31 +1,30 @@
 {
-  "at": "2026-11-08T06:46:03.617Z",
+  "at": "2026-11-08T18:11:11.188Z",
   "auto": [],
   "review": [
     {
-      "slug": "tether-possui-cerca-de-150-mil-bitcoins-afirma-ceo-paolo-ardoino-na-suica",
-      "title": "Tether possui cerca de 150 mil Bitcoins, afirma CEO Paolo Ardoino na Suíça",
+      "slug": "tesouro-dos-eua-bloqueia-corretora-mexc-por-suposta-movimentacao-ilicita-de-us",
+      "title": "Tesouro dos EUA bloqueia corretora MEXC por suposta movimentação ilícita de US$ 16 bilhões",
       "confidence": "media",
       "sources": [
-        "Decrypt",
+        "Cointelegraph",
         "Bitcoin Magazine"
       ]
     },
     {
-      "slug": "binance-afirma-que-ataque-de-us-6-34-bilhoes-comecou-com-falsa-entrevista-de",
-      "title": "Binance afirma que ataque de US$ 6,34 bilhões começou com falsa entrevista de emprego",
-      "confidence": "media",
+      "slug": "fundacao-ethereum-lanca-portal-para-promover-uso-da-rede-como-infraestrutura",
+      "title": "Fundação Ethereum lança portal para promover uso da rede como infraestrutura pública digital",
+      "confidence": "alta",
       "sources": [
-        "CoinDesk",
-        "Bitcoin Magazine"
+        "Ethereum Foundation Blog"
       ]
     }
   ],
-  "skipped": [
+  "skipped": [],
+  "errors": [
     {
-      "headline": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-      "reason": "A fonte fornecida contém apenas um fragmento incompleto do resumo de um comunicado da SEC, sem detalhar as novas definições, valores, critérios ou prazos de implementação, tornando as informações insuficientes para a elaboração de uma notícia completa sem alucinação de dados."
+      "headline": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "error": "The operation was aborted due to timeout"
     }
-  ],
-  "errors": []
+  ]
 }

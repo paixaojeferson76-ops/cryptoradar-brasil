@@ -1,23 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-08T06:42:41.757Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 63
-- [SEC (EUA)] SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers — https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers (2026-11-04T16:28:00.000Z)
-
-## Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows
-
-- Categoria sugerida: ethereum | Confiança: media | Pontos: 56
-- [Decrypt] Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows — https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says (2026-11-03T22:46:02.000Z)
-- [Bitcoin Magazine] Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows — https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says (2026-11-03T18:06:27.000Z)
-
-## Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'
-
-- Categoria sugerida: seguranca | Confiança: media | Pontos: 54
-- [CoinDesk] Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months' — https://coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says (2026-11-03T14:53:19.000Z)
-- [Bitcoin Magazine] Binance Says $6.34 Billion Hack Began With Fake Job Interview — https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job (2026-11-03T16:44:20.000Z)
+Gerada em 2026-11-08T18:06:05.194Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## US Treasury cuts off MEXC over alleged $16B in illicit transactions
 
@@ -68,11 +51,6 @@ Gerada em 2026-11-08T06:42:41.757Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: media | Pontos: 41
 - [Livecoins] Banco francês confirma ter sofrido ataque hacker; especialistas falam em perdas de US$ 133 milhões em criptomoedas — https://livecoins.com.br/banco-frances-confirma-ter-sofrido-ataque-hacker-especialistas-falam-em-perdas-de-us-133-milhoes-em-criptomoedas (2026-11-04T17:54:24.000Z)
 - [Portal do Bitcoin] Banco francês sofre ataque hacker e perde US$ 133 milhões em criptomoedas — https://portaldobitcoin.uol.com.br/banco-frances-sofre-ataque-hacker-e-perde-us-133-milhoes-em-criptomoedas (2026-11-04T12:32:00.000Z)
-
-## Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now — https://coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now (2026-11-02T06:46:41.000Z)
 
 ## Big crypto wants the one thing it can’t buy: your vote
 
@@ -158,3 +136,23 @@ Gerada em 2026-11-08T06:42:41.757Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally — https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally (2026-11-02T19:27:58.000Z)
+
+## Mercado Bitcoin wallets show post-hack transfers after $46M theft
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Mercado Bitcoin wallets show post-hack transfers after $46M theft — https://cointelegraph.com/news/mercado-bitcoin-hack (2026-11-02T19:05:35.000Z)
+
+## Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Decrypt] Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience — https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto (2026-11-02T19:46:02.000Z)
+
+## DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [The Block] DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says — https://theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331 (2026-11-02T19:15:48.000Z)
+
+## Democrats surge toward Senate, House majorities, with crypto braced for new direction
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [CoinDesk] Democrats surge toward Senate, House majorities, with crypto braced for new direction — https://coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction (2026-11-04T04:55:11.000Z)
