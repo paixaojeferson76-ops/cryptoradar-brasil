@@ -1,27 +1,31 @@
 {
-  "at": "2026-11-07T13:40:47.477Z",
+  "at": "2026-11-08T06:46:03.617Z",
   "auto": [],
   "review": [
     {
-      "slug": "grecia-aprova-imposto-de-10-sobre-ganhos-com-criptomoedas-e-tributacao-para",
-      "title": "Grécia aprova imposto de 10% sobre ganhos com criptomoedas e tributação para DeFi a partir de 2027",
-      "confidence": "alta",
+      "slug": "tether-possui-cerca-de-150-mil-bitcoins-afirma-ceo-paolo-ardoino-na-suica",
+      "title": "Tether possui cerca de 150 mil Bitcoins, afirma CEO Paolo Ardoino na Suíça",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "Bitcoin Magazine"
+      ]
+    },
+    {
+      "slug": "binance-afirma-que-ataque-de-us-6-34-bilhoes-comecou-com-falsa-entrevista-de",
+      "title": "Binance afirma que ataque de US$ 6,34 bilhões começou com falsa entrevista de emprego",
+      "confidence": "media",
       "sources": [
         "CoinDesk",
-        "Cointelegraph",
-        "Decrypt"
+        "Bitcoin Magazine"
       ]
     }
   ],
-  "skipped": [],
-  "errors": [
+  "skipped": [
     {
       "headline": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
-      "headline": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-      "error": "The operation was aborted due to timeout"
+      "reason": "A fonte fornecida contém apenas um fragmento incompleto do resumo de um comunicado da SEC, sem detalhar as novas definições, valores, critérios ou prazos de implementação, tornando as informações insuficientes para a elaboração de uma notícia completa sem alucinação de dados."
     }
-  ]
+  ],
+  "errors": []
 }

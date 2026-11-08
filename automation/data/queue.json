@@ -1,65 +1,6 @@
 {
-  "updatedAt": "2026-11-07T13:34:05.184Z",
+  "updatedAt": "2026-11-08T06:42:41.757Z",
   "stories": [
-    {
-      "id": "greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "headline": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "DeFi"
-      ],
-      "firstSeen": "2026-11-06T08:47:42.000Z",
-      "publishers": [
-        "CoinDesk",
-        "Cointelegraph",
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-          "url": "https://coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-          "date": "2026-11-06T08:47:42.000Z",
-          "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps."
-        },
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Greece approves 10% tax on crypto gains starting in 2027",
-          "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027",
-          "date": "2026-11-06T11:05:36.000Z",
-          "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros."
-        },
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-          "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-          "date": "2026-11-06T20:36:03.000Z",
-          "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "alta",
-        "reasons": []
-      },
-      "score": 84,
-      "status": "gerada",
-      "slug": "grecia-aprova-imposto-de-10-sobre-ganhos-com-criptomoedas-e-tributacao-para"
-    },
     {
       "id": "sec-adopts-amendments-to-update-definitions-of-small-entity-for",
       "headline": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
@@ -94,7 +35,8 @@
         "reasons": []
       },
       "score": 63,
-      "status": "pendente"
+      "status": "pulada",
+      "note": "A fonte fornecida contém apenas um fragmento incompleto do resumo de um comunicado da SEC, sem detalhar as novas definições, valores, critérios ou prazos de implementação, tornando as informações insuficientes para a elaboração de uma notícia completa sem alucinação de dados."
     },
     {
       "id": "tether-holds-150-000-bitcoin-ceo-says-about-50-000-more-than-its",
@@ -121,8 +63,7 @@
           "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
           "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
           "date": "2026-11-03T22:46:02.000Z",
-          "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
-          "fullText": "Tether CEO Paolo Ardoino said the stablecoin giant now holds around 150,000 Bitcoin , worth roughly $11.5 billion at current prices, a figure that exceeds what the company’s own reserve disclosures imply by some 50,000 coins.\n“We have give or take 150,000 bitcoin ourselves. It’s not much, but it’s honest work,” Ardoino said during a keynote at the Plan ₿ Forum in Lugano , Switzerland, the city where Tether has run a Bitcoin and stablecoin adoption program since 2022.\nThe claim is notable because it doesn’t square neatly with the paper trail. Tether’s third-quarter reserve attestation , which covers the assets backing its USDT stablecoin, lists $8.37 billion of Bitcoin valued at $83,621 per coin, implying roughly 100,060 BTC.\nThat leaves about 50,000 coins, worth close to $3.8 billion, that its public filings do not yet account for. Ardoino did not say where the additional Bitcoin is held or when it was acquired, so his comment doesn’t indicate a fresh purchase of that size, and Tether has long maintained that its corporate Bitcoin investments sit separately from the reserves supporting USDT.\nThe stablecoin issuer has been accumulating Bitcoin for years. In May 2023, Tether said it would funnel up to 15% of its net realized operating profits into Bitcoin, and that it would custody the coins itself rather than rely on third-party custodians.\nThe strategy has been fueled by staggering profits: the company reported $1.5 billion in net operating profit in the third quarter alone , and it has posted billion-dollar quarterly profits throughout the year while its USDT supply has kept growing.\nThe broader reserve picture, as laid out in the Q3 report, shows $191.45 billion in assets against $183.50 billion in liabilities, leaving an excess cushion of $7.95 billion, nearly double the $4.11 billion buffer it reported in June. U.S. Treasury bills remain the bulk of reserves at about $132.4 billion.\nThe transparency gap is a sensitive subject for Tether, which has faced years of scrutiny over whether USDT is fully backed. The company began its first full financial audit with KPMG this year, a long-awaited step toward addressing those doubts.\nArdoino also used the Lugano stage to tout Tether’s scale, saying the company now serves more than 730 million users worldwide and is adding roughly 30 million wallets a quarter, as he pitched a suite of open-source technologies funded by its profits.\nStart every day with the top news stories right now, plus original features, a podcast, videos and more."
+          "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060."
         },
         {
           "feed": "bitcoinmagazine",
@@ -133,8 +74,7 @@
           "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",
           "url": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says",
           "date": "2026-11-03T18:06:27.000Z",
-          "summary": "Bitcoin Magazine Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. This post Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-          "fullText": "Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion.\nTether holds about 150,000 bitcoin, worth some $11.5 billion at current prices, CEO Paolo Ardoino said, a figure that exceeds the holdings implied by the company's latest reserve attestation by roughly 50,000 coins.\n“We have give or take 150,000 bitcoin ourselves. It's not much, but it's honest work,” Ardoino said during his keynote at the Plan ₿ Forum in Lugano, Switzerland, the city where Tether has run a bitcoin and stablecoin adoption program since 2022.\nAt that size the stack would rank Tether among the largest corporate holders of bitcoin, behind Strategy's 848,517 BTC ( as of Q3 ) and ahead of most public miners and treasury companies.\nArdoino did not say where the additional coins sit, when they were bought or whether they belong to the stablecoin issuer or to Tether Investments, the arm that holds the group's venture and equity positions. The remark does not indicate a new 50,000 BTC purchase.\nJUST IN: Tether now holds approximately 150,000 Bitcoin worth $11.5 billion, CEO Paolo Ardoino announces 👀 pic.twitter.com/s7HLmXwkQE\nTether International's third-quarter reserve report, published Oct. 30 with an attestation from BDO, lists $8.37 billion in bitcoin valued at $83,621.23 per coin as of Sept. 30. That implies about 100,060 BTC, up around 1,130 from the roughly 98,930 held at the end of June. Most of the quarter's $2.57 billion rise in the bitcoin line came from price, not purchases.\nThe gap between the report and Ardoino's figure has a plausible home. Tether has said the investments it makes from profits are kept apart from the reserves backing USDT, so coins held by Tether Investments would not appear in the attestation.\nTether's bitcoin exposure extends past its own wallets. It took full control of Twenty One Capital in May after buying out SoftBank, backs Adecoagro's mining in Brazil, and runs mining and energy ventures in Latin America. Whether any of those positions sit inside the 150,000 figure is unclear.\nThe disclosure lands as Tether's balance sheet grows more dependent on the two assets. The Q3 report shows $191.45 billion in reserve assets against $183.50 billion in liabilities, an excess of $7.95 billion, up from $4.11 billion in June when the cushion had halved.\nBitcoin at $8.37 billion and gold at about $19.1 billion together exceed that buffer several times over, so a sharp drop in either would eat into it. Treasury bills remain the bulk of reserves at about $132.4 billion.\nTether earned about $1.5 billion in the quarter and $4.5 billion in the first nine months. In August it completed its first independent audit with KPMG, ending years of reliance on attestations alone. Ardoino said at the forum that USDT has more than 730 million users and is adding about 30 million wallets a quarter.\nBitcoin traded near $77,600 Tuesday, which puts Tether's stated holdings at $11.6 billion and its attested holdings at about $7.8 billion, below the Sept. 30 mark. The company has not said whether it plans to publish a breakdown of the coins held outside the reserve.\nWatch live, catch up on episodes, and get exclusive content on the go.\nBitcoin Magazine is published by BTC Inc., a subsidiary of Nakamoto Inc. (NASDAQ: NAKA)."
+          "summary": "Bitcoin Magazine Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. This post Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
         }
       ],
       "validation": {
@@ -143,7 +83,8 @@
         "reasons": []
       },
       "score": 56,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "tether-possui-cerca-de-150-mil-bitcoins-afirma-ceo-paolo-ardoino-na-suica"
     },
     {
       "id": "binance-s-6-3-billion-hack-began-with-a-fake-job-interview-and-a",
@@ -189,7 +130,8 @@
         "reasons": []
       },
       "score": 54,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "binance-afirma-que-ataque-de-us-6-34-bilhoes-comecou-com-falsa-entrevista-de"
     },
     {
       "id": "us-treasury-cuts-off-mexc-over-alleged-16b-in-illicit-transactions",
@@ -545,71 +487,6 @@
       "status": "pendente"
     },
     {
-      "id": "ai-agents-bypassed-crypto-spending-limits-without-human-approval",
-      "headline": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-01T17:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-          "url": "https://coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-          "date": "2026-11-01T17:00:00.000Z",
-          "summary": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "saques-em-real-na-binance-brasil-nao-pararam-durante-incidente-e",
-      "headline": "Saques em Real na Binance Brasil não pararam durante incidente e corretora já processou US$ 4,6 bilhões em criptomoedas após retorno de atividades",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "Brasil"
-      ],
-      "firstSeen": "2026-11-01T16:57:10.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Saques em Real na Binance Brasil não pararam durante incidente e corretora já processou US$ 4,6 bilhões em criptomoedas após retorno de atividades",
-          "url": "https://livecoins.com.br/saques-em-real-na-binance-brasil-nao-pararam-durante-incidente-e-corretora-ja-processou-us-46-bilhoes-em-criptomoedas-apos-retorno-de-atividades",
-          "date": "2026-11-01T16:57:10.000Z",
-          "summary": "Porta-voz da Binance Brasil confirmou que atividades para brasileiros se mantiveram normais durante incidente e saques globais de criptoativos voltaram neste domingo Fonte: Saques em Real na Binance Brasil não pararam durante incidente e corretora já processou US$ 4,6 bilhões em criptomoedas após retorno de atividades Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-etfs-lost-643-million-in-outflows-friday-and-2026-is-barely",
       "headline": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
       "category": "mercado",
@@ -634,73 +511,6 @@
           "url": "https://coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
           "date": "2026-11-02T06:46:41.000Z",
           "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro",
-      "headline": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-02T05:18:12.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-          "url": "https://coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-          "date": "2026-11-02T05:18:12.000Z",
-          "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "btcpay-server-warns-of-hot-wallet-thefts-running-on-outdated-software",
-      "headline": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-02T05:34:02.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-          "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
-          "date": "2026-11-02T05:34:02.000Z",
-          "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets."
         }
       ],
       "validation": {
@@ -1200,334 +1010,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "the-key-races-to-watch-for-the-2026-election",
-      "headline": "The key races to watch for the 2026 election",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-01T15:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "The key races to watch for the 2026 election",
-          "url": "https://coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
-          "date": "2026-11-01T15:00:00.000Z",
-          "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty",
-      "headline": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-      "category": "defi",
-      "tags": [],
-      "firstSeen": "2026-11-01T15:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-          "url": "https://coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-          "date": "2026-11-01T15:00:00.000Z",
-          "summary": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3",
-      "headline": "Crypto PACs made big Republican push in final weeks before November 3 election",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-01T14:00:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-          "url": "https://coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
-          "date": "2026-11-01T14:00:00.000Z",
-          "summary": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-etf-investors-head-for-the-exits-after-record-binance-hack",
-      "headline": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-01T16:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-          "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-          "date": "2026-11-01T16:01:02.000Z",
-          "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-      "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-11-01T19:30:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-          "url": "https://coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-          "date": "2026-11-01T19:30:00.000Z",
-          "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as",
-      "headline": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-11-01T18:25:48.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
-          "url": "https://theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
-          "date": "2026-11-01T18:25:48.000Z",
-          "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-claws-back-toward-79-000-as-markets-shake-off-crypto-s",
-      "headline": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-02T04:42:22.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-          "url": "https://coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-          "date": "2026-11-02T04:42:22.000Z",
-          "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers",
-      "headline": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-02T04:41:16.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-          "url": "https://coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-          "date": "2026-11-02T04:41:16.000Z",
-          "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
-      "headline": "Bank of Korea probes financial firms’ exposure to crypto risks",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-02T03:55:50.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
-          "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
-          "date": "2026-11-02T03:55:50.000Z",
-          "summary": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "spot-bitcoin-etfs-see-largest-daily-outflows-in-four-months-following",
-      "headline": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-02T04:11:05.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-          "url": "https://theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-          "date": "2026-11-02T04:11:05.000Z",
-          "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -2481,77 +1963,6 @@
         "reasons": []
       },
       "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "corretora-uphold-sai-do-brasil-define-data-para-saques-e-pressiona",
-      "headline": "Corretora Uphold sai do Brasil, define data para saques e pressiona usuários do navegador Brave a obter recompensas",
-      "category": "defi",
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "Brasil"
-      ],
-      "firstSeen": "2026-11-01T13:43:39.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Corretora Uphold sai do Brasil, define data para saques e pressiona usuários do navegador Brave a obter recompensas",
-          "url": "https://livecoins.com.br/corretora-uphold-sai-do-brasil-define-data-para-saques-e-pressiona-usuarios-do-navegador-brave-a-obter-recompensas",
-          "date": "2026-11-01T13:43:39.000Z",
-          "summary": "Comunicado enviado aos clientes aponta novas exigências de autorização para prestadores de serviços de criptoativos como motivo do encerramento Fonte: Corretora Uphold sai do Brasil, define data para saques e pressiona usuários do navegador Brave a obter recompensas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
-      "headline": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "segurança",
-        "Solana"
-      ],
-      "firstSeen": "2026-11-02T01:51:48.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-          "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
-          "date": "2026-11-02T01:51:48.000Z",
-          "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
       "status": "pendente"
     },
     {
@@ -5144,6 +4555,68 @@
       "status": "pendente"
     },
     {
+      "id": "binance-users-in-some-european-countries-told-to-pull-crypto-before",
+      "headline": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-07T19:13:16.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+          "url": "https://coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+          "date": "2026-11-07T19:13:16.000Z",
+          "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from",
+      "headline": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-07T20:59:47.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+          "url": "https://theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+          "date": "2026-11-07T20:59:47.000Z",
+          "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
       "id": "metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored",
       "headline": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
       "category": "mercado",
@@ -5733,6 +5206,141 @@
           "url": "https://livecoins.com.br/novo-pl-no-brasil-pede-resposta-rapida-para-bloqueio-de-criptomoedas-em-corretoras-no-caso-de-fraudes-com-deepfakes",
           "date": "2026-11-04T18:33:14.000Z",
           "summary": "Proposta batizada de Lei Anticrime Deepfake altera regra contra lavagem de dinheiro para permitir sequestro judicial de carteiras e criptoativos Fonte: Novo PL no Brasil pede resposta rápida para bloqueio de criptomoedas em corretoras no caso de fraudes com deepfakes Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 34,
+      "status": "pendente"
+    },
+    {
+      "id": "u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-16-billion-in",
+      "headline": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-11-07T17:36:46.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+          "url": "https://coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+          "date": "2026-11-07T17:36:46.000Z",
+          "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 34,
+      "status": "pendente"
+    },
+    {
+      "id": "gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked",
+      "headline": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-11-07T16:51:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+          "url": "https://coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+          "date": "2026-11-07T16:51:00.000Z",
+          "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 34,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week",
+      "headline": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-07T16:46:02.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+          "url": "https://theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+          "date": "2026-11-07T16:46:02.000Z",
+          "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 34,
+      "status": "pendente"
+    },
+    {
+      "id": "estudo-do-fmi-inclui-o-brasil-e-calcula-custo-de-2-18-em-remessas-com",
+      "headline": "Estudo do FMI inclui o Brasil e calcula custo de 2,18% em remessas com sanduíche de stablecoins",
+      "category": "altcoins",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "stablecoins",
+        "Solana",
+        "Brasil"
+      ],
+      "firstSeen": "2026-11-07T16:33:43.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Estudo do FMI inclui o Brasil e calcula custo de 2,18% em remessas com sanduíche de stablecoins",
+          "url": "https://livecoins.com.br/estudo-do-fmi-inclui-o-brasil-e-calcula-custo-de-218-em-remessas-com-sanduiche-de-stablecoins",
+          "date": "2026-11-07T16:33:43.000Z",
+          "summary": "Pesquisa avaliou 4.005 rotas completas com USDT e USDC em 29 corretoras e cinco redes como Tron, Ethereum, Solana e Base Fonte: Estudo do FMI inclui o Brasil e calcula custo de 2,18% em remessas com sanduíche de stablecoins Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -6353,6 +5961,37 @@
           "url": "https://theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
           "date": "2026-11-06T20:37:34.000Z",
           "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 33,
+      "status": "pendente"
+    },
+    {
+      "id": "ex-fbi-counterintelligence-agent-stole-almost-2-5m-in-crypto",
+      "headline": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-07T14:16:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+          "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto",
+          "date": "2026-11-07T14:16:00.000Z",
+          "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard."
         }
       ],
       "validation": {
@@ -8465,40 +8104,6 @@
       "status": "pendente"
     },
     {
-      "id": "saques-da-binance-em-bitcoin-ethereum-e-principais-criptomoedas",
-      "headline": "Saques da Binance em Bitcoin, Ethereum e principais criptomoedas voltam a funcionar neste domingo (1), veja como acompanhar",
-      "category": "ethereum",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "firstSeen": "2026-11-01T15:21:15.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Saques da Binance em Bitcoin, Ethereum e principais criptomoedas voltam a funcionar neste domingo (1), veja como acompanhar",
-          "url": "https://livecoins.com.br/saques-da-binance-em-bitcoin-ethereum-e-principais-criptomoedas-voltam-a-funcionar-neste-domingo-1-veja-como-acompanhar",
-          "date": "2026-11-01T15:21:15.000Z",
-          "summary": "Corretora liberou retiradas em etapas neste domingo (1) para mais de quinze redes após concluir verificações técnicas de segurança Fonte: Saques da Binance em Bitcoin, Ethereum e principais criptomoedas voltam a funcionar neste domingo (1), veja como acompanhar Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "greece-approves-10-crypto-capital-gains-tax-as-first-framework-lands",
       "headline": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
       "category": "regulacao",
@@ -8696,74 +8301,6 @@
         "reasons": []
       },
       "score": 25,
-      "status": "pendente"
-    },
-    {
-      "id": "fbi-afirma-que-coreia-do-norte-e-responsavel-pelo-hack-da-binance-e",
-      "headline": "FBI afirma que Coreia do Norte é responsável pelo hack da Binance e pressiona THORChain",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-01T15:00:22.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "FBI afirma que Coreia do Norte é responsável pelo hack da Binance e pressiona THORChain",
-          "url": "https://livecoins.com.br/fbi-afirma-que-coreia-do-norte-e-responsavel-pelo-hack-da-binance-e-pressiona-thorchain",
-          "date": "2026-11-01T15:00:22.000Z",
-          "summary": "Em paralelo, a Binance começou a liberar saques em sua plataforma Fonte: FBI afirma que Coreia do Norte é responsável pelo hack da Binance e pressiona THORChain Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
-      "status": "pendente"
-    },
-    {
-      "id": "como-as-eleicoes-nos-eua-podem-impactar-o-bitcoin-e-o-mercado-cripto",
-      "headline": "Como as eleições nos EUA podem impactar o Bitcoin e o mercado cripto",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-11-01T18:11:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Como as eleições nos EUA podem impactar o Bitcoin e o mercado cripto",
-          "url": "https://portaldobitcoin.uol.com.br/como-as-eleicoes-nos-eua-podem-impactar-o-bitcoin-e-o-mercado-cripto",
-          "date": "2026-11-01T18:11:00.000Z",
-          "summary": "Disputa pelo controle do Congresso americano pode mudar os rumos da regulação das criptomoedas e provocar volatilidade no preço do Bitcoin O post Como as eleições nos EUA podem impactar o Bitcoin e o mercado cripto apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 24,
       "status": "pendente"
     },
     {
@@ -10688,6 +10225,141 @@
       "status": "pendente"
     },
     {
+      "id": "eua-aplicam-punicoes-contra-a-corretora-mexc-sob-acusacoes-de",
+      "headline": "EUA aplicam punições contra a corretora MEXC sob acusações de facilitar US$ 16 bilhões em transações ilícitas para Irã, Rússia e Coreia do Norte",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-07T17:37:42.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "EUA aplicam punições contra a corretora MEXC sob acusações de facilitar US$ 16 bilhões em transações ilícitas para Irã, Rússia e Coreia do Norte",
+          "url": "https://livecoins.com.br/eua-aplicam-punicoes-contra-a-corretora-mexc-sob-acusacoes-de-facilitar-us-16-bilhoes-em-transacoes-ilicitas-para-ira-russia-e-coreia-do-norte",
+          "date": "2026-11-07T17:37:42.000Z",
+          "summary": "Empresa disse estar ciente da ordem emitida pelos EUA e estará analisando o caso Fonte: EUA aplicam punições contra a corretora MEXC sob acusações de facilitar US$ 16 bilhões em transações ilícitas para Irã, Rússia e Coreia do Norte Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
+      "id": "tokennation-e-abstartups-unem-forcas-para-aproximar-ia-ativos",
+      "headline": "TokenNation e ABStartups unem forças para aproximar IA, Ativos Digitais e Tokenização do ecossistema de startups no CASE26",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin",
+        "tokenização"
+      ],
+      "firstSeen": "2026-11-07T17:04:08.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "TokenNation e ABStartups unem forças para aproximar IA, Ativos Digitais e Tokenização do ecossistema de startups no CASE26",
+          "url": "https://livecoins.com.br/tokennation-e-abstartups-unem-forcas-para-aproximar-ia-ativos-digitais-e-tokenizacao-do-ecossistema-de-startups-no-case26",
+          "date": "2026-11-07T17:04:08.000Z",
+          "summary": "Parceria levará ao evento um palco dedicado às tecnologias emergentes, com curadoria do TokenNation e foco em aplicações práticas, inovação e oportunidades de negócios Fonte: TokenNation e ABStartups unem forças para aproximar IA, Ativos Digitais e Tokenização do ecossistema de startups no CASE26 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
+      "id": "europol-apreende-mais-de-100-servidores-ligados-a-golpes-de",
+      "headline": "Europol apreende mais de 100 servidores ligados a golpes de investimento com criptomoedas",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-07T16:29:23.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Europol apreende mais de 100 servidores ligados a golpes de investimento com criptomoedas",
+          "url": "https://livecoins.com.br/europol-apreende-mais-de-100-servidores-ligados-a-golpes-de-investimento-com-criptomoedas",
+          "date": "2026-11-07T16:29:23.000Z",
+          "summary": "Investigação começou ainda em 2022 após um casal alemão revelar que havia caído em um golpe Fonte: Europol apreende mais de 100 servidores ligados a golpes de investimento com criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
+      "id": "ia-aumenta-risco-de-ataques-hackers-catastroficos-envolvendo-bitcoin",
+      "headline": "IA aumenta risco de ataques hackers catastróficos envolvendo Bitcoin e criptomoedas, alerta especialista",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-07T18:13:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "IA aumenta risco de ataques hackers catastróficos envolvendo Bitcoin e criptomoedas, alerta especialista",
+          "url": "https://portaldobitcoin.uol.com.br/ia-aumenta-risco-de-ataques-hackers-catastroficos-envolvendo-bitcoin-e-criptomoedas-alerta-especialista",
+          "date": "2026-11-07T18:13:00.000Z",
+          "summary": "Felipe Sant’Ana alerta que IA pode facilitar ataques e prevê que preocupações com segurança devem reduzir o interesse pela autocustódia O post IA aumenta risco de ataques hackers catastróficos envolvendo Bitcoin e criptomoedas, alerta especialista apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
       "id": "andrew-hohns-why-bitcoin-can-fix-america-s-debt-spiral",
       "headline": "Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral",
       "category": "regulacao",
@@ -11115,6 +10787,40 @@
           "url": "https://portaldobitcoin.uol.com.br/criptomoeda-dispara-10-enquanto-hackers-usam-plataforma-para-lavar-bilhoes-roubados-da-binance",
           "date": "2026-11-04T13:55:45.000Z",
           "summary": "RUNE, da THORChain, sobe após retomada das operações da rede, utilizada por criminosos para converter criptomoedas roubadas da Binance O post Criptomoeda dispara 10% enquanto hackers usam plataforma para lavar bilhões roubados da Binance apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 21,
+      "status": "pendente"
+    },
+    {
+      "id": "zcash-ativa-grande-atualizacao-que-triplica-velocidade-das-transacoes",
+      "headline": "Zcash ativa grande atualização que triplica velocidade das transações e muda regras de mineração",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-07T15:04:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Zcash ativa grande atualização que triplica velocidade das transações e muda regras de mineração",
+          "url": "https://portaldobitcoin.uol.com.br/zcash-ativa-grande-atualizacao-que-triplica-velocidade-das-transacoes-e-muda-regras-de-mineracao",
+          "date": "2026-11-07T15:04:00.000Z",
+          "summary": "Atualização do Zcash reduz tempo de criação de blocos e cria mecanismo que destinará 60% das taxas para futuras recompensas de mineradores O post Zcash ativa grande atualização que triplica velocidade das transações e muda regras de mineração apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -11866,97 +11572,26 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-optech-newsletter-430",
-      "headline": "Bitcoin Optech Newsletter #430",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin",
-        "regulação"
-      ],
-      "firstSeen": "2026-11-06T00:00:00.000Z",
-      "publishers": [
-        "Bitcoin Optech"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "bitcoin-optech",
-          "publisher": "Bitcoin Optech",
-          "type": "official",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Optech Newsletter #430",
-          "url": "https://bitcoinops.org/en/newsletters/2026/11/06",
-          "date": "2026-11-06T00:00:00.000Z",
-          "summary": "This week’s newsletter summarizes continued discussion about using TCP hole punching to make nodes behind home routers reachable and describes a draft BIP for standardizing the spending policies that co-signers enforce when emulating covenants. Also included are our regular sections summarizing proposals and discussion about changing Bitcoin’s consensus rules, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "u-s-prediction-markets-regulator-issues-demand-that-clashes-directly",
-      "headline": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-11-06T17:42:28.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-          "url": "https://coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-          "date": "2026-11-06T17:42:28.000Z",
-          "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-      "headline": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "category": "mercado",
+      "id": "apple-completes-the-set-every-magnificent-seven-stock-opts-out-of-okx",
+      "headline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-11-06T13:31:54.000Z",
+      "firstSeen": "2026-11-07T17:01:03.000Z",
       "publishers": [
-        "CoinDesk"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-          "url": "https://coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-          "date": "2026-11-06T13:31:54.000Z",
-          "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
+          "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+          "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+          "date": "2026-11-07T17:01:03.000Z",
+          "summary": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue."
         }
       ],
       "validation": {
@@ -11970,104 +11605,35 @@
       "status": "descartada"
     },
     {
-      "id": "over-1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no",
-      "headline": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "category": "mercado",
+      "id": "ai-chip-stocks-bounce-after-global-rout-but-is-the-bubble-starting-to",
+      "headline": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "category": "ethereum",
       "tags": [
-        "ETFs"
+        "Ethereum"
       ],
-      "firstSeen": "2026-11-06T12:30:00.000Z",
+      "firstSeen": "2026-11-07T16:01:02.000Z",
       "publishers": [
-        "CoinDesk"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-          "url": "https://coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-          "date": "2026-11-06T12:30:00.000Z",
-          "summary": "Your day-ahead look for Nov. 6, 2026"
+          "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+          "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+          "date": "2026-11-07T16:01:02.000Z",
+          "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "live-updates-bitcoin-flatlines-under-76-000-as-stock-bounce-loses",
-      "headline": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-06T11:58:40.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-          "url": "https://coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-          "date": "2026-11-06T11:58:40.000Z",
-          "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bitcoin-holders-have-received-ecash-what-can-you-do-with-it",
-      "headline": "Bitcoin holders have received eCash — What can you do with it?",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-07T13:30:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin holders have received eCash — What can you do with it?",
-          "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it",
-          "date": "2026-11-07T13:30:00.000Z",
-          "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
+          "fora do tema cripto",
           "parece rumor/especulação"
         ]
       },
@@ -12075,59 +11641,26 @@
       "status": "descartada"
     },
     {
-      "id": "us-sanctions-canadian-money-exchange-firms-over-iran-ties",
-      "headline": "US sanctions Canadian money-exchange firms over Iran ties",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-07T11:10:47.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US sanctions Canadian money-exchange firms over Iran ties",
-          "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties",
-          "date": "2026-11-07T11:10:47.000Z",
-          "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "suspicious-prediction-market-activity-seen-before-election-poll",
-      "headline": "Suspicious prediction market activity seen before election poll release: NYT",
+      "id": "sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers",
+      "headline": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
       "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-11-07T09:10:35.000Z",
+      "firstSeen": "2026-11-07T14:01:02.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Suspicious prediction market activity seen before election poll release: NYT",
-          "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt",
-          "date": "2026-11-07T09:10:35.000Z",
-          "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report."
+          "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+          "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+          "date": "2026-11-07T14:01:02.000Z",
+          "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony’s rules."
         }
       ],
       "validation": {
@@ -12141,314 +11674,13 @@
       "status": "descartada"
     },
     {
-      "id": "nvidia-may-face-a-more-hostile-post-election-washington-report",
-      "headline": "Nvidia may face a more hostile post-election Washington: Report",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-07T07:45:24.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia may face a more hostile post-election Washington: Report",
-          "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report",
-          "date": "2026-11-07T07:45:24.000Z",
-          "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "binance-hack-is-cyber-war-trm-labs-executive-says",
-      "headline": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "id": "binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says",
+      "headline": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
       "category": "seguranca",
       "tags": [
         "segurança"
       ],
-      "firstSeen": "2026-11-06T20:36:25.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-          "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
-          "date": "2026-11-06T20:36:25.000Z",
-          "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "zcash-nu7-upgrade-goes-live-leaves-12-224-zec-stranded-in-sprout-pool",
-      "headline": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-11-06T09:00:36.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-          "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable",
-          "date": "2026-11-06T09:00:36.000Z",
-          "summary": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "why-a-hyperliquid-treasury-firm-wants-to-become-a-us-futures-broker",
-      "headline": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-11-06T19:46:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-          "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
-          "date": "2026-11-06T19:46:03.000Z",
-          "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "paraguay-protests-over-bank-lockout-intensify-as-impeachment-vote",
-      "headline": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-06T19:16:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-          "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
-          "date": "2026-11-06T19:16:03.000Z",
-          "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "anthropic-ipo-valuation-could-be-slashed-in-half-to-1t-after-ai-stock",
-      "headline": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-06T16:28:58.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-          "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
-          "date": "2026-11-06T16:28:58.000Z",
-          "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to",
-      "headline": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-06T13:53:04.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-          "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-          "date": "2026-11-06T13:53:04.000Z",
-          "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
-      "headline": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-06T13:29:20.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-          "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
-          "date": "2026-11-06T13:29:20.000Z",
-          "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "zcash-s-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future",
-      "headline": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-11-06T10:13:27.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-          "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
-          "date": "2026-11-06T10:13:27.000Z",
-          "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions",
-      "headline": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-06T21:02:30.000Z",
+      "firstSeen": "2026-11-07T21:57:58.000Z",
       "publishers": [
         "The Block"
       ],
@@ -12460,10 +11692,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-          "url": "https://theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
-          "date": "2026-11-06T21:02:30.000Z",
-          "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran."
+          "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+          "url": "https://theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+          "date": "2026-11-07T21:57:58.000Z",
+          "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
         }
       ],
       "validation": {
@@ -12471,207 +11703,6 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "gnosis-pay-data-breach-exposes-customer-info-funds-unaffected",
-      "headline": "Gnosis Pay data breach exposes customer info; funds unaffected",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-06T18:58:58.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
-          "url": "https://theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
-          "date": "2026-11-06T18:58:58.000Z",
-          "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "aave-labs-buys-avon-team-in-fixed-rate-lending-push",
-      "headline": "Aave Labs buys Avon team in fixed-rate lending push",
-      "category": "defi",
-      "tags": [],
-      "firstSeen": "2026-11-06T15:00:00.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Aave Labs buys Avon team in fixed-rate lending push",
-          "url": "https://theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
-          "date": "2026-11-06T15:00:00.000Z",
-          "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "hypercall-to-launch-first-anthropic-linked-pre-ipo-options-market",
-      "headline": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-06T13:00:00.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-          "url": "https://theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
-          "date": "2026-11-06T13:00:00.000Z",
-          "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "kalshi-hit-with-injunction-over-sports-contracts-on-california-tribal",
-      "headline": "Kalshi hit with injunction over sports contracts on California tribal lands",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-06T08:34:02.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
-          "url": "https://theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
-          "date": "2026-11-06T08:34:02.000Z",
-          "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "zcash-s-major-network-upgrade-nu7-goes-live-on-mainnet-cutting-block",
-      "headline": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-11-06T07:36:42.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-          "url": "https://theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
-          "date": "2026-11-06T07:36:42.000Z",
-          "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "mercado-pago-e-nubank-travam-saques-e-depositos-de-criptomoedas-com",
-      "headline": "Mercado Pago e Nubank travam saques e depósitos de criptomoedas com rumor de ataque hacker em provedor",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-06T14:16:26.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Mercado Pago e Nubank travam saques e depósitos de criptomoedas com rumor de ataque hacker em provedor",
-          "url": "https://livecoins.com.br/mercado-pago-e-nubank-travam-saques-e-depositos-de-criptomoedas-com-rumor-de-ataque-hacker-em-provedor",
-          "date": "2026-11-06T14:16:26.000Z",
-          "summary": "Paxos é a empresa que o Nubank e o banco do Mercado Livre utilizam para operar com criptomoedas Fonte: Mercado Pago e Nubank travam saques e depósitos de criptomoedas com rumor de ataque hacker em provedor Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
         ]
       },
       "score": 0,

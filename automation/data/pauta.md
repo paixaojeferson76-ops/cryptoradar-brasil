@@ -1,13 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-07T13:34:05.184Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Greece approves 10% tax on crypto gains and 15% levy on DeFi income
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 84
-- [CoinDesk] Greece approves 10% tax on crypto gains and 15% levy on DeFi income — https://coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income (2026-11-06T08:47:42.000Z)
-- [Cointelegraph] Greece approves 10% tax on crypto gains starting in 2027 — https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027 (2026-11-06T11:05:36.000Z)
-- [Decrypt] Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi — https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi (2026-11-06T20:36:03.000Z)
+Gerada em 2026-11-08T06:42:41.757Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers
 
@@ -76,30 +69,10 @@ Gerada em 2026-11-07T13:34:05.184Z. Fontes servem só para descobrir o fato: esc
 - [Livecoins] Banco francês confirma ter sofrido ataque hacker; especialistas falam em perdas de US$ 133 milhões em criptomoedas — https://livecoins.com.br/banco-frances-confirma-ter-sofrido-ataque-hacker-especialistas-falam-em-perdas-de-us-133-milhoes-em-criptomoedas (2026-11-04T17:54:24.000Z)
 - [Portal do Bitcoin] Banco francês sofre ataque hacker e perde US$ 133 milhões em criptomoedas — https://portaldobitcoin.uol.com.br/banco-frances-sofre-ataque-hacker-e-perde-us-133-milhoes-em-criptomoedas (2026-11-04T12:32:00.000Z)
 
-## AI agents bypassed crypto spending limits without human approval, researchers find in a new test
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] AI agents bypassed crypto spending limits without human approval, researchers find in a new test — https://coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test (2026-11-01T17:00:00.000Z)
-
-## Saques em Real na Binance Brasil não pararam durante incidente e corretora já processou US$ 4,6 bilhões em criptomoedas após retorno de atividades
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Livecoins] Saques em Real na Binance Brasil não pararam durante incidente e corretora já processou US$ 4,6 bilhões em criptomoedas após retorno de atividades — https://livecoins.com.br/saques-em-real-na-binance-brasil-nao-pararam-durante-incidente-e-corretora-ja-processou-us-46-bilhoes-em-criptomoedas-apos-retorno-de-atividades (2026-11-01T16:57:10.000Z)
-
 ## Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [CoinDesk] Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now — https://coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now (2026-11-02T06:46:41.000Z)
-
-## Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [CoinDesk] Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time — https://coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time (2026-11-02T05:18:12.000Z)
-
-## BTCPay Server warns of hot wallet thefts running on outdated software
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Cointelegraph] BTCPay Server warns of hot wallet thefts running on outdated software — https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions (2026-11-02T05:34:02.000Z)
 
 ## Big crypto wants the one thing it can’t buy: your vote
 
@@ -160,3 +133,28 @@ Gerada em 2026-11-07T13:34:05.184Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Decrypt] Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story — https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data (2026-11-05T20:16:03.000Z)
+
+## Zcash Upgrade Could Lock $16 Million in Crypto Forever
+
+- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
+- [Decrypt] Zcash Upgrade Could Lock $16 Million in Crypto Forever — https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto (2026-11-05T19:46:03.000Z)
+
+## Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations — https://theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434 (2026-11-05T20:11:02.000Z)
+
+## Chainalysis says breach exposed password hashes and live tokens
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Chainalysis says breach exposed password hashes and live tokens — https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed (2026-11-06T06:54:34.000Z)
+
+## Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze — https://coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze (2026-11-02T18:13:57.000Z)
+
+## Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally — https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally (2026-11-02T19:27:58.000Z)
