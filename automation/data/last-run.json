@@ -1,23 +1,14 @@
 {
-  "at": "2026-11-12T07:50:28.260Z",
+  "at": "2026-11-12T20:37:07.515Z",
   "auto": [],
   "review": [
     {
-      "slug": "payward-expande-xstocks-com-mais-de-200-acoes-tokenizadas-do-reino-unido-e-da",
-      "title": "Payward expande xStocks com mais de 200 ações tokenizadas do Reino Unido e da Europa",
+      "slug": "dtcc-integrara-titulos-e-acoes-tokenizadas-dos-eua-a-rede-solana-em-2027",
+      "title": "DTCC integrará títulos e ações tokenizadas dos EUA à rede Solana em 2027",
       "confidence": "media",
       "sources": [
-        "Cointelegraph",
-        "Decrypt"
-      ]
-    },
-    {
-      "slug": "investidores-de-curto-prazo-enviam-mais-de-47-mil-bitcoins-com-prejuizo-para",
-      "title": "Investidores de curto prazo enviam mais de 47 mil Bitcoins com prejuízo para corretoras",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
-        "Decrypt"
+        "Decrypt",
+        "The Block"
       ]
     }
   ],
@@ -25,6 +16,10 @@
   "errors": [
     {
       "headline": "Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "headline": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
       "error": "The operation was aborted due to timeout"
     }
   ]
