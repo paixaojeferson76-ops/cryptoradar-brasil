@@ -1,29 +1,30 @@
 {
-  "at": "2026-11-08T18:11:11.188Z",
+  "at": "2026-11-12T07:50:28.260Z",
   "auto": [],
   "review": [
     {
-      "slug": "tesouro-dos-eua-bloqueia-corretora-mexc-por-suposta-movimentacao-ilicita-de-us",
-      "title": "Tesouro dos EUA bloqueia corretora MEXC por suposta movimentação ilícita de US$ 16 bilhões",
+      "slug": "payward-expande-xstocks-com-mais-de-200-acoes-tokenizadas-do-reino-unido-e-da",
+      "title": "Payward expande xStocks com mais de 200 ações tokenizadas do Reino Unido e da Europa",
       "confidence": "media",
       "sources": [
         "Cointelegraph",
-        "Bitcoin Magazine"
+        "Decrypt"
       ]
     },
     {
-      "slug": "fundacao-ethereum-lanca-portal-para-promover-uso-da-rede-como-infraestrutura",
-      "title": "Fundação Ethereum lança portal para promover uso da rede como infraestrutura pública digital",
-      "confidence": "alta",
+      "slug": "investidores-de-curto-prazo-enviam-mais-de-47-mil-bitcoins-com-prejuizo-para",
+      "title": "Investidores de curto prazo enviam mais de 47 mil Bitcoins com prejuízo para corretoras",
+      "confidence": "media",
       "sources": [
-        "Ethereum Foundation Blog"
+        "Cointelegraph",
+        "Decrypt"
       ]
     }
   ],
   "skipped": [],
   "errors": [
     {
-      "headline": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "headline": "Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil",
       "error": "The operation was aborted due to timeout"
     }
   ]

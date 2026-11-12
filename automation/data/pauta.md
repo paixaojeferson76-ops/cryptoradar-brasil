@@ -1,33 +1,30 @@
 # Pauta de notícias
 
-Gerada em 2026-11-08T18:06:05.194Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-12T07:44:26.799Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## US Treasury cuts off MEXC over alleged $16B in illicit transactions
+## Kraken parent adds over 200 tokenized UK and EU stocks to xStocks
 
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 54
-- [Cointelegraph] US Treasury cuts off MEXC over alleged $16B in illicit transactions — https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions (2026-11-06T21:05:25.000Z)
-- [Bitcoin Magazine] U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows — https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system (2026-11-06T21:28:56.000Z)
+- Categoria sugerida: blockchain | Confiança: media | Pontos: 63
+- [Cointelegraph] Kraken parent adds over 200 tokenized UK and EU stocks to xStocks — https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities (2026-11-11T11:30:36.000Z)
+- [Decrypt] Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks — https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks (2026-11-11T12:46:24.000Z)
 
-## Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach
+## Bitcoin short-term holders send 47K BTC to exchanges at a loss
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 52
-- [The Block] Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach — https://theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333 (2026-11-02T20:19:49.000Z)
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 62
+- [Cointelegraph] Bitcoin short-term holders send 47K BTC to exchanges at a loss — https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k (2026-11-11T11:05:26.000Z)
+- [Decrypt] Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss — https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss (2026-11-11T21:16:03.000Z)
 
-## Designing for sovereignty: Ethereum for digital public infrastructure
+## Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil
 
-- Categoria sugerida: ethereum | Confiança: alta | Pontos: 51
-- [Ethereum Foundation Blog] Designing for sovereignty: Ethereum for digital public infrastructure — https://blog.ethereum.org/en/2026/11/03/digital-pub-infra (2026-11-03T00:00:00.000Z)
+- Categoria sugerida: mercado | Confiança: media | Pontos: 54
+- [Livecoins] Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil — https://livecoins.com.br/deputados-do-novo-apresentam-projeto-de-lei-para-liberar-derivativos-de-eventos-como-polymarket-e-kalshi-no-brasil (2026-11-11T15:44:44.000Z)
+- [Portal do Bitcoin] Deputados apresentam projeto para liberar Polymarket e Kalshi no Brasil sob fiscalização da CVM — https://portaldobitcoin.uol.com.br/deputados-apresentam-projeto-para-liberar-polymarket-e-kalshi-no-brasil-sob-fiscalizacao-da-cvm (2026-11-11T18:57:00.000Z)
 
-## ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft
+## Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture
 
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 51
-- [CoinDesk] ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft — https://coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft (2026-11-04T10:18:50.000Z)
-- [Bitcoin Magazine] French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million — https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million (2026-11-04T20:57:01.000Z)
-
-## EIP-8037/EIP-8038 Glamsterdam
-
-- Categoria sugerida: ethereum | Confiança: alta | Pontos: 47
-- [Ethereum Foundation Blog] EIP-8037/EIP-8038 Glamsterdam — https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038 (2026-11-06T00:00:00.000Z)
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 49
+- [CoinDesk] Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture — https://coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture (2026-11-10T17:32:22.000Z)
+- [Decrypt] Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants — https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants (2026-11-10T18:33:37.000Z)
 
 ## Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations
 
@@ -35,124 +32,127 @@ Gerada em 2026-11-08T18:06:05.194Z. Fontes servem só para descobrir o fato: esc
 - [Decrypt] Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations — https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations (2026-11-06T10:57:06.000Z)
 - [Bitcoin Magazine] Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations — https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft (2026-11-06T17:00:00.000Z)
 
-## Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack
+## Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%
 
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 46
-- [Decrypt] Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack — https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack (2026-11-03T18:16:03.000Z)
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96% — https://coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96 (2026-11-12T07:41:18.000Z)
 
-## New Jersey drops Coinbase staking order ahead of crypto’s midterm test
-
-- Categoria sugerida: defi | Confiança: media | Pontos: 44
-- [Cointelegraph] New Jersey drops Coinbase staking order ahead of crypto’s midterm test — https://cointelegraph.com/news/new-jersey-coinbase-staking (2026-11-02T22:22:30.000Z)
-- [Bitcoin Magazine] New Jersey Drops Coinbase Staking Order After Three Years — https://bitcoinmagazine.com/news/new-jersey-drops-coinbase-staking-order (2026-11-03T14:26:13.000Z)
-
-## Banco francês confirma ter sofrido ataque hacker; especialistas falam em perdas de US$ 133 milhões em criptomoedas
-
-- Categoria sugerida: seguranca | Confiança: media | Pontos: 41
-- [Livecoins] Banco francês confirma ter sofrido ataque hacker; especialistas falam em perdas de US$ 133 milhões em criptomoedas — https://livecoins.com.br/banco-frances-confirma-ter-sofrido-ataque-hacker-especialistas-falam-em-perdas-de-us-133-milhoes-em-criptomoedas (2026-11-04T17:54:24.000Z)
-- [Portal do Bitcoin] Banco francês sofre ataque hacker e perde US$ 133 milhões em criptomoedas — https://portaldobitcoin.uol.com.br/banco-frances-sofre-ataque-hacker-e-perde-us-133-milhoes-em-criptomoedas (2026-11-04T12:32:00.000Z)
-
-## Big crypto wants the one thing it can’t buy: your vote
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Big crypto wants the one thing it can’t buy: your vote — https://coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote (2026-11-02T21:38:53.000Z)
-
-## Crypto investigators flag suspected $106M theft, $786K Solana bot drain
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Crypto investigators flag suspected $106M theft, $786K Solana bot drain — https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain (2026-11-02T21:16:24.000Z)
-
-## Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack — https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack (2026-11-02T21:16:03.000Z)
-
-## Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades — https://coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades (2026-11-04T06:16:40.000Z)
-
-## Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50% — https://coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50 (2026-11-04T06:06:04.000Z)
-
-## US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate — https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto (2026-11-04T06:40:13.000Z)
-
-## Ethereum dev targets 2028 for quantum resistance, a year early
+## Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Ethereum dev targets 2028 for quantum resistance, a year early — https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target (2026-11-04T05:46:33.000Z)
+- [The Block] Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration — https://theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494 (2026-11-12T07:27:24.000Z)
 
-## Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto — https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery (2026-11-05T06:02:29.000Z)
-
-## Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full' — https://coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full (2026-11-05T18:48:40.000Z)
-
-## Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack — https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack (2026-11-05T19:02:19.000Z)
-
-## Fed, OCC check US banks after Binance hack as experts flag security risks
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Fed, OCC check US banks after Binance hack as experts flag security risks — https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks (2026-11-05T18:32:45.000Z)
-
-## Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story — https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data (2026-11-05T20:16:03.000Z)
-
-## Zcash Upgrade Could Lock $16 Million in Crypto Forever
-
-- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 39
-- [Decrypt] Zcash Upgrade Could Lock $16 Million in Crypto Forever — https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto (2026-11-05T19:46:03.000Z)
-
-## Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations — https://theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434 (2026-11-05T20:11:02.000Z)
-
-## Chainalysis says breach exposed password hashes and live tokens
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Chainalysis says breach exposed password hashes and live tokens — https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed (2026-11-06T06:54:34.000Z)
-
-## Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze — https://coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze (2026-11-02T18:13:57.000Z)
-
-## Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally — https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally (2026-11-02T19:27:58.000Z)
-
-## Mercado Bitcoin wallets show post-hack transfers after $46M theft
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Mercado Bitcoin wallets show post-hack transfers after $46M theft — https://cointelegraph.com/news/mercado-bitcoin-hack (2026-11-02T19:05:35.000Z)
-
-## Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience
+## This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Decrypt] Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience — https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto (2026-11-02T19:46:02.000Z)
+- [Decrypt] This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet — https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet (2026-11-08T14:01:03.000Z)
 
-## DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says
+## Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [The Block] Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token — https://theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022 (2026-11-08T15:52:17.000Z)
+
+## B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [The Block] DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says — https://theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331 (2026-11-02T19:15:48.000Z)
+- [Portal do Bitcoin] B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain — https://portaldobitcoin.uol.com.br/b3-apresenta-projeto-para-negociar-acoes-24-horas-por-dia-com-tecnologia-blockchain (2026-11-08T15:51:00.000Z)
 
-## Democrats surge toward Senate, House majorities, with crypto braced for new direction
+## Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor — https://coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor (2026-11-12T05:22:31.000Z)
+
+## South Korea to permit crypto withdrawal freezes during hacking threats
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Cointelegraph] South Korea to permit crypto withdrawal freezes during hacking threats — https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks (2026-11-12T05:54:48.000Z)
+
+## Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [CoinDesk] Democrats surge toward Senate, House majorities, with crypto braced for new direction — https://coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction (2026-11-04T04:55:11.000Z)
+- [The Block] Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more — https://theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430 (2026-11-12T04:55:00.000Z)
+
+## These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 37
+- [CoinDesk] These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000) — https://coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000 (2026-11-08T12:55:59.000Z)
+
+## ‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 37
+- [The Block] ‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards — https://theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448 (2026-11-12T02:25:14.000Z)
+
+## Suiet wallet to shut down in latest exit from Sui ecosystem
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 36
+- [Cointelegraph] Suiet wallet to shut down in latest exit from Sui ecosystem — https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem (2026-11-11T23:18:44.000Z)
+
+## Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
+- [CoinDesk] Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end — https://coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end (2026-11-07T19:13:16.000Z)
+
+## Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
+- [The Block] Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations — https://theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988 (2026-11-07T20:59:47.000Z)
+
+## Uncalled US House races could send more crypto allies to Congress
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 35
+- [Cointelegraph] Uncalled US House races could send more crypto allies to Congress — https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress (2026-11-11T22:05:17.000Z)
+
+## Nomura explores sale of crypto unit Laser Digital: Bloomberg
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 35
+- [Cointelegraph] Nomura explores sale of crypto unit Laser Digital: Bloomberg — https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital (2026-11-11T21:36:01.000Z)
+
+## US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain
+
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 35
+- [Cointelegraph] US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain — https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai (2026-11-11T20:43:19.000Z)
+
+## Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 35
+- [Decrypt] Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty' — https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty (2026-11-11T21:46:03.000Z)
+
+## DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 35
+- [The Block] DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO — https://theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392 (2026-11-11T20:32:19.000Z)
+
+## Núcleo de Rastreio de Criptomoedas do Rio atuou em Operação Refit que mirou Ricardo Magro, dono de mineração de bitcoin nos EUA e investigado por sonegar R$ 5,5 bilhões no Brasil
+
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 35
+- [Livecoins] Núcleo de Rastreio de Criptomoedas do Rio atuou em Operação Refit que mirou Ricardo Magro, dono de mineração de bitcoin nos EUA e investigado por sonegar R$ 5,5 bilhões no Brasil — https://livecoins.com.br/nucleo-de-rastreio-de-criptomoedas-do-rio-atuou-em-operacao-refit-que-mirou-ricardo-magro-dono-de-mineracao-de-bitcoin-nos-eua-e-investigado-por-sonegar-r-55-bilhoes-no-brasil (2026-11-11T21:57:57.000Z)
+
+## Um terço das corretoras de criptomoedas brasileiras que pediram autorização estão com problemas, diz diretor do Banco Central
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 35
+- [Livecoins] Um terço das corretoras de criptomoedas brasileiras que pediram autorização estão com problemas, diz diretor do Banco Central — https://livecoins.com.br/um-terco-das-corretoras-de-criptomoedas-brasileiras-que-pediram-autorizacao-estao-com-problemas-diz-diretor-do-banco-central (2026-11-11T20:09:57.000Z)
+
+## U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 34
+- [CoinDesk] U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows — https://coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows (2026-11-07T17:36:46.000Z)
+
+## Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 34
+- [CoinDesk] Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets — https://coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets (2026-11-07T16:51:00.000Z)
+
+## Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 34
+- [The Block] Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June — https://theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984 (2026-11-07T16:46:02.000Z)
+
+## Estudo do FMI inclui o Brasil e calcula custo de 2,18% em remessas com sanduíche de stablecoins
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 34
+- [Livecoins] Estudo do FMI inclui o Brasil e calcula custo de 2,18% em remessas com sanduíche de stablecoins — https://livecoins.com.br/estudo-do-fmi-inclui-o-brasil-e-calcula-custo-de-218-em-remessas-com-sanduiche-de-stablecoins (2026-11-07T16:33:43.000Z)
+
+## OKXICE moves ahead with tokenized stocks as blue chips push back
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 34
+- [Cointelegraph] OKXICE moves ahead with tokenized stocks as blue chips push back — https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back (2026-11-11T18:30:43.000Z)
