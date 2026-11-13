@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-12T20:27:50.198Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027
-
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 73
-- [Decrypt] DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027 — https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027 (2026-11-12T13:25:47.000Z)
-- [The Block] DTCC plans to bring tokenized securities to Solana in second half of 2027 — https://theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559 (2026-11-12T14:23:11.000Z)
+Gerada em 2026-11-13T07:19:25.455Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil
 
@@ -39,6 +33,31 @@ Gerada em 2026-11-12T20:27:50.198Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
 - [Cointelegraph] DTCC Plans Solana Expansion as Wallet Rules Limit Access — https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access (2026-11-12T20:07:41.000Z)
+
+## Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [CoinDesk] Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy — https://coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy (2026-11-13T07:05:29.000Z)
+
+## Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value — https://coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value (2026-11-13T06:03:41.000Z)
+
+## Bitcoin ETFs are now down over $1.5 billion in net outflows for the year
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin ETFs are now down over $1.5 billion in net outflows for the year — https://coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year (2026-11-13T05:45:26.000Z)
+
+## Bitcoin slides below $70K amid thin liquidity, ETF outflows
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin slides below $70K amid thin liquidity, ETF outflows — https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear (2026-11-13T06:00:15.000Z)
+
+## Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters — https://theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643 (2026-11-13T06:23:43.000Z)
 
 ## This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet
 
@@ -100,6 +119,31 @@ Gerada em 2026-11-12T20:27:50.198Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
 - [The Block] Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets — https://theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992 (2026-11-12T17:40:00.000Z)
 
+## SpaceX-Tesla merger talks put 30,000 bitcoin back in focus
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus — https://coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus (2026-11-13T05:08:59.000Z)
+
+## Bitcoin dips below $70,000 as Dollar Index hits 19-month high
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin dips below $70,000 as Dollar Index hits 19-month high — https://coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace (2026-11-13T03:37:00.000Z)
+
+## TRM Labs launches new service to help police seize stolen crypto in minutes
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [The Block] TRM Labs launches new service to help police seize stolen crypto in minutes — https://theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609 (2026-11-13T05:08:25.000Z)
+
+## White House sends crypto-relevant picks to fill SEC and CFTC seats
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [The Block] White House sends crypto-relevant picks to fill SEC and CFTC seats — https://theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175 (2026-11-13T04:56:47.000Z)
+
+## Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
+- [The Block] Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more — https://theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049 (2026-11-13T04:20:00.000Z)
+
 ## These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 37
@@ -109,48 +153,3 @@ Gerada em 2026-11-12T20:27:50.198Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 37
 - [The Block] ‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards — https://theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448 (2026-11-12T02:25:14.000Z)
-
-## DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 37
-- [CoinDesk] DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout — https://coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout (2026-11-12T15:45:48.000Z)
-
-## Crypto for Advisors: The blockchain built to run financial markets
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
-- [CoinDesk] Crypto for Advisors: The blockchain built to run financial markets — https://coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets (2026-11-12T15:34:29.000Z)
-
-## Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down — https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation (2026-11-12T15:46:06.000Z)
-
-## Thailand proposes $148K daily cap on stablecoin deposits and withdrawals
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Thailand proposes $148K daily cap on stablecoin deposits and withdrawals — https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange (2026-11-12T13:44:03.000Z)
-
-## Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente — https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark (2026-11-12T13:31:59.000Z)
-
-## Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
-- [Decrypt] Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network — https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network (2026-11-12T16:01:03.000Z)
-
-## Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
-- [Decrypt] Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing — https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing (2026-11-12T15:55:38.000Z)
-
-## SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
-- [Decrypt] SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack — https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack (2026-11-12T14:01:02.000Z)
-
-## Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 37
-- [The Block] Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up — https://theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520 (2026-11-12T16:00:00.000Z)

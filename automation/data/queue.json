@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-11-12T20:27:50.198Z",
+  "updatedAt": "2026-11-13T07:19:25.455Z",
   "stories": [
-    {
-      "id": "dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
-      "headline": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-      "category": "blockchain",
-      "tags": [
-        "tokenização",
-        "Solana"
-      ],
-      "firstSeen": "2026-11-12T13:25:47.000Z",
-      "publishers": [
-        "Decrypt",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-          "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
-          "date": "2026-11-12T13:25:47.000Z",
-          "summary": "Wall Street's main settlement firm will add Solana to its tokenization service, which went live last month on Canton and a private network."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
-          "url": "https://theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
-          "date": "2026-11-12T14:23:11.000Z",
-          "summary": "DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 73,
-      "status": "gerada",
-      "slug": "dtcc-integrara-titulos-e-acoes-tokenizadas-dos-eua-a-rede-solana-em-2027"
-    },
     {
       "id": "deputados-do-novo-apresentam-projeto-de-lei-para-liberar-derivativos",
       "headline": "Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil",
@@ -95,7 +48,8 @@
         "reasons": []
       },
       "score": 54,
-      "status": "pendente"
+      "status": "reprovada",
+      "note": "trecho copiado da fonte (13 palavras seguidas)"
     },
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
@@ -151,8 +105,7 @@
           "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
           "url": "https://coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
           "date": "2026-11-10T17:32:22.000Z",
-          "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
-          "fullText": ""
+          "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S."
         },
         {
           "feed": "decrypt",
@@ -163,8 +116,7 @@
           "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
           "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
           "date": "2026-11-10T18:33:37.000Z",
-          "summary": "The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
-          "fullText": "The group of global banks building a joint stablecoin has put real money on the table, committing around $270 million to fund the venture as it moves from blueprint to buildout.\nGoldman Sachs, Citigroup , Banco Santander, and Deutsche Bank are among the institutions backing the effort, Bloomberg reported Tuesday, citing people familiar with the matter.\nThe capital is meant to cover five years of operations for a planned U.S.-incorporated company that will issue a dollar-denominated stablecoin. Known among participants as Project Faro, the venture is still searching for a chief executive, and its final name remains under discussion.\nA spokesperson for the project declined to comment, as did Santander and Deutsche Bank, while Goldman and Citi referred questions to the project.\nThe funding is the concrete next step for an initiative that first went public late last year. As Decrypt previously reported, 21 of the world’s largest financial institutions committed in September to form a company to issue a U.S. dollar stablecoin, targeting a launch in the first half of 2027, with a euro version and other currencies to follow.\nThat consortium had more than doubled from an initial group of 10 banks that began exploring the idea in October 2025 , and now spans North America, Europe, East Asia, the Middle East and Africa.\nBeyond the four named by Bloomberg , its participants include Bank of America, Wells Fargo, Fidelity Investments, PNC, Capital One, TD Bank, UBS, BBVA, Deutsche Bank, Lloyds Banking Group and MUFG, among others. JPMorgan, notably, is not on the list.\nThe venture is one of several collaborative pushes by established finance into a business long dominated by crypto-native players. Visa, Mastercard and Stripe are among more than 100 companies backing the issuer Open Standard, while European banks have formed Qivalis to issue a euro-denominated coin.\nAt the moment, Tether’s USDT and Circle’s USDC together account for about 85% of a market worth roughly $290 billion, nearly all of it dollar-pegged. When the bank consortium first went public in September, Circle’s stock fell about 6% as investors priced in the prospect of bank-backed competition for USDC.\nThe banks are betting that institutional trust, regulatory alignment and existing client networks can win them a share of a settlement business that promises round-the-clock, cross-border payments at lower cost than traditional rails.\nThe token is being designed to comply with the U.S. GENIUS Act, which created the first federal framework for dollar-pegged tokens in 2025, and, where applicable, the EU’s MiCA regime. The group has said it wants the stablecoin used across wholesale, institutional and retail markets.\nFor now, Project Faro remains pre-launch, with no issued token, no named CEO, not even a final name, and a 2027 target that leaves ample room for delay.\nBut the $270 million commitment marks a shift, and a concrete signal that this bank consortium intends to compete for the onchain dollar rather than leave it to crypto.\nStart every day with the top news stories right now, plus original features, a podcast, videos and more."
+          "summary": "The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle."
         }
       ],
       "validation": {
@@ -173,7 +125,8 @@
         "reasons": []
       },
       "score": 49,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "bancos-globais-aportam-us-270-milhoes-para-lancar-stablecoin-pareada-ao-dolar"
     },
     {
       "id": "canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue",
@@ -266,6 +219,174 @@
           "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
           "date": "2026-11-12T20:07:41.000Z",
           "summary": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-64-million",
+      "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-11-13T07:05:29.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+          "url": "https://coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+          "date": "2026-11-13T07:05:29.000Z",
+          "summary": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-firm-nakamoto-owes-kraken-165-million-more-than-its-entire",
+      "headline": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T06:03:41.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+          "url": "https://coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+          "date": "2026-11-13T06:03:41.000Z",
+          "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-are-now-down-over-1-5-billion-in-net-outflows-for-the",
+      "headline": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-13T05:45:26.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+          "url": "https://coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+          "date": "2026-11-13T05:45:26.000Z",
+          "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-slides-below-70k-amid-thin-liquidity-etf-outflows",
+      "headline": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-13T06:00:15.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear",
+          "date": "2026-11-13T06:00:15.000Z",
+          "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-tumbles-below-69-000-as-nvidia-turmoil-adds-to-fed-driven",
+      "headline": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T06:23:43.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+          "url": "https://theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+          "date": "2026-11-13T06:23:43.000Z",
+          "summary": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions."
         }
       ],
       "validation": {
@@ -663,6 +784,171 @@
           "url": "https://theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
           "date": "2026-11-12T17:40:00.000Z",
           "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "headline": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T05:08:59.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+          "url": "https://coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+          "date": "2026-11-13T05:08:59.000Z",
+          "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-dips-below-70-000-as-dollar-index-hits-19-month-high",
+      "headline": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-11-13T03:37:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+          "url": "https://coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+          "date": "2026-11-13T03:37:00.000Z",
+          "summary": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "trm-labs-launches-new-service-to-help-police-seize-stolen-crypto-in",
+      "headline": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-11-13T05:08:25.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+          "url": "https://theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+          "date": "2026-11-13T05:08:25.000Z",
+          "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "white-house-sends-crypto-relevant-picks-to-fill-sec-and-cftc-seats",
+      "headline": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "SEC"
+      ],
+      "firstSeen": "2026-11-13T04:56:47.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+          "url": "https://theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+          "date": "2026-11-13T04:56:47.000Z",
+          "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-falls-to-12-week-low-strategy-and-metaplanet-to-lose-msci",
+      "headline": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T04:20:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+          "url": "https://theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+          "date": "2026-11-13T04:20:00.000Z",
+          "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more."
         }
       ],
       "validation": {
@@ -1608,6 +1894,72 @@
       "status": "pendente"
     },
     {
+      "id": "strategy-stock-sheds-5-amid-msci-index-removal-bitcoin-sell-off",
+      "headline": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "category": "defi",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T21:52:04.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+          "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin",
+          "date": "2026-11-12T21:52:04.000Z",
+          "summary": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "north-korea-stole-400-million-in-crypto-using-deepfake-video-calls",
+      "headline": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "category": "regulacao",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-11-12T22:06:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+          "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+          "date": "2026-11-12T22:06:03.000Z",
+          "summary": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls—as the DOJ also moves to seize $1.2 billion from the Binance hack."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
       "id": "binance-users-in-some-european-countries-told-to-pull-crypto-before",
       "headline": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
       "category": "bitcoin",
@@ -1992,6 +2344,106 @@
           "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots",
           "date": "2026-11-12T10:30:29.000Z",
           "summary": "Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "us-justice-department-business-groups-and-defi-firms-challenge",
+      "headline": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "DeFi"
+      ],
+      "firstSeen": "2026-11-12T20:58:06.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+          "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+          "date": "2026-11-12T20:58:06.000Z",
+          "summary": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "why-the-path-to-quantum-resistance-runs-uphill-for-bitcoin-wallet",
+      "headline": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T20:36:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+          "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+          "date": "2026-11-12T20:36:03.000Z",
+          "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "avalanche-owns-five-percent-of-tokenized-stocks",
+      "headline": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-11-12T20:02:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+          "url": "https://theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+          "date": "2026-11-12T20:02:00.000Z",
+          "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. equity to trade under the SEC’s Innovation Exemption. Five […]"
         }
       ],
       "validation": {
@@ -2406,99 +2858,6 @@
         "reasons": []
       },
       "score": 34,
-      "status": "pendente"
-    },
-    {
-      "id": "gnosis-pay-breach-exposes-card-details-personal-data-and-crypto",
-      "headline": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-06T20:51:23.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-          "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
-          "date": "2026-11-06T20:51:23.000Z",
-          "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "treasury-cuts-crypto-exchange-mexc-off-from-us-financial-system",
-      "headline": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-06T21:06:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-          "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-          "date": "2026-11-06T21:06:03.000Z",
-          "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "us-treasury-walks-back-crypto-surveillance-travel-rule-proposal",
-      "headline": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-06T20:37:34.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-          "url": "https://theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
-          "date": "2026-11-06T20:37:34.000Z",
-          "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
       "status": "pendente"
     },
     {
@@ -5012,6 +5371,238 @@
       "status": "pendente"
     },
     {
+      "id": "doj-wins-court-authority-to-seize-1-2-billion-of-north-korea-s-stolen",
+      "headline": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea's Stolen Binance Crypto as Freezes Top $2.7 Billion",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T00:15:00.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea's Stolen Binance Crypto as Freezes Top $2.7 Billion",
+          "url": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+          "date": "2026-11-13T00:15:00.000Z",
+          "summary": "Bitcoin Magazine DOJ Wins Court Authority to Seize $1.2 Billion of North Korea's Stolen Binance Crypto as Freezes Top $2.7 Billion The DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto and took down a $400 million deepfake theft scheme. This post DOJ Wins Court Authority to Seize $1.2 Billion of North Korea's Stolen Binance Crypto as Freezes Top $2.7 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-price-trades-near-71-200-after-a-fresh-session-low-as-the-10",
+      "headline": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T23:52:59.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+          "date": "2026-11-12T23:52:59.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5% Bitcoin price traded near $71,200 Thursday evening after slipping to a fresh session low near $71,000, its weakest level since Aug. 20. This post Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "jane-street-lifts-its-strategy-mstr-stake-54-to-4-1-million-shares",
+      "headline": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T23:30:47.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+          "url": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+          "date": "2026-11-12T23:30:47.000Z",
+          "summary": "Bitcoin Magazine Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares A 13F filed Thursday shows Jane Street held 4,119,097 Strategy shares as of Sept. 30, up 53.8%. This post Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "doj-s-operation-tornado-arrests-354-and-seizes-234-million-in-cash",
+      "headline": "DOJ's Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T22:35:22.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "DOJ's Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+          "url": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+          "date": "2026-11-12T22:35:22.000Z",
+          "summary": "Bitcoin Magazine DOJ's Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto The Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of drugs and 209 firearms, without saying how much of the money was cryptocurrency. This post DOJ's Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-faces-two-red-years-for-the-first-time-ever",
+      "headline": "Bitcoin Faces Two Red Years For the First Time Ever",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T22:30:06.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+          "date": "2026-11-12T22:30:06.000Z",
+          "summary": "▶ Bitcoin Magazine Bitcoin Faces Two Red Years For the First Time Ever Bitcoin has never posted back-to-back losing years, but 2026 could change that. This post Bitcoin Faces Two Red Years For the First Time Ever first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular",
+      "headline": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T21:00:13.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+          "url": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+          "date": "2026-11-12T21:00:13.000Z",
+          "summary": "▶ Bitcoin Magazine Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing NVIDIA CEO Jensen Huang has resigned after the company's board met to discuss possible removal, and BMTV hosts Grace Remington and Sean Hagan walk through what that means for the AI buildout. This post Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "senado-adia-votacao-de-projeto-que-obriga-uso-de-corretoras-para",
+      "headline": "Senado adia votação de projeto que obriga uso de corretoras para compra e venda de criptomoedas",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "Banco Central"
+      ],
+      "firstSeen": "2026-11-12T21:49:49.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Senado adia votação de projeto que obriga uso de corretoras para compra e venda de criptomoedas",
+          "url": "https://livecoins.com.br/senado-adia-votacao-de-projeto-que-obriga-uso-de-corretoras-para-compra-e-venda-de-criptomoedas",
+          "date": "2026-11-12T21:49:49.000Z",
+          "summary": "Proposta determina que operações diretas entre pessoas físicas terão limites de valor fixados pelo Banco Central Fonte: Senado adia votação de projeto que obriga uso de corretoras para compra e venda de criptomoedas Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "eua-aplicam-punicoes-contra-a-corretora-mexc-sob-acusacoes-de",
       "headline": "EUA aplicam punições contra a corretora MEXC sob acusações de facilitar US$ 16 bilhões em transações ilícitas para Irã, Rússia e Coreia do Norte",
       "category": "bitcoin",
@@ -5504,6 +6095,39 @@
           "url": "https://portaldobitcoin.uol.com.br/dona-da-bolsa-de-nova-york-define-data-para-comecar-a-negociar-acoes-tokenizadas-24-horas-por-dia",
           "date": "2026-11-11T17:22:55.000Z",
           "summary": "Plataforma da OKX e ICE estreia em 23 de novembro com ações de Coinbase, Strategy e Circle, mas enfrenta resistência de 67 empresas O post Dona da Bolsa de Nova York define data para começar a negociar ações tokenizadas 24 horas por dia apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
+      "id": "peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+      "headline": "Peter Schiff on the Bitcoin Crash: “Get the Hell Out”",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-12T20:15:28.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Peter Schiff on the Bitcoin Crash: “Get the Hell Out”",
+          "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+          "date": "2026-11-12T20:15:28.000Z",
+          "summary": "▶ Bitcoin Magazine Peter Schiff on the Bitcoin Crash: “Get the Hell Out” Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop. This post Peter Schiff on the Bitcoin Crash: “Get the Hell Out” first appeared on Bitcoin Magazine and is written by Patrick Green ."
         }
       ],
       "validation": {
@@ -6155,13 +6779,13 @@
       "status": "pendente"
     },
     {
-      "id": "jupiter-adds-anchorage-backed-usdgo-to-its-1-billion-solana-lending",
-      "headline": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "category": "defi",
+      "id": "north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-1-2",
+      "headline": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "category": "seguranca",
       "tags": [
-        "Solana"
+        "segurança"
       ],
-      "firstSeen": "2026-11-12T14:45:00.000Z",
+      "firstSeen": "2026-11-12T22:55:52.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -6173,30 +6797,31 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-          "url": "https://coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-          "date": "2026-11-12T14:45:00.000Z",
-          "summary": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
+          "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+          "url": "https://coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+          "date": "2026-11-12T22:55:52.000Z",
+          "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "fora do tema cripto"
+          "previsão de preço"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "the-next-congress-will-write-rules-for-ai-and-emerging-tech-they",
-      "headline": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "id": "u-s-president-trump-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "headline": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
       "category": "regulacao",
       "tags": [
-        "regulação"
+        "regulação",
+        "SEC"
       ],
-      "firstSeen": "2026-11-12T14:24:51.000Z",
+      "firstSeen": "2026-11-12T22:47:41.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -6208,10 +6833,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-          "url": "https://coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-          "date": "2026-11-12T14:24:51.000Z",
-          "summary": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project."
+          "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+          "url": "https://coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+          "date": "2026-11-12T22:47:41.000Z",
+          "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission."
         }
       ],
       "validation": {
@@ -6225,46 +6850,14 @@
       "status": "descartada"
     },
     {
-      "id": "nvidia-ceo-huang-quits-company-he-co-founded-led-for-3-decades-shares",
-      "headline": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-12T13:57:53.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-          "url": "https://coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-          "date": "2026-11-12T13:57:53.000Z",
-          "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges",
-      "headline": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "id": "kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s",
+      "headline": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
       "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-11-12T10:42:06.000Z",
+      "firstSeen": "2026-11-12T21:07:49.000Z",
       "publishers": [
-        "CoinDesk"
+        "CoinDesk",
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
@@ -6274,225 +6867,21 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-          "url": "https://coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
-          "date": "2026-11-12T10:42:06.000Z",
-          "summary": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight",
-      "headline": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-12T10:32:35.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-          "url": "https://coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
-          "date": "2026-11-12T10:32:35.000Z",
-          "summary": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "live-updates-bitcoin-slumps-below-72-000-as-nvidia-s-huang-resigns",
-      "headline": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-12T09:15:04.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-          "url": "https://coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-          "date": "2026-11-12T09:15:04.000Z",
-          "summary": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "jensen-huang-resigns-as-nvidia-ceo-exits-board-shares-plunge",
-      "headline": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-12T13:59:02.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-          "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member",
-          "date": "2026-11-12T13:59:02.000Z",
-          "summary": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bit-digital-stock-falls-5-in-pre-market-after-q3-revenue-miss",
-      "headline": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-12T13:52:39.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-          "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss",
-          "date": "2026-11-12T13:52:39.000Z",
-          "summary": "Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "tron-and-tether-bring-in-chainalysis-after-t3-crime-unit-folds",
-      "headline": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "category": "altcoins",
-      "tags": [
-        "Ethereum",
-        "stablecoins",
-        "regulação"
-      ],
-      "firstSeen": "2026-11-12T11:00:00.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-          "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-          "date": "2026-11-12T11:00:00.000Z",
-          "summary": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "who-is-colette-kress-jensen-huang-s-successor-as-nvidia-ceo",
-      "headline": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-12T14:44:39.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-          "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
-          "date": "2026-11-12T18:55:03.000Z",
-          "summary": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test."
+          "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+          "url": "https://coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+          "date": "2026-11-12T21:07:49.000Z",
+          "summary": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence."
         },
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
-          "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
-          "date": "2026-11-12T14:44:39.000Z",
-          "summary": "The Nvidia co-founder steps down after reports of affairs with an alleged Chinese spy and a company executive, ending his 33-year run."
+          "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+          "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+          "date": "2026-11-12T22:05:01.000Z",
+          "summary": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations."
         }
       ],
       "validation": {
@@ -6506,94 +6895,29 @@
       "status": "descartada"
     },
     {
-      "id": "nvidia-amd-broadcom-the-ai-stock-winners-and-losers-after-jensen",
-      "headline": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-12T18:06:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
-          "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
-          "date": "2026-11-12T18:06:03.000Z",
-          "summary": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-tokenized-stock-venues-are-launching-without-big-tech",
-      "headline": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
-      "category": "blockchain",
+      "id": "trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+      "headline": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "category": "regulacao",
       "tags": [
-        "tokenização"
+        "regulação",
+        "SEC"
       ],
-      "firstSeen": "2026-11-12T13:06:24.000Z",
+      "firstSeen": "2026-11-13T02:29:27.000Z",
       "publishers": [
-        "Decrypt"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
-          "url": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
-          "date": "2026-11-12T13:06:24.000Z",
-          "summary": "Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "india-s-financial-crimes-agency-searches-coindcx-delta-exchange-over",
-      "headline": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-12T12:03:10.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-          "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
-          "date": "2026-11-12T12:03:10.000Z",
-          "summary": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity."
+          "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+          "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+          "date": "2026-11-13T02:29:27.000Z",
+          "summary": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC."
         }
       ],
       "validation": {
@@ -6607,11 +6931,145 @@
       "status": "descartada"
     },
     {
-      "id": "pressure-mounts-on-nvidia-s-jensen-huang-amid-reports-of-second-affair",
-      "headline": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+      "id": "former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
+      "headline": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-13T01:26:27.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+          "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
+          "date": "2026-11-13T01:26:27.000Z",
+          "summary": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "gemini-s-quarterly-retail-trading-volume-sinks-to-3-year-low",
+      "headline": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-11-13T00:52:42.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+          "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low",
+          "date": "2026-11-13T00:52:42.000Z",
+          "summary": "Gemini’s third-quarter trading rebound masked a deepening retail slump."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "maple-finance-s-strategy-rift-sends-co-founder-coo-to-the-exits",
+      "headline": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-12T23:12:55.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+          "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit",
+          "date": "2026-11-12T23:12:55.000Z",
+          "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities",
+      "headline": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-11-12T22:29:58.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+          "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
+          "date": "2026-11-12T22:29:58.000Z",
+          "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "republican-senator-wants-to-freeze-ai-data-center-boom-as-congress",
+      "headline": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
       "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-11-12T09:47:18.000Z",
+      "firstSeen": "2026-11-12T22:36:02.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -6623,10 +7081,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
-          "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
-          "date": "2026-11-12T09:47:18.000Z",
-          "summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading."
+          "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+          "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+          "date": "2026-11-12T22:36:02.000Z",
+          "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout."
         }
       ],
       "validation": {
@@ -6640,49 +7098,49 @@
       "status": "descartada"
     },
     {
-      "id": "tether-gold-issuer-follows-usdt-to-complete-big-four-audit",
-      "headline": "Tether Gold issuer follows USDT to complete Big Four audit",
-      "category": "altcoins",
+      "id": "strategy-made-19-5-billion-in-profit-so-why-is-msci-removing-it-from",
+      "headline": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "category": "regulacao",
       "tags": [
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-11-12T15:23:26.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Tether Gold issuer follows USDT to complete Big Four audit",
-          "url": "https://theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-          "date": "2026-11-12T15:23:26.000Z",
-          "summary": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "sygnum-launches-eth-alpha-fund-targeting-8-to-10-annual-returns-in-eth",
-      "headline": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-      "category": "ethereum",
-      "tags": [
+        "Bitcoin",
         "Ethereum"
       ],
-      "firstSeen": "2026-11-12T10:30:00.000Z",
+      "firstSeen": "2026-11-12T21:26:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+          "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+          "date": "2026-11-12T21:26:03.000Z",
+          "summary": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "doj-moves-to-seize-1-2-billion-from-binance-hack-disrupts-north",
+      "headline": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+      "category": "seguranca",
+      "tags": [
+        "segurança"
+      ],
+      "firstSeen": "2026-11-12T22:40:22.000Z",
       "publishers": [
         "The Block"
       ],
@@ -6694,10 +7152,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-          "url": "https://theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-          "date": "2026-11-12T10:30:00.000Z",
-          "summary": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%–10% annual returns paid in ETH."
+          "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+          "url": "https://theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+          "date": "2026-11-12T22:40:22.000Z",
+          "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam."
         }
       ],
       "validation": {
@@ -6711,11 +7169,11 @@
       "status": "descartada"
     },
     {
-      "id": "chainstack-says-ai-powered-security-breach-exposed-customer-data",
-      "headline": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-      "category": "regulacao",
+      "id": "gemini-trading-volume-drops-73-as-q3-revenue-falls-to-41-million",
+      "headline": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+      "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-11-12T08:39:57.000Z",
+      "firstSeen": "2026-11-12T22:18:10.000Z",
       "publishers": [
         "The Block"
       ],
@@ -6727,10 +7185,45 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-          "url": "https://theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
-          "date": "2026-11-12T08:39:57.000Z",
-          "summary": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords."
+          "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+          "url": "https://theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+          "date": "2026-11-12T22:18:10.000Z",
+          "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "louisiana-sues-kalshi-robinhood-and-other-prediction-markets-in",
+      "headline": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "category": "mercado",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-11-12T21:44:30.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+          "url": "https://theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+          "date": "2026-11-12T21:44:30.000Z",
+          "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government."
         }
       ],
       "validation": {
