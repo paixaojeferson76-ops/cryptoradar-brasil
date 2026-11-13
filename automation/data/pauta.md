@@ -1,23 +1,17 @@
 # Pauta de notícias
 
-Gerada em 2026-11-13T07:19:25.455Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-13T20:02:48.159Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil
+## Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million
 
-- Categoria sugerida: mercado | Confiança: media | Pontos: 54
-- [Livecoins] Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil — https://livecoins.com.br/deputados-do-novo-apresentam-projeto-de-lei-para-liberar-derivativos-de-eventos-como-polymarket-e-kalshi-no-brasil (2026-11-11T15:44:44.000Z)
-- [Portal do Bitcoin] Deputados apresentam projeto para liberar Polymarket e Kalshi no Brasil sob fiscalização da CVM — https://portaldobitcoin.uol.com.br/deputados-apresentam-projeto-para-liberar-polymarket-e-kalshi-no-brasil-sob-fiscalizacao-da-cvm (2026-11-11T18:57:00.000Z)
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 73
+- [Decrypt] Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million — https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years (2026-11-13T19:36:03.000Z)
+- [The Block] From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years — https://theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698 (2026-11-13T13:34:46.000Z)
 
 ## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 51
 - [The Block] Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says — https://theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988 (2026-11-12T16:55:52.000Z)
-
-## Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture
-
-- Categoria sugerida: altcoins | Confiança: media | Pontos: 49
-- [CoinDesk] Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture — https://coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture (2026-11-10T17:32:22.000Z)
-- [Decrypt] Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants — https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants (2026-11-10T18:33:37.000Z)
 
 ## Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%
 
@@ -58,6 +52,21 @@ Gerada em 2026-11-13T07:19:25.455Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters — https://theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643 (2026-11-13T06:23:43.000Z)
+
+## Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters — https://coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off (2026-11-13T18:39:58.000Z)
+
+## Metaplanet swings to $170M loss as Bitcoin sale hits earnings
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Metaplanet swings to $170M loss as Bitcoin sale hits earnings — https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings (2026-11-13T18:28:29.000Z)
+
+## Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact — https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin (2026-11-13T18:36:02.000Z)
 
 ## This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet
 
@@ -143,13 +152,3 @@ Gerada em 2026-11-13T07:19:25.455Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 38
 - [The Block] Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more — https://theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049 (2026-11-13T04:20:00.000Z)
-
-## These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 37
-- [CoinDesk] These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000) — https://coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000 (2026-11-08T12:55:59.000Z)
-
-## ‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 37
-- [The Block] ‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards — https://theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448 (2026-11-12T02:25:14.000Z)

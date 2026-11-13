@@ -1,22 +1,17 @@
 {
-  "at": "2026-11-13T07:26:06.606Z",
+  "at": "2026-11-13T20:05:23.893Z",
   "auto": [],
   "review": [
     {
-      "slug": "bancos-globais-aportam-us-270-milhoes-para-lancar-stablecoin-pareada-ao-dolar",
-      "title": "Bancos globais aportam US$ 270 milhões para lançar stablecoin pareada ao dólar",
+      "slug": "duas-carteiras-inativas-de-bitcoin-movimentam-us-6-9-milhoes-apos-16-anos",
+      "title": "Duas carteiras inativas de Bitcoin movimentam US$ 6,9 milhões após 16 anos",
       "confidence": "media",
       "sources": [
-        "CoinDesk",
-        "Decrypt"
+        "Decrypt",
+        "The Block"
       ]
     }
   ],
-  "skipped": [
-    {
-      "headline": "Deputados do NOVO apresentam projeto de lei para liberar derivativos de eventos como Polymarket e Kalshi no Brasil",
-      "reason": "trecho copiado da fonte (13 palavras seguidas)"
-    }
-  ],
+  "skipped": [],
   "errors": []
 }
