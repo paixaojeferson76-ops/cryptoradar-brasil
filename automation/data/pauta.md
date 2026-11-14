@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-14T07:02:27.207Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-14T18:30:02.760Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
 
@@ -67,20 +67,15 @@ Gerada em 2026-11-14T07:02:27.207Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions — https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak (2026-11-14T06:33:13.000Z)
 
-## This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet
+## Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding
 
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Decrypt] This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet — https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet (2026-11-08T14:01:03.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [The Block] Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding — https://theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337 (2026-11-14T17:50:41.000Z)
 
-## Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token
+## ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins
 
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [The Block] Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token — https://theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022 (2026-11-08T15:52:17.000Z)
-
-## B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [Portal do Bitcoin] B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain — https://portaldobitcoin.uol.com.br/b3-apresenta-projeto-para-negociar-acoes-24-horas-por-dia-com-tecnologia-blockchain (2026-11-08T15:51:00.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Livecoins] ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins — https://livecoins.com.br/abtoken-solicita-esclarecimentos-sobre-declaracoes-atribuidas-ao-banco-central-e-defende-avaliacao-tecnica-das-operacoes-com-stablecoins (2026-11-14T16:49:42.000Z)
 
 ## Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor
 
@@ -151,3 +146,8 @@ Gerada em 2026-11-14T07:02:27.207Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: defi | Confiança: baixa | Pontos: 38
 - [The Block] Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more — https://theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049 (2026-11-13T04:20:00.000Z)
+
+## Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms — https://coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms (2026-11-13T16:01:27.000Z)

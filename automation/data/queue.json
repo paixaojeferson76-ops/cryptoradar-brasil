@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:02:27.207Z",
+  "updatedAt": "2026-11-14T18:30:02.760Z",
   "stories": [
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
@@ -437,46 +437,14 @@
       "status": "pendente"
     },
     {
-      "id": "this-bitcoin-developer-s-idea-would-make-quantum-attacks-a-losing-bet",
-      "headline": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-      "category": "seguranca",
+      "id": "bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto",
+      "headline": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "category": "regulacao",
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "ETFs"
       ],
-      "firstSeen": "2026-11-08T14:01:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-          "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-          "date": "2026-11-08T14:01:03.000Z",
-          "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a",
-      "headline": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-11-08T15:52:17.000Z",
+      "firstSeen": "2026-11-14T17:50:41.000Z",
       "publishers": [
         "The Block"
       ],
@@ -488,10 +456,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-          "url": "https://theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
-          "date": "2026-11-08T15:52:17.000Z",
-          "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback."
+          "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+          "url": "https://theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+          "date": "2026-11-14T17:50:41.000Z",
+          "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
         }
       ],
       "validation": {
@@ -499,34 +467,36 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
-      "id": "b3-apresenta-projeto-para-negociar-acoes-24-horas-por-dia-com",
-      "headline": "B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain",
-      "category": "blockchain",
+      "id": "abtoken-solicita-esclarecimentos-sobre-declaracoes-atribuidas-ao",
+      "headline": "ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins",
+      "category": "regulacao",
       "tags": [
         "Bitcoin",
+        "stablecoins",
+        "Banco Central",
         "tokenização",
         "Brasil"
       ],
-      "firstSeen": "2026-11-08T15:51:00.000Z",
+      "firstSeen": "2026-11-14T16:49:42.000Z",
       "publishers": [
-        "Portal do Bitcoin"
+        "Livecoins"
       ],
       "official": false,
       "items": [
         {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
+          "feed": "livecoins",
+          "publisher": "Livecoins",
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain",
-          "url": "https://portaldobitcoin.uol.com.br/b3-apresenta-projeto-para-negociar-acoes-24-horas-por-dia-com-tecnologia-blockchain",
-          "date": "2026-11-08T15:51:00.000Z",
-          "summary": "Bolsa brasileira apresentou projeto para permitir compra e venda de ações tokenizadas inclusive aos fins de semana e feriado O post B3 apresenta projeto para negociar ações 24 horas por dia com tecnologia blockchain apareceu primeiro em Portal do Bitcoin ."
+          "title": "ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins",
+          "url": "https://livecoins.com.br/abtoken-solicita-esclarecimentos-sobre-declaracoes-atribuidas-ao-banco-central-e-defende-avaliacao-tecnica-das-operacoes-com-stablecoins",
+          "date": "2026-11-14T16:49:42.000Z",
+          "summary": "Posicionamento completo da Associação Brasileira de Tokenização e Ativos Digitais - ABToken Fonte: ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -534,7 +504,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 38,
+      "score": 39,
       "status": "pendente"
     },
     {
@@ -1167,14 +1137,13 @@
       "status": "pendente"
     },
     {
-      "id": "these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc",
-      "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "id": "bitcoin-slides-to-3-month-low-of-65-000-as-analyst-flags-fourth",
+      "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
       "category": "bitcoin",
       "tags": [
-        "Bitcoin",
-        "mineração"
+        "Bitcoin"
       ],
-      "firstSeen": "2026-11-08T12:55:59.000Z",
+      "firstSeen": "2026-11-14T16:33:29.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -1186,10 +1155,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-          "url": "https://coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-          "date": "2026-11-08T12:55:59.000Z",
-          "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns."
+          "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+          "url": "https://coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+          "date": "2026-11-14T16:33:29.000Z",
+          "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
         }
       ],
       "validation": {
@@ -1197,7 +1166,174 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 37,
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai",
+      "headline": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "category": "ethereum",
+      "tags": [
+        "Ethereum"
+      ],
+      "firstSeen": "2026-11-14T16:33:23.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+          "url": "https://coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+          "date": "2026-11-14T16:33:23.000Z",
+          "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-22",
+      "headline": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-11-14T15:38:27.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+          "url": "https://coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+          "date": "2026-11-14T15:38:27.000Z",
+          "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "uk-singapore-and-thailand-central-banks-test-cross-border-fx",
+      "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "category": "altcoins",
+      "tags": [
+        "stablecoins"
+      ],
+      "firstSeen": "2026-11-14T15:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+          "url": "https://coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+          "date": "2026-11-14T15:00:00.000Z",
+          "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+      "headline": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+      "category": "blockchain",
+      "tags": [
+        "tokenização"
+      ],
+      "firstSeen": "2026-11-14T16:01:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+          "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+          "date": "2026-11-14T16:01:02.000Z",
+          "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "mprj-ainda-nao-contabilizou-quanto-em-criptomoedas-foi-apreendido",
+      "headline": "MPRJ ainda não contabilizou quanto em criptomoedas foi apreendido contra maior fraude fiscal do Brasil",
+      "category": "seguranca",
+      "tags": [
+        "Bitcoin",
+        "segurança",
+        "Brasil"
+      ],
+      "firstSeen": "2026-11-14T16:03:26.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "MPRJ ainda não contabilizou quanto em criptomoedas foi apreendido contra maior fraude fiscal do Brasil",
+          "url": "https://livecoins.com.br/mprj-ainda-nao-contabilizou-quanto-em-criptomoedas-foi-apreendido-contra-maior-fraude-fiscal-do-brasil",
+          "date": "2026-11-14T16:03:26.000Z",
+          "summary": "O Ministério Público do Estado do Rio de Janeiro (MPRJ) informou que ainda não contabilizou a quantia exata de criptomoedas apreendidas durante a Operação Caronte contra a maior fraude fiscal do país. Deflagrada na quarta-feira (11), a ofensiva policial cumpriu dez mandados de prisão e dezenove ordens de busca contra o grupo econômico da Refinaria […] Fonte: MPRJ ainda não contabilizou quanto em criptomoedas foi apreendido contra maior fraude fiscal do Brasil Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
       "status": "pendente"
     },
     {
@@ -1821,6 +1957,140 @@
           "url": "https://theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
           "date": "2026-11-13T14:12:23.000Z",
           "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its",
+      "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-14T13:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+          "url": "https://coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+          "date": "2026-11-14T13:00:00.000Z",
+          "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price",
+      "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-11-14T12:57:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+          "url": "https://coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+          "date": "2026-11-14T12:57:00.000Z",
+          "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "openai-launches-chatgpt-wallet-to-let-ai-agents-shop-without-crypto",
+      "headline": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+      "category": "tecnologia",
+      "tags": [],
+      "firstSeen": "2026-11-14T14:01:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+          "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+          "date": "2026-11-14T14:01:02.000Z",
+          "summary": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "bee4-e-nuclea-anunciam-participacao-conjunta-no-programa-piloto-dlt",
+      "headline": "BEE4 e Núclea anunciam participação conjunta no Programa Piloto DLT da CVM, com projeto que testa a interoperabilidade entre redes blockchain",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "regulação"
+      ],
+      "firstSeen": "2026-11-14T13:06:11.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "BEE4 e Núclea anunciam participação conjunta no Programa Piloto DLT da CVM, com projeto que testa a interoperabilidade entre redes blockchain",
+          "url": "https://livecoins.com.br/bee4-e-nuclea-anunciam-participacao-conjunta-no-programa-piloto-dlt-da-cvm-com-projeto-que-testa-a-interoperabilidade-entre-redes-blockchain",
+          "date": "2026-11-14T13:06:11.000Z",
+          "summary": "O caso de uso cobre a emissão, o registro e todo o ciclo de vida de Certificados de Recebíveis, com liquidação utilizando stablecoin (BRLN) Fonte: BEE4 e Núclea anunciam participação conjunta no Programa Piloto DLT da CVM, com projeto que testa a interoperabilidade entre redes blockchain Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -3288,6 +3558,37 @@
           "url": "https://livecoins.com.br/banco-central-afirma-em-reuniao-fechada-que-o-uso-de-stablecoins-caracteriza-lavagem-de-dinheiro-dinheiro-bom-se-torna-ruim",
           "date": "2026-11-13T20:04:49.000Z",
           "summary": "Uma possível reunião virtual marcada para o dia 16 de novembro com membros do banco central pode selar o fim das stablecoins em fintechs Fonte: Banco Central afirma em reunião fechada que o uso de stablecoins caracteriza lavagem de dinheiro: “dinheiro bom se torna ruim” Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "megaeth-parent-cuts-20-of-staff-amid-restructuring-ai-push",
+      "headline": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-11-14T08:12:30.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+          "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+          "date": "2026-11-14T08:12:30.000Z",
+          "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem."
         }
       ],
       "validation": {
@@ -4844,40 +5145,6 @@
       "status": "pendente"
     },
     {
-      "id": "coreia-do-norte-recruta-criancas-prodigio-para-transforma-las-em",
-      "headline": "Coreia do Norte recruta crianças prodígio para transformá-las em hackers, diz SCMP",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-08T16:37:00.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Coreia do Norte recruta crianças prodígio para transformá-las em hackers, diz SCMP",
-          "url": "https://livecoins.com.br/coreia-do-norte-recruta-criancas-prodigio-para-transforma-las-em-hackers-diz-scmp",
-          "date": "2026-11-08T16:37:00.000Z",
-          "summary": "Após recrutamento de jovens com 11 e 12 anos, eles passam por uma nova seleção aos 17 para entrar nas melhores universidades do país e, por fim, alguns poucos são selecionados para receber treinamentos especializados Fonte: Coreia do Norte recruta crianças prodígio para transformá-las em hackers, diz SCMP Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 25,
-      "status": "pendente"
-    },
-    {
       "id": "former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization",
       "headline": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
       "category": "blockchain",
@@ -5214,30 +5481,29 @@
       "status": "pendente"
     },
     {
-      "id": "reguladores-americanos-entraram-em-contato-com-bancos-apos-hack-da",
-      "headline": "Reguladores americanos entraram em contato com bancos após hack da Binance, diz Reuters",
+      "id": "de-supermercados-a-bancos-e-criptomoedas-onda-de-ataques-hackers-se",
+      "headline": "De supermercados a bancos e criptomoedas: onda de ataques hackers se espalha pelo mundo e acende alerta global",
       "category": "seguranca",
       "tags": [
         "Bitcoin",
-        "regulação",
         "segurança"
       ],
-      "firstSeen": "2026-11-08T11:33:00.000Z",
+      "firstSeen": "2026-11-14T16:54:00.000Z",
       "publishers": [
-        "Livecoins"
+        "Portal do Bitcoin"
       ],
       "official": false,
       "items": [
         {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
           "type": "media",
           "weight": 1,
           "lang": "pt",
-          "title": "Reguladores americanos entraram em contato com bancos após hack da Binance, diz Reuters",
-          "url": "https://livecoins.com.br/reguladores-americanos-entraram-em-contato-com-bancos-apos-hack-da-binance-diz-reuters",
-          "date": "2026-11-08T11:33:00.000Z",
-          "summary": "Bancos estariam estudando ataque contra a Binance para melhorar seus sitemas Fonte: Reguladores americanos entraram em contato com bancos após hack da Binance, diz Reuters Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+          "title": "De supermercados a bancos e criptomoedas: onda de ataques hackers se espalha pelo mundo e acende alerta global",
+          "url": "https://portaldobitcoin.uol.com.br/de-supermercados-a-bancos-e-criptomoedas-onda-de-ataques-hackers-se-espalha-pelo-mundo-e-acende-alerta-global",
+          "date": "2026-11-14T16:54:00.000Z",
+          "summary": "Invasões atingiram sistemas de saúde, órgãos públicos, instituições financeiras e empresas de criptomoedas nas últimas semanas O post De supermercados a bancos e criptomoedas: onda de ataques hackers se espalha pelo mundo e acende alerta global apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -5245,7 +5511,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 24,
+      "score": 25,
       "status": "pendente"
     },
     {
@@ -6241,6 +6507,107 @@
           "url": "https://portaldobitcoin.uol.com.br/oranjebtc-tem-primeiro-lucro-da-historia-de-r-518-milhoes-impulsionado-por-alta-do-bitcoin",
           "date": "2026-11-13T13:31:26.000Z",
           "summary": "OranjeBTC encerrou 3º tri com 3.950 bitcoins em tesouraria e aumentou em 8% a quantidade da criptomoeda por ação O post OranjeBTC tem primeiro lucro da história, de R$ 518 milhões, impulsionado por alta do Bitcoin apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-price-falls-14-in-a-week-to-65-000-as-weekend-selling-breaks",
+      "headline": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-14T15:27:33.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
+          "date": "2026-11-14T15:27:33.000Z",
+          "summary": "Bitcoin Magazine Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low Bitcoin price crashed about 13% over the past week and traded near $65,600 on Saturday. This post Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "binance-reune-lideres-globais-no-binance-blockchain-week-bangkok-2026",
+      "headline": "Binance reúne líderes globais no Binance Blockchain Week Bangkok 2026 para debater convergência entre finanças tradicionais e virtuais",
+      "category": "blockchain",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-14T15:16:42.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Binance reúne líderes globais no Binance Blockchain Week Bangkok 2026 para debater convergência entre finanças tradicionais e virtuais",
+          "url": "https://livecoins.com.br/binance-reune-lideres-globais-no-binance-blockchain-week-bangkok-2026-para-debater-convergencia-entre-financas-tradicionais-e-virtuais",
+          "date": "2026-11-14T15:16:42.000Z",
+          "summary": "O evento, que neste ano tem como tema Evolve (“Evoluir”), reunirá formuladores de políticas públicas, banqueiros centrais, gestores de ativos institucionais e líderes de tecnologia Fonte: Binance reúne líderes globais no Binance Blockchain Week Bangkok 2026 para debater convergência entre finanças tradicionais e virtuais Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "trump-indica-democratas-para-sec-e-cftc-e-pode-mudar-rumos-da",
+      "headline": "Trump indica democratas para SEC e CFTC e pode mudar rumos da regulação cripto",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "SEC"
+      ],
+      "firstSeen": "2026-11-14T12:06:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Trump indica democratas para SEC e CFTC e pode mudar rumos da regulação cripto",
+          "url": "https://portaldobitcoin.uol.com.br/trump-indica-democratas-para-sec-e-cftc-e-pode-mudar-rumos-da-regulacao-cripto",
+          "date": "2026-11-14T12:06:00.000Z",
+          "summary": "Trump indicou dois democratas e dois republicanos para vagas na SEC e na CFTC, órgãos que ganharam protagonismo na regulação cripto O post Trump indica democratas para SEC e CFTC e pode mudar rumos da regulação cripto apareceu primeiro em Portal do Bitcoin ."
         }
       ],
       "validation": {
@@ -7923,11 +8290,11 @@
       "status": "pendente"
     },
     {
-      "id": "openai-launches-ai-payments-in-chatgpt-with-visa-mastercard-and-amex",
-      "headline": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-      "category": "bitcoin",
+      "id": "microsoft-confirms-global-outage-resolved-rules-out-cyberattack",
+      "headline": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "category": "seguranca",
       "tags": [],
-      "firstSeen": "2026-11-13T22:01:03.000Z",
+      "firstSeen": "2026-11-14T10:34:06.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -7939,10 +8306,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-          "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
-          "date": "2026-11-13T22:01:03.000Z",
-          "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
+          "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+          "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
+          "date": "2026-11-14T10:34:06.000Z",
+          "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
         }
       ],
       "validation": {
@@ -7956,44 +8323,11 @@
       "status": "descartada"
     },
     {
-      "id": "kraken-parent-payward-gains-market-share-as-slower-trading-weighs-on",
-      "headline": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-13T21:01:39.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-          "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings",
-          "date": "2026-11-13T21:01:39.000Z",
-          "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "could-a-former-nvidia-executive-replace-jensen-huang-arm-s-rene-haas",
-      "headline": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+      "id": "the-week-jensen-huang-fell-how-a-spy-scandal-toppled-nvidia-s-ceo",
+      "headline": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-11-13T22:16:03.000Z",
+      "firstSeen": "2026-11-14T18:01:02.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -8005,10 +8339,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
-          "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
-          "date": "2026-11-13T22:16:03.000Z",
-          "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO."
+          "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+          "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+          "date": "2026-11-14T18:01:02.000Z",
+          "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless."
         }
       ],
       "validation": {
@@ -8022,127 +8356,28 @@
       "status": "descartada"
     },
     {
-      "id": "should-government-officials-be-banned-from-prediction-markets-house",
-      "headline": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-13T21:36:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-          "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
-          "date": "2026-11-13T21:36:03.000Z",
-          "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "china-s-3-2-billion-ai-pipeline-still-calls-for-nvidia-chips",
-      "headline": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-13T20:45:03.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-          "url": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
-          "date": "2026-11-13T20:45:03.000Z",
-          "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "meta-tests-prediction-market-app-doj-moves-to-seize-1-2-billion-from",
-      "headline": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "id": "openai-anthropic-google-and-other-ai-giants-face-lawsuit-demanding",
+      "headline": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
       "category": "regulacao",
       "tags": [
-        "segurança"
+        "regulação"
       ],
-      "firstSeen": "2026-11-14T05:40:00.000Z",
+      "firstSeen": "2026-11-14T17:01:02.000Z",
       "publishers": [
-        "The Block"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-          "url": "https://theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-          "date": "2026-11-14T05:40:00.000Z",
-          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "meta-tests-prediction-market-app-using-cred-points-instead-of-cash-wsj",
-      "headline": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-13T20:55:26.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
-          "url": "https://theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
-          "date": "2026-11-13T20:55:26.000Z",
-          "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points."
+          "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+          "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+          "date": "2026-11-14T17:01:02.000Z",
+          "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
         }
       ],
       "validation": {
