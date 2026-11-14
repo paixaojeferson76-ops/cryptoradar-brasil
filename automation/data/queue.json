@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-11-13T20:02:48.159Z",
+  "updatedAt": "2026-11-14T07:02:27.207Z",
   "stories": [
-    {
-      "id": "dormant-bitcoin-wallets-wake-up-after-16-years-moving-6-9-million",
-      "headline": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-13T13:34:46.000Z",
-      "publishers": [
-        "Decrypt",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-          "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-          "date": "2026-11-13T19:36:03.000Z",
-          "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-          "url": "https://theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-          "date": "2026-11-13T13:34:46.000Z",
-          "summary": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 73,
-      "status": "gerada",
-      "slug": "duas-carteiras-inativas-de-bitcoin-movimentam-us-6-9-milhoes-apos-16-anos"
-    },
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
       "headline": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
@@ -439,6 +392,40 @@
           "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
           "date": "2026-11-13T18:36:02.000Z",
           "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-shed-2-35b-in-two-weeks-as-blackrock-s-losing-streak",
+      "headline": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-14T06:33:13.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+          "date": "2026-11-14T06:33:13.000Z",
+          "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million."
         }
       ],
       "validation": {
@@ -1135,6 +1122,40 @@
           "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
           "date": "2026-11-13T17:22:54.000Z",
           "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "satoshi-era-wallet-served-in-a-260-billion-lawsuit-moves-75-btc-it",
+      "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação"
+      ],
+      "firstSeen": "2026-11-14T04:30:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+          "url": "https://coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+          "date": "2026-11-14T04:30:00.000Z",
+          "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
         }
       ],
       "validation": {
@@ -2538,26 +2559,29 @@
       "status": "pendente"
     },
     {
-      "id": "ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from",
-      "headline": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-07T20:59:47.000Z",
+      "id": "bitcoin-miners-pay-paraguay-350-million-a-year-but-ai-is-pushing-them",
+      "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-13T23:30:00.000Z",
       "publishers": [
-        "The Block"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-          "url": "https://theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
-          "date": "2026-11-07T20:59:47.000Z",
-          "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story."
+          "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+          "url": "https://coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+          "date": "2026-11-13T23:30:00.000Z",
+          "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus."
         }
       ],
       "validation": {
@@ -2565,7 +2589,40 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 35,
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "adam-back-makes-case-for-simpler-security-as-blockstream-launches",
+      "headline": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T21:49:27.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+          "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+          "date": "2026-11-13T21:49:27.000Z",
+          "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
       "status": "pendente"
     },
     {
@@ -3092,6 +3149,145 @@
           "url": "https://theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
           "date": "2026-11-13T09:59:16.000Z",
           "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "us-regulators-move-ahead-on-crypto-trust-charters-as-senate-scrutiny",
+      "headline": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "category": "regulacao",
+      "tags": [
+        "regulação"
+      ],
+      "firstSeen": "2026-11-13T20:53:20.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+          "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows",
+          "date": "2026-11-13T20:53:20.000Z",
+          "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "jpmorgan-s-bitcoin-and-crypto-linked-holdings-approach-1-billion",
+      "headline": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "ETFs",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-13T20:16:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+          "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+          "date": "2026-11-13T20:16:03.000Z",
+          "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "deputado-pede-audiencia-publica-para-avaliar-impactos-da-regulacao",
+      "headline": "Deputado pede audiência pública para avaliar impactos da regulação das criptomoedas pelo Banco Central do Brasil",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Banco Central",
+        "Brasil"
+      ],
+      "firstSeen": "2026-11-13T21:01:13.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Deputado pede audiência pública para avaliar impactos da regulação das criptomoedas pelo Banco Central do Brasil",
+          "url": "https://livecoins.com.br/deputado-pede-audiencia-publica-para-avaliar-impactos-da-regulacao-das-criptomoedas-pelo-banco-central-do-brasil",
+          "date": "2026-11-13T21:01:13.000Z",
+          "summary": "Deputado pede que Congresso analise o Banco Central do Brasil à luz dos princípios da livre iniciativa e da livre concorrência Fonte: Deputado pede audiência pública para avaliar impactos da regulação das criptomoedas pelo Banco Central do Brasil Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "banco-central-afirma-em-reuniao-fechada-que-o-uso-de-stablecoins",
+      "headline": "Banco Central afirma em reunião fechada que o uso de stablecoins caracteriza lavagem de dinheiro: “dinheiro bom se torna ruim”",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "Banco Central"
+      ],
+      "firstSeen": "2026-11-13T20:04:49.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Banco Central afirma em reunião fechada que o uso de stablecoins caracteriza lavagem de dinheiro: “dinheiro bom se torna ruim”",
+          "url": "https://livecoins.com.br/banco-central-afirma-em-reuniao-fechada-que-o-uso-de-stablecoins-caracteriza-lavagem-de-dinheiro-dinheiro-bom-se-torna-ruim",
+          "date": "2026-11-13T20:04:49.000Z",
+          "summary": "Uma possível reunião virtual marcada para o dia 16 de novembro com membros do banco central pode selar o fim das stablecoins em fintechs Fonte: Banco Central afirma em reunião fechada que o uso de stablecoins caracteriza lavagem de dinheiro: “dinheiro bom se torna ruim” Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -6654,6 +6850,39 @@
       "status": "pendente"
     },
     {
+      "id": "joe-carlasare-on-extreme-fear-in-bitcoin-i-m-a-buyer-here",
+      "headline": "Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here”",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T21:00:18.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here”",
+          "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
+          "date": "2026-11-13T21:00:18.000Z",
+          "summary": "▶ Bitcoin Magazine Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here” Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in. This post Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here” first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara",
       "headline": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
       "category": "mercado",
@@ -7044,6 +7273,39 @@
           "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
           "date": "2026-11-12T20:15:28.000Z",
           "summary": "▶ Bitcoin Magazine Peter Schiff on the Bitcoin Crash: “Get the Hell Out” Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop. This post Peter Schiff on the Bitcoin Crash: “Get the Hell Out” first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
+      "id": "bill-miller-iv-they-re-not-printing-more-bitcoin",
+      "headline": "Bill Miller IV: “They're Not Printing More Bitcoin”",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-13T20:00:39.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bill Miller IV: “They're Not Printing More Bitcoin”",
+          "url": "https://bitcoinmagazine.com/videos/bill-miller-iv-theyre-not-printing-more-bitcoin",
+          "date": "2026-11-13T20:00:39.000Z",
+          "summary": "▶ Bitcoin Magazine Bill Miller IV: “They're Not Printing More Bitcoin” Bill Miller IV, Chairman and CIO of Miller Value Partners, joins Grace Remington and Sean Hagan on BMTV to explain why he is still bullish on Bitcoin with sentiment near FTX-era lows. This post Bill Miller IV: “They're Not Printing More Bitcoin” first appeared on Bitcoin Magazine and is written by Patrick Green ."
         }
       ],
       "validation": {
@@ -7661,66 +7923,26 @@
       "status": "pendente"
     },
     {
-      "id": "bitcoin-optech-newsletter-431",
-      "headline": "Bitcoin Optech Newsletter #431",
+      "id": "openai-launches-ai-payments-in-chatgpt-with-visa-mastercard-and-amex",
+      "headline": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
       "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "regulação",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-13T00:00:00.000Z",
+      "tags": [],
+      "firstSeen": "2026-11-13T22:01:03.000Z",
       "publishers": [
-        "Bitcoin Optech"
-      ],
-      "official": true,
-      "items": [
-        {
-          "feed": "bitcoin-optech",
-          "publisher": "Bitcoin Optech",
-          "type": "official",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin Optech Newsletter #431",
-          "url": "https://bitcoinops.org/en/newsletters/2026/11/13",
-          "date": "2026-11-13T00:00:00.000Z",
-          "summary": "This week’s newsletter links to draft BIPs for exfiltration-resistant signing, summarizes the disclosure of three vulnerabilities affecting older versions of Bitcoin Core, announces a plan for mining the testnet5 genesis block, and describes an investigation into degraded compact block reconstruction. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "u-s-senate-banking-committee-races-toward-hearing-on-new-sec",
-      "headline": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "SEC"
-      ],
-      "firstSeen": "2026-11-13T17:05:43.000Z",
-      "publishers": [
-        "CoinDesk"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-          "url": "https://coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-          "date": "2026-11-13T17:05:43.000Z",
-          "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week."
+          "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+          "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
+          "date": "2026-11-13T22:01:03.000Z",
+          "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
         }
       ],
       "validation": {
@@ -7734,46 +7956,11 @@
       "status": "descartada"
     },
     {
-      "id": "live-updates-bitcoin-eyes-bear-market-lows-as-late-summer-rally",
-      "headline": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
+      "id": "kraken-parent-payward-gains-market-share-as-slower-trading-weighs-on",
+      "headline": "Kraken parent Payward gains market share as slower trading weighs on earnings",
       "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-13T09:16:58.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-          "url": "https://coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-          "date": "2026-11-13T09:16:58.000Z",
-          "summary": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "arthur-hayes-flattered-as-coinbase-backs-us-stock-perps",
-      "headline": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-11-13T13:41:26.000Z",
+      "firstSeen": "2026-11-13T21:01:39.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -7785,10 +7972,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-          "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc",
-          "date": "2026-11-13T13:41:26.000Z",
-          "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps."
+          "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+          "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings",
+          "date": "2026-11-13T21:01:39.000Z",
+          "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded."
         }
       ],
       "validation": {
@@ -7802,26 +7989,26 @@
       "status": "descartada"
     },
     {
-      "id": "unocoin-keeps-deposits-and-withdrawals-halted-over-suspect-transfers",
-      "headline": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "id": "could-a-former-nvidia-executive-replace-jensen-huang-arm-s-rene-haas",
+      "headline": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
       "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-11-13T09:58:21.000Z",
+      "firstSeen": "2026-11-13T22:16:03.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-          "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe",
-          "date": "2026-11-13T09:58:21.000Z",
-          "summary": "Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended."
+          "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+          "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+          "date": "2026-11-13T22:16:03.000Z",
+          "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO."
         }
       ],
       "validation": {
@@ -7835,217 +8022,79 @@
       "status": "descartada"
     },
     {
-      "id": "bitcoin-returns-to-200-week-trend-line-as-analyst-sees-risk-of-57-7k",
-      "headline": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-13T09:39:05.000Z",
+      "id": "should-government-officials-be-banned-from-prediction-markets-house",
+      "headline": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-11-13T21:36:03.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-          "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next",
-          "date": "2026-11-13T09:39:05.000Z",
-          "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000."
+          "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+          "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+          "date": "2026-11-13T21:36:03.000Z",
+          "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "previsão de preço"
+          "fora do tema cripto"
         ]
       },
       "score": 0,
       "status": "descartada"
     },
     {
-      "id": "doj-moves-to-seize-1-2b-from-binance-hack-disrupts-facestealer-scam",
-      "headline": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-      "category": "seguranca",
+      "id": "china-s-3-2-billion-ai-pipeline-still-calls-for-nvidia-chips",
+      "headline": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-11-13T20:45:03.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+          "url": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+          "date": "2026-11-13T20:45:03.000Z",
+          "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "meta-tests-prediction-market-app-doj-moves-to-seize-1-2-billion-from",
+      "headline": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "category": "regulacao",
       "tags": [
         "segurança"
       ],
-      "firstSeen": "2026-11-13T09:27:14.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-          "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
-          "date": "2026-11-13T09:27:14.000Z",
-          "summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "microsoft-365-outage-hits-outlook-email-and-teams-calendars-worldwide",
-      "headline": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-13T08:26:01.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
-          "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services",
-          "date": "2026-11-13T08:26:01.000Z",
-          "summary": "Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
-      "headline": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-13T13:03:40.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-          "url": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
-          "date": "2026-11-13T13:03:40.000Z",
-          "summary": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?"
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "nvidia-employees-push-board-to-bring-back-jensen-huang-report",
-      "headline": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-13T11:58:47.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
-          "url": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
-          "date": "2026-11-13T11:58:47.000Z",
-          "summary": "An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports",
-      "headline": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-      "category": "regulacao",
-      "tags": [
-        "regulação"
-      ],
-      "firstSeen": "2026-11-13T10:55:54.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-          "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
-          "date": "2026-11-13T10:55:54.000Z",
-          "summary": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "mega-cuts-20-of-workforce-as-former-megaeth-foundation-restructures",
-      "headline": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-13T19:26:53.000Z",
+      "firstSeen": "2026-11-14T05:40:00.000Z",
       "publishers": [
         "The Block"
       ],
@@ -8057,10 +8106,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
-          "url": "https://theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
-          "date": "2026-11-13T19:26:53.000Z",
-          "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products."
+          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+          "url": "https://theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+          "date": "2026-11-14T05:40:00.000Z",
+          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more."
         }
       ],
       "validation": {
@@ -8074,11 +8123,11 @@
       "status": "descartada"
     },
     {
-      "id": "house-oversight-chair-calls-for-possible-ban-on-government-officials",
-      "headline": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+      "id": "meta-tests-prediction-market-app-using-cred-points-instead-of-cash-wsj",
+      "headline": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
       "category": "mercado",
       "tags": [],
-      "firstSeen": "2026-11-13T19:09:12.000Z",
+      "firstSeen": "2026-11-13T20:55:26.000Z",
       "publishers": [
         "The Block"
       ],
@@ -8090,144 +8139,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
-          "url": "https://theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
-          "date": "2026-11-13T19:09:12.000Z",
-          "summary": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "cftc-s-selig-accuses-states-of-trying-to-lock-up-prediction-market",
-      "headline": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
-      "category": "regulacao",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-11-13T18:51:03.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
-          "url": "https://theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
-          "date": "2026-11-13T18:51:03.000Z",
-          "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "hyperliquid-leapfrogs-bybit-kraken-and-okx-in-open-interest-as-q3",
-      "headline": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-13T16:37:26.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-          "url": "https://theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-          "date": "2026-11-13T16:37:26.000Z",
-          "summary": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us",
-      "headline": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-13T15:31:22.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-          "url": "https://theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
-          "date": "2026-11-13T15:31:22.000Z",
-          "summary": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi",
-      "headline": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-13T09:32:39.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-          "url": "https://theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
-          "date": "2026-11-13T09:32:39.000Z",
-          "summary": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state."
+          "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
+          "url": "https://theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+          "date": "2026-11-13T20:55:26.000Z",
+          "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points."
         }
       ],
       "validation": {

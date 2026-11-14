@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-13T20:02:48.159Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 73
-- [Decrypt] Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million — https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years (2026-11-13T19:36:03.000Z)
-- [The Block] From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years — https://theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698 (2026-11-13T13:34:46.000Z)
+Gerada em 2026-11-14T07:02:27.207Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
 
@@ -67,6 +61,11 @@ Gerada em 2026-11-13T20:02:48.159Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [Decrypt] Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact — https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin (2026-11-13T18:36:02.000Z)
+
+## Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions — https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak (2026-11-14T06:33:13.000Z)
 
 ## This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet
 
