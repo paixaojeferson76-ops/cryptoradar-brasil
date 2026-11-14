@@ -1,21 +1,5 @@
 {
   "urls": {
-    "https://coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": "2026-10-15T21:46:47.357Z",
-    "https://cointelegraph.com/news/binance-us-funding-valuation-billion": "2026-10-15T21:46:47.357Z",
-    "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": "2026-10-15T21:46:47.357Z",
-    "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks": "2026-10-15T21:46:47.357Z",
-    "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading": "2026-10-15T21:46:47.357Z",
-    "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust": "2026-10-15T21:46:47.357Z",
-    "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession": "2026-10-15T21:46:47.357Z",
-    "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code": "2026-10-15T21:46:47.357Z",
-    "https://theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720": "2026-10-15T21:46:47.357Z",
-    "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows": "2026-10-15T21:46:47.357Z",
-    "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis": "2026-10-15T21:46:47.357Z",
-    "https://livecoins.com.br/golpista-esta-entre-as-vitimas-das-carteiras-adulteradas-da-ledger-e-perdeu-us-48-milhoes-em-bitcoin-diz-chainalysis": "2026-10-15T21:46:47.357Z",
-    "https://livecoins.com.br/ninguem-foi-preso-ironiza-fundador-da-binance-sobre-bank-of-america-receber-multa-de-us-12-bilhao": "2026-10-15T21:46:47.357Z",
-    "https://livecoins.com.br/governo-americano-derruba-241-dominios-usados-para-aplicar-golpes-com-criptomoedas": "2026-10-15T21:46:47.357Z",
-    "https://portaldobitcoin.uol.com.br/mastercard-lanca-plataforma-global-para-integrar-stablecoins-a-contas-bancarias-e-cartoes": "2026-10-15T21:46:47.357Z",
-    "https://portaldobitcoin.uol.com.br/ledger-lanca-dispositivo-que-combina-smartphone-e-carteira-de-criptomoedas-veja-como-funciona": "2026-10-15T21:46:47.357Z",
     "https://coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": "2026-10-16T04:59:39.137Z",
     "https://coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": "2026-10-16T04:59:39.137Z",
     "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": "2026-10-16T04:59:39.137Z",
@@ -2020,6 +2004,9 @@
     "https://livecoins.com.br/binance-reune-lideres-globais-no-binance-blockchain-week-bangkok-2026-para-debater-convergencia-entre-financas-tradicionais-e-virtuais": "2026-11-14T18:30:02.760Z",
     "https://livecoins.com.br/bee4-e-nuclea-anunciam-participacao-conjunta-no-programa-piloto-dlt-da-cvm-com-projeto-que-testa-a-interoperabilidade-entre-redes-blockchain": "2026-11-14T18:30:02.760Z",
     "https://portaldobitcoin.uol.com.br/de-supermercados-a-bancos-e-criptomoedas-onda-de-ataques-hackers-se-espalha-pelo-mundo-e-acende-alerta-global": "2026-11-14T18:30:02.760Z",
-    "https://portaldobitcoin.uol.com.br/trump-indica-democratas-para-sec-e-cftc-e-pode-mudar-rumos-da-regulacao-cripto": "2026-11-14T18:30:02.760Z"
+    "https://portaldobitcoin.uol.com.br/trump-indica-democratas-para-sec-e-cftc-e-pode-mudar-rumos-da-regulacao-cripto": "2026-11-14T18:30:02.760Z",
+    "https://theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342": "2026-11-14T22:45:06.753Z",
+    "https://livecoins.com.br/peter-schiff-compartilha-grafico-do-ethereum-e-alerta-para-queda-abaixo-de-us-1-000": "2026-11-14T22:45:06.753Z",
+    "https://livecoins.com.br/plano-de-contratacoes-do-ministerio-da-justica-reserva-r-112-milhao-para-rastrear-criptomoedas-em-2027": "2026-11-14T22:45:06.753Z"
   }
 }

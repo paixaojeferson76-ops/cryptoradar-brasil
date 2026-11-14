@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:30:02.760Z",
+  "updatedAt": "2026-11-14T22:45:06.753Z",
   "stories": [
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
@@ -5515,6 +5515,40 @@
       "status": "pendente"
     },
     {
+      "id": "peter-schiff-compartilha-grafico-do-ethereum-e-alerta-para-queda",
+      "headline": "Peter Schiff compartilha gráfico do Ethereum e alerta para queda abaixo de US$ 1.000",
+      "category": "ethereum",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "firstSeen": "2026-11-14T21:30:48.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Peter Schiff compartilha gráfico do Ethereum e alerta para queda abaixo de US$ 1.000",
+          "url": "https://livecoins.com.br/peter-schiff-compartilha-grafico-do-ethereum-e-alerta-para-queda-abaixo-de-us-1-000",
+          "date": "2026-11-14T21:30:48.000Z",
+          "summary": "Economista aponta risco de colapso no preço do ativo caso a cotação perca a linha de tendência em US$ 1.600 Fonte: Peter Schiff compartilha gráfico do Ethereum e alerta para queda abaixo de US$ 1.000 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 25,
+      "status": "pendente"
+    },
+    {
       "id": "crypto-is-now-teamed-up-with-u-s-government-in-two-legal-battles-over",
       "headline": "Crypto is now teamed up with U.S. government in two legal battles over perps",
       "category": "mercado",
@@ -6608,6 +6642,39 @@
           "url": "https://portaldobitcoin.uol.com.br/trump-indica-democratas-para-sec-e-cftc-e-pode-mudar-rumos-da-regulacao-cripto",
           "date": "2026-11-14T12:06:00.000Z",
           "summary": "Trump indicou dois democratas e dois republicanos para vagas na SEC e na CFTC, órgãos que ganharam protagonismo na regulação cripto O post Trump indica democratas para SEC e CFTC e pode mudar rumos da regulação cripto apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
+      "id": "plano-de-contratacoes-do-ministerio-da-justica-reserva-r-1-12-milhao",
+      "headline": "Plano de contratações do Ministério da Justiça reserva R$ 1,12 milhão para rastrear criptomoedas em 2027",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-14T18:32:28.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Plano de contratações do Ministério da Justiça reserva R$ 1,12 milhão para rastrear criptomoedas em 2027",
+          "url": "https://livecoins.com.br/plano-de-contratacoes-do-ministerio-da-justica-reserva-r-112-milhao-para-rastrear-criptomoedas-em-2027",
+          "date": "2026-11-14T18:32:28.000Z",
+          "summary": "Orçamento global da pasta para o próximo ano soma R$ 1,29 bilhão distribuídos entre seis diretorias estratégicas Fonte: Plano de contratações do Ministério da Justiça reserva R$ 1,12 milhão para rastrear criptomoedas em 2027 Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
         }
       ],
       "validation": {
@@ -8290,94 +8357,28 @@
       "status": "pendente"
     },
     {
-      "id": "microsoft-confirms-global-outage-resolved-rules-out-cyberattack",
-      "headline": "Microsoft confirms global outage resolved, rules out cyberattack",
-      "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-11-14T10:34:06.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-          "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
-          "date": "2026-11-14T10:34:06.000Z",
-          "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "the-week-jensen-huang-fell-how-a-spy-scandal-toppled-nvidia-s-ceo",
-      "headline": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-14T18:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
-          "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-          "date": "2026-11-14T18:01:02.000Z",
-          "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-anthropic-google-and-other-ai-giants-face-lawsuit-demanding",
-      "headline": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "id": "louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for",
+      "headline": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
       "category": "regulacao",
       "tags": [
         "regulação"
       ],
-      "firstSeen": "2026-11-14T17:01:02.000Z",
+      "firstSeen": "2026-11-14T19:06:59.000Z",
       "publishers": [
-        "Decrypt"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-          "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-          "date": "2026-11-14T17:01:02.000Z",
-          "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
+          "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+          "url": "https://theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+          "date": "2026-11-14T19:06:59.000Z",
+          "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state."
         }
       ],
       "validation": {
