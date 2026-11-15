@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:45:06.753Z",
+  "updatedAt": "2026-11-15T07:12:59.917Z",
   "stories": [
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
@@ -1326,6 +1326,41 @@
           "url": "https://livecoins.com.br/mprj-ainda-nao-contabilizou-quanto-em-criptomoedas-foi-apreendido-contra-maior-fraude-fiscal-do-brasil",
           "date": "2026-11-14T16:03:26.000Z",
           "summary": "O Ministério Público do Estado do Rio de Janeiro (MPRJ) informou que ainda não contabilizou a quantia exata de criptomoedas apreendidas durante a Operação Caronte contra a maior fraude fiscal do país. Deflagrada na quarta-feira (11), a ofensiva policial cumpriu dez mandados de prisão e dezenove ordens de busca contra o grupo econômico da Refinaria […] Fonte: MPRJ ainda não contabilizou quanto em criptomoedas foi apreendido contra maior fraude fiscal do Brasil Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "category": "mercado",
+      "tags": [
+        "ETFs",
+        "stablecoins",
+        "XRP"
+      ],
+      "firstSeen": "2026-11-15T02:50:57.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+          "url": "https://coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+          "date": "2026-11-15T02:50:57.000Z",
+          "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
         }
       ],
       "validation": {
@@ -2885,6 +2920,40 @@
           "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
           "date": "2026-11-13T21:49:27.000Z",
           "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down",
+      "headline": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "category": "seguranca",
+      "tags": [
+        "stablecoins",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-14T23:07:35.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+          "url": "https://theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "date": "2026-11-14T23:07:35.000Z",
+          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT."
         }
       ],
       "validation": {
@@ -8357,28 +8426,28 @@
       "status": "pendente"
     },
     {
-      "id": "louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for",
-      "headline": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-      "category": "regulacao",
+      "id": "rwa-protocol-stusdt-winds-down-three-years-after-2-3b-tvl-peak",
+      "headline": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "category": "defi",
       "tags": [
-        "regulação"
+        "stablecoins"
       ],
-      "firstSeen": "2026-11-14T19:06:59.000Z",
+      "firstSeen": "2026-11-15T06:27:26.000Z",
       "publishers": [
-        "The Block"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "theblock",
-          "publisher": "The Block",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-          "url": "https://theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-          "date": "2026-11-14T19:06:59.000Z",
-          "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state."
+          "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+          "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+          "date": "2026-11-15T06:27:26.000Z",
+          "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
         }
       ],
       "validation": {
