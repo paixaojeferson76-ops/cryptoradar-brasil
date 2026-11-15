@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-15T07:12:59.917Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-15T19:07:48.819Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T07:12:59.917Z",
+  "updatedAt": "2026-11-15T19:07:48.819Z",
   "stories": [
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
@@ -1372,6 +1372,41 @@
       "status": "pendente"
     },
     {
+      "id": "regulacao-cripto-banco-central-pode-levar-ate-3-anos-para-aprovar",
+      "headline": "Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "regulação",
+        "Banco Central"
+      ],
+      "firstSeen": "2026-11-15T17:13:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda",
+          "url": "https://portaldobitcoin.uol.com.br/regulacao-cripto-banco-central-pode-levar-ate-3-anos-para-aprovar-exchanges-entenda",
+          "date": "2026-11-15T17:13:00.000Z",
+          "summary": "Prazo para pedir licença cripto acabou e especialista explica o que já mudou, quais regras estão valendo e os riscos que continuam existindo O post Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "milestone-quarter-solana-company-reports-q3-revenue-growth-driven-by",
       "headline": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
       "category": "defi",
@@ -2126,6 +2161,102 @@
           "url": "https://livecoins.com.br/bee4-e-nuclea-anunciam-participacao-conjunta-no-programa-piloto-dlt-da-cvm-com-projeto-que-testa-a-interoperabilidade-entre-redes-blockchain",
           "date": "2026-11-14T13:06:11.000Z",
           "summary": "O caso de uso cobre a emissão, o registro e todo o ciclo de vida de Certificados de Recebíveis, com liquidação utilizando stablecoin (BRLN) Fonte: BEE4 e Núclea anunciam participação conjunta no Programa Piloto DLT da CVM, com projeto que testa a interoperabilidade entre redes blockchain Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame",
+      "headline": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "category": "regulacao",
+      "tags": [],
+      "firstSeen": "2026-11-15T14:00:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+          "url": "https://coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+          "date": "2026-11-15T14:00:00.000Z",
+          "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "enterprise-blockchain-is-going-to-come-back-from-the-dead",
+      "headline": "Enterprise blockchain is going to come back from the dead",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-11-15T14:30:00.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Enterprise blockchain is going to come back from the dead",
+          "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
+          "date": "2026-11-15T14:30:00.000Z",
+          "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "bitcoin-etfs-lose-2-1-billion-in-november-as-outflow-streak-hits",
+      "headline": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-15T14:01:02.000Z",
+      "publishers": [
+        "Decrypt"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "decrypt",
+          "publisher": "Decrypt",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+          "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+          "date": "2026-11-15T14:01:02.000Z",
+          "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
         }
       ],
       "validation": {
@@ -2965,6 +3096,41 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-falls-to-four-month-low-near-62k-as-crypto-selloff-deepens",
+      "headline": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "firstSeen": "2026-11-15T10:23:17.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+          "date": "2026-11-15T10:23:17.000Z",
+          "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
       "id": "uncalled-us-house-races-could-send-more-crypto-allies-to-congress",
       "headline": "Uncalled US House races could send more crypto allies to Congress",
       "category": "regulacao",
@@ -3658,6 +3824,37 @@
           "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
           "date": "2026-11-14T08:12:30.000Z",
           "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "coinone-warns-of-phishing-identity-theft-after-customer-data-breach",
+      "headline": "Coinone warns of phishing, identity theft after customer data breach",
+      "category": "seguranca",
+      "tags": [],
+      "firstSeen": "2026-11-15T08:07:58.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Coinone warns of phishing, identity theft after customer data breach",
+          "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+          "date": "2026-11-15T08:07:58.000Z",
+          "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
         }
       ],
       "validation": {
@@ -6755,6 +6952,39 @@
       "status": "pendente"
     },
     {
+      "id": "mercado-bitcoin-retoma-operacoes-com-pix-em-reais-a-partir-de-terca",
+      "headline": "Mercado Bitcoin retoma operações com Pix em reais a partir de terça-feira (17)",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-15T12:47:58.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Mercado Bitcoin retoma operações com Pix em reais a partir de terça-feira (17)",
+          "url": "https://livecoins.com.br/mercado-bitcoin-retoma-operacoes-com-pix-em-reais-a-partir-de-terca-feira-17",
+          "date": "2026-11-15T12:47:58.000Z",
+          "summary": "Operações de compra, venda, envio e recebimento de criptomoedas continuam indisponíveis até o fim das validações técnicas Fonte: Mercado Bitcoin retoma operações com Pix em reais a partir de terça-feira (17) Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 24,
+      "status": "pendente"
+    },
+    {
       "id": "solana-s-jupiter-expands-beyond-trading-with-token-baskets-yield",
       "headline": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
       "category": "mercado",
@@ -8426,28 +8656,29 @@
       "status": "pendente"
     },
     {
-      "id": "rwa-protocol-stusdt-winds-down-three-years-after-2-3b-tvl-peak",
-      "headline": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-      "category": "defi",
+      "id": "how-wall-street-is-racing-to-claim-the-onchain-dollar",
+      "headline": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "category": "ethereum",
       "tags": [
+        "Ethereum",
         "stablecoins"
       ],
-      "firstSeen": "2026-11-15T06:27:26.000Z",
+      "firstSeen": "2026-11-15T16:01:02.000Z",
       "publishers": [
-        "Cointelegraph"
+        "Decrypt"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "decrypt",
+          "publisher": "Decrypt",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-          "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
-          "date": "2026-11-15T06:27:26.000Z",
-          "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
+          "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+          "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+          "date": "2026-11-15T16:01:02.000Z",
+          "summary": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle."
         }
       ],
       "validation": {
@@ -8455,6 +8686,41 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "por-que-a-strategy-sera-excluida-dos-indices-msci-mesmo-apos-lucrar",
+      "headline": "Por que a Strategy será excluída dos índices MSCI mesmo após lucrar US$ 19,5 bilhões?",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-15T12:28:00.000Z",
+      "publishers": [
+        "Portal do Bitcoin"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "portaldobitcoin",
+          "publisher": "Portal do Bitcoin",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Por que a Strategy será excluída dos índices MSCI mesmo após lucrar US$ 19,5 bilhões?",
+          "url": "https://portaldobitcoin.uol.com.br/por-que-a-strategy-sera-excluida-dos-indices-msci-mesmo-apos-lucrar-us-195-bilhoes",
+          "date": "2026-11-15T12:28:00.000Z",
+          "summary": "MSCI questiona modelo de negócios da Strategy, cujo lucro bilionário veio principalmente da valorização do Bitcoin O post Por que a Strategy será excluída dos índices MSCI mesmo após lucrar US$ 19,5 bilhões? apareceu primeiro em Portal do Bitcoin ."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "parece rumor/especulação"
         ]
       },
       "score": 0,
