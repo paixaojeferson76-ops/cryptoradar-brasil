@@ -1,11 +1,33 @@
 # Pauta de notícias
 
-Gerada em 2026-11-16T07:18:03.435Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-16T22:32:11.672Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits
+
+- Categoria sugerida: blockchain | Confiança: media | Pontos: 68
+- [Cointelegraph] DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits — https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers (2026-11-16T08:50:50.000Z)
+- [The Block] DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore — https://theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854 (2026-11-16T09:26:39.000Z)
+
+## Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 67
+- [CoinDesk] Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum — https://coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum (2026-11-16T08:18:03.000Z)
+- [Decrypt] Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum — https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum (2026-11-16T09:54:55.000Z)
 
 ## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 51
 - [The Block] Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says — https://theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988 (2026-11-12T16:55:52.000Z)
+
+## Brazil's central bank faces backlash over stablecoin money laundering remarks
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 50
+- [CoinDesk] Brazil's central bank faces backlash over stablecoin money laundering remarks — https://coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks (2026-11-16T15:54:11.000Z)
+
+## DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
+- [Decrypt] DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral — https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral (2026-11-16T16:11:31.000Z)
 
 ## Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%
 
@@ -77,6 +99,36 @@ Gerada em 2026-11-16T07:18:03.435Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Livecoins] ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins — https://livecoins.com.br/abtoken-solicita-esclarecimentos-sobre-declaracoes-atribuidas-ao-banco-central-e-defende-avaliacao-tecnica-das-operacoes-com-stablecoins (2026-11-14T16:49:42.000Z)
 
+## Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid — https://coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid (2026-11-16T21:51:04.000Z)
+
+## Binance hack may push institutions to outside custody, FalconX exec says
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Binance hack may push institutions to outside custody, FalconX exec says — https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx (2026-11-16T22:19:41.000Z)
+
+## Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump — https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump (2026-11-16T20:45:47.000Z)
+
+## Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again — https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data (2026-11-16T22:18:03.000Z)
+
+## Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Decrypt] Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 — https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000 (2026-11-16T21:46:03.000Z)
+
+## Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Decrypt] Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says — https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor (2026-11-16T21:16:03.000Z)
+
 ## Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -101,53 +153,3 @@ Gerada em 2026-11-16T07:18:03.435Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [Decrypt] Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi — https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi (2026-11-12T17:46:02.000Z)
-
-## 'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [Decrypt] 'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit — https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit (2026-11-12T17:14:42.000Z)
-
-## Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 38
-- [Decrypt] Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed — https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm (2026-11-12T16:36:02.000Z)
-
-## NYDFS sets fresh advertising standards for crypto firms
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [The Block] NYDFS sets fresh advertising standards for crypto firms — https://theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014 (2026-11-12T18:03:57.000Z)
-
-## Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [The Block] Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets — https://theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992 (2026-11-12T17:40:00.000Z)
-
-## SpaceX-Tesla merger talks put 30,000 bitcoin back in focus
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] SpaceX-Tesla merger talks put 30,000 bitcoin back in focus — https://coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus (2026-11-13T05:08:59.000Z)
-
-## Bitcoin dips below $70,000 as Dollar Index hits 19-month high
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin dips below $70,000 as Dollar Index hits 19-month high — https://coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace (2026-11-13T03:37:00.000Z)
-
-## TRM Labs launches new service to help police seize stolen crypto in minutes
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [The Block] TRM Labs launches new service to help police seize stolen crypto in minutes — https://theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609 (2026-11-13T05:08:25.000Z)
-
-## White House sends crypto-relevant picks to fill SEC and CFTC seats
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [The Block] White House sends crypto-relevant picks to fill SEC and CFTC seats — https://theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175 (2026-11-13T04:56:47.000Z)
-
-## Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
-- [The Block] Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more — https://theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049 (2026-11-13T04:20:00.000Z)
-
-## Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms — https://coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms (2026-11-13T16:01:27.000Z)

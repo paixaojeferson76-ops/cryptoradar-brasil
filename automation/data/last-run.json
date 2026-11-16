@@ -1,7 +1,22 @@
 {
-  "at": "2026-11-16T07:18:06.035Z",
+  "at": "2026-11-16T22:38:12.697Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "dbs-e-jpmorgan-lancam-transferencias-24-7-de-depositos-tokenizados-entre-eua-e",
+      "title": "DBS e JPMorgan lançam transferências 24/7 de depósitos tokenizados entre EUA e Singapura",
+      "confidence": "media",
+      "sources": [
+        "Cointelegraph",
+        "The Block"
+      ]
+    }
+  ],
   "skipped": [],
-  "errors": []
+  "errors": [
+    {
+      "headline": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
 }
