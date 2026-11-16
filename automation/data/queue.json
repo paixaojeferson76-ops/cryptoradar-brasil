@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T19:07:48.819Z",
+  "updatedAt": "2026-11-16T07:18:03.435Z",
   "stories": [
     {
       "id": "exodus-cost-reset-is-real-as-payments-offset-crypto-wallet-slowdown",
@@ -1407,6 +1407,70 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-s-biggest-bet-is-now-a-drop-below-60-000-not-a-rally-above",
+      "headline": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-16T05:01:17.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+          "url": "https://coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+          "date": "2026-11-16T05:01:17.000Z",
+          "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
+      "headline": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-11-16T05:28:40.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+          "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
+          "date": "2026-11-16T05:28:40.000Z",
+          "summary": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "milestone-quarter-solana-company-reports-q3-revenue-growth-driven-by",
       "headline": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
       "category": "defi",
@@ -2257,6 +2321,40 @@
           "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
           "date": "2026-11-15T14:01:02.000Z",
           "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "luxor-ceo-warns-of-ai-dark-forest-following-bitcoin-miner-hijack",
+      "headline": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-16T02:33:07.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+          "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+          "date": "2026-11-16T02:33:07.000Z",
+          "summary": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
         }
       ],
       "validation": {
@@ -3131,6 +3229,72 @@
       "status": "pendente"
     },
     {
+      "id": "us-sellers-drive-bitcoin-crash-jensen-plots-nvidia-comeback-hodler-s",
+      "headline": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-15T22:50:59.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
+          "date": "2026-11-15T22:50:59.000Z",
+          "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low",
+      "headline": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-15T21:57:53.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+          "url": "https://theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+          "date": "2026-11-15T21:57:53.000Z",
+          "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
       "id": "uncalled-us-house-races-could-send-more-crypto-allies-to-congress",
       "headline": "Uncalled US House races could send more crypto allies to Congress",
       "category": "regulacao",
@@ -3855,6 +4019,37 @@
           "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
           "date": "2026-11-15T08:07:58.000Z",
           "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 35,
+      "status": "pendente"
+    },
+    {
+      "id": "did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "headline": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-11-15T19:30:00.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+          "url": "https://coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+          "date": "2026-11-15T19:30:00.000Z",
+          "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses."
         }
       ],
       "validation": {
@@ -7616,6 +7811,39 @@
       "status": "pendente"
     },
     {
+      "id": "dia-do-joalheiro-programa-sp-produz-reconhece-cadeias-produtivas-do",
+      "headline": "Dia do Joalheiro: Programa SP Produz reconhece cadeias produtivas do setor que movimenta a economia",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-15T21:33:45.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Dia do Joalheiro: Programa SP Produz reconhece cadeias produtivas do setor que movimenta a economia",
+          "url": "https://livecoins.com.br/dia-do-joalheiro-programa-sp-produz-reconhece-cadeias-produtivas-do-setor-que-movimenta-a-economia",
+          "date": "2026-11-15T21:33:45.000Z",
+          "summary": "Estado tem ao menos dois polos de fabricação de folheados e joias em ouro e prata, que geram emprego, renda e desenvolvimento regional Fonte: Dia do Joalheiro: Programa SP Produz reconhece cadeias produtivas do setor que movimenta a economia Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara",
       "headline": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
       "category": "mercado",
@@ -8421,39 +8649,6 @@
       "status": "pendente"
     },
     {
-      "id": "binance-hack-launderers-mint-elon-musk-and-animal-meme-coins-to-move",
-      "headline": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-11-09T19:36:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-          "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
-          "date": "2026-11-09T19:36:02.000Z",
-          "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 16,
-      "status": "pendente"
-    },
-    {
       "id": "goldman-sachs-citi-e-outros-grandes-bancos-investem-us-270-milhoes-em",
       "headline": "Goldman Sachs, Citi e outros grandes bancos investem US$ 270 milhões em projeto de stablecoin",
       "category": "altcoins",
@@ -8622,63 +8817,26 @@
       "status": "pendente"
     },
     {
-      "id": "hackers-da-coreia-do-norte-estao-criando-memecoins-para-lavar",
-      "headline": "Hackers da Coreia do Norte estão criando memecoins para lavar dinheiro roubado da Binance",
-      "category": "seguranca",
-      "tags": [
-        "Bitcoin",
-        "segurança"
-      ],
-      "firstSeen": "2026-11-09T19:32:00.000Z",
+      "id": "cardano-holders-vote-down-5-million-bid-to-buy-warehouse-copper",
+      "headline": "Cardano holders vote down $5 million bid to buy warehouse copper",
+      "category": "altcoins",
+      "tags": [],
+      "firstSeen": "2026-11-16T06:27:42.000Z",
       "publishers": [
-        "Portal do Bitcoin"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Hackers da Coreia do Norte estão criando memecoins para lavar dinheiro roubado da Binance",
-          "url": "https://portaldobitcoin.uol.com.br/hackers-da-coreia-do-norte-estao-criando-memecoins-para-lavar-dinheiro-roubado-da-binance",
-          "date": "2026-11-09T19:32:00.000Z",
-          "summary": "Elliptic revela que criminosos criaram memecoins com imagens de Elon Musk e animais para movimentar recursos do ataque de US$ 6,3 bilhões O post Hackers da Coreia do Norte estão criando memecoins para lavar dinheiro roubado da Binance apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 10,
-      "status": "pendente"
-    },
-    {
-      "id": "how-wall-street-is-racing-to-claim-the-onchain-dollar",
-      "headline": "How Wall Street Is Racing to Claim the Onchain Dollar",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum",
-        "stablecoins"
-      ],
-      "firstSeen": "2026-11-15T16:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-          "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-          "date": "2026-11-15T16:01:02.000Z",
-          "summary": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle."
+          "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+          "url": "https://coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+          "date": "2026-11-16T06:27:42.000Z",
+          "summary": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes."
         }
       ],
       "validation": {
@@ -8692,35 +8850,167 @@
       "status": "descartada"
     },
     {
-      "id": "por-que-a-strategy-sera-excluida-dos-indices-msci-mesmo-apos-lucrar",
-      "headline": "Por que a Strategy será excluída dos índices MSCI mesmo após lucrar US$ 19,5 bilhões?",
+      "id": "trump-administration-to-name-nvidia-openai-and-several-others-as-ai",
+      "headline": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
       "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-15T12:28:00.000Z",
+      "tags": [],
+      "firstSeen": "2026-11-16T06:01:41.000Z",
       "publishers": [
-        "Portal do Bitcoin"
+        "CoinDesk"
       ],
       "official": false,
       "items": [
         {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
           "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Por que a Strategy será excluída dos índices MSCI mesmo após lucrar US$ 19,5 bilhões?",
-          "url": "https://portaldobitcoin.uol.com.br/por-que-a-strategy-sera-excluida-dos-indices-msci-mesmo-apos-lucrar-us-195-bilhoes",
-          "date": "2026-11-15T12:28:00.000Z",
-          "summary": "MSCI questiona modelo de negócios da Strategy, cujo lucro bilionário veio principalmente da valorização do Bitcoin O post Por que a Strategy será excluída dos índices MSCI mesmo após lucrar US$ 19,5 bilhões? apareceu primeiro em Portal do Bitcoin ."
+          "weight": 2,
+          "lang": "en",
+          "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+          "url": "https://coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+          "date": "2026-11-16T06:01:41.000Z",
+          "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed."
         }
       ],
       "validation": {
         "ok": false,
         "confidence": "baixa",
         "reasons": [
-          "parece rumor/especulação"
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
+      "headline": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+      "category": "mercado",
+      "tags": [],
+      "firstSeen": "2026-11-16T04:42:07.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+          "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
+          "date": "2026-11-16T04:42:07.000Z",
+          "summary": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "jensen-huang-weighs-nvidia-comeback-days-after-shock-exit-ft",
+      "headline": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-15T23:47:45.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+          "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit",
+          "date": "2026-11-15T23:47:45.000Z",
+          "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "luxor-hit-by-ai-enabled-attack-that-redirected-client-hashrate-says",
+      "headline": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+      "category": "seguranca",
+      "tags": [
+        "mineração"
+      ],
+      "firstSeen": "2026-11-16T04:35:34.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+          "url": "https://theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+          "date": "2026-11-16T04:35:34.000Z",
+          "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "traders-claim-6-million-profit-by-spotting-bitgo-s-public-pull",
+      "headline": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+      "category": "altcoins",
+      "tags": [],
+      "firstSeen": "2026-11-15T20:33:17.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+          "url": "https://theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+          "date": "2026-11-15T20:33:17.000Z",
+          "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
         ]
       },
       "score": 0,
