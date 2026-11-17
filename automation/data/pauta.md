@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-16T22:32:11.672Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits
-
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 68
-- [Cointelegraph] DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits — https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers (2026-11-16T08:50:50.000Z)
-- [The Block] DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore — https://theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854 (2026-11-16T09:26:39.000Z)
+Gerada em 2026-11-17T08:30:09.391Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
 
@@ -129,6 +123,21 @@ Gerada em 2026-11-16T22:32:11.672Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Decrypt] Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says — https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor (2026-11-16T21:16:03.000Z)
 
+## Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says — https://coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says (2026-11-17T07:38:07.000Z)
+
+## Cardano Foundation seeks $5 million from treasury using ADA price 33% above market
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [CoinDesk] Cardano Foundation seeks $5 million from treasury using ADA price 33% above market — https://coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market (2026-11-17T06:54:49.000Z)
+
+## Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000 — https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083 (2026-11-17T07:39:17.000Z)
+
 ## Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
@@ -143,13 +152,3 @@ Gerada em 2026-11-16T22:32:11.672Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [The Block] Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more — https://theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430 (2026-11-12T04:55:00.000Z)
-
-## Illinois crypto tax is impossible to enforce as written, crypto industry tells court
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [CoinDesk] Illinois crypto tax is impossible to enforce as written, crypto industry tells court — https://coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court (2026-11-12T16:45:52.000Z)
-
-## Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Decrypt] Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi — https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi (2026-11-12T17:46:02.000Z)

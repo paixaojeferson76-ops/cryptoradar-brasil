@@ -1,22 +1,17 @@
 {
-  "at": "2026-11-16T22:38:12.697Z",
+  "at": "2026-11-17T08:30:50.111Z",
   "auto": [],
   "review": [
     {
-      "slug": "dbs-e-jpmorgan-lancam-transferencias-24-7-de-depositos-tokenizados-entre-eua-e",
-      "title": "DBS e JPMorgan lançam transferências 24/7 de depósitos tokenizados entre EUA e Singapura",
+      "slug": "vitalik-buterin-defende-proposta-leanpcs-para-acelerar-protecao-quantica-no",
+      "title": "Vitalik Buterin defende proposta leanPCS para acelerar proteção quântica no Ethereum",
       "confidence": "media",
       "sources": [
-        "Cointelegraph",
-        "The Block"
+        "CoinDesk",
+        "Decrypt"
       ]
     }
   ],
   "skipped": [],
-  "errors": [
-    {
-      "headline": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-      "error": "The operation was aborted due to timeout"
-    }
-  ]
+  "errors": []
 }
