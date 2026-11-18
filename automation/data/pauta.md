@@ -1,12 +1,36 @@
 # Pauta de notícias
 
-Gerada em 2026-11-17T08:30:09.391Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-18T07:57:08.637Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
+## v31.3: Bitcoin Core 31.3 final
 
-- Categoria sugerida: ethereum | Confiança: media | Pontos: 67
-- [CoinDesk] Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum — https://coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum (2026-11-16T08:18:03.000Z)
-- [Decrypt] Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum — https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum (2026-11-16T09:54:55.000Z)
+- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 98
+- [Bitcoin Core (GitHub)] v31.3: Bitcoin Core 31.3 final — https://github.com/bitcoin/bitcoin/releases/tag/v31.3 (2026-11-17T16:07:18.000Z)
+- [Bitcoin Core (GitHub)] v30.5: Bitcoin Core 30.5 final — https://github.com/bitcoin/bitcoin/releases/tag/v30.5 (2026-11-17T16:26:30.000Z)
+
+## World Bank Taps Circle and Citi to Test Stablecoins for Development Payments
+
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 70
+- [Decrypt] World Bank Taps Circle and Citi to Test Stablecoins for Development Payments — https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments (2026-11-17T20:56:03.000Z)
+- [The Block] World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements — https://theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924 (2026-11-18T04:21:02.000Z)
+
+## Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 69
+- [Decrypt] Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks — https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks (2026-11-17T19:46:03.000Z)
+- [The Block] Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more — https://theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902 (2026-11-18T05:01:00.000Z)
+
+## Solana Foundation takes majority stake in crypto data provider CoinGecko
+
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 62
+- [CoinDesk] Solana Foundation takes majority stake in crypto data provider CoinGecko — https://coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko (2026-11-17T11:29:51.000Z)
+- [Cointelegraph] Solana Foundation takes majority interest in crypto data firm CoinGecko — https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake (2026-11-17T14:45:49.000Z)
+
+## US judge clears brothers in $25M Ethereum MEV case after mistrial
+
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 61
+- [Cointelegraph] US judge clears brothers in $25M Ethereum MEV case after mistrial — https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit (2026-11-17T09:30:05.000Z)
+- [Decrypt] Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution — https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution (2026-11-17T09:27:29.000Z)
 
 ## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
 
@@ -22,16 +46,6 @@ Gerada em 2026-11-17T08:30:09.391Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral — https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral (2026-11-16T16:11:31.000Z)
-
-## Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%
-
-- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
-- [CoinDesk] Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96% — https://coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96 (2026-11-12T07:41:18.000Z)
-
-## Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [The Block] Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration — https://theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494 (2026-11-12T07:27:24.000Z)
 
 ## DTCC Plans Solana Expansion as Wallet Rules Limit Access
 
@@ -138,17 +152,7 @@ Gerada em 2026-11-17T08:30:09.391Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000 — https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083 (2026-11-17T07:39:17.000Z)
 
-## Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor — https://coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor (2026-11-12T05:22:31.000Z)
-
-## South Korea to permit crypto withdrawal freezes during hacking threats
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Cointelegraph] South Korea to permit crypto withdrawal freezes during hacking threats — https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks (2026-11-12T05:54:48.000Z)
-
-## Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more
+## Illinois crypto tax is impossible to enforce as written, crypto industry tells court
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [The Block] Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more — https://theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430 (2026-11-12T04:55:00.000Z)
+- [CoinDesk] Illinois crypto tax is impossible to enforce as written, crypto industry tells court — https://coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court (2026-11-12T16:45:52.000Z)
