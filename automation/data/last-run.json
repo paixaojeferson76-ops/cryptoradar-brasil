@@ -1,31 +1,26 @@
 {
-  "at": "2026-11-18T07:58:34.248Z",
+  "at": "2026-11-19T08:02:13.107Z",
   "auto": [],
   "review": [
     {
-      "slug": "banco-mundial-firma-parceria-com-circle-e-citi-para-testar-repasses-com",
-      "title": "Banco Mundial firma parceria com Circle e Citi para testar repasses com stablecoins",
+      "slug": "solana-foundation-adquire-participacao-majoritaria-na-plataforma-de-dados",
+      "title": "Solana Foundation adquire participação majoritária na plataforma de dados CoinGecko",
       "confidence": "media",
       "sources": [
-        "Decrypt",
-        "The Block"
+        "CoinDesk",
+        "Cointelegraph"
       ]
+    }
+  ],
+  "skipped": [],
+  "errors": [
+    {
+      "headline": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "error": "The operation was aborted due to timeout"
     },
     {
-      "slug": "ark-invest-vende-us-85-milhoes-em-nvidia-e-compra-us-40-milhoes-em-acoes",
-      "title": "ARK Invest vende US$ 85 milhões em Nvidia e compra US$ 40 milhões em ações ligadas a cripto",
-      "confidence": "media",
-      "sources": [
-        "Decrypt",
-        "The Block"
-      ]
+      "headline": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "error": "The operation was aborted due to timeout"
     }
-  ],
-  "skipped": [
-    {
-      "headline": "v31.3: Bitcoin Core 31.3 final",
-      "reason": "As fontes contêm apenas tags de versão e hashes criptográficos do Bitcoin Core (v31.3 e v30.5), sem notas de atualização, detalhes de mudanças ou conteúdo suficiente para produzir uma notícia factual completa de 300 a 600 palavras sem extrapolar as fontes."
-    }
-  ],
-  "errors": []
+  ]
 }

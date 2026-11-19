@@ -1,24 +1,12 @@
 # Pauta de notícias
 
-Gerada em 2026-11-18T07:57:08.637Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-19T07:57:06.043Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## v31.3: Bitcoin Core 31.3 final
+## Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts
 
-- Categoria sugerida: bitcoin | Confiança: alta | Pontos: 98
-- [Bitcoin Core (GitHub)] v31.3: Bitcoin Core 31.3 final — https://github.com/bitcoin/bitcoin/releases/tag/v31.3 (2026-11-17T16:07:18.000Z)
-- [Bitcoin Core (GitHub)] v30.5: Bitcoin Core 30.5 final — https://github.com/bitcoin/bitcoin/releases/tag/v30.5 (2026-11-17T16:26:30.000Z)
-
-## World Bank Taps Circle and Citi to Test Stablecoins for Development Payments
-
-- Categoria sugerida: altcoins | Confiança: media | Pontos: 70
-- [Decrypt] World Bank Taps Circle and Citi to Test Stablecoins for Development Payments — https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments (2026-11-17T20:56:03.000Z)
-- [The Block] World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements — https://theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924 (2026-11-18T04:21:02.000Z)
-
-## Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks
-
-- Categoria sugerida: bitcoin | Confiança: media | Pontos: 69
-- [Decrypt] Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks — https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks (2026-11-17T19:46:03.000Z)
-- [The Block] Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more — https://theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902 (2026-11-18T05:01:00.000Z)
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 77
+- [Cointelegraph] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts — https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027 (2026-11-19T06:00:00.000Z)
+- [The Block] Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers — https://theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547 (2026-11-19T06:00:00.000Z)
 
 ## Solana Foundation takes majority stake in crypto data provider CoinGecko
 
@@ -32,11 +20,6 @@ Gerada em 2026-11-18T07:57:08.637Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] US judge clears brothers in $25M Ethereum MEV case after mistrial — https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit (2026-11-17T09:30:05.000Z)
 - [Decrypt] Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution — https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution (2026-11-17T09:27:29.000Z)
 
-## Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 51
-- [The Block] Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says — https://theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988 (2026-11-12T16:55:52.000Z)
-
 ## Brazil's central bank faces backlash over stablecoin money laundering remarks
 
 - Categoria sugerida: altcoins | Confiança: baixa | Pontos: 50
@@ -46,36 +29,6 @@ Gerada em 2026-11-18T07:57:08.637Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral — https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral (2026-11-16T16:11:31.000Z)
-
-## DTCC Plans Solana Expansion as Wallet Rules Limit Access
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 39
-- [Cointelegraph] DTCC Plans Solana Expansion as Wallet Rules Limit Access — https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access (2026-11-12T20:07:41.000Z)
-
-## Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [CoinDesk] Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy — https://coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy (2026-11-13T07:05:29.000Z)
-
-## Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value — https://coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value (2026-11-13T06:03:41.000Z)
-
-## Bitcoin ETFs are now down over $1.5 billion in net outflows for the year
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin ETFs are now down over $1.5 billion in net outflows for the year — https://coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year (2026-11-13T05:45:26.000Z)
-
-## Bitcoin slides below $70K amid thin liquidity, ETF outflows
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin slides below $70K amid thin liquidity, ETF outflows — https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear (2026-11-13T06:00:15.000Z)
-
-## Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters — https://theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643 (2026-11-13T06:23:43.000Z)
 
 ## Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters
 
@@ -152,7 +105,52 @@ Gerada em 2026-11-18T07:57:08.637Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000 — https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083 (2026-11-17T07:39:17.000Z)
 
-## Illinois crypto tax is impossible to enforce as written, crypto industry tells court
+## Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms — https://coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms (2026-11-13T16:01:27.000Z)
+
+## Bitcoin holds below $70K as stocks slip despite a cooler US PPI print
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Bitcoin holds below $70K as stocks slip despite a cooler US PPI print — https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print (2026-11-13T16:39:11.000Z)
+
+## Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [CoinDesk] Illinois crypto tax is impossible to enforce as written, crypto industry tells court — https://coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court (2026-11-12T16:45:52.000Z)
+- [Decrypt] Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators — https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto (2026-11-13T17:56:03.000Z)
+
+## Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [Decrypt] Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally — https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally (2026-11-13T17:22:54.000Z)
+
+## Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [CoinDesk] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 — https://coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011 (2026-11-14T04:30:00.000Z)
+
+## Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave — https://coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst (2026-11-14T16:33:29.000Z)
+
+## Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [CoinDesk] Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business — https://coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business (2026-11-14T16:33:23.000Z)
+
+## Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [CoinDesk] Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale — https://coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale (2026-11-14T15:38:27.000Z)
+
+## UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 38
+- [CoinDesk] UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground — https://coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground (2026-11-14T15:00:00.000Z)
+
+## What Is Canton Network? The Privacy Blockchain Built for Wall Street
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [Decrypt] What Is Canton Network? The Privacy Blockchain Built for Wall Street — https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street (2026-11-14T16:01:02.000Z)
