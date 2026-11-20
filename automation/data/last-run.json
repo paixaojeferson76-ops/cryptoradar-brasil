@@ -1,21 +1,21 @@
 {
-  "at": "2026-11-19T08:02:13.107Z",
+  "at": "2026-11-20T20:51:00.526Z",
   "auto": [],
   "review": [
     {
-      "slug": "solana-foundation-adquire-participacao-majoritaria-na-plataforma-de-dados",
-      "title": "Solana Foundation adquire participação majoritária na plataforma de dados CoinGecko",
+      "slug": "sygnum-preve-que-carry-trade-de-bitcoin-superara-titulos-do-tesouro-dos-eua-em",
+      "title": "Sygnum prevê que 'carry trade' de Bitcoin superará títulos do Tesouro dos EUA em 2027",
       "confidence": "media",
       "sources": [
-        "CoinDesk",
-        "Cointelegraph"
+        "Cointelegraph",
+        "The Block"
       ]
     }
   ],
   "skipped": [],
   "errors": [
     {
-      "headline": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "headline": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
       "error": "The operation was aborted due to timeout"
     },
     {

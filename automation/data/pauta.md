@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-19T07:57:06.043Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-20T20:44:38.647Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts
 
@@ -8,17 +8,22 @@ Gerada em 2026-11-19T07:57:06.043Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts — https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027 (2026-11-19T06:00:00.000Z)
 - [The Block] Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers — https://theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547 (2026-11-19T06:00:00.000Z)
 
-## Solana Foundation takes majority stake in crypto data provider CoinGecko
+## MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business
 
-- Categoria sugerida: altcoins | Confiança: media | Pontos: 62
-- [CoinDesk] Solana Foundation takes majority stake in crypto data provider CoinGecko — https://coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko (2026-11-17T11:29:51.000Z)
-- [Cointelegraph] Solana Foundation takes majority interest in crypto data firm CoinGecko — https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake (2026-11-17T14:45:49.000Z)
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 71
+- [Decrypt] MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business — https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business (2026-11-20T12:10:14.000Z)
+- [The Block] MoonPay applies for national trust bank charter to expand stablecoin services — https://theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198 (2026-11-20T10:39:09.000Z)
 
 ## US judge clears brothers in $25M Ethereum MEV case after mistrial
 
 - Categoria sugerida: ethereum | Confiança: media | Pontos: 61
 - [Cointelegraph] US judge clears brothers in $25M Ethereum MEV case after mistrial — https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit (2026-11-17T09:30:05.000Z)
 - [Decrypt] Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution — https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution (2026-11-17T09:27:29.000Z)
+
+## SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors
+
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 52
+- [SEC (EUA)] SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors — https://sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors (2026-11-19T14:39:02.000Z)
 
 ## Brazil's central bank faces backlash over stablecoin money laundering remarks
 
@@ -29,36 +34,6 @@ Gerada em 2026-11-19T07:57:06.043Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
 - [Decrypt] DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral — https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral (2026-11-16T16:11:31.000Z)
-
-## Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters — https://coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off (2026-11-13T18:39:58.000Z)
-
-## Metaplanet swings to $170M loss as Bitcoin sale hits earnings
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Metaplanet swings to $170M loss as Bitcoin sale hits earnings — https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings (2026-11-13T18:28:29.000Z)
-
-## Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Decrypt] Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact — https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin (2026-11-13T18:36:02.000Z)
-
-## Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions — https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak (2026-11-14T06:33:13.000Z)
-
-## Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [The Block] Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding — https://theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337 (2026-11-14T17:50:41.000Z)
-
-## ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
-- [Livecoins] ABToken solicita esclarecimentos sobre declarações atribuídas ao Banco Central e defende avaliação técnica das operações com stablecoins — https://livecoins.com.br/abtoken-solicita-esclarecimentos-sobre-declaracoes-atribuidas-ao-banco-central-e-defende-avaliacao-tecnica-das-operacoes-com-stablecoins (2026-11-14T16:49:42.000Z)
 
 ## Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid
 
@@ -105,52 +80,77 @@ Gerada em 2026-11-19T07:57:06.043Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000 — https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083 (2026-11-17T07:39:17.000Z)
 
-## Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms
+## Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit
 
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms — https://coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms (2026-11-13T16:01:27.000Z)
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit — https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit (2026-11-20T19:37:27.000Z)
 
-## Bitcoin holds below $70K as stocks slip despite a cooler US PPI print
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Bitcoin holds below $70K as stocks slip despite a cooler US PPI print — https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print (2026-11-13T16:39:11.000Z)
-
-## Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Decrypt] Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators — https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto (2026-11-13T17:56:03.000Z)
-
-## Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally
+## XRP crashes to its lowest since November 2024 as money leaves crypto
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [Decrypt] Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally — https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally (2026-11-13T17:22:54.000Z)
+- [CoinDesk] XRP crashes to its lowest since November 2024 as money leaves crypto — https://coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto (2026-11-15T02:50:57.000Z)
 
-## Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011
+## Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [CoinDesk] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 — https://coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011 (2026-11-14T04:30:00.000Z)
+- [Portal do Bitcoin] Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda — https://portaldobitcoin.uol.com.br/regulacao-cripto-banco-central-pode-levar-ate-3-anos-para-aprovar-exchanges-entenda (2026-11-15T17:13:00.000Z)
 
-## Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave
+## Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000
 
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave — https://coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst (2026-11-14T16:33:29.000Z)
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000 — https://coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000 (2026-11-16T05:01:17.000Z)
 
-## Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business
+## Aster CEO suspects foul play after token plunges 32% in minutes
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Aster CEO suspects foul play after token plunges 32% in minutes — https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes (2026-11-16T05:28:40.000Z)
+
+## Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off — https://coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off (2026-11-16T20:35:21.000Z)
+
+## Boris Johnson says UK must lead blockchain development despite crypto doubts
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Boris Johnson says UK must lead blockchain development despite crypto doubts — https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts (2026-11-16T20:18:02.000Z)
+
+## Coinbase and Broadridge propose standard for tokenized stock disclosures
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Coinbase and Broadridge propose standard for tokenized stock disclosures — https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices (2026-11-16T19:56:18.000Z)
+
+## Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [CoinDesk] Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business — https://coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business (2026-11-14T16:33:23.000Z)
+- [Decrypt] Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip — https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys (2026-11-16T20:36:03.000Z)
 
-## Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale
+## Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief
 
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [CoinDesk] Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale — https://coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale (2026-11-14T15:38:27.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [Decrypt] Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief — https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief (2026-11-16T19:36:03.000Z)
 
-## UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 38
-- [CoinDesk] UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground — https://coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground (2026-11-14T15:00:00.000Z)
-
-## What Is Canton Network? The Privacy Blockchain Built for Wall Street
+## Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps
 
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [Decrypt] What Is Canton Network? The Privacy Blockchain Built for Wall Street — https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street (2026-11-14T16:01:02.000Z)
+- [The Block] Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps — https://theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432 (2026-11-16T20:44:01.000Z)
+
+## Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [The Block] Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case — https://theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425 (2026-11-16T20:30:37.000Z)
+
+## Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion — https://coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion (2026-11-17T05:37:23.000Z)
+
+## Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme — https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud (2026-11-17T06:35:19.000Z)
+
+## Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [The Block] Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia — https://theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080 (2026-11-17T06:35:02.000Z)
