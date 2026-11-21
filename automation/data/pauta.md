@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-20T20:44:38.647Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts
-
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 77
-- [Cointelegraph] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts — https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027 (2026-11-19T06:00:00.000Z)
-- [The Block] Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers — https://theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547 (2026-11-19T06:00:00.000Z)
+Gerada em 2026-11-21T19:48:07.481Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business
 
@@ -85,16 +79,6 @@ Gerada em 2026-11-20T20:44:38.647Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit — https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit (2026-11-20T19:37:27.000Z)
 
-## XRP crashes to its lowest since November 2024 as money leaves crypto
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] XRP crashes to its lowest since November 2024 as money leaves crypto — https://coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto (2026-11-15T02:50:57.000Z)
-
-## Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Portal do Bitcoin] Regulação cripto: Banco Central pode levar até 3 anos para aprovar exchanges; entenda — https://portaldobitcoin.uol.com.br/regulacao-cripto-banco-central-pode-levar-ate-3-anos-para-aprovar-exchanges-entenda (2026-11-15T17:13:00.000Z)
-
 ## Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
@@ -154,3 +138,18 @@ Gerada em 2026-11-20T20:44:38.647Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
 - [The Block] Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia — https://theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080 (2026-11-17T06:35:02.000Z)
+
+## U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [CoinDesk] U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud — https://coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud (2026-11-18T05:30:10.000Z)
+
+## Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin's 12% slide through key support looks scary, but history says give it 3 months. — https://coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record (2026-11-18T04:34:21.000Z)
+
+## Ethereum block builders received the most in a $3.4 million vault hack, data shows
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [CoinDesk] Ethereum block builders received the most in a $3.4 million vault hack, data shows — https://coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows (2026-11-19T05:39:06.000Z)

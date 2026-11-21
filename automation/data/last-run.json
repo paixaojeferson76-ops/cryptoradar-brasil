@@ -1,25 +1,30 @@
 {
-  "at": "2026-11-20T20:51:00.526Z",
+  "at": "2026-11-21T19:54:40.070Z",
   "auto": [],
   "review": [
     {
-      "slug": "sygnum-preve-que-carry-trade-de-bitcoin-superara-titulos-do-tesouro-dos-eua-em",
-      "title": "Sygnum prevê que 'carry trade' de Bitcoin superará títulos do Tesouro dos EUA em 2027",
+      "slug": "moonpay-solicita-licenca-bancaria-nos-estados-unidos-para-ampliar-custodia-e",
+      "title": "MoonPay solicita licença bancária nos Estados Unidos para ampliar custódia e serviços com stablecoins",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "The Block"
+      ]
+    },
+    {
+      "slug": "justica-dos-eua-absolve-irmaos-acusados-de-exploracao-de-us-25-milhoes-em-bots",
+      "title": "Justiça dos EUA absolve irmãos acusados de exploração de US$ 25 milhões em bots no Ethereum",
       "confidence": "media",
       "sources": [
         "Cointelegraph",
-        "The Block"
+        "Decrypt"
       ]
     }
   ],
   "skipped": [],
   "errors": [
     {
-      "headline": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
-      "headline": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "headline": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
       "error": "The operation was aborted due to timeout"
     }
   ]
