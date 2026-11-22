@@ -1,21 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-22T07:28:09.663Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 52
-- [SEC (EUA)] SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors — https://sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors (2026-11-19T14:39:02.000Z)
-
-## Brazil's central bank faces backlash over stablecoin money laundering remarks
-
-- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 50
-- [CoinDesk] Brazil's central bank faces backlash over stablecoin money laundering remarks — https://coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks (2026-11-16T15:54:11.000Z)
-
-## DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 50
-- [Decrypt] DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral — https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral (2026-11-16T16:11:31.000Z)
+Gerada em 2026-11-22T19:59:08.799Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid
 
@@ -67,6 +52,11 @@ Gerada em 2026-11-22T07:28:09.663Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit — https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit (2026-11-20T19:37:27.000Z)
 
+## Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [The Block] Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty — https://theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829 (2026-11-22T18:58:57.000Z)
+
 ## Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
@@ -77,20 +67,10 @@ Gerada em 2026-11-22T07:28:09.663Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Boris Johnson says UK must lead blockchain development despite crypto doubts — https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts (2026-11-16T20:18:02.000Z)
 
-## Coinbase and Broadridge propose standard for tokenized stock disclosures
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Coinbase and Broadridge propose standard for tokenized stock disclosures — https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices (2026-11-16T19:56:18.000Z)
-
 ## Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
 - [Decrypt] Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip — https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys (2026-11-16T20:36:03.000Z)
-
-## Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Decrypt] Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief — https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief (2026-11-16T19:36:03.000Z)
 
 ## Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps
 
@@ -151,3 +131,23 @@ Gerada em 2026-11-22T07:28:09.663Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [Cointelegraph] Binance hackers stole 192 tokens across 11 networks, court docs show — https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks (2026-11-19T05:09:45.000Z)
+
+## Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [The Block] Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more — https://theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511 (2026-11-19T06:00:00.000Z)
+
+## Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play — https://coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play (2026-11-20T18:13:52.000Z)
+
+## Bitcoin falls below $60K for first time since July amid broader market selloff
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Bitcoin falls below $60K for first time since July amid broader market selloff — https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff (2026-11-20T16:55:51.000Z)
+
+## Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
+
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
+- [Decrypt] Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure — https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure (2026-11-20T18:46:03.000Z)
