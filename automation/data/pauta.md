@@ -1,18 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-21T19:48:07.481Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business
-
-- Categoria sugerida: altcoins | Confiança: media | Pontos: 71
-- [Decrypt] MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business — https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business (2026-11-20T12:10:14.000Z)
-- [The Block] MoonPay applies for national trust bank charter to expand stablecoin services — https://theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198 (2026-11-20T10:39:09.000Z)
-
-## US judge clears brothers in $25M Ethereum MEV case after mistrial
-
-- Categoria sugerida: ethereum | Confiança: media | Pontos: 61
-- [Cointelegraph] US judge clears brothers in $25M Ethereum MEV case after mistrial — https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit (2026-11-17T09:30:05.000Z)
-- [Decrypt] Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution — https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution (2026-11-17T09:27:29.000Z)
+Gerada em 2026-11-22T07:28:09.663Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors
 
@@ -79,16 +67,6 @@ Gerada em 2026-11-21T19:48:07.481Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [Cointelegraph] Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit — https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit (2026-11-20T19:37:27.000Z)
 
-## Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000 — https://coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000 (2026-11-16T05:01:17.000Z)
-
-## Aster CEO suspects foul play after token plunges 32% in minutes
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Aster CEO suspects foul play after token plunges 32% in minutes — https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes (2026-11-16T05:28:40.000Z)
-
 ## Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
@@ -153,3 +131,23 @@ Gerada em 2026-11-21T19:48:07.481Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
 - [CoinDesk] Ethereum block builders received the most in a $3.4 million vault hack, data shows — https://coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows (2026-11-19T05:39:06.000Z)
+
+## Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal — https://coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal (2026-11-19T04:46:10.000Z)
+
+## CZ says tokenized Anthropic is coming to BNB Chain on IPO day
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
+- [CoinDesk] CZ says tokenized Anthropic is coming to BNB Chain on IPO day — https://coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day (2026-11-19T03:40:48.000Z)
+
+## Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight — https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers (2026-11-19T05:27:45.000Z)
+
+## Binance hackers stole 192 tokens across 11 networks, court docs show
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [Cointelegraph] Binance hackers stole 192 tokens across 11 networks, court docs show — https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks (2026-11-19T05:09:45.000Z)

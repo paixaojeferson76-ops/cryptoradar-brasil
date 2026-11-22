@@ -1,99 +1,6 @@
 {
-  "updatedAt": "2026-11-21T19:48:07.481Z",
+  "updatedAt": "2026-11-22T07:28:09.663Z",
   "stories": [
-    {
-      "id": "moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and",
-      "headline": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-      "category": "altcoins",
-      "tags": [
-        "stablecoins"
-      ],
-      "firstSeen": "2026-11-20T10:39:09.000Z",
-      "publishers": [
-        "Decrypt",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-          "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-          "date": "2026-11-20T12:10:14.000Z",
-          "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
-          "url": "https://theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
-          "date": "2026-11-20T10:39:09.000Z",
-          "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 71,
-      "status": "gerada",
-      "slug": "moonpay-solicita-licenca-bancaria-nos-estados-unidos-para-ampliar-custodia-e"
-    },
-    {
-      "id": "us-judge-clears-brothers-in-25m-ethereum-mev-case-after-mistrial",
-      "headline": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum",
-        "regulação"
-      ],
-      "firstSeen": "2026-11-17T09:27:29.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-          "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
-          "date": "2026-11-17T09:30:05.000Z",
-          "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws."
-        },
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-          "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-          "date": "2026-11-17T09:27:29.000Z",
-          "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 61,
-      "status": "gerada",
-      "slug": "justica-dos-eua-absolve-irmaos-acusados-de-exploracao-de-us-25-milhoes-em-bots"
-    },
     {
       "id": "sec-eight-entities-used-fake-crypto-asset-trading-platforms-to-steal",
       "headline": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
@@ -126,7 +33,8 @@
         "reasons": []
       },
       "score": 52,
-      "status": "pendente"
+      "status": "pulada",
+      "note": "A fonte fornecida está truncada e contém apenas um resumo preliminar com poucas informações, o que inviabiliza a redação de uma reportagem completa de 300 a 600 palavras sem violar a regra de não inventar fatos ou detalhes adicionais."
     },
     {
       "id": "brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering",
@@ -526,70 +434,6 @@
         "reasons": []
       },
       "score": 39,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-s-biggest-bet-is-now-a-drop-below-60-000-not-a-rally-above",
-      "headline": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-16T05:01:17.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-          "url": "https://coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-          "date": "2026-11-16T05:01:17.000Z",
-          "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
-      "status": "pendente"
-    },
-    {
-      "id": "aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
-      "headline": "Aster CEO suspects foul play after token plunges 32% in minutes",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-16T05:28:40.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-          "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
-          "date": "2026-11-16T05:28:40.000Z",
-          "summary": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 38,
       "status": "pendente"
     },
     {
@@ -1530,40 +1374,6 @@
       "status": "pendente"
     },
     {
-      "id": "luxor-ceo-warns-of-ai-dark-forest-following-bitcoin-miner-hijack",
-      "headline": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-16T02:33:07.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-          "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
-          "date": "2026-11-16T02:33:07.000Z",
-          "summary": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 37,
-      "status": "pendente"
-    },
-    {
       "id": "lighter-suspends-all-withdrawals-after-10-4-million-crypto-exploit",
       "headline": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
       "category": "seguranca",
@@ -2219,72 +2029,6 @@
         "reasons": []
       },
       "score": 37,
-      "status": "pendente"
-    },
-    {
-      "id": "us-sellers-drive-bitcoin-crash-jensen-plots-nvidia-comeback-hodler-s",
-      "headline": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-15T22:50:59.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-          "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
-          "date": "2026-11-15T22:50:59.000Z",
-          "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
-      "status": "pendente"
-    },
-    {
-      "id": "cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low",
-      "headline": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-15T21:57:53.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-          "url": "https://theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-          "date": "2026-11-15T21:57:53.000Z",
-          "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 36,
       "status": "pendente"
     },
     {
@@ -9217,39 +8961,6 @@
       "status": "pendente"
     },
     {
-      "id": "dia-do-joalheiro-programa-sp-produz-reconhece-cadeias-produtivas-do",
-      "headline": "Dia do Joalheiro: Programa SP Produz reconhece cadeias produtivas do setor que movimenta a economia",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-15T21:33:45.000Z",
-      "publishers": [
-        "Livecoins"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "livecoins",
-          "publisher": "Livecoins",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Dia do Joalheiro: Programa SP Produz reconhece cadeias produtivas do setor que movimenta a economia",
-          "url": "https://livecoins.com.br/dia-do-joalheiro-programa-sp-produz-reconhece-cadeias-produtivas-do-setor-que-movimenta-a-economia",
-          "date": "2026-11-15T21:33:45.000Z",
-          "summary": "Estado tem ao menos dois polos de fabricação de folheados e joias em ouro e prata, que geram emprego, renda e desenvolvimento regional Fonte: Dia do Joalheiro: Programa SP Produz reconhece cadeias produtivas do setor que movimenta a economia Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 23,
-      "status": "pendente"
-    },
-    {
       "id": "supreme-court-ends-custodia-bank-s-fight-for-a-fed-master-account",
       "headline": "Supreme Court Ends Custodia Bank's Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
       "category": "regulacao",
@@ -11777,80 +11488,14 @@
       "status": "pendente"
     },
     {
-      "id": "cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-4-86",
-      "headline": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "id": "chainflip-confirms-12m-hack-offers-attacker-10-bounty",
+      "headline": "Chainflip confirms $12M hack, offers attacker 10% bounty",
       "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-11-21T16:41:00.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-          "url": "https://coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-          "date": "2026-11-21T16:41:00.000Z",
-          "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down",
-      "headline": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-20T22:51:14.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-          "url": "https://coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-          "date": "2026-11-20T22:51:14.000Z",
-          "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "us-lawmakers-propose-up-to-30-rewards-for-prediction-market",
-      "headline": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "category": "regulacao",
       "tags": [
         "regulação",
         "segurança"
       ],
-      "firstSeen": "2026-11-21T07:51:47.000Z",
+      "firstSeen": "2026-11-22T05:28:43.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -11862,10 +11507,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-          "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent",
-          "date": "2026-11-21T07:51:47.000Z",
-          "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties."
+          "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+          "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+          "date": "2026-11-22T05:28:43.000Z",
+          "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
         }
       ],
       "validation": {
@@ -11879,112 +11524,11 @@
       "status": "descartada"
     },
     {
-      "id": "gta-6-leaker-dangles-a-pc-port-behind-a-15-million-crypto-pump",
-      "headline": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-      "category": "tecnologia",
+      "id": "kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down",
+      "headline": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-11-21T18:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-          "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-          "date": "2026-11-21T18:01:02.000Z",
-          "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "signal-calls-os-level-ai-an-existential-threat-and-blocks-screenshots",
-      "headline": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-      "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-21T16:01:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-          "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
-          "date": "2026-11-21T16:01:02.000Z",
-          "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "claude-claims-historic-math-breakthrough-one-day-after-anthropic-ipo",
-      "headline": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-      "category": "tecnologia",
-      "tags": [],
-      "firstSeen": "2026-11-20T21:36:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-          "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
-          "date": "2026-11-20T21:36:02.000Z",
-          "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "cyber-investigating-suspected-1-million-bridge-exploit-as-upbit",
-      "headline": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-11-21T18:51:14.000Z",
+      "firstSeen": "2026-11-21T21:17:36.000Z",
       "publishers": [
         "The Block"
       ],
@@ -11996,10 +11540,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-          "url": "https://theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-          "date": "2026-11-21T18:51:14.000Z",
-          "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident."
+          "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+          "url": "https://theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+          "date": "2026-11-21T21:17:36.000Z",
+          "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal."
         }
       ],
       "validation": {
@@ -12007,77 +11551,6 @@
         "confidence": "baixa",
         "reasons": [
           "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "dcg-s-zcash-miner-fortitude-clears-vote-for-nasdaq-listing-as-zec",
-      "headline": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
-      "category": "mercado",
-      "tags": [
-        "mineração"
-      ],
-      "firstSeen": "2026-11-20T21:40:01.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
-          "url": "https://theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
-          "date": "2026-11-20T21:40:01.000Z",
-          "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "por-que-mineradoras-estao-vendendo-bilhoes-em-bitcoin-para-investir",
-      "headline": "Por que mineradoras estão vendendo bilhões em Bitcoin para investir em inteligência artificial?",
-      "category": "mineracao",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-21T17:59:00.000Z",
-      "publishers": [
-        "Portal do Bitcoin"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "portaldobitcoin",
-          "publisher": "Portal do Bitcoin",
-          "type": "media",
-          "weight": 1,
-          "lang": "pt",
-          "title": "Por que mineradoras estão vendendo bilhões em Bitcoin para investir em inteligência artificial?",
-          "url": "https://portaldobitcoin.uol.com.br/por-que-mineradoras-estao-vendendo-bilhoes-em-bitcoin-para-investir-em-inteligencia-artificial",
-          "date": "2026-11-21T17:59:00.000Z",
-          "summary": "Gigantes de mineração levantaram cerca de US$ 4,5 bilhões com vendas de Bitcoin para reduzir dívidas e ampliar infraestrutura de data centers O post Por que mineradoras estão vendendo bilhões em Bitcoin para investir em inteligência artificial? apareceu primeiro em Portal do Bitcoin ."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "parece rumor/especulação"
         ]
       },
       "score": 0,

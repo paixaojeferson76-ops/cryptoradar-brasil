@@ -1,31 +1,12 @@
 {
-  "at": "2026-11-21T19:54:40.070Z",
+  "at": "2026-11-22T07:31:05.177Z",
   "auto": [],
-  "review": [
-    {
-      "slug": "moonpay-solicita-licenca-bancaria-nos-estados-unidos-para-ampliar-custodia-e",
-      "title": "MoonPay solicita licença bancária nos Estados Unidos para ampliar custódia e serviços com stablecoins",
-      "confidence": "media",
-      "sources": [
-        "Decrypt",
-        "The Block"
-      ]
-    },
-    {
-      "slug": "justica-dos-eua-absolve-irmaos-acusados-de-exploracao-de-us-25-milhoes-em-bots",
-      "title": "Justiça dos EUA absolve irmãos acusados de exploração de US$ 25 milhões em bots no Ethereum",
-      "confidence": "media",
-      "sources": [
-        "Cointelegraph",
-        "Decrypt"
-      ]
-    }
-  ],
-  "skipped": [],
-  "errors": [
+  "review": [],
+  "skipped": [
     {
       "headline": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
-      "error": "The operation was aborted due to timeout"
+      "reason": "A fonte fornecida está truncada e contém apenas um resumo preliminar com poucas informações, o que inviabiliza a redação de uma reportagem completa de 300 a 600 palavras sem violar a regra de não inventar fatos ou detalhes adicionais."
     }
-  ]
+  ],
+  "errors": []
 }
