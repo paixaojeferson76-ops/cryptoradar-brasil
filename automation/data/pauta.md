@@ -1,51 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-22T19:59:08.799Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid — https://coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid (2026-11-16T21:51:04.000Z)
-
-## Binance hack may push institutions to outside custody, FalconX exec says
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Binance hack may push institutions to outside custody, FalconX exec says — https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx (2026-11-16T22:19:41.000Z)
-
-## Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump — https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump (2026-11-16T20:45:47.000Z)
-
-## Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again — https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data (2026-11-16T22:18:03.000Z)
-
-## Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [Decrypt] Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 — https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000 (2026-11-16T21:46:03.000Z)
-
-## Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Decrypt] Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says — https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor (2026-11-16T21:16:03.000Z)
-
-## Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says — https://coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says (2026-11-17T07:38:07.000Z)
-
-## Cardano Foundation seeks $5 million from treasury using ADA price 33% above market
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
-- [CoinDesk] Cardano Foundation seeks $5 million from treasury using ADA price 33% above market — https://coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market (2026-11-17T06:54:49.000Z)
-
-## Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
-- [The Block] Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000 — https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083 (2026-11-17T07:39:17.000Z)
+Gerada em 2026-11-23T08:15:14.076Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit
 
@@ -57,45 +12,20 @@ Gerada em 2026-11-22T19:59:08.799Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
 - [The Block] Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty — https://theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829 (2026-11-22T18:58:57.000Z)
 
-## Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+## Crypto thieves are using online ads to infect iPhones with a single tap, research finds
 
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off — https://coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off (2026-11-16T20:35:21.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] Crypto thieves are using online ads to infect iPhones with a single tap, research finds — https://coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows (2026-11-23T07:45:30.000Z)
 
-## Boris Johnson says UK must lead blockchain development despite crypto doubts
+## This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack
 
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Boris Johnson says UK must lead blockchain development despite crypto doubts — https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts (2026-11-16T20:18:02.000Z)
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [CoinDesk] This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack — https://coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack (2026-11-23T07:18:45.000Z)
 
-## Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
+## Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings
 
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [Decrypt] Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip — https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys (2026-11-16T20:36:03.000Z)
-
-## Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [The Block] Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps — https://theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432 (2026-11-16T20:44:01.000Z)
-
-## Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [The Block] Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case — https://theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425 (2026-11-16T20:30:37.000Z)
-
-## Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion — https://coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion (2026-11-17T05:37:23.000Z)
-
-## Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme — https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud (2026-11-17T06:35:19.000Z)
-
-## Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [The Block] Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia — https://theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080 (2026-11-17T06:35:02.000Z)
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [The Block] Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings — https://theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866 (2026-11-23T07:12:52.000Z)
 
 ## U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
 
@@ -151,3 +81,73 @@ Gerada em 2026-11-22T19:59:08.799Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
 - [Decrypt] Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure — https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure (2026-11-20T18:46:03.000Z)
+
+## Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Decrypt] Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host — https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host (2026-11-20T17:41:45.000Z)
+
+## Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
+
+- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
+- [Decrypt] Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February — https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest (2026-11-20T16:35:59.000Z)
+
+## Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [The Block] Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic — https://theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758 (2026-11-20T18:22:39.000Z)
+
+## JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [The Block] JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost — https://theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763 (2026-11-20T18:17:39.000Z)
+
+## Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [Livecoins] Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos — https://livecoins.com.br/flavio-dino-da-prazo-ate-janeiro-para-cvm-e-banco-central-unirem-regulacao-sobre-tokenizacao-e-criptoativos (2026-11-20T18:14:45.000Z)
+
+## Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open — https://coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open (2026-11-21T17:50:00.000Z)
+
+## Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
+- [Decrypt] Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges — https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec (2026-11-21T17:01:02.000Z)
+
+## Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand — https://coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand (2026-11-23T05:42:22.000Z)
+
+## Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [The Block] Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts — https://theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857 (2026-11-23T05:47:21.000Z)
+
+## Ledger hardware implant saga reaches Dubai’s Virgin Megastore
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 37
+- [Cointelegraph] Ledger hardware implant saga reaches Dubai’s Virgin Megastore — https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore (2026-11-18T02:39:52.000Z)
+
+## Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 37
+- [The Block] Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability — https://theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964 (2026-11-19T02:30:00.000Z)
+
+## Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
+- [CoinDesk] Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians — https://coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians (2026-11-20T14:38:30.000Z)
+
+## Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
+- [Cointelegraph] Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off — https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off (2026-11-20T15:52:06.000Z)
+
+## DBS bets it can lose the deposit and keep the client
+
+- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 37
+- [Cointelegraph] DBS bets it can lose the deposit and keep the client — https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client (2026-11-20T15:32:30.000Z)
