@@ -1,6 +1,23 @@
 # Pauta de notícias
 
-Gerada em 2026-11-23T08:15:14.076Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-24T00:23:05.750Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## Solo bitcoin miner beats the odds to win $191,000 block reward
+
+- Categoria sugerida: mineracao | Confiança: media | Pontos: 58
+- [The Block] Solo bitcoin miner beats the odds to win $191,000 block reward — https://theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919 (2026-11-23T13:37:02.000Z)
+- [Bitcoin Magazine] Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s — https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward (2026-11-23T17:25:00.000Z)
+
+## Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 57
+- [The Block] Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000 — https://theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842 (2026-11-23T12:05:02.000Z)
+- [Bitcoin Magazine] Cross River Bank Launches Its First Bitcoin-Backed Loans With LendingUSA — https://bitcoinmagazine.com/news/cross-river-bank-bitcoin-backed-loans (2026-11-23T15:45:00.000Z)
+
+## PQAI #0: Preparing Ethereum for a post-quantum, post-AI world
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 56
+- [Ethereum Foundation Blog] PQAI #0: Preparing Ethereum for a post-quantum, post-AI world — https://blog.ethereum.org/en/2026/11/23/pqai-0 (2026-11-23T00:00:00.000Z)
 
 ## Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit
 
@@ -26,6 +43,11 @@ Gerada em 2026-11-23T08:15:14.076Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
 - [The Block] Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings — https://theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866 (2026-11-23T07:12:52.000Z)
+
+## CFTC staff say exchanges can count Bitcoin toward operating reserves
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] CFTC staff say exchanges can count Bitcoin toward operating reserves — https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves (2026-11-23T23:43:34.000Z)
 
 ## U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
 
@@ -127,27 +149,7 @@ Gerada em 2026-11-23T08:15:14.076Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
 - [The Block] Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts — https://theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857 (2026-11-23T05:47:21.000Z)
 
-## Ledger hardware implant saga reaches Dubai’s Virgin Megastore
+## US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
 
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Ledger hardware implant saga reaches Dubai’s Virgin Megastore — https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore (2026-11-18T02:39:52.000Z)
-
-## Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 37
-- [The Block] Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability — https://theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964 (2026-11-19T02:30:00.000Z)
-
-## Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 37
-- [CoinDesk] Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians — https://coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians (2026-11-20T14:38:30.000Z)
-
-## Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 37
-- [Cointelegraph] Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off — https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off (2026-11-20T15:52:06.000Z)
-
-## DBS bets it can lose the deposit and keep the client
-
-- Categoria sugerida: tecnologia | Confiança: baixa | Pontos: 37
-- [Cointelegraph] DBS bets it can lose the deposit and keep the client — https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client (2026-11-20T15:32:30.000Z)
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Cointelegraph] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack — https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack (2026-11-23T21:04:03.000Z)

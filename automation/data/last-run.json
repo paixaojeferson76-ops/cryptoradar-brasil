@@ -1,7 +1,25 @@
 {
-  "at": "2026-11-23T08:15:16.590Z",
+  "at": "2026-11-24T00:32:03.525Z",
   "auto": [],
-  "review": [],
+  "review": [
+    {
+      "slug": "ethereum-foundation-planeja-transicao-na-rede-para-enfrentar-riscos-de-ia-e",
+      "title": "Ethereum Foundation planeja transição na rede para enfrentar riscos de IA e computação quântica",
+      "confidence": "alta",
+      "sources": [
+        "Ethereum Foundation Blog"
+      ]
+    }
+  ],
   "skipped": [],
-  "errors": []
+  "errors": [
+    {
+      "headline": "Solo bitcoin miner beats the odds to win $191,000 block reward",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "headline": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
 }
