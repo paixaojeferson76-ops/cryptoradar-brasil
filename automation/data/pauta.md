@@ -1,6 +1,12 @@
 # Pauta de notícias
 
-Gerada em 2026-11-24T00:23:05.750Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-25T09:10:47.628Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+
+## BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong
+
+- Categoria sugerida: blockchain | Confiança: media | Pontos: 63
+- [Cointelegraph] BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong — https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong (2026-11-24T18:07:22.000Z)
+- [The Block] BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors — https://theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524 (2026-11-24T13:17:35.000Z)
 
 ## Solo bitcoin miner beats the odds to win $191,000 block reward
 
@@ -14,10 +20,16 @@ Gerada em 2026-11-24T00:23:05.750Z. Fontes servem só para descobrir o fato: esc
 - [The Block] Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000 — https://theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842 (2026-11-23T12:05:02.000Z)
 - [Bitcoin Magazine] Cross River Bank Launches Its First Bitcoin-Backed Loans With LendingUSA — https://bitcoinmagazine.com/news/cross-river-bank-bitcoin-backed-loans (2026-11-23T15:45:00.000Z)
 
-## PQAI #0: Preparing Ethereum for a post-quantum, post-AI world
+## Ethereum Foundation doubles protocol security team ahead of overhaul
 
-- Categoria sugerida: ethereum | Confiança: alta | Pontos: 56
-- [Ethereum Foundation Blog] PQAI #0: Preparing Ethereum for a post-quantum, post-AI world — https://blog.ethereum.org/en/2026/11/23/pqai-0 (2026-11-23T00:00:00.000Z)
+- Categoria sugerida: ethereum | Confiança: media | Pontos: 53
+- [Cointelegraph] Ethereum Foundation doubles protocol security team ahead of overhaul — https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul (2026-11-24T00:36:26.000Z)
+- [The Block] Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum — https://theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497 (2026-11-24T11:53:31.000Z)
+
+## PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 50
+- [Ethereum Foundation Blog] PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era — https://blog.ethereum.org/en/2026/11/24/pqai-1 (2026-11-24T00:00:00.000Z)
 
 ## Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit
 
@@ -49,45 +61,15 @@ Gerada em 2026-11-24T00:23:05.750Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
 - [Cointelegraph] CFTC staff say exchanges can count Bitcoin toward operating reserves — https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves (2026-11-23T23:43:34.000Z)
 
-## U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+## EU seeks up to $55B for AI and quantum computing fund: Report
 
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [CoinDesk] U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud — https://coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud (2026-11-18T05:30:10.000Z)
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
+- [Cointelegraph] EU seeks up to $55B for AI and quantum computing fund: Report — https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund (2026-11-25T08:40:28.000Z)
 
-## Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+## Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000
 
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin's 12% slide through key support looks scary, but history says give it 3 months. — https://coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record (2026-11-18T04:34:21.000Z)
-
-## Ethereum block builders received the most in a $3.4 million vault hack, data shows
-
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [CoinDesk] Ethereum block builders received the most in a $3.4 million vault hack, data shows — https://coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows (2026-11-19T05:39:06.000Z)
-
-## Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal — https://coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal (2026-11-19T04:46:10.000Z)
-
-## CZ says tokenized Anthropic is coming to BNB Chain on IPO day
-
-- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 38
-- [CoinDesk] CZ says tokenized Anthropic is coming to BNB Chain on IPO day — https://coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day (2026-11-19T03:40:48.000Z)
-
-## Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight — https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers (2026-11-19T05:27:45.000Z)
-
-## Binance hackers stole 192 tokens across 11 networks, court docs show
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Binance hackers stole 192 tokens across 11 networks, court docs show — https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks (2026-11-19T05:09:45.000Z)
-
-## Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [The Block] Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more — https://theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511 (2026-11-19T06:00:00.000Z)
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [The Block] Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000 — https://theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109 (2026-11-25T07:26:57.000Z)
 
 ## Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 
@@ -153,3 +135,23 @@ Gerada em 2026-11-24T00:23:05.750Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
 - [Cointelegraph] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack — https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack (2026-11-23T21:04:03.000Z)
+
+## North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Decrypt] North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers — https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers (2026-11-23T20:36:02.000Z)
+
+## Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [The Block] Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook — https://theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418 (2026-11-23T22:18:02.000Z)
+
+## Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive — https://coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive (2026-11-25T04:57:22.000Z)
+
+## A year after buying bitcoin, Czech central bank won't say what it's worth
+
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] A year after buying bitcoin, Czech central bank won't say what it's worth — https://coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth (2026-11-25T04:50:08.000Z)
