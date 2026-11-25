@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-25T09:18:01.185Z",
+  "at": "2026-11-25T22:05:06.390Z",
   "auto": [],
   "review": [
     {
-      "slug": "blackrock-lanca-fundo-tokenizado-em-hong-kong-com-us-100-milhoes-e-suporte-a",
-      "title": "BlackRock lança fundo tokenizado em Hong Kong com US$ 100 milhões e suporte a stablecoins",
+      "slug": "nvidia-fecha-acordo-de-us-290-milhoes-em-acao-sobre-receitas-de-mineracao-de",
+      "title": "Nvidia fecha acordo de US$ 290 milhões em ação sobre receitas de mineração de criptomoedas",
       "confidence": "media",
       "sources": [
         "Cointelegraph",
@@ -15,11 +15,11 @@
   "skipped": [],
   "errors": [
     {
-      "headline": "Solo bitcoin miner beats the odds to win $191,000 block reward",
+      "headline": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
       "error": "The operation was aborted due to timeout"
     },
     {
-      "headline": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+      "headline": "Hong Kong launches tokenized debt platform with 24-hour settlement",
       "error": "The operation was aborted due to timeout"
     }
   ]

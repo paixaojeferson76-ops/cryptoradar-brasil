@@ -1,18 +1,46 @@
 # Pauta de notícias
 
-Gerada em 2026-11-25T09:10:47.628Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-25T21:59:20.965Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
-## BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong
+## Nvidia agrees to $290M settlement over crypto mining revenue disclosures
 
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 63
-- [Cointelegraph] BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong — https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong (2026-11-24T18:07:22.000Z)
-- [The Block] BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors — https://theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524 (2026-11-24T13:17:35.000Z)
+- Categoria sugerida: regulacao | Confiança: media | Pontos: 75
+- [Cointelegraph] Nvidia agrees to $290M settlement over crypto mining revenue disclosures — https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures (2026-11-25T17:19:33.000Z)
+- [The Block] Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil — https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709 (2026-11-25T18:00:13.000Z)
+
+## Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization
+
+- Categoria sugerida: altcoins | Confiança: media | Pontos: 69
+- [Cointelegraph] Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization — https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization (2026-11-25T11:49:54.000Z)
+- [The Block] Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization — https://theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131 (2026-11-25T10:23:10.000Z)
+
+## Hong Kong launches tokenized debt platform with 24-hour settlement
+
+- Categoria sugerida: blockchain | Confiança: media | Pontos: 69
+- [Cointelegraph] Hong Kong launches tokenized debt platform with 24-hour settlement — https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities (2026-11-25T11:31:10.000Z)
+- [The Block] Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities — https://theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132 (2026-11-25T10:05:40.000Z)
+
+## SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting
+
+- Categoria sugerida: regulacao | Confiança: alta | Pontos: 68
+- [SEC (EUA)] SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting — https://sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting (2026-11-25T14:10:24.000Z)
+
+## French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets
+
+- Categoria sugerida: bitcoin | Confiança: media | Pontos: 59
+- [Decrypt] French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets — https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets (2026-11-25T13:15:24.000Z)
+- [Bitcoin Magazine] France's Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets — https://bitcoinmagazine.com/news/france-senate-rejects-self-custody (2026-11-25T14:51:04.000Z)
 
 ## Solo bitcoin miner beats the odds to win $191,000 block reward
 
 - Categoria sugerida: mineracao | Confiança: media | Pontos: 58
 - [The Block] Solo bitcoin miner beats the odds to win $191,000 block reward — https://theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919 (2026-11-23T13:37:02.000Z)
 - [Bitcoin Magazine] Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s — https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward (2026-11-23T17:25:00.000Z)
+
+## Devcon 8 India Recap: Four Days in Mumbai, and What's Next
+
+- Categoria sugerida: ethereum | Confiança: alta | Pontos: 58
+- [Ethereum Foundation Blog] Devcon 8 India Recap: Four Days in Mumbai, and What's Next — https://blog.ethereum.org/en/2026/11/25/devcon-mumbai-wrap (2026-11-25T00:00:00.000Z)
 
 ## Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000
 
@@ -71,6 +99,21 @@ Gerada em 2026-11-25T09:10:47.628Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
 - [The Block] Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000 — https://theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109 (2026-11-25T07:26:57.000Z)
 
+## Braiins warns of Bitcoin mining attacks affecting over 1,000 sites
+
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Braiins warns of Bitcoin mining attacks affecting over 1,000 sites — https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites (2026-11-25T21:22:19.000Z)
+
+## Why ECB collateral eligibility could boost demand for tokenized bonds
+
+- Categoria sugerida: blockchain | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Why ECB collateral eligibility could boost demand for tokenized bonds — https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds (2026-11-25T21:11:39.000Z)
+
+## Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards
+
+- Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
+- [Decrypt] Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards — https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks (2026-11-25T20:36:03.000Z)
+
 ## Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
@@ -115,43 +158,3 @@ Gerada em 2026-11-25T09:10:47.628Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
 - [CoinDesk] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open — https://coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open (2026-11-21T17:50:00.000Z)
-
-## Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges
-
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Decrypt] Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges — https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec (2026-11-21T17:01:02.000Z)
-
-## Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand — https://coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand (2026-11-23T05:42:22.000Z)
-
-## Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [The Block] Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts — https://theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857 (2026-11-23T05:47:21.000Z)
-
-## US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Cointelegraph] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack — https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack (2026-11-23T21:04:03.000Z)
-
-## North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Decrypt] North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers — https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers (2026-11-23T20:36:02.000Z)
-
-## Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [The Block] Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook — https://theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418 (2026-11-23T22:18:02.000Z)
-
-## Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive — https://coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive (2026-11-25T04:57:22.000Z)
-
-## A year after buying bitcoin, Czech central bank won't say what it's worth
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] A year after buying bitcoin, Czech central bank won't say what it's worth — https://coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth (2026-11-25T04:50:08.000Z)
