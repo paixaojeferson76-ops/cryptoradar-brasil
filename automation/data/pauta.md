@@ -1,12 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-25T21:59:20.965Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
-
-## Nvidia agrees to $290M settlement over crypto mining revenue disclosures
-
-- Categoria sugerida: regulacao | Confiança: media | Pontos: 75
-- [Cointelegraph] Nvidia agrees to $290M settlement over crypto mining revenue disclosures — https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures (2026-11-25T17:19:33.000Z)
-- [The Block] Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil — https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709 (2026-11-25T18:00:13.000Z)
+Gerada em 2026-11-26T08:54:23.747Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization
 
@@ -114,6 +108,16 @@ Gerada em 2026-11-25T21:59:20.965Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: mineracao | Confiança: baixa | Pontos: 39
 - [Decrypt] Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards — https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks (2026-11-25T20:36:03.000Z)
 
+## $7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October
+
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [CoinDesk] $7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October — https://coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october (2026-11-26T08:01:33.000Z)
+
+## Spot bitcoin ETFs on track for worst month on record as bear market drags on
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [The Block] Spot bitcoin ETFs on track for worst month on record as bear market drags on — https://theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814 (2026-11-26T08:50:46.000Z)
+
 ## Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
@@ -153,8 +157,3 @@ Gerada em 2026-11-25T21:59:20.965Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
 - [Livecoins] Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos — https://livecoins.com.br/flavio-dino-da-prazo-ate-janeiro-para-cvm-e-banco-central-unirem-regulacao-sobre-tokenizacao-e-criptoativos (2026-11-20T18:14:45.000Z)
-
-## Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open
-
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open — https://coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open (2026-11-21T17:50:00.000Z)

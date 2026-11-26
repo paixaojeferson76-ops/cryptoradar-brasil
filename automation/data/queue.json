@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-11-25T21:59:20.965Z",
+  "updatedAt": "2026-11-26T08:54:23.747Z",
   "stories": [
-    {
-      "id": "nvidia-agrees-to-290m-settlement-over-crypto-mining-revenue",
-      "headline": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
-      "category": "regulacao",
-      "tags": [
-        "regulação",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-25T17:19:33.000Z",
-      "publishers": [
-        "Cointelegraph",
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
-          "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures",
-          "date": "2026-11-25T17:19:33.000Z",
-          "summary": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry."
-        },
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
-          "url": "https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
-          "date": "2026-11-25T18:00:13.000Z",
-          "summary": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "media",
-        "reasons": []
-      },
-      "score": 75,
-      "status": "gerada",
-      "slug": "nvidia-fecha-acordo-de-us-290-milhoes-em-acao-sobre-receitas-de-mineracao-de"
-    },
     {
       "id": "japan-s-sbi-smfg-launch-solana-venture-for-stablecoins-tokenization",
       "headline": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
@@ -120,8 +73,7 @@
           "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
           "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities",
           "date": "2026-11-25T11:31:10.000Z",
-          "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.",
-          "fullText": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.\nThe Hong Kong Monetary Authority (HKMA) launched a platform Wednesday that supports round-the-clock settlement of tokenized debt securities in multiple currencies.\nThe CMU Digital Asset Platform, developed and operated by CMU OmniClear Limited on behalf of the HKMA, uses cash tokens for payment and connects with conventional payment systems and central bank digital currencies.\nIts onchain delivery-versus-payment model ensures that the securities and corresponding payment transfer together, or neither transfer occurs. This means the buyer receives the securities only if the seller receives payment.\nThe platform also handles issuance, interest payments and repayment at maturity, and supports the tokenization of existing debt securities. The HKMA said it aims to improve settlement efficiency and reduce operational costs.\nThe launch follows a separate expansion of Hong Kong’s digital payment infrastructure. On Nov. 2, the HKMA upgraded its Project Ensemble pilot to support 24/7 interbank settlement of tokenized deposit transactions using tokenized central bank money.\nThe pilot phase launched in November 2025 and initially used Hong Kong’s conventional real-time gross settlement system. Its applications have included corporate treasury management and transactions involving tokenized money market funds.\nRelated: Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms"
+          "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity."
         },
         {
           "feed": "theblock",
@@ -132,8 +84,7 @@
           "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
           "url": "https://theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
           "date": "2026-11-25T10:05:40.000Z",
-          "summary": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform’s first direct participants.",
-          "fullText": ""
+          "summary": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform’s first direct participants."
         }
       ],
       "validation": {
@@ -142,7 +93,8 @@
         "reasons": []
       },
       "score": 69,
-      "status": "pendente"
+      "status": "gerada",
+      "slug": "hong-kong-lanca-plataforma-para-liquidacao-24-horas-de-titulos-de-divida"
     },
     {
       "id": "sec-investor-advisory-committee-to-host-dec-3-virtual-meeting",
@@ -168,7 +120,8 @@
           "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
           "url": "https://sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
           "date": "2026-11-25T14:10:24.000Z",
-          "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET to discuss the trading of tokenized securities, bankruptcy, and accounting oversight. The meeting will be webcast…"
+          "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET to discuss the trading of tokenized securities, bankruptcy, and accounting oversight. The meeting will be webcast…",
+          "fullText": ""
         }
       ],
       "validation": {
@@ -793,6 +746,73 @@
           "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
           "date": "2026-11-25T20:36:03.000Z",
           "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look",
+      "headline": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-26T08:01:33.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+          "url": "https://coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+          "date": "2026-11-26T08:01:33.000Z",
+          "summary": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 39,
+      "status": "pendente"
+    },
+    {
+      "id": "spot-bitcoin-etfs-on-track-for-worst-month-on-record-as-bear-market",
+      "headline": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-26T08:50:46.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+          "url": "https://theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+          "date": "2026-11-26T08:50:46.000Z",
+          "summary": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November, with several trading days remaining."
         }
       ],
       "validation": {
@@ -1672,6 +1692,209 @@
       "status": "pendente"
     },
     {
+      "id": "over-1-000-bitcoin-miners-were-tricked-into-working-for-a-thief-by-a",
+      "headline": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-26T06:19:09.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+          "url": "https://coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+          "date": "2026-11-26T06:19:09.000Z",
+          "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "bill-to-lock-up-u-s-government-bitcoin-for-20-years-advances-to-full",
+      "headline": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-26T04:46:01.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+          "url": "https://coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+          "date": "2026-11-26T04:46:01.000Z",
+          "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "uk-regulator-plans-tighter-defi-rules-citing-6-3b-binance-hack-report",
+      "headline": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+      "category": "regulacao",
+      "tags": [
+        "regulação",
+        "DeFi",
+        "segurança"
+      ],
+      "firstSeen": "2026-11-26T05:53:08.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+          "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack",
+          "date": "2026-11-26T05:53:08.000Z",
+          "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "europe-s-only-spot-bitcoin-etf-starts-trading-in-switzerland-bit-says",
+      "headline": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-26T06:30:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+          "url": "https://theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+          "date": "2026-11-26T06:30:00.000Z",
+          "summary": "BIT Asset Management's BBIT fund debuted on SIX Swiss Exchange with 350 BTC in assets and a 0.19% annual expense ratio."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "fidelity-files-for-chainlink-etf-musk-s-x-wins-ruling-in-alleged",
+      "headline": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin",
+        "ETFs"
+      ],
+      "firstSeen": "2026-11-26T05:45:00.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+          "url": "https://theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+          "date": "2026-11-26T05:45:00.000Z",
+          "summary": "In today's newsletter, Fidelity files for spot Chainlink ETF; Musk's X wins ruling in alleged bitcoin content-farm case; and more."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
+      "id": "galaxy-walks-back-bitcoin-s-june-bottom-call-warns-of-deeper-losses",
+      "headline": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-26T05:16:11.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+          "url": "https://theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+          "date": "2026-11-26T05:16:11.000Z",
+          "summary": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 38,
+      "status": "pendente"
+    },
+    {
       "id": "hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers",
       "headline": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
       "category": "regulacao",
@@ -2488,6 +2711,105 @@
           "url": "https://theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
           "date": "2026-11-25T16:00:00.000Z",
           "summary": "Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
+      "headline": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "category": "blockchain",
+      "tags": [
+        "regulação",
+        "SEC",
+        "tokenização"
+      ],
+      "firstSeen": "2026-11-26T04:24:45.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+          "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
+          "date": "2026-11-26T04:24:45.000Z",
+          "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "house-committee-advances-strategic-bitcoin-reserve-bill-with-narrow",
+      "headline": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-26T03:03:01.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+          "url": "https://theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+          "date": "2026-11-26T03:03:01.000Z",
+          "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 37,
+      "status": "pendente"
+    },
+    {
+      "id": "layerzero-adds-samsung-card-kakao-pay-zan-as-validators-for-upcoming",
+      "headline": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+      "category": "blockchain",
+      "tags": [],
+      "firstSeen": "2026-11-26T02:22:43.000Z",
+      "publishers": [
+        "The Block"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "theblock",
+          "publisher": "The Block",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+          "url": "https://theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+          "date": "2026-11-26T02:22:43.000Z",
+          "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs."
         }
       ],
       "validation": {
@@ -3393,6 +3715,37 @@
           "url": "https://theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
           "date": "2026-11-25T14:35:20.000Z",
           "summary": "Ukraine’s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 36,
+      "status": "pendente"
+    },
+    {
+      "id": "ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist",
+      "headline": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "category": "bitcoin",
+      "tags": [],
+      "firstSeen": "2026-11-26T01:33:20.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+          "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says",
+          "date": "2026-11-26T01:33:20.000Z",
+          "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography."
         }
       ],
       "validation": {
@@ -4436,108 +4789,11 @@
       "status": "pendente"
     },
     {
-      "id": "wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-13-5",
-      "headline": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-20T08:04:40.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-          "url": "https://coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-          "date": "2026-11-20T08:04:40.000Z",
-          "summary": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 34,
-      "status": "pendente"
-    },
-    {
-      "id": "here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-      "headline": "Here's what's crashing gold and likely weighing on bitcoin too",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-20T06:12:15.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-          "url": "https://coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-          "date": "2026-11-20T06:12:15.000Z",
-          "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 34,
-      "status": "pendente"
-    },
-    {
-      "id": "anthropic-shares-may-fall-5-at-friday-s-open-crypto-futures-suggest",
-      "headline": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+      "id": "switzerland-clears-57-jurisdictions-for-crypto-tax-data-sharing",
+      "headline": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
       "category": "regulacao",
       "tags": [],
-      "firstSeen": "2026-11-20T06:08:28.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-          "url": "https://coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-          "date": "2026-11-20T06:08:28.000Z",
-          "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 34,
-      "status": "pendente"
-    },
-    {
-      "id": "blackrock-s-ibit-loses-record-541m-amid-anthropic-market-debut",
-      "headline": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-20T08:18:42.000Z",
+      "firstSeen": "2026-11-25T21:53:38.000Z",
       "publishers": [
         "Cointelegraph"
       ],
@@ -4549,10 +4805,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-          "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow",
-          "date": "2026-11-20T08:18:42.000Z",
-          "summary": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
+          "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+          "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing",
+          "date": "2026-11-25T21:53:38.000Z",
+          "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion."
         }
       ],
       "validation": {
@@ -4560,34 +4816,33 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 34,
+      "score": 35,
       "status": "pendente"
     },
     {
-      "id": "sec-charges-8-firms-over-fake-crypto-platforms-tied-to-37m-fraud",
-      "headline": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "id": "sens-warren-van-hollen-lead-push-to-scrap-sec-s-regulation-crypto-and",
+      "headline": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
       "category": "regulacao",
       "tags": [
         "regulação",
-        "SEC",
-        "segurança"
+        "SEC"
       ],
-      "firstSeen": "2026-11-20T08:03:34.000Z",
+      "firstSeen": "2026-11-25T22:20:02.000Z",
       "publishers": [
-        "Cointelegraph"
+        "The Block"
       ],
       "official": false,
       "items": [
         {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
+          "feed": "theblock",
+          "publisher": "The Block",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-          "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud",
-          "date": "2026-11-20T08:03:34.000Z",
-          "summary": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval."
+          "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+          "url": "https://theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+          "date": "2026-11-25T22:20:02.000Z",
+          "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto."
         }
       ],
       "validation": {
@@ -4595,7 +4850,7 @@
         "confidence": "baixa",
         "reasons": []
       },
-      "score": 34,
+      "score": 35,
       "status": "pendente"
     },
     {
@@ -5395,241 +5650,6 @@
       "status": "pendente"
     },
     {
-      "id": "this-bitcoin-miner-sold-267-btc-to-clear-22-million-debt-it-still-may",
-      "headline": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-20T05:32:25.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-          "url": "https://coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-          "date": "2026-11-20T05:32:25.000Z",
-          "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "big-money-bought-a-net-4-billion-of-bitcoin-funds-in-q3-ending-9",
-      "headline": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "category": "regulacao",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-20T05:20:51.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-          "url": "https://coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-          "date": "2026-11-20T05:20:51.000Z",
-          "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-      "headline": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-11-20T04:58:08.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-          "url": "https://coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-          "date": "2026-11-20T04:58:08.000Z",
-          "summary": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-      "headline": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETFs"
-      ],
-      "firstSeen": "2026-11-20T04:28:52.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-          "url": "https://coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-          "date": "2026-11-20T04:28:52.000Z",
-          "summary": "Coinbase Custody will continue serving all three funds after Gemini's contracts end in February."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "headline": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin"
-      ],
-      "firstSeen": "2026-11-20T03:32:30.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-          "url": "https://coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-          "date": "2026-11-20T03:32:30.000Z",
-          "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "institutions-pile-back-into-us-bitcoin-etfs-in-q3-after-selling-streak",
-      "headline": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "category": "mercado",
-      "tags": [
-        "Bitcoin",
-        "ETFs"
-      ],
-      "firstSeen": "2026-11-20T03:33:22.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-          "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
-          "date": "2026-11-20T03:33:22.000Z",
-          "summary": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
-      "id": "cftc-chair-on-hyperliquid-and-onchain-venues-ripple-clo-doubts",
-      "headline": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-      "category": "regulacao",
-      "tags": [
-        "XRP"
-      ],
-      "firstSeen": "2026-11-20T05:40:00.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-          "url": "https://theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-          "date": "2026-11-20T05:40:00.000Z",
-          "summary": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 33,
-      "status": "pendente"
-    },
-    {
       "id": "bitcoin-tanks-below-57-000-for-the-first-time-in-two-years-and-its",
       "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
       "category": "bitcoin",
@@ -6378,39 +6398,6 @@
         "reasons": []
       },
       "score": 32,
-      "status": "pendente"
-    },
-    {
-      "id": "binance-s-6-5b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
-      "headline": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "category": "seguranca",
-      "tags": [
-        "segurança"
-      ],
-      "firstSeen": "2026-11-19T22:25:18.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-          "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
-          "date": "2026-11-19T22:25:18.000Z",
-          "summary": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 31,
       "status": "pendente"
     },
     {
@@ -9132,6 +9119,108 @@
       "status": "pendente"
     },
     {
+      "id": "bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+      "headline": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
+      "category": "mineracao",
+      "tags": [
+        "Bitcoin",
+        "mineração"
+      ],
+      "firstSeen": "2026-11-25T23:30:12.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+          "date": "2026-11-25T23:30:12.000Z",
+          "summary": "▶ Bitcoin Magazine Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+      "headline": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
+      "category": "bitcoin",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-25T22:15:26.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
+          "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+          "date": "2026-11-25T22:15:26.000Z",
+          "summary": "▶ Bitcoin Magazine Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
+      "id": "deputado-pede-convocacao-da-receita-mpf-e-justica-para-debater",
+      "headline": "Deputado pede convocação da Receita, MPF e Justiça para debater regulação de criptomoedas e stablecoins do BC",
+      "category": "regulacao",
+      "tags": [
+        "Bitcoin",
+        "stablecoins",
+        "regulação"
+      ],
+      "firstSeen": "2026-11-25T22:13:00.000Z",
+      "publishers": [
+        "Livecoins"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "livecoins",
+          "publisher": "Livecoins",
+          "type": "media",
+          "weight": 1,
+          "lang": "pt",
+          "title": "Deputado pede convocação da Receita, MPF e Justiça para debater regulação de criptomoedas e stablecoins do BC",
+          "url": "https://livecoins.com.br/deputado-pede-convocacao-da-receita-mpf-e-justica-para-debater-regulacao-de-criptomoedas-e-stablecoins-do-bc",
+          "date": "2026-11-25T22:13:00.000Z",
+          "summary": "Parlamentar quer incluir Ministério da Fazenda, UnB e OAB na discussão sobre impactos das novas regras no mercado de câmbio Fonte: Deputado pede convocação da Receita, MPF e Justiça para debater regulação de criptomoedas e stablecoins do BC Veja mais notícias sobre Bitcoin. Siga o Livecoins no Facebook , Twitter , Instagram e YouTube ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 23,
+      "status": "pendente"
+    },
+    {
       "id": "comissao-da-camara-retoma-debate-sobre-projeto-que-torna-rolante-a",
       "headline": "Comissão da Câmara retoma debate sobre projeto que torna Rolante a Capital Nacional do Bitcoin",
       "category": "bitcoin",
@@ -9498,6 +9587,39 @@
       "status": "pendente"
     },
     {
+      "id": "matt-hougan-1-6-million-bitcoin-price-target-conservative",
+      "headline": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
+      "category": "mercado",
+      "tags": [
+        "Bitcoin"
+      ],
+      "firstSeen": "2026-11-25T21:22:24.000Z",
+      "publishers": [
+        "Bitcoin Magazine"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "bitcoinmagazine",
+          "publisher": "Bitcoin Magazine",
+          "type": "media",
+          "weight": 1,
+          "lang": "en",
+          "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
+          "url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+          "date": "2026-11-25T21:22:24.000Z",
+          "summary": "▶ Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” first appeared on Bitcoin Magazine and is written by Patrick Green ."
+        }
+      ],
+      "validation": {
+        "ok": true,
+        "confidence": "baixa",
+        "reasons": []
+      },
+      "score": 22,
+      "status": "pendente"
+    },
+    {
       "id": "robert-kiyosaki-se-diz-animado-com-bitcoin-ouro-e-prata-caindo-mas",
       "headline": "Robert Kiyosaki se diz animado com bitcoin, ouro e prata caindo, mas recomenda esperar fim da queda: “não pegue a faca caindo”",
       "category": "mercado",
@@ -9835,40 +9957,6 @@
       "status": "pendente"
     },
     {
-      "id": "inside-bukele-s-casa-presidencial-dinner-bitcoiners-discuss-energy",
-      "headline": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
-      "category": "bitcoin",
-      "tags": [
-        "Bitcoin",
-        "mineração"
-      ],
-      "firstSeen": "2026-11-19T22:20:01.000Z",
-      "publishers": [
-        "Bitcoin Magazine"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "bitcoinmagazine",
-          "publisher": "Bitcoin Magazine",
-          "type": "media",
-          "weight": 1,
-          "lang": "en",
-          "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
-          "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
-          "date": "2026-11-19T22:20:01.000Z",
-          "summary": "Bitcoin Magazine Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Histórico. Guests included Ricardo Salinas Pliego, Parker Lewis, Mike Peterson, and miners; discussions covered power generation for compute and immigration. This post Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future first appeared on Bitcoin Magazine and is written by Juan Galt ."
-        }
-      ],
-      "validation": {
-        "ok": true,
-        "confidence": "baixa",
-        "reasons": []
-      },
-      "score": 20,
-      "status": "pendente"
-    },
-    {
       "id": "tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
       "headline": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
       "category": "mercado",
@@ -10104,11 +10192,11 @@
       "status": "pendente"
     },
     {
-      "id": "fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase",
-      "headline": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-      "category": "mercado",
+      "id": "zcash-developers-want-users-to-move-300-million-out-of-an-older",
+      "headline": "Zcash developers want users to move $300 million out of an older privacy system",
+      "category": "bitcoin",
       "tags": [],
-      "firstSeen": "2026-11-25T12:18:46.000Z",
+      "firstSeen": "2026-11-26T07:09:25.000Z",
       "publishers": [
         "CoinDesk"
       ],
@@ -10120,10 +10208,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-          "url": "https://coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-          "date": "2026-11-25T12:18:46.000Z",
-          "summary": "Your day-ahead look for Nov. 25, 2026"
+          "title": "Zcash developers want users to move $300 million out of an older privacy system",
+          "url": "https://coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+          "date": "2026-11-26T07:09:25.000Z",
+          "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it."
         }
       ],
       "validation": {
@@ -10137,230 +10225,98 @@
       "status": "descartada"
     },
     {
-      "id": "eu-proposes-54-7-billion-fund-for-ai-quantum-startups-alongside-post",
-      "headline": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "id": "ripple-is-worth-90-a-share-to-one-fund-and-300-to-another-sec-filings",
+      "headline": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
       "category": "regulacao",
-      "tags": [],
-      "firstSeen": "2026-11-25T11:00:27.000Z",
-      "publishers": [
-        "CoinDesk"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "coindesk",
-          "publisher": "CoinDesk",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-          "url": "https://coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-          "date": "2026-11-25T11:00:27.000Z",
-          "summary": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "fcc-authorizes-spacex-to-deploy-1m-satellites-for-orbital-ai-data",
-      "headline": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-25T17:10:53.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-          "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers",
-          "date": "2026-11-25T17:10:53.000Z",
-          "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "ex-ftx-coo-calls-out-netflix-over-cz-s-asian-mafia-portrayal",
-      "headline": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
-      "category": "mercado",
-      "tags": [
-        "ETFs"
-      ],
-      "firstSeen": "2026-11-25T14:21:36.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
-          "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist",
-          "date": "2026-11-25T14:21:36.000Z",
-          "summary": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "hype-drops-8-as-trump-bump-gives-way-to-40-slide-from-peak",
-      "headline": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-      "category": "mercado",
-      "tags": [],
-      "firstSeen": "2026-11-25T10:57:52.000Z",
-      "publishers": [
-        "Cointelegraph"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "cointelegraph",
-          "publisher": "Cointelegraph",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-          "url": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets",
-          "date": "2026-11-25T10:57:52.000Z",
-          "summary": "HYPE traded below its price before Trump’s August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "what-happened-to-alice-huang-the-woman-at-the-center-of-nvidia-s",
-      "headline": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-25T21:46:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-          "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-          "date": "2026-11-25T21:46:02.000Z",
-          "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto",
-          "parece rumor/especulação"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "the-1password-breach-didn-t-touch-your-vault-the-phishing-emails-might",
-      "headline": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-      "category": "seguranca",
-      "tags": [],
-      "firstSeen": "2026-11-25T21:16:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-          "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-          "date": "2026-11-25T21:16:02.000Z",
-          "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "what-is-artex-the-ai-hacking-tool-linked-to-the-us-spy-agency-breach",
-      "headline": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-      "category": "seguranca",
       "tags": [
         "regulação",
+        "SEC",
+        "XRP"
+      ],
+      "firstSeen": "2026-11-26T05:30:38.000Z",
+      "publishers": [
+        "CoinDesk"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "coindesk",
+          "publisher": "CoinDesk",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+          "url": "https://coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+          "date": "2026-11-26T05:30:38.000Z",
+          "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "sky-proposes-emergency-vote-on-25m-transfer-amid-liquidity-stress",
+      "headline": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+      "category": "defi",
+      "tags": [],
+      "firstSeen": "2026-11-26T05:29:26.000Z",
+      "publishers": [
+        "Cointelegraph"
+      ],
+      "official": false,
+      "items": [
+        {
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
+          "type": "media",
+          "weight": 2,
+          "lang": "en",
+          "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+          "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
+          "date": "2026-11-26T05:29:26.000Z",
+          "summary": "Sky’s Core Facilitator invoked the protocol’s emergency response process to expedite a vote rather than wait until the next scheduled vote on Dec. 3."
+        }
+      ],
+      "validation": {
+        "ok": false,
+        "confidence": "baixa",
+        "reasons": [
+          "fora do tema cripto"
+        ]
+      },
+      "score": 0,
+      "status": "descartada"
+    },
+    {
+      "id": "1password-hacker-stole-customer-names-and-emails-but-vaults-safe",
+      "headline": "1Password hacker stole customer names and emails, but vaults safe",
+      "category": "seguranca",
+      "tags": [
         "segurança"
       ],
-      "firstSeen": "2026-11-25T20:06:03.000Z",
+      "firstSeen": "2026-11-26T04:55:16.000Z",
       "publishers": [
-        "Decrypt"
+        "Cointelegraph"
       ],
       "official": false,
       "items": [
         {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
+          "feed": "cointelegraph",
+          "publisher": "Cointelegraph",
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-          "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
-          "date": "2026-11-25T20:06:03.000Z",
-          "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover."
+          "title": "1Password hacker stole customer names and emails, but vaults safe",
+          "url": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe",
+          "date": "2026-11-26T04:55:16.000Z",
+          "summary": "The password manager, which is used by millions of people to store their login credentials, said customer vaults were unaffected by the breach."
         }
       ],
       "validation": {
@@ -10374,11 +10330,11 @@
       "status": "descartada"
     },
     {
-      "id": "elon-musk-s-spacex-gets-fcc-approval-to-launch-ai-data-centers-in",
-      "headline": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-      "category": "bitcoin",
+      "id": "china-s-google-just-released-its-fast-new-ai-model-for-free",
+      "headline": "China's Google Just Released Its Fast New AI Model for Free",
+      "category": "tecnologia",
       "tags": [],
-      "firstSeen": "2026-11-25T18:18:10.000Z",
+      "firstSeen": "2026-11-25T22:38:09.000Z",
       "publishers": [
         "Decrypt"
       ],
@@ -10390,181 +10346,10 @@
           "type": "media",
           "weight": 2,
           "lang": "en",
-          "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-          "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-          "date": "2026-11-25T18:18:10.000Z",
-          "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "openai-s-changes-to-chatgpt-could-drastically-cut-usage-limits-for",
-      "headline": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-25T17:46:02.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-          "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-          "date": "2026-11-25T17:46:02.000Z",
-          "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-      "headline": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-11-25T13:41:38.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-          "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-          "date": "2026-11-25T13:41:38.000Z",
-          "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "resumo/boletim, não é notícia"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3-007",
-      "headline": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-      "category": "bitcoin",
-      "tags": [],
-      "firstSeen": "2026-11-25T10:35:57.000Z",
-      "publishers": [
-        "Decrypt"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "decrypt",
-          "publisher": "Decrypt",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-          "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-          "date": "2026-11-25T10:35:57.000Z",
-          "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "fidelity-files-for-spot-chainlink-etf-with-planned-nasdaq-listing",
-      "headline": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-      "category": "mercado",
-      "tags": [
-        "ETFs"
-      ],
-      "firstSeen": "2026-11-25T19:32:42.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-          "url": "https://theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-          "date": "2026-11-25T19:32:42.000Z",
-          "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund."
-        }
-      ],
-      "validation": {
-        "ok": false,
-        "confidence": "baixa",
-        "reasons": [
-          "fora do tema cripto"
-        ]
-      },
-      "score": 0,
-      "status": "descartada"
-    },
-    {
-      "id": "bit-digital-repays-50-million-to-galaxy-after-selling-29-825-eth",
-      "headline": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
-      "category": "ethereum",
-      "tags": [
-        "Ethereum"
-      ],
-      "firstSeen": "2026-11-25T14:15:44.000Z",
-      "publishers": [
-        "The Block"
-      ],
-      "official": false,
-      "items": [
-        {
-          "feed": "theblock",
-          "publisher": "The Block",
-          "type": "media",
-          "weight": 2,
-          "lang": "en",
-          "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
-          "url": "https://theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
-          "date": "2026-11-25T14:15:44.000Z",
-          "summary": "Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million."
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+          "date": "2026-11-25T22:38:09.000Z",
+          "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic"
         }
       ],
       "validation": {
