@@ -1,14 +1,22 @@
 {
-  "at": "2026-11-26T09:03:44.856Z",
+  "at": "2026-11-27T09:13:10.896Z",
   "auto": [],
   "review": [
     {
-      "slug": "hong-kong-lanca-plataforma-para-liquidacao-24-horas-de-titulos-de-divida",
-      "title": "Hong Kong lança plataforma para liquidação 24 horas de títulos de dívida tokenizados",
+      "slug": "sec-agenda-reuniao-publica-para-discutir-negociacao-de-ativos-tokenizados-e",
+      "title": "SEC agenda reunião pública para discutir negociação de ativos tokenizados e falências",
+      "confidence": "alta",
+      "sources": [
+        "SEC (EUA)"
+      ]
+    },
+    {
+      "slug": "zodia-custody-sofre-vazamento-de-dados-de-clientes-e-funcionarios-confirma-ceo",
+      "title": "Zodia Custody sofre vazamento de dados de clientes e funcionários, confirma CEO",
       "confidence": "media",
       "sources": [
-        "Cointelegraph",
-        "The Block"
+        "CoinDesk",
+        "Cointelegraph"
       ]
     }
   ],
@@ -16,10 +24,6 @@
   "errors": [
     {
       "headline": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
-      "headline": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
       "error": "The operation was aborted due to timeout"
     }
   ]

@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-26T08:54:23.747Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-27T09:06:22.344Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization
 
@@ -8,16 +8,16 @@ Gerada em 2026-11-26T08:54:23.747Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization — https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization (2026-11-25T11:49:54.000Z)
 - [The Block] Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization — https://theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131 (2026-11-25T10:23:10.000Z)
 
-## Hong Kong launches tokenized debt platform with 24-hour settlement
-
-- Categoria sugerida: blockchain | Confiança: media | Pontos: 69
-- [Cointelegraph] Hong Kong launches tokenized debt platform with 24-hour settlement — https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities (2026-11-25T11:31:10.000Z)
-- [The Block] Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities — https://theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132 (2026-11-25T10:05:40.000Z)
-
 ## SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting
 
 - Categoria sugerida: regulacao | Confiança: alta | Pontos: 68
 - [SEC (EUA)] SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting — https://sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting (2026-11-25T14:10:24.000Z)
+
+## Standard Chartered's Zodia Custody suffers data breach, exposing client information
+
+- Categoria sugerida: tecnologia | Confiança: media | Pontos: 62
+- [CoinDesk] Standard Chartered's Zodia Custody suffers data breach, exposing client information — https://coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information (2026-11-26T12:38:51.000Z)
+- [Cointelegraph] Standard Chartered’s Zodia Custody suffers data breach — https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach (2026-11-26T11:37:06.000Z)
 
 ## French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets
 
@@ -53,10 +53,11 @@ Gerada em 2026-11-26T08:54:23.747Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: ethereum | Confiança: alta | Pontos: 50
 - [Ethereum Foundation Blog] PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era — https://blog.ethereum.org/en/2026/11/24/pqai-1 (2026-11-24T00:00:00.000Z)
 
-## Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit
+## Empresa de custódia de criptomoedas do Standard Chartered confirma vazamento de dados de clientes
 
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 39
-- [Cointelegraph] Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit — https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit (2026-11-20T19:37:27.000Z)
+- Categoria sugerida: tecnologia | Confiança: media | Pontos: 41
+- [Livecoins] Empresa de custódia de criptomoedas do Standard Chartered confirma vazamento de dados de clientes — https://livecoins.com.br/empresa-de-custodia-de-criptomoedas-do-standard-chartered-confirma-vazamento-de-dados-de-clientes (2026-11-26T15:37:48.000Z)
+- [Portal do Bitcoin] Empresa de custódia cripto do Standard Chartered sofre ataque hacker e expõe dados de clientes — https://portaldobitcoin.uol.com.br/empresa-de-custodia-cripto-do-standard-chartered-sofre-ataque-hacker-e-expoe-dados-de-clientes (2026-11-26T13:48:00.000Z)
 
 ## Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty
 
@@ -118,42 +119,42 @@ Gerada em 2026-11-26T08:54:23.747Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
 - [The Block] Spot bitcoin ETFs on track for worst month on record as bear market drags on — https://theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814 (2026-11-26T08:50:46.000Z)
 
-## Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
+## ESMA to overhaul EU’s MiCA crypto register in 2027
 
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play — https://coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play (2026-11-20T18:13:52.000Z)
+- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 39
+- [Cointelegraph] ESMA to overhaul EU’s MiCA crypto register in 2027 — https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027 (2026-11-27T08:04:39.000Z)
 
-## Bitcoin falls below $60K for first time since July amid broader market selloff
+## Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15
 
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [Cointelegraph] Bitcoin falls below $60K for first time since July amid broader market selloff — https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff (2026-11-20T16:55:51.000Z)
+- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
+- [The Block] Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15 — https://theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051 (2026-11-27T07:51:14.000Z)
 
-## Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
+## Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open
 
-- Categoria sugerida: ethereum | Confiança: baixa | Pontos: 38
-- [Decrypt] Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure — https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure (2026-11-20T18:46:03.000Z)
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open — https://coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open (2026-11-21T17:50:00.000Z)
 
-## Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Decrypt] Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host — https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host (2026-11-20T17:41:45.000Z)
-
-## Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
-
-- Categoria sugerida: defi | Confiança: baixa | Pontos: 38
-- [Decrypt] Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February — https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest (2026-11-20T16:35:59.000Z)
-
-## Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [The Block] Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic — https://theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758 (2026-11-20T18:22:39.000Z)
-
-## JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost
-
-- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
-- [The Block] JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost — https://theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763 (2026-11-20T18:17:39.000Z)
-
-## Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos
+## Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges
 
 - Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Livecoins] Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos — https://livecoins.com.br/flavio-dino-da-prazo-ate-janeiro-para-cvm-e-banco-central-unirem-regulacao-sobre-tokenizacao-e-criptoativos (2026-11-20T18:14:45.000Z)
+- [Decrypt] Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges — https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec (2026-11-21T17:01:02.000Z)
+
+## Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [CoinDesk] Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand — https://coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand (2026-11-23T05:42:22.000Z)
+
+## Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts
+
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 38
+- [The Block] Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts — https://theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857 (2026-11-23T05:47:21.000Z)
+
+## US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Cointelegraph] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack — https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack (2026-11-23T21:04:03.000Z)
+
+## North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers
+
+- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
+- [Decrypt] North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers — https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers (2026-11-23T20:36:02.000Z)
