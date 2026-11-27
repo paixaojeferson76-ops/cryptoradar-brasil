@@ -1,6 +1,6 @@
 # Pauta de notícias
 
-Gerada em 2026-11-27T09:06:22.344Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
+Gerada em 2026-11-27T21:39:18.469Z. Fontes servem só para descobrir o fato: escreva texto original e cite todas.
 
 ## Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization
 
@@ -8,22 +8,17 @@ Gerada em 2026-11-27T09:06:22.344Z. Fontes servem só para descobrir o fato: esc
 - [Cointelegraph] Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization — https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization (2026-11-25T11:49:54.000Z)
 - [The Block] Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization — https://theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131 (2026-11-25T10:23:10.000Z)
 
-## SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting
-
-- Categoria sugerida: regulacao | Confiança: alta | Pontos: 68
-- [SEC (EUA)] SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting — https://sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting (2026-11-25T14:10:24.000Z)
-
-## Standard Chartered's Zodia Custody suffers data breach, exposing client information
-
-- Categoria sugerida: tecnologia | Confiança: media | Pontos: 62
-- [CoinDesk] Standard Chartered's Zodia Custody suffers data breach, exposing client information — https://coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information (2026-11-26T12:38:51.000Z)
-- [Cointelegraph] Standard Chartered’s Zodia Custody suffers data breach — https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach (2026-11-26T11:37:06.000Z)
-
 ## French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets
 
 - Categoria sugerida: bitcoin | Confiança: media | Pontos: 59
 - [Decrypt] French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets — https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets (2026-11-25T13:15:24.000Z)
 - [Bitcoin Magazine] France's Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets — https://bitcoinmagazine.com/news/france-senate-rejects-self-custody (2026-11-25T14:51:04.000Z)
+
+## Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack
+
+- Categoria sugerida: seguranca | Confiança: media | Pontos: 59
+- [Decrypt] Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack — https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack (2026-11-27T13:24:17.000Z)
+- [Bitcoin Magazine] Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack — https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack (2026-11-27T18:00:00.000Z)
 
 ## Solo bitcoin miner beats the odds to win $191,000 block reward
 
@@ -52,6 +47,16 @@ Gerada em 2026-11-27T09:06:22.344Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: ethereum | Confiança: alta | Pontos: 50
 - [Ethereum Foundation Blog] PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era — https://blog.ethereum.org/en/2026/11/24/pqai-1 (2026-11-24T00:00:00.000Z)
+
+## Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 48
+- [CoinDesk] Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin — https://coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin (2026-11-27T10:51:27.000Z)
+
+## Brazil’s stock exchange pushes stablecoin launch back to 2027
+
+- Categoria sugerida: altcoins | Confiança: baixa | Pontos: 48
+- [Cointelegraph] Brazil’s stock exchange pushes stablecoin launch back to 2027 — https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027 (2026-11-27T12:39:54.000Z)
 
 ## Empresa de custódia de criptomoedas do Standard Chartered confirma vazamento de dados de clientes
 
@@ -129,15 +134,15 @@ Gerada em 2026-11-27T09:06:22.344Z. Fontes servem só para descobrir o fato: esc
 - Categoria sugerida: ethereum | Confiança: baixa | Pontos: 39
 - [The Block] Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15 — https://theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051 (2026-11-27T07:51:14.000Z)
 
-## Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open
+## Franklin Templeton makes room for HYPE in crypto index ETF
 
-- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 38
-- [CoinDesk] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open — https://coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open (2026-11-21T17:50:00.000Z)
+- Categoria sugerida: mercado | Confiança: baixa | Pontos: 39
+- [Cointelegraph] Franklin Templeton makes room for HYPE in crypto index ETF — https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf (2026-11-27T21:15:29.000Z)
 
-## Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges
+## Could AI Break Bitcoin? Not Yet, Research Firm K33 Says
 
-- Categoria sugerida: regulacao | Confiança: baixa | Pontos: 38
-- [Decrypt] Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges — https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec (2026-11-21T17:01:02.000Z)
+- Categoria sugerida: bitcoin | Confiança: baixa | Pontos: 39
+- [Decrypt] Could AI Break Bitcoin? Not Yet, Research Firm K33 Says — https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says (2026-11-27T20:46:02.000Z)
 
 ## Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand
 
@@ -153,8 +158,3 @@ Gerada em 2026-11-27T09:06:22.344Z. Fontes servem só para descobrir o fato: esc
 
 - Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
 - [Cointelegraph] US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack — https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack (2026-11-23T21:04:03.000Z)
-
-## North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers
-
-- Categoria sugerida: seguranca | Confiança: baixa | Pontos: 38
-- [Decrypt] North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers — https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers (2026-11-23T20:36:02.000Z)

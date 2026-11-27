@@ -1,30 +1,35 @@
 {
-  "at": "2026-11-27T09:13:10.896Z",
+  "at": "2026-11-27T21:45:15.081Z",
   "auto": [],
   "review": [
     {
-      "slug": "sec-agenda-reuniao-publica-para-discutir-negociacao-de-ativos-tokenizados-e",
-      "title": "SEC agenda reunião pública para discutir negociação de ativos tokenizados e falências",
-      "confidence": "alta",
+      "slug": "sbi-smfg-e-solana-lancam-joint-venture-no-japao-para-stablecoins-e-tokenizacao",
+      "title": "SBI, SMFG e Solana lançam joint venture no Japão para stablecoins e tokenização",
+      "confidence": "media",
       "sources": [
-        "SEC (EUA)"
+        "Cointelegraph",
+        "The Block"
       ]
     },
     {
-      "slug": "zodia-custody-sofre-vazamento-de-dados-de-clientes-e-funcionarios-confirma-ceo",
-      "title": "Zodia Custody sofre vazamento de dados de clientes e funcionários, confirma CEO",
+      "slug": "senado-da-franca-rejeita-proposta-para-obrigar-declaracao-de-carteiras-de",
+      "title": "Senado da França rejeita proposta para obrigar declaração de carteiras de autocustódia",
       "confidence": "media",
       "sources": [
-        "CoinDesk",
-        "Cointelegraph"
+        "Decrypt",
+        "Bitcoin Magazine"
+      ]
+    },
+    {
+      "slug": "binance-libera-saques-totalmente-quatro-semanas-apos-ataque-hacker-bilionario",
+      "title": "Binance libera saques totalmente quatro semanas após ataque hacker bilionário",
+      "confidence": "media",
+      "sources": [
+        "Decrypt",
+        "Bitcoin Magazine"
       ]
     }
   ],
   "skipped": [],
-  "errors": [
-    {
-      "headline": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-      "error": "The operation was aborted due to timeout"
-    }
-  ]
+  "errors": []
 }
